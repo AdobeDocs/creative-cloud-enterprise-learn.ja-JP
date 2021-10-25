@@ -1,6 +1,6 @@
 ---
-title: エンタープライズデプロイメントビデオ向けのCreative Cloud
-description: エンタープライズアプリケーション向けのCreative Cloudのデプロイと管理の方法に関する最新情報を入手
+title: Creative Cloudの導入事例ビデオ
+description: エンタープライズアプリケーションのCreative Cloudのデプロイと管理方法
 role: User
 level: Beginner, Intermediate
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
@@ -11,14 +11,14 @@ ht-degree: 14%
 
 ---
 
-# エンタープライズ向けクリエイティブクラウドの導入とトピックの管理
+# Creative Cloudエンタープライズ版のトピックのデプロイと管理
 
-![クリエイティブクラウドのヒーローイメージ](../assets/CCEbanner.png)
+![Creative Cloudの画像](../assets/CCEbanner.png)
 
 Creative Cloud エンタープライズ版では、カスタムデプロイと柔軟なライセンス認証をサポートします。これらは他の Adobe エンタープライズ製品でも利用できます。
 
-* [エンタープライズ向けのCreative CloudとAcrobat Serial Number ](cceserial.md)
-Expirationについてエンタープライズ向けのCreative CloudとAcrobat向けのシリアル番号の有効期限に関する詳細
+* [Creative Cloudエンタープライズ版とAcrobatのシリアル番号の有効期限について](cceserial.md)
+エンタープライズ版およびAcrobat版のCreative Cloudのシリアル番号の有効期限について説明します。
 
-* [シリアル番号を期限切れにしますか？名前付きユーザーライセンス](nameduserlicensing.md)の時間
-Named User Licensing (NUL)を使用してAdobe製品のライセンスを取得する方法について説明します。IT管理者は、管理コンソールを使用してAdobeツールを簡単にデプロイおよび管理し、エンドユーザーが世界最高クラスのクリエイティブ/生産性アプリやAdobe Cloudサービスにアクセスできます。
+* [シリアル番号が失効する場合 ユーザー指定ライセンスが必要な理由](nameduserlicensing.md)
+ユーザー指定ライセンス (NUL) によるAdobe製品のライセンス認証について説明します。IT 管理者はAdmin Consoleを使用してAdobeツールのデプロイと管理を簡単におこなうことができます。エンドユーザーは、たとえ従業員全員がリモートワークの場合でも、ワールドクラスのクリエイティブおよびプロダクティビティアプリケーションと CloudAdobeサービスにアクセスできます。

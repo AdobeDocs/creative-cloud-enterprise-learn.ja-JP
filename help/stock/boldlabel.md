@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] テンプレートとPhotoshop Smart Objectsを使用した太字のラベルの作成
-description: Adobe [!DNL Stock]のリアルなパッケージテンプレートを使用して、カスタムデザインをデザインおよび視覚化します。
+title: Adobe [!DNL Stock] テンプレートとPhotoshopスマートオブジェクト
+description: Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331823.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]テンプレートとPhotoshop Smart Objectsを使用した太字のラベルの作成
+# Adobe [!DNL Stock] テンプレートとPhotoshopスマートオブジェクト
 
-Adobe [!DNL Stock]のリアルなパッケージテンプレートを使用して、カスタムデザインをデザインおよび視覚化します。    ...
+Adobe [!DNL Stock]    を選択します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331823?hidetitle=true)

@@ -1,71 +1,71 @@
 ---
-title: iPad上のIllustrator
-description: iPad上のAdobe Illustratorは、タッチ、Apple Pencil、iPadで再想像されたベクトルデザインエクスペリエンスです。
+title: IllustratoriPad
+description: Adobe Illustrator iPad版は、タッチ、Apple Pencil、iPad用に再設計されたベクターデザインのエクスペリエンスです
 role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# iPad上のIllustrator
+# IllustratoriPad
 
-![チュートリアルのヒーローイメージ](../assets/AIoniPad.jpg)
+![チュートリアルヒーロー画像](../assets/AIoniPad.jpg)
 
-iPad上のAdobe Illustratorは、タッチ、Apple Pencil、iPadで再想像されたベクトルデザインエクスペリエンスです。
+Adobe Illustrator iPad版は、タッチ、Apple Pencil、iPad用に再設計されたベクターデザインのエクスペリエンスです。
 
-## 製品チュートリアルの参照
+## 製品Tutorials
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="illustratoripad.md#tutorial1">
-      <img alt="iPadでのIllustratorの紹介" src="../assets/illustrator-iPad_repeat_weinberg_thumbnail.jpg" />
+      <img alt="iPad版Illustratorの概要" src="../assets/illustrator-iPad_repeat_weinberg_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustratoripad.md#tutorial1"><strong>iPadでのIllustratorの紹介</strong></a>
+   <a href="illustratoripad.md#tutorial1"><strong>iPad版Illustratorの概要</strong></a>
     </div>
-    <em>困難な場所のアイコンを作成し、[!DNL Dimension]とZazleプロジェクトに適用できるパターンに変更します！</em>
+    <em>場所のアイコンを作成し、パターンに変換して、 [!DNL Dimension] そして Zazzle プロジェクト！</em>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="../assets/Whitespacer.png" />
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="../assets/Whitespacer.png" />
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## iPadでのIllustratorの紹介(9:21) {#tutorial1}
+## iPad版Illustratorの概要 (9:21) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326823?hidetitle=true)
 
 **説明**
-iPad用Illustratorの概要を簡単に説明すると、起動と実行が簡単になり、困難な場所のアイコンを作成して、そのアイコンをお使いのZazleプロジェクトに適用できるパターンに変 [!DNL Dimension] 更できます。
+このIllustrator for iPadの概要では、困った場所のアイコンをすばやく作成して、自分に適用できるパターンに変えるための作業を開始できます [!DNL Dimension] そして Zazzle プロジェクト！
 
-このチュートリアルでは、次の方法を学習します。
-* iPadを再想像したIllustratorは、生産性の向上、コラボレーションの迅速化、クリエイティブなスキルの拡張、すべてに対する創造性の強化を実現
-* タッチインターフェイスを使用すると、Apple Pencilを使用して、より正確で触覚的な操作が可能
-* CCライブラリからグラフィックと色にアクセスする
-* モバイルおよびデスクトップIllustratorでのラウンドトリップワークフロー
+このチュートリアルでは、次の方法について学習します。
+* iPad用に再設計されたIllustratorは、生産性を変革し、共同作業を迅速化し、クリエイティブなスキルセットを拡大して、すべての人に創造性を与えます
+* タッチインターフェイスにより、Apple Pencilを使用してより触覚に富んだ正確な操作が可能
+* CC ライブラリからグラフィックとカラーにアクセス
+* モバイルとデスクトップでのラウンドトリップワークフローIllustrator
 
-**提示者：**
-Dave Weinberg氏、シニア・ソリューション・コンサルタント（デジタル・メディア）
+**提供元：**
+Dave Weinberg、シニアソリューションコンサルタント（デジタルメディア）
 
-![iPadロゴのIllustrator](../assets/ai_appicon_96.png)
+![Illustrator on iPadロゴ](../assets/ai_appicon_96.png)
 
-**iPadリソース上のIllustrator**
+**iPad Resources のIllustrator**
 
-[追加のチュー](https://helpx.adobe.com/support/illustrator.html) トリアル、新機能、コミュニティフォーラ [ムへのリンクについては](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)、ご利用のハブをご覧ください。
+[ラーニングとサポート](https://helpx.adobe.com/support/illustrator.html) は、その他のチュートリアルのハブです。 [新機能](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)コミュニティフォーラムへのリンクも含まれています。
 
-**2020年10月リリース**
+**2020 年 10 月リリース**
 
-これらの機能の使用を開始します（その他！） Creative Cloud Desktop Appから最新の更新プログラムをダウンロードします。
+これらの機能を使い始めましょう（さらに多くの機能を利用できます）。 デスクトップアプリケーションから最新のアップデートをCreative Cloudしてダウンロードします。

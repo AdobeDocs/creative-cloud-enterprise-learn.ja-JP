@@ -1,6 +1,6 @@
 ---
-title: iPad （とiPhone）のFrescoで試してみてください。
-description: この15分間の実際のワークショップで、Adobe Frescoを使用したデジタル描画と絵画の全く新しい世界を体験できます。
+title: iPad( およびiPhone) のFrescoをお試しください
+description: この 15 分間のハンズオンワークショップで、Adobe Frescoを使ってデジタル描画とペイントの新しい世界を探求しましょう
 role: User
 level: Beginner, Intermediate
 kt: 8039
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# iPad （とiPhone）のFrescoで試してみてください。
+# iPad( およびiPhone) のFrescoをお試しください
 
-この15分間の実践型ワークショップで、Adobe Frescoを使用したデジタル描画と絵画の全く新しい世界を紹介します。 レイヤとクリップマスクを使用して、ペイントとテクスチャをベースシェイプに合わせる方法を簡単に学習します。 デザイナー/開発者のChris Converse氏と共に、FrescoとAdobe Stockを使用して静止画の一部を再作成します。
+この 15 分間のハンズオンワークショップで、Adobe Frescoを使ってデジタル描画とペイントの新しい世界を探求しましょう。 レイヤーとクリッピングマスクを使用して、ペイントとテクスチャをベースシェイプに最適化する方法を簡単に学習します。 デザイナー兼デベロッパーの Chris Converse 氏に従い、静物画のイラストの一部を再現します。FrescoとAdobe Stockを使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333804?hidetitle=true)
 
 <br> 
 
-[**クイックリファレンスPDFガイドのダウンロード**](../quick-reference/Frescoworkshop.pdf)
+[**クイックリファレンスPDFガイドをダウンロード**](../quick-reference/Frescoworkshop.pdf)
 
-[![クイックリファレンスガイドの最初のページの画像](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)
+[![ クイックリファレンスガイドの最初のページの画像 ](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)

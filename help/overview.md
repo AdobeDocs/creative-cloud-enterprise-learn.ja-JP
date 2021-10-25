@@ -1,6 +1,6 @@
 ---
 title: チュートリアル
-description: エンタープライズラーニングハブ向けクリエイティブクラウドへようこそ
+description: エンタープライズ向けCreative Cloudラーニングハブへようこそ
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
@@ -11,13 +11,13 @@ ht-degree: 10%
 
 ---
 
-# エンタープライズチュートリアル向けCreative Cloud
+# Creative Cloudエンタープライズ版Tutorials
 
-![クリエイティブクラウドのヒーローイメージ](assets/hero_cce.jpg)
+![Creative Cloudの画像](assets/hero_cce.jpg)
 
-エンタープライズラーニングハブ向けクリエイティブクラウドへようこそ。 企業向けのクリエイティブクラウドに焦点を当てた幅広い学習体験をご紹介します。 チュートリアル、ウェビナー、およびユースケースは、初心者と管理者の両方が、エンタープライズ製品向けのCreative Cloudを迅速に使えるように設計されています。
+エンタープライズ向けCreative Cloudラーニングハブへようこそ。 エンタープライズ向けの学習に特化した幅広いCreative Cloud体験があります。 チュートリアル、Web セミナー、ユースケースでは、初心者と管理者の両方がエンタープライズ製品のCreative Cloudを短時間で習得できるように設計されています。
 
-## トピックの参照
+## トピックを参照
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,7 +28,7 @@ ht-degree: 10%
     <div>
    <a href="cce/overview-cce.md"><strong>Creative Cloud エンタープライズ版</strong></a>
     </div>
-    <em>Creative Cloudの最新リリースの新機能を企業の観点から学ぶ</em>
+    <em>企業の視点から、最新リリースのCreative Cloudの新機能を学ぶ</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ ht-degree: 10%
     <div>
    <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
     </div>
-    <em>高品質のデジタル画像、イラスト、ビデオ、オーディオ、テンプレートなど</em>
+    <em>高品質なデジタル画像、イラスト、ビデオ、オーディオ、テンプレートなど</em>
     <br>
   </td>
   <td>
@@ -48,19 +48,19 @@ ht-degree: 10%
     <div>
    <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
     </div>
-    <em>ユーザーエクスペリエンスの設計、プロトタイプ作成、共有</em>
+    <em>UX のデザイン、プロトタイプ作成、共有</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
    <a href="3di/overview-3di.md">
-      <img alt="Adobe 3DおよびVR" src="assets/Dimenio.jpg" />
+      <img alt="Adobe3D &amp; VR" src="assets/Dimenio.jpg" />
     </a>
     <div>
-   <a href="3di/overview-3di.md"><strong>Adobe 3DおよびVR</strong></a>
+   <a href="3di/overview-3di.md"><strong>Adobe3D &amp; VR</strong></a>
     </div>
-    <em>ブランド化、プロダクトショット、パッケージデザイン用の写実的な3Dイメージを作成</em>
+    <em>グラフィックデザイナーのための 3D ツール</em>
     <br>
   </td>
   <td>
@@ -70,17 +70,17 @@ ht-degree: 10%
     <div>
    <a href="dva/overview-dva.md"><strong>Adobeビデオ</strong></a>
     </div>
-    <em>ビデオ編集、モーショングラフィック、視覚効果、アニメーションなど、Adobeのソフトウェアやアプリでアイデアを生き生きと表現</em>
+    <em>ビデオ編集、モーショングラフィックス、ビジュアルエフェクト、アニメーションなどに対応したAdobeのソフトウェアとアプリで、アイデアに命を吹き込みましょう</em>
     <br>
   </td>
   <td>
     <a href="max2020/overview-max.md">
-      <img alt="MAX 2020：エンタープライズ・セッション" src="assets/MAX.jpg" />
+      <img alt="MAX 2020 — エンタープライズセッション" src="assets/MAX.jpg" />
     </a>
     <div>
-   <a href="max2020/overview-max.md"><strong>MAX 2020：エンタープライズ・セッション</strong></a>
+   <a href="max2020/overview-max.md"><strong>MAX 2020 — エンタープライズセッション</strong></a>
     </div>
-    <em>MAX 2020エンタープライズ・セッションに関するすべての情報</em>
+    <em>MAX 2020 エンタープライズセッションの詳細</em>
     <br>
   </td>
 </tr>

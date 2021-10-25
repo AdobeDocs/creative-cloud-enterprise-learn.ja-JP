@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] 画像をCSSと組み合わせて、魅力的なWebグラフィックを作成
-description: 広告キャンペーン全体で色とグラデーションを組み合わせ、さまざまな画像でブランドの統一性を実現
+title: 魅力的な web グラフィックを作成するためのAdobe [!DNL Stock] css を使用した画像
+description: 広告キャンペーン全体でカラーとグラデーションを組み合わせることで、様々な画像でブランドの一体感を生み出します
 role: User
 level: Beginner, Intermediate
 thumbnail: 331812.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]画像をCSSと組み合わせて、魅力的なWebグラフィックを作成
+# 魅力的な web グラフィックを作成するためのAdobe [!DNL Stock] css を使用した画像
 
-広告キャンペーン全体で色とグラデーションを組み合わせ、さまざまな画像でブランドの統一性を実現します。
+広告キャンペーン全体でカラーとグラデーションを組み合わせて、様々な画像でブランドの一体感を生み出します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331812?hidetitle=true)

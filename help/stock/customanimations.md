@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock]のカスタムアニメーションを使用して、創造力を生かす
-description: Photoshopでカスタムアニメーションを作成するには、Adobe [!DNL Stock] の画像、テクスチャ、パターンを使用します
+title: Adobe [!DNL Stock]
+description: 使用Adobe [!DNL Stock] Photoshopで画像、テクスチャ、パターンをカスタムアニメーションに
 role: User
 level: Beginner, Intermediate
 thumbnail: 331806.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]のカスタムアニメーションを使用して、創造力を生かす
+# Adobe [!DNL Stock]
 
-Photoshopでは、Adobe [!DNL Stock]の画像、テクスチャ、パターンを使用して、カスタムアニメーションを作成できます。
+使用Adobe [!DNL Stock] Photoshopの画像、テクスチャ、パターンをカスタムアニメーションに変換します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331806?hidetitle=true)

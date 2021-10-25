@@ -1,6 +1,6 @@
 ---
 title: Illustrator
-description: Web、モバイル、印刷用のロゴ、アイコン、イラスト、その他のデザインを作成します。
+description: web、モバイル、印刷に適したロゴ、アイコン、イラスト、その他のデザインを作成できます
 role: User
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
@@ -13,74 +13,74 @@ ht-degree: 0%
 
 # Illustrator
 
-![チュートリアルのヒーローイメージ](../assets/Illustrator.jpg)
+![チュートリアルヒーロー画像](../assets/Illustrator.jpg)
 
-最新のイラストやグラフィックス用アプリ。 Web、モバイル、印刷用のロゴ、アイコン、イラスト、その他のデザインを作成します。
+イラストとグラフィックのための最新アプリ web、モバイル、印刷に適したロゴ、アイコン、イラスト、その他のデザインを作成できます。
 
-## 製品チュートリアルの参照
+## 製品Tutorials
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="illustrator.md#tutorial1">
-      <img alt="シンボルを使用して複数のアイコンインスタンスを更新する" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
+      <img alt="シンボルを使用した複数のアイコンインスタンスの更新" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustrator.md#tutorial1"><strong>シンボルを使用して複数のアイコンインスタンスを更新する</strong></a>
+   <a href="illustrator.md#tutorial1"><strong>シンボルを使用した複数のアイコンインスタンスの更新</strong></a>
     </div>
-    <em>手作業を軽減し、記号との整合性を維持</em>
+    <em>手作業を減らし、シンボルとの一貫性を維持</em>
     <br>
   </td>
   <td>
     <a href="illustrator.md#tutorial2">
-        <img alt="文字とイメージを記号のスナップに合わせる" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
+        <img alt="グリフにスナップしたテキストと画像の整列" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>文字とイメージを記号のスナップに合わせる</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>グリフにスナップしたテキストと画像の整列</strong></a>
     </div>
-    <em>文書の重要な領域にグリフをすばやくスナップする</em>
+    <em>字形をドキュメントの重要な領域にすばやくスナップ</em>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="../assets/Whitespacer.png" />
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## シンボルを使用して複数のアイコンインスタンスを更新する(5:08) {#tutorial1}
+## シンボルを使用した複数のアイコンインスタンスの更新 (5:08) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326816?hidetitle=true)
 
-**説明手**
-作業を減らし、記号との整合性を維持します。
+**説明**
+手作業を減らし、シンボルとの一貫性を維持します。
 
-このチュートリアルでは、次の方法を学習します。
-* 手作業を軽減し、記号との整合性を維持
+このチュートリアルでは、次の方法について学習します。
+* 手作業を減らし、シンボルとの一貫性を維持
 
-**提供者：**
-Patti Sokol氏、主要ソリューション・コンサルタント（デジタル・メディア）
+**提供元：**
+Patti Sokol、プリンシパルソリューションコンサルタント（デジタルメディア）
 
-## 文字とイメージを字形スナップに合わせる(6:48) {#tutorial2}
+## グリフにスナップを使用したテキストと画像の整列 (6:48) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
-**説明文**
-書の重要な領域にグリフをすばやくスナップします。
+**説明**
+字形をドキュメントの重要な領域にすばやくスナップします。
 
-このチュートリアルでは、次の方法を学習します。
-* 文書の重要な領域にグリフをすばやくスナップする
+このチュートリアルでは、次の方法について学習します。
+* 字形をドキュメントの重要な領域にすばやくスナップ
 
-**提供者：**
-Patti Sokol氏、主要ソリューション・コンサルタント（デジタル・メディア）
+**提供元：**
+Patti Sokol、プリンシパルソリューションコンサルタント（デジタルメディア）
 
 ![Illustratorロゴ](../assets/ai_appicon_96.png)
 
-**Illustratorリソース**
+**Illustrator Resources**
 
-[追加のチュート](https://helpx.adobe.com/support/illustrator.html) リアルやコミュニティフォーラムへのリンクは、ご利用のハブを参照してください。
+[ラーニングとサポート](https://helpx.adobe.com/support/illustrator.html) は、その他のチュートリアルやコミュニティフォーラムへのリンクを掲載しています。
 
-**2020年10月リリース**
+**2020 年 10 月リリース**
 
-これらの機能の使用を開始します（その他！） Creative Cloud Desktop Appから最新の更新プログラムをダウンロードします。
+これらの機能を使い始めましょう（さらに多くの機能を利用できます）。 デスクトップアプリケーションから最新のアップデートをCreative Cloudしてダウンロードします。

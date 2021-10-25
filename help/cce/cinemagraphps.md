@@ -1,6 +1,6 @@
 ---
-title: Photoshopでの映画の作成
-description: このステップバイステップのワークショップビデオチュートリアルでは、Adobe [!DNL Stock] のビデオとPhotoshopの巧妙なマスキング技術を組み合わせて、生き写真を作成します
+title: Photoshopでのシネマグラフの作成
+description: このワークショップ用ビデオチュートリアルでは、Adobeのビデオを組み合わせて、生きた写真を作成します [!DNL Stock] Photoshop
 role: User
 level: Beginner, Intermediate
 exl-id: 858cdd40-5b23-4ef9-bdd3-e663d4d94002
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# Photoshopでの映画の作成
+# Photoshopでのシネマグラフの作成
 
-このワークショップビデオチュートリアルでは、Adobe [!DNL Stock]のビデオとPhotoshopの巧妙なマスキングテクニックを組み合わせて、生き写真を作成します。
+このワークショップ用ビデオチュートリアルでは、Adobeのビデオを組み合わせて、生きた写真を作成します [!DNL Stock] Photoshopの優れたマスキング技術を使用しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331002?hidetitle=true)
 
 <br> 
 
-[**クイックリファレンスPDFガイドのダウンロード**](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
+[**クイックリファレンスPDFガイドをダウンロード**](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
 
-[![クイックリファレンスガイドの最初のページの画像](assets/CreatingCinemagraphswithPhotoshopPage1.png)](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
+[![ クイックリファレンスガイドの最初のページの画像 ](assets/CreatingCinemagraphswithPhotoshopPage1.png)](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)

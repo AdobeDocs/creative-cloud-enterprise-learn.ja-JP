@@ -1,6 +1,6 @@
 ---
-title: CCライブラリ
-description: 資産を手元に置き、プロジェクトをブランドに保つ
+title: CC ライブラリ
+description: 素材を手元に置き、プロジェクトのブランドを統一
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
@@ -11,78 +11,78 @@ ht-degree: 2%
 
 ---
 
-# CCライブラリ
+# CC ライブラリ
 
-![チュートリアルのヒーローイメージ](../assets/CCLibs.jpg)
+![チュートリアルヒーロー画像](../assets/CCLibs.jpg)
 
-資産を手元に置き、プロジェクトをブランドに保管します。
+アセットを手元に置き、プロジェクトのブランドを統一
 
-## 製品チュートリアルの参照
+## 製品Tutorials
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="cclibraries.md#tutorial1">
-      <img alt="CCライブラリの作成" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
+      <img alt="CC ライブラリの作成" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial1"><strong>CCライブラリの作成</strong></a>
+   <a href="cclibraries.md#tutorial1"><strong>CC ライブラリの作成</strong></a>
     </div>
-    <em>Adobe Creative Cloud Librariesを使用すると、お気に入りのCreative Cloudアプリでロゴや色などを管理、整理、アクセスできます</em>
+    <em>Adobe Creative Cloud Libraries を使用すると、お気に入りのCreative Cloudアプリでロゴやカラーなどを管理、整理、アクセスできます</em>
     <br>
   </td>
    <td>
    <a href="cclibraries.md#tutorial2">
-      <img alt="CCライブラリの共有" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
+      <img alt="CC ライブラリを共有" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial2"><strong>CCライブラリの共有</strong></a>
+   <a href="cclibraries.md#tutorial2"><strong>CC ライブラリを共有</strong></a>
     </div>
-    <em>より効率的に作業し、クリエイティブな一貫性を確保し、チームとの同期を容易に保つ</em>
+    <em>作業が効率化し、制作の一貫性が保たれ、チーム内で容易に同期を維持できます</em>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="../assets/Whitespacer.png" />
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## CCライブラリを作成(4:38) {#tutorial1}
+## CC ライブラリの作成 (4:38) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
-**説明Adobe Creative**
-クラウドライブラリを使用すると、お気に入りのCreativeクラウドアプリでロゴや色などを管理、整理、アクセスできます。
+**説明**
+Adobe Creative Cloud Libraries を使用すると、お気に入りのデザインアプリでロゴやカラーなどを管理、整理、アクセスできるCreative Cloudです。
 
-このチュートリアルでは、次の方法を学習します。
-* 資産を手元に置き、プロジェクトをブランドに保つ
-* 新規! Adobe XDとの完全な統合
+このチュートリアルでは、次の方法について学習します。
+* 素材を手元に置き、プロジェクトのブランドを統一
+* 新規! Adobe XDとの完全統合
 
-**提示者：**
-Ashley Dvorin氏、シニア・ソリューション・コンサルタント（デジタル・メディア）
+**提供元：**
+Ashley Dvorin、シニアソリューションコンサルタント（デジタルメディア）
 
-## CCライブラリを共有(4:14) {#tutorial2}
+## CC ライブラリの共有 (4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
-**説明作**
-業の効率化、クリエイティブな一貫性の確保、チームとの同期の維持を容易にします。
+**説明**
+作業が効率化し、制作の一貫性が確保され、チーム内で容易に同期を維持できます。
 
-このチュートリアルでは、次の方法を学習します。
-* 資産を手元に置き、プロジェクトをブランドに保つ
-* お気に入りのアプリから直接プロジェクトで簡単に共同作業ができます
+このチュートリアルでは、次の方法について学習します。
+* 素材を手元に置き、プロジェクトのブランドを統一
+* お気に入りのアプリから直接、プロジェクトで簡単に共同作業
 
-**提示者：**
-Ashley Dvorin氏、シニア・ソリューション・コンサルタント（デジタル・メディア）
+**提供元：**
+Ashley Dvorin、シニアソリューションコンサルタント（デジタルメディア）
 
-![CCライブラリロゴ](../assets/cc_appicon_96.png)
+![CC Libraries ロゴ](../assets/cc_appicon_96.png)
 
-**CCライブラリリソース**
+**CC ライブラリのリソース**
 
-[追加のチュー](https://helpx.adobe.com/creative-cloud/help/libraries.html) トリアル、新機能、コミュニティフォーラムへのリンクについては、このハブを参照し、サポートしてください。
+[ラーニングとサポート](https://helpx.adobe.com/creative-cloud/help/libraries.html) は、その他のチュートリアル、新機能、コミュニティフォーラムへのリンクを掲載しています。
 
-**2020年10月リリース**
+**2020 年 10 月リリース**
 
-これらの機能の使用を開始します（その他！） Creative Cloud Desktop Appから最新の更新プログラムをダウンロードします。
+これらの機能を使い始めましょう（さらに多くの機能を利用できます）。 デスクトップアプリケーションから最新のアップデートをCreative Cloudしてダウンロードします。

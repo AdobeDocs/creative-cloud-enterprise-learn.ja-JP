@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] 画像を使用したリアルなフォトコンポジットの作成
-description: 2枚の優れたAdobe [!DNL Stock] 写真を集めて、人々をソーシャルポストに引き込む
+title: リアルな合成写真を作成するAdobe [!DNL Stock] images
+description: 2 つの優れたAdobe [!DNL Stock] sns に投稿する人を引き付ける写真
 role: User
 level: Beginner, Intermediate
 thumbnail: 331836.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]イメージを使用したリアルなフォトコンポジットの作成
+# リアルな合成写真を作成するAdobe [!DNL Stock] images
 
-Adobe [!DNL Stock]の優れた写真を2枚集めて、人々をソーシャルポストに引き込みます。
+2 つの優れたAdobe [!DNL Stock] sns に投稿する人を引き込む写真
 
 >[!VIDEO](https://video.tv.adobe.com/v/331836?hidetitle=true)

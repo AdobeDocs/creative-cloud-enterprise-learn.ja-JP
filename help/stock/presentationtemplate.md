@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] プレゼンテーションテンプレートをカスタマイズして、プロ並みの外観を実現
-description: Adobe [!DNL Stock] の画像とテンプレートを使用し、簡単に実行できる特殊効果を使用して、数分で美しいスタイルのプレゼンテーションを作成できます。
+title: カスタマイズAdobe [!DNL Stock] プロ並みに仕上がる魅力的なプレゼンテンプレート
+description: Adobe [!DNL Stock] 簡単に使える特殊効果
 role: User
 level: Beginner, Intermediate
 thumbnail: 331837.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]のプレゼンテーションテンプレートをカスタマイズして、プロ並みの外観を実現
+# カスタマイズAdobe [!DNL Stock] プロ並みに仕上がる魅力的なプレゼンテンプレート
 
-Adobe [!DNL Stock]の画像とテンプレートを使用し、簡単に実行できる特殊効果を使用して、数分で美しいスタイルのプレゼンテーションを作成できます。
+Adobe [!DNL Stock] 簡単にできる特殊効果もあります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331837?hidetitle=true)

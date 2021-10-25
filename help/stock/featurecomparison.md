@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock]を使用して製品機能比較表を作成する
-description: 製品価格プランを比較して、見込み客に必要な情報を一目で把握するグラフィックを作成します。
+title: 製品を使用した製品機能比較表の作成Adobe [!DNL Stock]
+description: 製品の価格計画を比較して、見込み客に必要な情報を一目で伝えるグラフィックを作成します
 role: User
 level: Beginner, Intermediate
 thumbnail: 331817.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]を使用して製品機能比較表を作成する
+# 製品を使用した製品機能比較表の作成Adobe [!DNL Stock]
 
-製品価格プランを比較して、見込み客に必要な情報を一目で把握するグラフィックを作成します。
+製品の価格計画を比較して、見込み客に必要な情報を一目で伝えるグラフィックを作成します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331817?hidetitle=true)

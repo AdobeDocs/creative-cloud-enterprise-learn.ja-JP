@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock]を使用した対話型製品コンフィギュレータの作成
-description: Adobe [!DNL Stock] のインタラクティブ、アニメーション、編集可能なアートワークを使用して、財務情報を視覚的に表示
+title: Adobe [!DNL Stock]
+description: インタラクティブ機能、アニメーション、編集可能なアートワークをAdobe [!DNL Stock] 金融情報を視覚的に示す
 role: User
 level: Beginner, Intermediate
 thumbnail: 331832.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]を使用した対話型製品コンフィギュレータの作成
+# Adobe [!DNL Stock]
 
-Adobe [!DNL Stock]のインタラクティビティ、アニメーション、編集可能なアートワークを使用して、財務情報を視覚的に表示できます。
+インタラクティブ機能、アニメーション、編集可能なアートワークをAdobe [!DNL Stock] 財務情報を視覚的に提示する。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331832?hidetitle=true)

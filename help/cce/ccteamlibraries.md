@@ -1,6 +1,6 @@
 ---
-title: チーム向けのCreative Cloud Libraryの作成
-description: チーム用のCreative Cloud Libraryを使用して、グループまたはチーム内で資産を共有する方法を説明します
+title: グループ版Creative Cloudライブラリの作成
+description: グループ版のアセットライブラリを使用して、グループまたはチーム内でCreative Cloudを共有する方法を説明します
 role: User
 level: Beginner, Intermediate
 kt: 8209
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# チーム向けのCreative Cloud Libraryの作成
+# グループ版Creative Cloudライブラリの作成
 
-このビデオチュートリアルでは、チーム用のCreative Cloud Libraryを使用して、グループまたはチーム内で資産を共有する方法を学習します。 これらのタイプのライブラリは、個々のユーザーアカウントに関連付けられるのではなく、ライブラリはチームに属します。 チームライブラリは、![ビルイメージ](assets/Smock_Building_18_N.png)アイコンで識別できます。
+このビデオチュートリアルでは、グループ用のアセットライブラリを使用して、グループまたはチーム内でCreative Cloudを共有する方法を説明します。 これらのタイプのライブラリは、個人のユーザーアカウントに関連付けられているのではなく、グループに属しています。 チームライブラリは、 ![建築画像](assets/Smock_Building_18_N.png) アイコンをクリックします。
 
 >[!TIP]
 >
->組織がクリエイティブな資産の所有権を保持する必要がある場合は、チームにCreative Cloud Librarysを使用します。 次に例を示します。企業スタイルガイド、共有プロジェクト、およびUIデザイン要素。
+>Creative Cloudライブラリは、組織がクリエイティブアセットの所有権を保持する必要がある場合に、いつでもグループで使用できます。 次に例を示します。企業スタイルガイド、共有プロジェクト、UI デザイン要素
 
 <br> 
 

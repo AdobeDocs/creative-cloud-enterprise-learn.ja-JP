@@ -1,6 +1,6 @@
 ---
-title: マスクとアニメーションを使用した文字体裁に鮮明さを加える
-description: Adobe [!DNL Stock] の要素とAfter Effectsのアニメーションスタイルを使用して、テキストを生き生きと表示します。
+title: マスクとアニメーションでタイポグラフィを演出
+description: Adobe [!DNL Stock] およびAfter Effectsのアニメーションスタイル
 role: User
 level: Beginner, Intermediate
 thumbnail: 331807.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# マスクとアニメーションを使用した文字体裁に鮮明さを加える
+# マスクとアニメーションでタイポグラフィを演出
 
-Adobe [!DNL Stock]の要素とAfter Effectsのアニメーションスタイルを使用して、テキストを生き生きと表示します。
+Adobe [!DNL Stock] アニメーションのスタイルをAfter Effectsで作成できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

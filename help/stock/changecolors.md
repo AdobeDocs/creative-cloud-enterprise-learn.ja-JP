@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] 画像の色をストーリーに合わせて変更する
-description: 優れたイメージを、メッセージをサポートするのにさらに困難に使用します。 Adobe [!DNL Stock] で一意の写真を見つけ、Adobe Photoshopで必要に応じて色を調整します
+title: Adobe [!DNL Stock] ストーリーに合わせた画像のカラー
+description: メッセージをサポートして、魅力的な画像をより効果的に作成しましょう。 ユニークな写真を見つけるAdobe [!DNL Stock] Adobe Photoshopで必要に応じてカラーを調整します
 role: User
 level: Beginner, Intermediate
 thumbnail: 331810.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]イメージの色をストーリーに合わせて変更する
+# Adobe [!DNL Stock] ストーリーに合わせた画像のカラー
 
-優れたイメージを、メッセージをサポートするのにさらに困難に使用します。 Adobe [!DNL Stock]で独自の写真を探し、Adobe Photoshopで必要に応じて色を調整します。
+メッセージをサポートして、魅力的な画像をより効果的に作成しましょう。 ユニークな写真を見つけるAdobe [!DNL Stock] Adobe Photoshopで必要に応じてカラーを調整します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331810?hidetitle=true)

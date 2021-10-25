@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] とPhotoshopを使用した電子メールのアニメーションの作成
-description: Adobe [!DNL Stock] とPhotoshopを使用して、動作停止のアニメーションを使用してEメールを強化
+title: 電子メール用アニメーションの作成に必要なAdobe [!DNL Stock] とPhotoshop
+description: Adobe [!DNL Stock] とPhotoshop
 role: User
 level: Beginner, Intermediate
 thumbnail: 331838.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]とPhotoshopを使用して電子メールのアニメーションを作成する
+# 電子メール用アニメーションの作成に必要なAdobe [!DNL Stock] とPhotoshop
 
-Adobe [!DNL Stock]とPhotoshopを使用して、Stop-Action Animationを使用してEメールを強化できます。
+Adobe [!DNL Stock] そしてPhotoshop。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331838?hidetitle=true)

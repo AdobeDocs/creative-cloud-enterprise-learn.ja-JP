@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock]を使用した半実数コンポジットの作成
-description: 複数のイメージをカラー、モーション、マスキング効果と組み合わせて、思い出に残る編集イメージを作成します。
+title: Adobe [!DNL Stock]
+description: 複数の画像とカラー、モーション、マスキングエフェクトを組み合わせて、印象深いエディトリアル画像を作成します
 role: User
 level: Beginner, Intermediate
 thumbnail: 331824.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]を使用した半実数合成の作成
+# Adobe [!DNL Stock]
 
-複数のイメージをカラー、モーション、マスキング効果と組み合わせて、思い出に残る編集イメージを作成します。
+複数の画像とカラー、モーション、マスキングエフェクトを組み合わせて、印象深いエディトリアル画像を作成します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331824?hidetitle=true)

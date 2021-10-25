@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] とXDを使用して、読み込み画面のアニメーションをカスタマイズする
-description: Adobe [!DNL Stock] のベクトルアートワークをカスタマイズして、モバイルアプリ用にチル化読み込み画面のアニメーションを作成
+title: 読み込み画面のアニメーションをカスタマイズするAdobe [!DNL Stock] とXD
+description: ベクターアートワークをカスタマイズするAdobe [!DNL Stock] モバイルアプリ用の冷たい読み込み画面のアニメーションを作成するには
 role: User
 level: Beginner, Intermediate
 thumbnail: 331814.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]とXDを使用して読み込み画面のアニメーションをカスタマイズする
+# 読み込み画面のアニメーションをカスタマイズするAdobe [!DNL Stock] とXD
 
-Adobe [!DNL Stock]のベクトルアートワークをカスタマイズして、モバイルアプリ用のチル化読み込み画面のアニメーションを作成します。
+ベクターアートワークをカスタマイズするAdobe [!DNL Stock] モバイルアプリ用の低温の読み込み画面アニメーションを作成します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331814?hidetitle=true)

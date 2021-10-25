@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] とSparkビデオで作成したビデオで年次報告を開始
-description: Adobe [!DNL Stock] とSpark Videoで年次報告をストーリーにする
+title: Adobe [!DNL Stock] とSpark Video
+description: Adobe [!DNL Stock] とSpark Video
 role: User
 level: Beginner, Intermediate
 thumbnail: 331808.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]とSparkビデオで作成したビデオで年次報告を開始
+# Adobe [!DNL Stock] とSpark Video
 
-Adobe [!DNL Stock]とSpark Videoで年次報告をストーリーにします。
+Adobe [!DNL Stock] そしてSpark Video。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331808?hidetitle=true)

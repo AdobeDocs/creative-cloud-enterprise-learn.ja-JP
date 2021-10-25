@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock]でセミシュラルパターンを作成する
-description: Adobe [!DNL Stock]の超リアルな画像に基づいて、美しいシームレスなパターンを作成
+title: Adobe [!DNL Stock]
+description: Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331825.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]での半実線パターンの作成
+# Adobe [!DNL Stock]
 
-Adobe [!DNL Stock]の超リアルな画像に基づいて、美しいシームレスなパターンを作成します。
+Adobe [!DNL Stock]を選択します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)

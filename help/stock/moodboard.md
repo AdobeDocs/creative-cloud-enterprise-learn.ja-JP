@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock]を使用して、気分を刺激するボードをすぐに作成
-description: プロジェクトムードボードを作成し、情報、アイデア、ビジュアル、カラーパレットをチーム/クライアントに伝える
+title: Adobe [!DNL Stock]
+description: 情報、アイデア、ビジュアル、カラーパレットをチーム/クライアントに伝えるプロジェクトムードボードを作成します
 role: User
 level: Beginner, Intermediate
 thumbnail: 331816.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]を使用して、気分を刺激するボードをすぐに作成
+# Adobe [!DNL Stock]
 
-プロジェクトムードボードを作成し、情報、アイデア、ビジュアル、カラーパレットをチーム/クライアントに中継します。
+情報、アイデア、ビジュアル、カラーパレットをチーム/クライアントに伝えるためのプロジェクトムードボードを作成します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331816?hidetitle=true)

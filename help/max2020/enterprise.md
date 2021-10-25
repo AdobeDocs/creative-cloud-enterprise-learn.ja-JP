@@ -1,6 +1,6 @@
 ---
-title: 企業管理
-description: 組織全体でAdobeのエンタイトルメントと資産を管理
+title: エンタープライズ管理
+description: 組織全体でAdobeの使用権限とアセットを管理する
 role: User
 level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
@@ -11,13 +11,13 @@ ht-degree: 3%
 
 ---
 
-# 企業管理
+# エンタープライズ管理
 
-![チュートリアルのヒーローイメージ](../assets/hero_cce.jpg)
+![チュートリアルヒーロー画像](../assets/hero_cce.jpg)
 
-組織全体でAdobeのエンタイトルメントと資産を管理します。
+組織全体でAdobeの使用権限とアセットを管理できます。
 
-## エンタープライズ管理のチュートリアルの参照
+## エンタープライズ管理Tutorials
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,41 +28,41 @@ ht-degree: 3%
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Adobe Fontsの200近くのファミリと、Adobe Fontsサービスの使いやすさをご紹介します。</em>
+    <em>Adobe Fontsの約 200 のファミリーと、Adobe Fontsサービスの使いやすさについて説明します</em>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="../assets/Whitespacer.png" />
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="../assets/Whitespacer.png" />
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Adobeフォント(5:20) {#tutorial1}
+## Adobe Fonts(5:20) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/328226?hidetitle=true)
 
 **説明：**
 
-Adobe Fontsの200近くのファミリと、Adobe Fontsサービスの使いやすさをご紹介します。
+Adobe Fontsの約 200 のファミリーと、Adobe Fontsサービスの使いやすさについて説明します。
 
-このチュートリアルでは、次の方法を学習します。
-* 強力なブラウジングインターフェイスを使用して、適切なフォントをすばやく簡単に見つける
-* ネイティブのCreative Cloud統合を使用して、時間とコストを節約
-* Adobe管理コンソールですべてのフォントを1か所で管理
+このチュートリアルでは、次の方法について学習します。
+* 強力な閲覧インターフェイスを使用して、適切なフォントをすばやく簡単に見つけることができます
+* ネイティブのアプリケーション統合により時間とCreative Cloudを節約
+* すべてのフォントをAdobe Admin Consoleで一元管理
 
 **提供元：**
 
-主要ソリューションコンサルタント（デジタルメディア）、Todd Burke氏
+Todd Burke、プリンシパルソリューションコンサルタント（デジタルメディア）
 
 **エンタープライズ管理リソース：**
 
-[Adobeフォントユーザーガイド](https://helpx.adobe.com/fonts/user-guide.html)
+[Adobe Fonts User Guide](https://helpx.adobe.com/fonts/user-guide.html)
 
-[エンタープライズ管理者ガイド](https://helpx.adobe.com/enterprise/admin-guide.html)
+[エンタープライズ版の管理者ガイド](https://helpx.adobe.com/enterprise/admin-guide.html)

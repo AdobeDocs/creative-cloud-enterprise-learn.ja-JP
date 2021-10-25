@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock]を使用した企業ガイドライン情報グラフィックの作成
-description: Adobe [!DNL Stock] のさまざまなアセットを組み合わせ、視覚的に魅力的な情報グラフィックスの形でガイドラインを伝達
+title: Adobe [!DNL Stock]
+description: 様々な素材を組み合わせたAdobe [!DNL Stock] 視覚的に説得力のあるインフォグラフィックの形式でガイドラインを伝えるには
 role: User
 level: Beginner, Intermediate
 thumbnail: 331811.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]を使用した企業ガイドライン情報グラフィックの作成
+# Adobe [!DNL Stock]
 
-Adobe [!DNL Stock]のさまざまなアセットを組み合わせ、視覚的に説得力のある情報グラフィックスの形でガイドラインを伝えます。
+様々な素材を組み合わせたAdobe [!DNL Stock] 視覚的に説得力のあるインフォグラフィックの形式でガイドラインを伝えること。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331811?hidetitle=true)

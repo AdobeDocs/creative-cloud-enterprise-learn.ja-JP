@@ -1,6 +1,6 @@
 ---
-title: Acrobatと署名
-description: AcrobatおよびAdobe Signのチュートリアルの一覧
+title: Acrobat & Sign
+description: AcrobatとAdobe Signのチュートリアル一覧
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
@@ -11,159 +11,159 @@ ht-degree: 0%
 
 ---
 
-# Acrobatと署名
+# Acrobat &amp; Sign
 
-![チュートリアルのヒーローイメージ](../assets/DC.jpg)
+![チュートリアルヒーロー画像](../assets/DC.jpg)
 
-世界をリードするPDFおよび電子署名ソリューションを含むAdobe Document Cloudを使用すると、手動のドキュメント処理を効率的なデジタルに変換できます。 複数の画面やデバイスにまたがるドキュメント、ワークフロー、タスクに対して、いつでも、お気に入りのMicrosoftやエンタープライズアプリケーション内ですばやくアクションを実行できるようになりました。
+Adobe Document Cloud( 世界をリードするPDFおよび電子サインソリューションを含む ) を使用すれば、手作業の文書プロセスを効率的なデジタルプロセスに変えることができます。 様々な画面やデバイスを使って、時間や場所、お気に入りのMicrosoftやエンタープライズアプリ内で、文書、ワークフロー、タスクに対するアクションを迅速に実行できるようになりました。
 
-## 製品チュートリアルの参照
+## 製品Tutorials
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial1">
-      <img alt="Acrobat共有レビューの開始" src="../assets/acrobat_sharedreview_armstrong.jpg" />
+      <img alt="Acrobat Shared Review の開始" src="../assets/acrobat_sharedreview_armstrong.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial1"><strong>Acrobat共有レビューの開始</strong></a>
+   <a href="acrobat-sign.md#tutorial1"><strong>Acrobat Shared Review の開始</strong></a>
     </div>
-    <em>校閲者にPDFドキュメントへのコメントの追加を依頼する</em>
+    <em>レビュー担当者を招待してコメントをPDF文書に</em>
     <br>
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial2">
-        <img alt="Adobe Signを使用したオンライン免除フォームの作成" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
+        <img alt="Adobe Signでオンライン免責Formsを作成" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial2"><strong>Adobe Signを使用したオンライン免除フォームの作成</strong></a>
+    <a href="acrobat-sign.md#tutorial2"><strong>Adobe Signでオンライン免責Formsを作成</strong></a>
     </div>
-    <em>ドキュメントをオンラインフォームにすばやく変換し、必要な人が必要な場所にオンラインで投稿して、署名を行うことができます</em>
+    <em>文書をオンラインフォームにすばやく変換し、必要な人が入力および署名できる場所にオンラインで投稿できます</em>
     <br>
   </td>
   <td>
    <a href="acrobat-sign.md#tutorial3">
-      <img alt="Adobe署名を使用した署名のリクエスト" src="../assets/sign_request-signature_borstein_thumbnail.jpg" />
+      <img alt="Adobe Signでの署名の依頼" src="../assets/sign_request-signature_borstein_thumbnail.jpg" />
    </a>
     <div>
-    <a href="acrobat-sign.md#tutorial3"><strong>Adobe署名を使用した署名のリクエスト</strong></a>
+    <a href="acrobat-sign.md#tutorial3"><strong>Adobe Signでの署名の依頼</strong></a>
     </div>
-    <em>WordからPDFに移動し、Adobe Signで署名を送信します</em>
+    <em>Word からPDFに切り替えてAdobe Signで署名用に送信</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial4">
-      <img alt="液体モードでモバイルでメニューを表示" src="../assets/acrobat_liquidmode_enke_thumbnail.jpg" />
+      <img alt="Liquid Mode を使用したモバイルでのメニューの表示" src="../assets/acrobat_liquidmode_enke_thumbnail.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial4"><strong>液体モードでモバイルでメニューを表示</strong></a>
+   <a href="acrobat-sign.md#tutorial4"><strong>Liquid Mode を使用したモバイルでのメニューの表示</strong></a>
     </div>
-    <em>液体モードを使用して、モバイルデバイスでのPDFの読み取り操作性を向上</em>
+    <em>Liquid Mode を使用して、モバイルデバイスでの読み取りPDFの操作性を向上させます</em>
     <br>
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial5">
-        <img alt="携帯電話からドキュメントをPDFにスキャン" src="../assets/acrobat_scan_enke.jpg" />
+        <img alt="スマートフォンからPDFに文書をスキャン" src="../assets/acrobat_scan_enke.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial5"><strong>携帯電話からドキュメントをPDFにスキャン</strong></a>
+    <a href="acrobat-sign.md#tutorial5"><strong>スマートフォンからPDFに文書をスキャン</strong></a>
     </div>
-    <em>Adobe Scanを使用すると、ドキュメント、フォーム、名刺、ホワイトボードを簡単にキャプチャして高品質のAdobe PDFに変換できます。</em>
+    <em>Adobe Scanを使用すれば、文書、フォーム、名刺、ホワイトボードの内容を簡単にキャプチャして高品質な変換PDFにAdobe</em>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="../assets/Gray_thumbnail.png" />
+    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Acrobat共有レビューの開始(3:49) {#tutorial1}
+## Acrobat共有レビューの開始 (3:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 
-**説明レ**
-ビュー担当者にコメントをPDF文書に追加するよう依頼します。
+**説明**
+レビュー担当者を招待し、コメントをPDF文書に追加
 
-このチュートリアルでは、次の方法を学習します。
-* ドキュメントクラウドでのPDFコメントのホスト
-* コメントを1か所に集める
-* 同時コメントは協力を促す
+このチュートリアルでは、次の方法について学習します。
+* 主催者のPDFによるDocument Cloudでの注釈
+* ひとつの場所で注釈を収集
+* 同時コメント機能による共同作業の促進
 
-**Adobe Reviewとコメントのオプションの比較PDF**
+**Adobeレビューおよび注釈オプションの比較PDF**
 
-[![比較イメージ](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
+[![比較画像](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
-**提示者：**
-Dan Armstrong、ソリューション・コンサルタント（デジタル・メディア） Rick Borstein、シニア・マネージャ・ソリューション・コンサルティング（デジタル・メディア）
+**提供元：**
+Dan Armstrong、ソリューションコンサルタント（デジタルメディア） Rick Borstein、シニアマネージャーソリューションコンサルティング（デジタルメディア）
 
-## Adobe Signを使用したオンライン免除フォームの作成(5:19) {#tutorial2}
+## Adobe Signでオンライン免責Formsを作成 (5:19) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
-**説明ド**
-キュメントをオンラインフォームに変換し、必要な人が誰でも記入して署名できるオンラインに投稿できます。
+**説明**
+文書をオンラインフォームにすばやく変換し、必要な人が入力および署名できる場所にオンラインで投稿できます。
 
-このチュートリアルでは、次の方法を学習します。
-* 紙のフォームをデジタルドキュメントに変換してデジタル化
-* Webサイトにデジタルフォームを投稿し、お客様が自分のデバイスからアクセスできるようにします。
-* 記入済みのフォームは、レコード用に自動的にアーカイブされます
+このチュートリアルでは、次の方法について学習します。
+* 紙のフォームをデジタル文書に変換してデジタル化
+* 顧客が自分のデバイスからアクセスできるように、web サイトにデジタルフォームを投稿します
+* 入力済みのフォームは自動的にアーカイブされ、記録として保存されます
 
-**提供者：**
-Taylor Kobey氏、ソリューション・コンサルタント（デジタル・メディア） Emily Palmer氏、ソリューション・コンサルタント（デジタル・メディア）
+**提供元：**
+Taylor Kobey、ソリューションコンサルタント（デジタルメディア）、Emily Palmer、ソリューションコンサルタント（デジタルメディア）
 
-## Adobe Signで署名をリクエストする(3:21) {#tutorial3}
+## Adobe Signで署名を依頼 (3:21) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
-**DescriptionGo**
-WordからPDFに移動し、Adobe Signで署名を送信します。
+**説明**
+Word からPDFに移行し、Adobe Signで署名用に送信
 
-このチュートリアルでは、次の方法を学習します。
-* 毎日使用するツールを活用して、署名用のデジタル・ドキュメントを送信
+このチュートリアルでは、次の方法について学習します。
+* 日常的に使用するツールを利用して、署名用にデジタル文書を送信できます
 
-**提示：**
-Rick Borstein氏、ソリューション・コンサルティング（デジタル・メディア）
+**提供元：**
+Rick Borstein、シニアマネージャーソリューションコンサルティング（デジタルメディア）
 
-## 液体モードでモバイルでメニューを表示(2:57) {#tutorial4}
+## Liquid Mode を使用したモバイルでのメニューの表示 (2:57) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327093?hidetitle=true)
 
-**説明液**
-体モードを使用して、モバイルデバイスでのPDFの読み取り操作性を高めます。
+**説明**
+Liquid Mode を使用して、モバイルデバイス上でのPDFの閲覧体験を向上させます。
 
-このチュートリアルでは、次の方法を学習します。
-* PDFファイルをモバイルデバイスに対して応答
-* PDFレイアウトの拡張
-* オンザフライで機能を追加し、電話やタブレットでドキュメントを簡単に読むことができます。
+このチュートリアルでは、次の方法について学習します。
+* モバイルデバイスでPDFファイルをレスポンシブ対応にする
+* 高度なPDFレイアウト
+* スマートフォンやタブレットで文書を簡単に読めるように、その場で機能を追加できます
 
-**提示者：**
-Emilie Enke、アソシエイト・ソリューション・コンサルタント（デジタル・メディア）
+**提供元：**
+Emilie Enke、アソシエイトソリューションコンサルタント（デジタルメディア）
 
-## 携帯電話からドキュメントをPDFにスキャン(5:53) {#tutorial5}
+## スマートフォンからPDFに文書をスキャン (5:53) {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327094?hidetitle=true)
 
-**説明Adobe Scanを使**
-用すると、ドキュメント、フォーム、名刺、ホワイトボードを簡単にキャプチャし、高品質のAdobe PDFに変換できます。
+**説明**
+Adobe Scanを使用すると、文書、フォーム、名刺、ホワイトボードの内容を簡単にキャプチャして高品質の変換PDFにAdobeできます。
 
-このチュートリアルでは、次の方法を学習します。
-* 携帯電話を使用して、ドキュメント、フォーム、名刺、ホワイトボードをキャプチャし、高品質のAdobe PDFに変換します
-* 手書きのテキストや印刷したテキストを自動的に識別し、シャープにし、グレアや影など、不要な要素を削除
-* スキャンしたPDFをAcrobat Readerで開き、ノートやコメントを作成し、チームで確認します
+このチュートリアルでは、次の方法について学習します。
+* スマートフォンで文書、フォーム、名刺、ホワイトボードの内容をキャプチャし、高品質な変換PDFにAdobe
+* 手書きまたは印刷したテキストを自動的に識別してシャープにし、グレアや影など不要な要素は削除します
+* スキャンしたPDFをAcrobat Readerで開いて、メモやコメントを追加し、チームでレビューします
 
-**提示者：**
-Emilie Enke、アソシエイト・ソリューション・コンサルタント（デジタル・メディア）
+**提供元：**
+Emilie Enke、アソシエイトソリューションコンサルタント（デジタルメディア）
 
-![DCロゴ](../assets/Doc-Cloud-256.png)
+![DC ロゴ](../assets/Doc-Cloud-256.png)
 
-**AcrobatおよびAdobe Signリソース**
+**Acrobat &amp; Adobe Sign Resources**
 
-[追加のチュー](https://helpx.adobe.com/support/document-cloud.html) トリアル、新機能、コミュニティフォーラ [ムへのリンクについては](https://helpx.adobe.com/acrobat/using/whats-new.html)、ご利用のハブをご覧ください。
+[ラーニングとサポート](https://helpx.adobe.com/support/document-cloud.html) は、その他のチュートリアルのハブです。 [新機能](https://helpx.adobe.com/acrobat/using/whats-new.html)コミュニティフォーラムへのリンクも含まれています。
 
-**2020年10月リリース**
+**2020 年 10 月リリース**
 
-これらの機能の使用を開始します（その他！） Creative Cloud Desktop Appから最新の更新プログラムをダウンロードします。
+これらの機能を使い始めましょう（さらに多くの機能を利用できます）。 デスクトップアプリケーションから最新のアップデートをCreative Cloudしてダウンロードします。
