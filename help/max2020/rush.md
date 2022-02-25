@@ -1,10 +1,10 @@
 ---
-title: '[!DNL Rush]'
+title: '"[!DNL Rush]"'
 description: Premiere [!DNL Rush] は、オンラインコンテンツの作成と共有をかつてないほど簡単にする、初めてのオールインワンのクロスデバイス動画編集アプリです
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Premiere [!DNL Rush] は、オンラインコンテンツの作成と共有を�
     <div>
    <a href="rush.md#tutorial1"><strong>ソーシャルメディアビデオの作成</strong></a>
     </div>
-    <em>Adobe [!DNL Rush] あらゆるデバイスで作業でき、プロ品質の出力が初心者でも簡単にできます</em>
+    <em>Adobe [!DNL Rush] どのデバイスでも作業でき、プロ品質の出力を初心者でも簡単に実現できます</em>
     <br>
   </td>
   <td>
@@ -49,12 +49,12 @@ Premiere [!DNL Rush] は、オンラインコンテンツの作成と共有を�
 >[!VIDEO](https://video.tv.adobe.com/v/326900?hidetitle=true)
 
 **説明**
-ストーリーを作成するためのビデオとオーディオAdobe [!DNL Stock]を選択します。 Adobe [!DNL Rush] どのデバイスでも作業でき、プロ品質の出力を初心者でも簡単に実現できます。
+ストーリーの効果的なビデオとオーディオのAdobe [!DNL Stock]を選択します。 Adobe [!DNL Rush] どのデバイスでも作業でき、プロ品質の出力を初心者でも簡単に実現できます。
 
 このチュートリアルでは、次の方法について学習します。
 * デスクトップ、タブレット、スマートフォンでシームレスにビデオを編集
-* オートリフレーム AI テクノロジー機能により、横長、正方形、縦長のフォームファクター全体で被写体を中央に配置できます
-* モーショングラフィックステンプレート (MoGRTS) を使用すると、プロ品質でカスタマイズしやすいタイトルとテロップを作成できます
+* オートリフレーム AI テクノロジー機能により、横長、正方形、縦長のフォームファクターの被写体を中央に配置できます
+* モーショングラフィックステンプレート (MoGRTS) を使用すると、プロ品質で簡単にカスタマイズできるタイトルとテロップを作成できます
 * SNS に直接簡単に書き出して公開できます
 * 開く [!DNL Rush] Adobe Premiere Proのプロジェクト
 
@@ -69,4 +69,4 @@ A.J. Wood、ソリューションコンサルタント（デジタルメディ�
 
 **2020 年 10 月リリース**
 
-これらの機能を使い始めましょう（さらに多くの機能を利用できます）。 デスクトップアプリケーションから最新のアップデートをCreative Cloudしてダウンロードします。
+これらの機能をぜひご利用ください（その他） Creative Cloudデスクトップアプリケーションから最新のアップデートをダウンロードします。
