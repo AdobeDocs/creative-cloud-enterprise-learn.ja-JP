@@ -1,6 +1,6 @@
 ---
 title: Adobe3D & VR チュートリアル
-description: Tutorialsを使ってAdobe3D & VR の最新情報を入手
+description: Tutorialsを使って 3D & VR のAdobeを習得
 role: User
 level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Adobe3D &amp; VR チュートリアル
 
-![Creative Cloudの画像](../assets/Dimenio.jpg)
+![Creative CloudHero Image](../assets/Dimenio.jpg)
 
-魅力的な 3D のコンテンツを高品質のモデル、マテリアル、ライトを使用して作成できます。 [!DNL Dimension] では、ブランドの視覚化、イラスト、製品モックアップ、パッケージデザイン、その他のクリエイティブ作品を簡単に制作できます。
+魅力的な 3D のコンテンツを高品質のモデル、マテリアル、ライトを使用して作成できます。 [!DNL Dimension] では、ブランドの視覚化、イラスト、製品モックアップ、パッケージデザインなどのクリエイティブ作品を簡単に制作できます。
 
-## クリックして 3D &amp; VRAdobeチュートリアルを表示
+## クリックして、3D &amp; VRAdobeのチュートリアルを表示
 
 <table>
 <tr>
@@ -28,7 +28,7 @@ ht-degree: 0%
     <div>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>リアルな 3D モックアップをAdobe [!DNL Stock] および [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Adobe [!DNL Stock] グラフィックをAdobe [!DNL Dimension]</em>
+    <em>Adobe [!DNL Stock] グラフィックをAdobeに [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ ht-degree: 0%
     <div>
    <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>製品をリアルな環境で視覚化する (PDF)</strong></a>
     </div>
-    <em>実際の製品の外観を確認するには、Adobe [!DNL Dimension] は頼りになるアプリです</em>
+    <em>実際の製品の外観を確認する場合は、Adobe [!DNL Dimension] は頼りになるアプリです</em>
     <br>
   </td>
 </tr>
@@ -60,7 +60,7 @@ ht-degree: 0%
     <div>
    <a href="mastering3dlighting.md"><strong>CGI での 3D ライティングをマスターするためのヒントとテクニック</strong></a>
     </div>
-    <em>3D ライティングと、コンピューターで生成されたシーンを完全に変える様々なライト条件の作成方法、およびシーン内のオブジェクトの外観について説明します</em>
+    <em>3D ライティングと、コンピューターで生成したシーンを完全に変える様々なライティング条件を作成する方法、およびシーン内のオブジェクトの外観について学習します</em>
     <br>
   </td>
   <td>
@@ -70,7 +70,7 @@ ht-degree: 0%
     <div>
    <a href="photorealistic.md"><strong>3D レンダリングと合成を使用したフォトリアルな仮想写真の作成</strong></a>
     </div>
-    <em>Adobeで 3D 画像の合成とレンダリングを行い、フォトリアリスティックなバーチャルフォトグラフィを作成する方法を説明します [!DNL Dimension]</em>
+    <em>Adobeの 3D 画像合成およびレンダリング機能を使用して、フォトリアリスティックなバーチャルフォトを驚くほど見栄えよく作成する方法を説明します [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -80,7 +80,7 @@ ht-degree: 0%
     <div>
    <a href="3ddimensionstock.md"><strong>3D モデルのカスタマイズとブランディング [!DNL Dimension] とAdobe [!DNL Stock]</strong></a>
     </div>
-    <em>3D モデルのカスタマイズとブランド化 [!DNL Dimension] マテリアル、環境プロパティ、照明、写真を使用して、あらゆるデザインプロジェクト用にフォトリアルな画像を作成します</em>
+    <em>3D モデルのカスタマイズとブランディング [!DNL Dimension] マテリアル、環境プロパティ、ライト、写真を使用して、あらゆるデザインプロジェクト用にフォトリアルな画像を作成します</em>
     <br>
   </td>
 </tr>

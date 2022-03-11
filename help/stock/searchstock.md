@@ -1,6 +1,6 @@
 ---
 title: 検索Adobe [!DNL Stock] ライセンス取得履歴
-description: Adobe [!DNL Stock] エンタープライズ版Creative Cloudのライセンス履歴
+description: 組織のAdobe [!DNL Stock] エンタープライズ版Creative Cloudのライセンス履歴
 role: User
 level: Beginner
 thumbnail: kt-8212.jpg

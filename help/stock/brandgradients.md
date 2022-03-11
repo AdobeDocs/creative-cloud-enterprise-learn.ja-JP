@@ -1,5 +1,5 @@
 ---
-title: 統一感のあるブランドイメージを美しいグラデーションとAdobeで作成 [!DNL Stock] assets
+title: 美しいグラデーションとAdobe [!DNL Stock] assets
 description: 広告キャンペーン全体でカラーとグラデーションを組み合わせることで、様々な画像でブランドの一体感を生み出します
 role: User
 level: Beginner, Intermediate
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 統一感のあるブランドイメージを美しいグラデーションとAdobeで作成 [!DNL Stock] assets
+# 美しいグラデーションとAdobe [!DNL Stock] assets
 
-編集可能なベクター画像を使用して、ニュースレターのグラフィックにアニメーションを取り込み、Adobeする [!DNL Stock]を選択します。
+編集可能なベクター画像を使用して、ニュースレターのグラフィックにアニメーションを追加し、Adobeする [!DNL Stock]を選択します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331809?hidetitle=true)

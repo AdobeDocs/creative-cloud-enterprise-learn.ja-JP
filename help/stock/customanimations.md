@@ -1,5 +1,5 @@
 ---
-title: Adobe [!DNL Stock]
+title: Adobe別のカスタムアニメーションでクリエイティブに命を吹き込む [!DNL Stock]
 description: 使用Adobe [!DNL Stock] Photoshopで画像、テクスチャ、パターンをカスタムアニメーションに
 role: User
 level: Beginner, Intermediate
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]
+# Adobe別のカスタムアニメーションでクリエイティブに命を吹き込む [!DNL Stock]
 
-使用Adobe [!DNL Stock] Photoshopの画像、テクスチャ、パターンをカスタムアニメーションに変換します。
+使用Adobe [!DNL Stock] Photoshopで画像、テクスチャ、パターンをカスタムアニメーションに変換します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331806?hidetitle=true)

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 <br> 
 
-[**クイックリファレンスPDFガイドをダウンロード**](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
+[**クイックリファレンスPDFガイド**](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
 
 [![ クイックリファレンスガイドの最初のページの画像 ](assets/CreatingCinemagraphswithPhotoshopPage1.png)](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)

@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Stock]
-description: 様々な素材を組み合わせたAdobe [!DNL Stock] 視覚的に説得力のあるインフォグラフィックの形式でガイドラインを伝えるには
+description: 様々な素材を組み合わせたAdobe [!DNL Stock] 視覚的に説得力のあるインフォグラフィックの形式でガイドラインを伝える
 role: User
 level: Beginner, Intermediate
 thumbnail: 331811.jpg

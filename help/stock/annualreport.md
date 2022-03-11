@@ -1,5 +1,5 @@
 ---
-title: Adobe [!DNL Stock] とSpark Video
+title: 年次報告書の作成にAdobe [!DNL Stock] とSpark Video
 description: Adobe [!DNL Stock] とSpark Video
 role: User
 level: Beginner, Intermediate
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock] とSpark Video
+# 年次報告書の作成にAdobe [!DNL Stock] とSpark Video
 
-Adobe [!DNL Stock] そしてSpark Video。
+Adobe [!DNL Stock] Spark Video
 
 >[!VIDEO](https://video.tv.adobe.com/v/331808?hidetitle=true)

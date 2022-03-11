@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock]
-description: 情報、アイデア、ビジュアル、カラーパレットをチーム/クライアントに伝えるプロジェクトムードボードを作成します
+title: インスピレーションあふれるプロジェクトムードボードをAdobe [!DNL Stock]
+description: チーム/クライアントに情報、アイデア、ビジュアル、カラーパレットを伝えるためのプロジェクトムードボードを作成します
 role: User
 level: Beginner, Intermediate
 thumbnail: 331816.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock]
+# インスピレーションあふれるプロジェクトムードボードをAdobe [!DNL Stock]
 
-情報、アイデア、ビジュアル、カラーパレットをチーム/クライアントに伝えるためのプロジェクトムードボードを作成します。
+情報、アイデア、ビジュアル、カラーパレットをチーム/クライアントに伝えるプロジェクトムードボードを作成します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331816?hidetitle=true)

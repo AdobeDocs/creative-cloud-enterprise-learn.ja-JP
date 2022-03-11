@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Stock]
-description: インタラクティブ機能、アニメーション、編集可能なアートワークをAdobe [!DNL Stock] 金融情報を視覚的に示す
+description: インタラクティブ機能、アニメーション、編集可能なアートワークを活用して、Adobe [!DNL Stock] 金融情報を視覚的に示す
 role: User
 level: Beginner, Intermediate
 thumbnail: 331832.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Adobe [!DNL Stock]
 
-インタラクティブ機能、アニメーション、編集可能なアートワークをAdobe [!DNL Stock] 財務情報を視覚的に提示する。
+インタラクティブ機能、アニメーション、編集可能なアートワークを活用して、Adobe [!DNL Stock] 財務情報を視覚的に提示する。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331832?hidetitle=true)

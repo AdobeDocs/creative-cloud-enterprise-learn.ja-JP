@@ -1,6 +1,6 @@
 ---
 title: アニメーションAdobe [!DNL Stock] Photoshopのベクターイラスト
-description: 編集可能なベクター画像を使用して、ニュースレターのグラフィックにアニメーションを取り込み、Adobeする [!DNL Stock]
+description: 編集可能なベクター画像を使用して、ニュースレターのグラフィックにアニメーションを追加し、Adobeする [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331839.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # アニメーションAdobe [!DNL Stock] Photoshopのベクターイラスト
 
-編集可能なベクター画像を使用して、ニュースレターのグラフィックにアニメーションを取り込み、Adobeする [!DNL Stock]を選択します。
+編集可能なベクター画像を使用して、ニュースレターのグラフィックにアニメーションを追加し、Adobeする [!DNL Stock]を選択します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331839?hidetitle=true)

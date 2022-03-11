@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ![チュートリアルヒーロー画像](../assets/CCLibs.jpg)
 
-アセットを手元に置き、プロジェクトのブランドを統一
+素材を手元に置き、プロジェクトのブランドを統一
 
 ## 製品Tutorials
 
@@ -33,12 +33,12 @@ ht-degree: 2%
   </td>
    <td>
    <a href="cclibraries.md#tutorial2">
-      <img alt="CC ライブラリを共有" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
+      <img alt="CC ライブラリの共有" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial2"><strong>CC ライブラリを共有</strong></a>
+   <a href="cclibraries.md#tutorial2"><strong>CC ライブラリの共有</strong></a>
     </div>
-    <em>作業が効率化し、制作の一貫性が保たれ、チーム内で容易に同期を維持できます</em>
+    <em>作業が効率化し、素材の一貫性を確保でき、チーム内で容易に同期を維持できます</em>
     <br>
   </td>
   <td>
@@ -54,7 +54,7 @@ ht-degree: 2%
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
 **説明**
-Adobe Creative Cloud Libraries を使用すると、お気に入りのデザインアプリでロゴやカラーなどを管理、整理、アクセスできるCreative Cloudです。
+Adobe Creative Cloud Libraries を使用すると、お気に入りのデザインアプリでロゴやカラーなどの管理、整理、アクセスをCreative Cloudできます。
 
 このチュートリアルでは、次の方法について学習します。
 * 素材を手元に置き、プロジェクトのブランドを統一
@@ -68,11 +68,11 @@ Ashley Dvorin、シニアソリューションコンサルタント（デジタ�
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
 **説明**
-作業が効率化し、制作の一貫性が確保され、チーム内で容易に同期を維持できます。
+作業が効率化し、素材の一貫性を確保でき、チーム内で容易に同期を維持できます。
 
 このチュートリアルでは、次の方法について学習します。
 * 素材を手元に置き、プロジェクトのブランドを統一
-* お気に入りのアプリから直接、プロジェクトで簡単に共同作業
+* お気に入りのアプリから直接、プロジェクトで簡単に共同作業できます
 
 **提供元：**
 Ashley Dvorin、シニアソリューションコンサルタント（デジタルメディア）
@@ -85,4 +85,4 @@ Ashley Dvorin、シニアソリューションコンサルタント（デジタ�
 
 **2020 年 10 月リリース**
 
-これらの機能を使い始めましょう（さらに多くの機能を利用できます）。 デスクトップアプリケーションから最新のアップデートをCreative Cloudしてダウンロードします。
+これらの機能をぜひご利用ください（その他） Creative Cloudデスクトップアプリケーションから最新のアップデートをダウンロードします。

@@ -1,6 +1,6 @@
 ---
-title: PhotoshopiPad
-description: Photoshop iPad版を使えば、ひらめいたその瞬間に思い描いたとおりに作品を制作できます
+title: Photoshop on iPad
+description: iPad版Photoshopなら、思いついたその場で自由にアイデアをカタチにできます
 role: User
 level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# PhotoshopiPad
+# Photoshop on iPad
 
 ![チュートリアルヒーロー画像](../assets/PSoniPad.jpg)
 
-Photoshopは世界最高峰の画像編集とグラフィックデザインソフトウェアです。プロのクリエイティビティをデバイスを問わず無制限に発揮できます。 ひらめいたその瞬間に、ひらめいたその瞬間に、誰でも思いのままに制作できるようになりました。 思い浮かんだものは、Photoshopでカタチにできます。
+Photoshopは世界最高峰の画像編集とグラフィックデザインソフトウェアです。プロのクリエイティビティをデバイスを問わず無制限に発揮できます。 ひらめいたその瞬間に、ひらめいたその瞬間に、誰でも思いのままに表現できるようになりました。 思い浮かんだものは、Photoshopでカタチにできます。
 
 ## 製品Tutorials
 
@@ -28,7 +28,7 @@ Photoshopは世界最高峰の画像編集とグラフィックデザインソ�
     <div>
    <a href="photoshopipad.md#tutorial1"><strong>iPad版Photoshopの概要</strong></a>
     </div>
-    <em>インターフェイスツアーに参加して、Apple iPadで使用するために新しく設計されたPhotoshopのいくつかの機能を学習してください</em>
+    <em>このインターフェイスツアーでは、Apple iPadで使用するために刷新されたPhotoshopの機能をいくつか紹介します</em>
     <br>
   </td>
   <td>
@@ -49,16 +49,16 @@ Photoshopは世界最高峰の画像編集とグラフィックデザインソ�
 >[!VIDEO](https://video.tv.adobe.com/v/326899?hidetitle=true)
 
 **説明**
-インターフェイスツアーに参加して、Apple iPadで使用するために再設計されたPhotoshopのいくつかの機能を学習してください。
+このインターフェイスツアーでは、Apple iPadで使用できるように刷新されたPhotoshopの機能をいくつか紹介します。
 
 このチュートリアルでは、次の方法について学習します。
 * Photoshopツールに
 * モバイルで高精度な編集を実現
-* 没入感のある自然な体験
+* より没入型で自然な体験
 * クラウドドキュメントによるシームレスなワークフロー
 
 **提供元：**
-ソリューションコンサルタント（デジタルメディア）、Dan Armstrong 氏
+Dan Armstrong、ソリューションコンサルタント（デジタルメディア）
 
 ![PhotoshopiPadロゴ](../assets/ps_appicon_96.png)
 
@@ -68,4 +68,4 @@ Photoshopは世界最高峰の画像編集とグラフィックデザインソ�
 
 **2020 年 10 月リリース**
 
-これらの機能を使い始めましょう（さらに多くの機能を利用できます）。 デスクトップアプリケーションから最新のアップデートをCreative Cloudしてダウンロードします。
+これらの機能をぜひご利用ください（その他） Creative Cloudデスクトップアプリケーションから最新のアップデートをダウンロードします。

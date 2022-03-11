@@ -1,5 +1,5 @@
 ---
-title: IllustratoriPad
+title: Illustrator on iPad
 description: Adobe Illustrator iPad版は、タッチ、Apple Pencil、iPad用に再設計されたベクターデザインのエクスペリエンスです
 role: User
 level: Beginner, Intermediate
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# IllustratoriPad
+# Illustrator on iPad
 
 ![チュートリアルヒーロー画像](../assets/AIoniPad.jpg)
 
-Adobe Illustrator iPad版は、タッチ、Apple Pencil、iPad用に再設計されたベクターデザインのエクスペリエンスです。
+Adobe Illustrator iPad版は、タッチ、Apple Pencil、iPad向けに再設計されたベクターデザインです。
 
 ## 製品Tutorials
 
@@ -28,7 +28,7 @@ Adobe Illustrator iPad版は、タッチ、Apple Pencil、iPad用に再設計さ
     <div>
    <a href="illustratoripad.md#tutorial1"><strong>iPad版Illustratorの概要</strong></a>
     </div>
-    <em>場所のアイコンを作成し、パターンに変換して、 [!DNL Dimension] そして Zazzle プロジェクト！</em>
+    <em>場所のアイコンを作成して、写真に適用できるパターンに変換します [!DNL Dimension] そして Zazzle プロジェクト！</em>
     <br>
   </td>
   <td>
@@ -49,18 +49,18 @@ Adobe Illustrator iPad版は、タッチ、Apple Pencil、iPad用に再設計さ
 >[!VIDEO](https://video.tv.adobe.com/v/326823?hidetitle=true)
 
 **説明**
-このIllustrator for iPadの概要では、困った場所のアイコンをすばやく作成して、自分に適用できるパターンに変えるための作業を開始できます [!DNL Dimension] そして Zazzle プロジェクト！
+Illustrator for iPadの概要をご覧いただくと、困った場所のアイコンをすばやく作成して、自分に適用できるパターンに変えることができます [!DNL Dimension] そして Zazzle プロジェクト！
 
 このチュートリアルでは、次の方法について学習します。
-* iPad用に再設計されたIllustratorは、生産性を変革し、共同作業を迅速化し、クリエイティブなスキルセットを拡大して、すべての人に創造性を与えます
-* タッチインターフェイスにより、Apple Pencilを使用してより触覚に富んだ正確な操作が可能
+* iPad用に再設計されたIllustratorは、生産性を高め、共同作業を迅速化し、クリエイティブなスキルセットを拡大して、すべての人に創造性を与えます
+* タッチインターフェイスにより、Apple Pencilを使用してより触覚しやすく正確な操作が可能になります
 * CC ライブラリからグラフィックとカラーにアクセス
-* モバイルとデスクトップでのラウンドトリップワークフローIllustrator
+* モバイルとデスクトップの両方でラウンドトリップワークフローをIllustrator
 
 **提供元：**
 Dave Weinberg、シニアソリューションコンサルタント（デジタルメディア）
 
-![Illustrator on iPadロゴ](../assets/ai_appicon_96.png)
+![IllustratoriPadロゴ](../assets/ai_appicon_96.png)
 
 **iPad Resources のIllustrator**
 
@@ -68,4 +68,4 @@ Dave Weinberg、シニアソリューションコンサルタント（デジタ�
 
 **2020 年 10 月リリース**
 
-これらの機能を使い始めましょう（さらに多くの機能を利用できます）。 デスクトップアプリケーションから最新のアップデートをCreative Cloudしてダウンロードします。
+これらの機能をぜひご利用ください（その他） Creative Cloudデスクトップアプリケーションから最新のアップデートをダウンロードします。

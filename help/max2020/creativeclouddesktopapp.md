@@ -1,5 +1,5 @@
 ---
-title: Creative Cloud デスクトップアプリケーション
+title: Creative Cloud デスクトップアプリ
 description: Creative Cloudデスクトップアプリケーションは、CC アプリケーション、サービス、共同作業などを管理するためのハブです。
 role: User
 level: Beginner, Intermediate
@@ -11,7 +11,7 @@ ht-degree: 5%
 
 ---
 
-# Creative Cloud デスクトップアプリケーション
+# Creative Cloud デスクトップアプリ
 
 ![チュートリアルヒーロー画像](../assets/CCDA.jpg)
 

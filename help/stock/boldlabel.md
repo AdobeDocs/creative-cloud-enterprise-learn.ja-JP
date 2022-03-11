@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Stock] テンプレートとPhotoshopスマートオブジェクト
-description: Adobe [!DNL Stock]
+description: Adobeのリアルなパッケージテンプレートを使って、カスタムデザインをデザインし、視覚化しましょう [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331823.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Adobe [!DNL Stock] テンプレートとPhotoshopスマートオブジェクト
 
-Adobe [!DNL Stock]    を選択します。
+Adobeのリアルなパッケージテンプレートを使って、カスタムデザインをデザインし、視覚化しましょう [!DNL Stock]    を選択します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331823?hidetitle=true)

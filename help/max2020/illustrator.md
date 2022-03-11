@@ -1,6 +1,6 @@
 ---
 title: Illustrator
-description: web、モバイル、印刷に適したロゴ、アイコン、イラスト、その他のデザインを作成できます
+description: web、モバイル、印刷用に想像できるロゴ、アイコン、イラスト、その他のデザインを作成できます
 role: User
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![チュートリアルヒーロー画像](../assets/Illustrator.jpg)
 
-イラストとグラフィックのための最新アプリ web、モバイル、印刷に適したロゴ、アイコン、イラスト、その他のデザインを作成できます。
+イラストとグラフィックのための最新アプリ web、モバイル、印刷用に想像できるロゴ、アイコン、イラスト、その他のデザインを作成できます。
 
 ## 製品Tutorials
 
@@ -28,15 +28,15 @@ ht-degree: 0%
     <div>
    <a href="illustrator.md#tutorial1"><strong>シンボルを使用した複数のアイコンインスタンスの更新</strong></a>
     </div>
-    <em>手作業を減らし、シンボルとの一貫性を維持</em>
+    <em>手作業の軽減とシンボルによる一貫性の維持</em>
     <br>
   </td>
   <td>
     <a href="illustrator.md#tutorial2">
-        <img alt="グリフにスナップしたテキストと画像の整列" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
+        <img alt="グリフにスナップを使用したテキストと画像の整列" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>グリフにスナップしたテキストと画像の整列</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>グリフにスナップを使用したテキストと画像の整列</strong></a>
     </div>
     <em>字形をドキュメントの重要な領域にすばやくスナップ</em>
     <br>
@@ -57,7 +57,7 @@ ht-degree: 0%
 手作業を減らし、シンボルとの一貫性を維持します。
 
 このチュートリアルでは、次の方法について学習します。
-* 手作業を減らし、シンボルとの一貫性を維持
+* 手作業の軽減とシンボルによる一貫性の維持
 
 **提供元：**
 Patti Sokol、プリンシパルソリューションコンサルタント（デジタルメディア）
@@ -83,4 +83,4 @@ Patti Sokol、プリンシパルソリューションコンサルタント（デ
 
 **2020 年 10 月リリース**
 
-これらの機能を使い始めましょう（さらに多くの機能を利用できます）。 デスクトップアプリケーションから最新のアップデートをCreative Cloudしてダウンロードします。
+これらの機能をぜひご利用ください（その他） Creative Cloudデスクトップアプリケーションから最新のアップデートをダウンロードします。

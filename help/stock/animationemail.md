@@ -1,5 +1,5 @@
 ---
-title: 電子メール用アニメーションの作成に必要なAdobe [!DNL Stock] とPhotoshop
+title: アニメーションを使用した電子メールAdobe [!DNL Stock] とPhotoshop
 description: Adobe [!DNL Stock] とPhotoshop
 role: User
 level: Beginner, Intermediate
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 電子メール用アニメーションの作成に必要なAdobe [!DNL Stock] とPhotoshop
+# アニメーションを使用した電子メールAdobe [!DNL Stock] とPhotoshop
 
-Adobe [!DNL Stock] そしてPhotoshop。
+Adobe [!DNL Stock] Photoshop
 
 >[!VIDEO](https://video.tv.adobe.com/v/331838?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: グラフィックフォーマットのアルファベットの解読
-description: JPG、PNG、SVG、GIFおよびEPSのファイルはすべて、Web ページ用、プレゼンテーション、出版物、クリエイティブプロジェクト用など、デザインでよく使用されます。 しかし、それはどういう意味ですか？どちらを選ぶべきですか？
+title: グラフィック形式のアルファベットの解読
+description: JPG、PNG、SVG、GIF、EPSの各ファイルは、すべてデザインで一般的に使用されます。Web ページ用のものもあれば、プレゼンテーション、出版物、クリエイティブプロジェクト用のものもあります。 しかし、それはどういう意味ですか？どちらを選ぶべきですか？
 role: User
 level: Beginner, Intermediate
 kt: 8038
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# グラフィック形式のアルファベットのスープのデコード
+# グラフィック形式のアルファベットの組み合わせのデコード
 
-JPG、PNG、SVG、GIF、EPSの各ファイルは、すべてデザインでよく使用されます。Web ページ用のファイルもあれば、プレゼンテーション、出版物、クリエイティブプロジェクト用のファイルもあります。 しかし、それはどういう意味ですか？どちらを選ぶべきですか？ この 15 分間のハンズオンワークショップでご覧ください。 Photoshopで透明効果を適用して、グラフィックの書き出しや最適化の様々な設定を確認しながら、プレゼンテーションスキルを新しいレベルに引き上げる方法を簡単に説明します。 デザイナー兼デベロッパーの Chris Converse 氏に従い、Photoshopから書き出したカスタマイズされたグラフィックを使用して、PowerPoint で魅力的なアニメーションを作成します。
+JPG、PNG、SVG、GIF、EPSの各ファイルは、すべてデザインでよく使用されます。Web ページ用のファイルもあれば、プレゼンテーション、出版物、クリエイティブプロジェクト用のファイルもあります。 しかし、それはどういう意味ですか？どちらを選ぶべきですか？ この 15 分間のハンズオンワークショップでご覧ください。 Photoshopで透明効果を適用して、グラフィックの書き出しや最適化の様々な設定を試しながら、プレゼンテーションスキルを新しいレベルに引き上げる方法を簡単に説明します。 デザイナー兼デベロッパーの Chris Converse と一緒に、Photoshopから書き出したカスタマイズされたグラフィックを使用して、PowerPoint で魅力的なアニメーションを作成しましょう。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333805?hidetitle=true)
 
 <br> 
 
-[**クイックリファレンスPDFガイドをダウンロード**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[**クイックリファレンスPDFガイド**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
 
 [![ クイックリファレンスガイドの最初のページの画像 ](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)

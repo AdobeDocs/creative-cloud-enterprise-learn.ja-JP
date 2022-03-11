@@ -7,7 +7,7 @@ exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 6%
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>デスクトップで美しい画像、グラフィック、アートを編集、合成、作成</em>
+    <em>画像補正から加工、web デザインまで対応のプロフェッショナル画像編集ツール</em>
     <br>
   </td>
   <td>
@@ -92,7 +92,7 @@ ht-degree: 6%
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>UX のデザイン、プロトタイプ作成、共有</em>
+    <em>UI/UX のデザイン、プロトタイプ、共有</em>
     <br>
   </td>
   <td>
@@ -134,10 +134,10 @@ ht-degree: 6%
   </td>
   <td>
     <a href="illustratoripad.md">
-      <img alt="IllustratoriPad" src="../assets/AIoniPad.jpg" />
+      <img alt="Illustrator on iPad" src="../assets/AIoniPad.jpg" />
     </a>
     <div>
-    <a href="illustratoripad.md"><strong>IllustratoriPad</strong></a>
+    <a href="illustratoripad.md"><strong>Illustrator on iPad</strong></a>
     </div>
     <em>高品質なデザインやイラストを作成</em>
     <br>
@@ -146,10 +146,10 @@ ht-degree: 6%
 <tr>
  <td>
     <a href="photoshopipad.md">
-      <img alt="PhotoshopiPad" src="../assets/PSoniPad.jpg" />
+      <img alt="Photoshop on iPad" src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>PhotoshopiPad</strong></a>
+    <a href="photoshopipad.md"><strong>Photoshop on iPad</strong></a>
     </div>
     <em>デスクトップとiPadで美しい画像、グラフィック、アートを編集、合成、作成</em>
     <br>
@@ -183,10 +183,10 @@ ht-degree: 6%
   </td>
   <td>
     <a href="creativeclouddesktopapp.md">
-      <img alt="Creative Cloud デスクトップアプリケーション" src="../assets/CCDA.jpg" />
+      <img alt="Creative Cloud デスクトップアプリ" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Creative Cloudデスクトップアプリ</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud デスクトップアプリ</strong></a>
     </div>
     <em>Creative Cloudデスクトップアプリケーションは、CC アプリケーション、サービス、共同作業などを管理するためのハブです。</em>
     <br>
@@ -231,16 +231,16 @@ ht-degree: 6%
 </tr>
 </table>
 
-### ハンズオンプロジェクト：独自の顔マスクを作成する
+### ハンズオンプロジェクト：独自の顔マスクを作成
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="handsonproject.md">
-      <img alt="独自の顔マスクを作成する" src="../assets/faceMaskSplash.jpg" />
+      <img alt="独自の顔マスクを作成" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>独自の顔マスクを作成する</strong></a>
+    <a href="handsonproject.md"><strong>独自の顔マスクを作成</strong></a>
     </div>
     <em>Adobeの Design to Print プラグインを使用すると、数百もの Zazzle 製品でデザインを視覚化し、オンラインマーケットプレイスに直接公開することができます</em>
     <br>

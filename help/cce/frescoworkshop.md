@@ -1,6 +1,6 @@
 ---
 title: iPad( およびiPhone) のFrescoをお試しください
-description: この 15 分間のハンズオンワークショップで、Adobe Frescoを使ってデジタル描画とペイントの新しい世界を探求しましょう
+description: この 15 分間のハンズオンワークショップで、Adobe Frescoを使ってデジタル描画とペイントの全く新しい世界を探求しましょう
 role: User
 level: Beginner, Intermediate
 kt: 8039
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 # iPad( およびiPhone) のFrescoをお試しください
 
-この 15 分間のハンズオンワークショップで、Adobe Frescoを使ってデジタル描画とペイントの新しい世界を探求しましょう。 レイヤーとクリッピングマスクを使用して、ペイントとテクスチャをベースシェイプに最適化する方法を簡単に学習します。 デザイナー兼デベロッパーの Chris Converse 氏に従い、静物画のイラストの一部を再現します。FrescoとAdobe Stockを使用します。
+この 15 分間のハンズオンワークショップで、Adobe Frescoを使ってデジタル描画とペイントの全く新しい世界を探求しましょう。 レイヤーとクリッピングマスクを使用して、ペイントとテクスチャをベースシェイプに最適化する方法を簡単に学習します。 デザイナー兼デベロッパーの Chris Converse 氏に従って、静物のイラストの一部をFrescoとAdobe Stockで再現します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333804?hidetitle=true)
 
 <br> 
 
-[**クイックリファレンスPDFガイドをダウンロード**](../quick-reference/Frescoworkshop.pdf)
+[**クイックリファレンスPDFガイド**](../quick-reference/Frescoworkshop.pdf)
 
 [![ クイックリファレンスガイドの最初のページの画像 ](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)

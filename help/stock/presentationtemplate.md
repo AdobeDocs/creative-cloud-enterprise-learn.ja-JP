@@ -1,5 +1,5 @@
 ---
-title: カスタマイズAdobe [!DNL Stock] プロ並みに仕上がる魅力的なプレゼンテンプレート
+title: カスタマイズAdobe [!DNL Stock] プロ並みの目立つプレゼンテーション用テンプレート
 description: Adobe [!DNL Stock] 簡単に使える特殊効果
 role: User
 level: Beginner, Intermediate
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# カスタマイズAdobe [!DNL Stock] プロ並みに仕上がる魅力的なプレゼンテンプレート
+# カスタマイズAdobe [!DNL Stock] プロ並みの目立つプレゼンテーション用テンプレート
 
 Adobe [!DNL Stock] 簡単にできる特殊効果もあります。
 

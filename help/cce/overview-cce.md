@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Creative Cloudエンタープライズ版チュートリアル
 
-![Creative Cloudの画像](../assets/CCEbanner.png)
+![Creative CloudHero Image](../assets/CCEbanner.png)
 
-企業のクリエイターは、分散したチームと共同作業し、拡張性の高いプロセスを確立して、企業のシステムとガイドラインに準拠する必要があります。 このチュートリアルでは、エンタープライズの観点からCreative Cloudの新機能を学ぶのに役立ちます。
+企業のクリエイターは、分散したチームと共同作業をおこない、拡張性の高いプロセスを確立し、企業のシステムとガイドラインを遵守する必要があります。 このチュートリアルでは、エンタープライズの観点からCreative Cloudの新機能を学ぶことができます。
 
 
 ## クリックして製品チュートリアルを表示
@@ -36,12 +36,12 @@ ht-degree: 0%
   </td>
   <td>
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf">
-      <img alt="Lightroom Web からInDesignにCreative Cloud" src="assets/FromLightroomWebtoInDesignviaCreativeCloud.jpg" />
+      <img alt="Lightroom Web からInDesignへのCreative Cloud" src="assets/FromLightroomWebtoInDesignviaCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Lightroom Web からInDesignへのCreative Cloud経由 (PDF)</strong></a>
+   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Lightroom Web からInDesign経由のCreative Cloud(PDF)</strong></a>
     </div>
-    <em>カメラファイルとライブラリを使って、創造性をカメラから最終Creative Cloudに持ち込みます</em>
+    <em>カメラファイルとライブラリを使用して、創造性をカメラから最終Creative Cloudに引き上げましょう</em>
     <br>
   </td>
   <td>
@@ -64,17 +64,17 @@ ht-degree: 0%
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>スライドショーのSpark Pageへの追加 (PDF)</strong></a>
     </div>
-    <em>Adobe Spark Pageには、web ストーリーに命を吹き込む、すばらしい使いやすいレイアウトコンポーネントがいくつか用意されています</em>
+    <em>Adobe Spark Pageには、web ストーリーに命を吹き込む、便利で使いやすいレイアウトコンポーネントがいくつか用意されています</em>
     <br>
   </td>
   <td>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Adobe Sparkでブランドを作る" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+      <img alt="Adobe Sparkでのブランドの作成" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
    </a>
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Adobe Sparkでのブランドの作成 (PDF)</strong></a>
     </div>
-    <em>Adobe Sparkでブランドを簡単に定義</em>
+    <em>Adobe Sparkでブランドの定義を簡単に</em>
     <br>
   </td>
   <td>
@@ -84,7 +84,7 @@ ht-degree: 0%
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>新しい制作アーティストの紹介：Adobe Spark Post(PDF)</strong></a>
     </div>
-    <em>Adobe Sparkでは、レイアウトの作成、カラーの定義、アートワークの読み込み、コンポジション内での要素の配置に関するヒントを得ることができます</em>
+    <em>Adobe Sparkでは、レイアウトの作成、カラーの定義、アートワークの読み込み、コンポジション内での要素の配置について学習します</em>
     <br>
   </td>
 </tr>
@@ -96,22 +96,22 @@ ht-degree: 0%
 <tr>
    <td>
     <a href="alphabetsoup.md">
-      <img alt="グラフィック形式のアルファベットのスープのデコード" src="assets/Alphabetsoup.png" />
+      <img alt="グラフィック形式のアルファベットの組み合わせのデコード" src="assets/Alphabetsoup.png" />
     </a>
     <div>
-    <a href="alphabetsoup.md"><strong>グラフィック形式のアルファベットのスープのデコード</strong></a>
+    <a href="alphabetsoup.md"><strong>グラフィック形式のアルファベットの組み合わせのデコード</strong></a>
     </div>
     <em>JPG、PNG、SVG、GIF、EPSの各ファイルは、すべてデザインでよく使用されます。Web ページ用のファイルもあれば、プレゼンテーション、出版物、クリエイティブプロジェクト用のファイルもあります。 しかし、それはどういう意味ですか？どちらを選ぶべきですか？</em>
     <br>
   </td>
   <td>
     <a href="compositepsipad.md">
-      <img alt="Adobe [!DNL Stock] およびPhotoshop for iPad" src="assets/CompositePSiPad.jpg" />
+      <img alt="ユニークな合成を作成するAdobe [!DNL Stock] iPad版Photoshop" src="assets/CompositePSiPad.jpg" />
     </a>
     <div>
-    <a href="compositepsipad.md"><strong>Adobe [!DNL Stock] およびPhotoshop for iPad</strong></a>
+    <a href="compositepsipad.md"><strong>ユニークな合成を作成するAdobe [!DNL Stock] iPad版Photoshop</strong></a>
     </div>
-    <em>指先ひとつでPhotoshopを活用 リエンジニアリングされたタッチベースのインターフェイスを使用して、お気に入りのCreative Cloudアプリケーションをまったく新しい方法で使用する方法について学習します</em>
+    <em>指先ひとつでPhotoshopのパワーを発揮 リエンジニアリングされたタッチベースのインターフェイスにより、お気に入りのCreative Cloudアプリケーションをまったく新しい方法で使用する方法について学習します</em>
     <br>
   </td>
   <td>
@@ -128,12 +128,12 @@ ht-degree: 0%
 <tr>
    <td>
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
-      <img alt="PhotoshopとAfter Effectsで魅力的なライティングを写真に追加" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
+      <img alt="PhotoshopとAfter Effectsで魅力的な写真に照明を追加" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
     </a>
     <div>
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf"><strong>PhotoshopとAfter Effects(PDF)</strong></a>
     </div>
-    <em>Adobe After Effectsの光彩効果を使用して、写真をドラマチックに演出する方法を説明します</em>
+    <em>Adobe After Effectsの光連写効果を使用して、写真を劇的に強化する方法を学習します</em>
     <br>
    </td>
    <td>
@@ -143,7 +143,7 @@ ht-degree: 0%
     <div>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>PhotoshopとAdobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>検索時にループするシームレスなビデオをAdobe [!DNL Stock] Photoshopで人目を引くシネマグラフをすばやく組み立てるには</em>
+    <em>検索時にシームレスにループするビデオをAdobe [!DNL Stock] Photoshopで人目を引くシネマグラフをすばやく組み立てる</em>
     <br>
   </td>
    <td>
@@ -153,7 +153,7 @@ ht-degree: 0%
     <div>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf"><strong>Photoshopで生きた写真を制作 — パート 1(PDF)</strong></a>
     </div>
-    <em>Adobe Photoshopを使えば、短い動画を生きた写真にすばやく変換し、あらゆるソーシャルプラットフォームで見る人を魅了することができます</em>
+    <em>Adobe Photoshopを使用すると、ショートビデオを生きた写真にすばやく変換して、あらゆるソーシャルプラットフォームで視聴者を魅了することができます</em>
     <br>
   </td>
 </tr>
@@ -170,17 +170,17 @@ ht-degree: 0%
   </td>
   <td>
     <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf">
-    <img alt="Photoshop+After Effects=驚き：Adobe MAX 2018 ラボのまとめ" src="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.jpg" />
+    <img alt="Photoshop+After Effects=驚き：Adobe MAX 2018 研究室のまとめ" src="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.jpg" />
     </a>
     <div>
-    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop+After Effects=驚き：Adobe MAX 2018 ラボのまとめ (PDF)</strong></a>
+    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop+After Effects=驚き：Adobe MAX 2018 年のラボのまとめ (PDF)</strong></a>
     </div>
-    <em>この実践ラボでは、PhotoshopとAfter Effectsを使用して、あらゆるメディアに適した、驚くような画像と効果を作成する方法を学びます</em>
+    <em>この実践ラボでは、PhotoshopとAfter Effectsを使用して、あらゆるメディアに適した、驚くような画像とエフェクトを作成する手順を追って説明します</em>
     <br>
   </td>
   <td>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
-      <img alt="Adobe Photoshop Actions でInstagramの写真をすばやくブランディング" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
+      <img alt="Adobe Photoshop Actions を使用してInstagramの写真をすばやくブランディング" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
     </a>
     <div>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf"><strong>Adobe Photoshop Actions を使用してInstagramの写真をすばやくブランディング (PDF)</strong></a>
@@ -197,17 +197,17 @@ ht-degree: 0%
     <div>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>Photoshopでスマートに効率的に作業 (PDF)</strong></a>
     </div>
-    <em>Photoshopの変更には時間がかかることがありますが、必ずしもそうである必要はありません</em>
+    <em>Photoshopの変更には時間がかかる場合がありますが、必ずしもそうである必要はありません</em>
     <br>
   </td>
    <td>
     <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
-      <img alt="Adobe Creative Cloudで誰でもクリエイティブに" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
+      <img alt="Adobe Creative Cloudでだれでもクリエイティブに" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
     </a>
     <div>
     <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf"><strong>クリエイティブスキルセットにAdobe Photoshopを追加 (PDF)</strong></a>
     </div>
-    <em>クリエイティブスキルセットにAdobe Photoshopを追加</em>
+    <em>クリエイティブスキルセットにAdobe Photoshopを追加する</em>
     <br>
   </td>
   <td>
@@ -215,7 +215,7 @@ ht-degree: 0%
       <img alt="グリーンスクリーンは動画専用ではない" src="assets/GreenScreenisNotJustforVideo.jpg" />
     </a>
     <div>
-    <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>グリーンスクリーンはビデオのためだけのものではありません (PDF)</strong></a>
+    <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>グリーンスクリーンは動画専用ではない (PDF)</strong></a>
     </div>
     <em>写真スタジオでグリーンスクリーンを使用し、After Effectsを使用してPhotoshopで使用する写真を準備できます</em>
     <br>
@@ -234,7 +234,7 @@ ht-degree: 0%
     <div>
    <a href="frescoworkshop.md"><strong>iPad( およびiPhone) のFrescoをお試しください</strong></a>
     </div>
-    <em>この 15 分間のハンズオンワークショップで、Adobe Frescoを使ってデジタル描画とペイントの新しい世界を探求しましょう</em>
+    <em>この 15 分間のハンズオンワークショップで、Adobe Frescoを使ってデジタル描画とペイントの全く新しい世界を探求しましょう</em>
     <br>
   </td>
   <td>
@@ -261,27 +261,27 @@ ht-degree: 0%
     <div>
    <a href="assets/GettingStartedWithAdobePortfolio.pdf"><strong>Adobe Portfolio入門 (PDF)</strong></a>
     </div>
-    <em>作品をAdobe Portfolioと共有すると、作品を効果的に共有し、新しいクリエイターを引き付けることができます</em>
+    <em>Adobe Portfolioを使えば、作品を効果的に共有し、クリエイターの注目を集めることができます</em>
     <br>
   </td>
    <td>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
-      <img alt="LightroomとバイハンスをAdobe Portfolioに接続" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
+      <img alt="LightroomとバイアンスをAdobe Portfolioに接続" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
    </a>
     <div>
-   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>LightroomとバイハンスのAdobe Portfolioへの接続 (PDF)</strong></a>
+   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>LightroomとバイアンスのAdobe Portfolioへの接続 (PDF)</strong></a>
     </div>
-    <em>バイアンスプロジェクトをポートフォリオのページとして使用する</em>
+    <em>ポートフォリオのページとしてベイシャンスプロジェクトを使用する</em>
     <br>
   </td>
   <td>
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf">
-      <img alt="Adobe Portfolioで最高の作品を公開" src="assets/ShowYourBestWorkwithAdobePortfolio.jpg" />
+      <img alt="Adobe Portfolioで最高の作品を見せる" src="assets/ShowYourBestWorkwithAdobePortfolio.jpg" />
    </a>
     <div>
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Adobe Portfolioで最高の作品を見せる (PDF)</strong></a>
     </div>
-    <em>Adobe Portfolioを使えば、作品をアップロードして整理し、世界中のクライアントと共有することができます</em>
+    <em>Adobe Portfolioを使用すれば、世界中の潜在的なスタッフやクライアントと作品をアップロード、整理、共有できます</em>
     <br>
   </td>
  </tr>
@@ -294,20 +294,20 @@ ht-degree: 0%
 <tr>
   <td>
    <a href="ccteamlibraries.md">
-      <img alt="グループ版Creative Cloudライブラリの作成" src="assets/CCTeamLibraries_1280.jpg" />
+      <img alt="チーム用Creative Cloudライブラリの作成" src="assets/CCTeamLibraries_1280.jpg" />
    </a>
    <div>
-   <a href="ccteamlibraries.md"><strong>グループ版Creative Cloudライブラリの作成</strong></a>
+   <a href="ccteamlibraries.md"><strong>チーム用Creative Cloudライブラリの作成</strong></a>
     </div>
     <em>グループ版のアセットライブラリを使用して、グループまたはチーム内でCreative Cloudを共有する方法を説明します</em>
     <br>
   </td>
   <td>
    <a href="sharecclibraries.md">
-      <img alt="ブランディングアセットをグループ版Creative Cloudライブラリと共有" src="assets/ShareLibraries_1280.jpg" />
+      <img alt="ブランディングアセットのグループ版Creative Cloudライブラリとの共有" src="assets/ShareLibraries_1280.jpg" />
    </a>
    <div>
-   <a href="sharecclibraries.md"><strong>ブランディングアセットをグループ版Creative Cloudライブラリと共有</strong></a>
+   <a href="sharecclibraries.md"><strong>ブランディングアセットのグループ版Creative Cloudライブラリとの共有</strong></a>
     </div>
     <em>グループ版のブランドライブラリを使用して、グループまたはグループのブランディングアセットを作成、使用、共有するCreative Cloudについて説明します</em>
     <br>
@@ -319,7 +319,7 @@ ht-degree: 0%
     <div>
    <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>ブランドアセットを作成、追加、共有するためのCreative Cloudライブラリ (PDF)</strong></a>
     </div>
-    <em>Creative Cloudライブラリにはブランドシステムが組み込まれており、デザイナーはクリエイティブチーム間でブランドアセットを共有できます</em>
+    <em>Creative Cloudライブラリにはブランドシステムが組み込まれており、デザイナーはブランドアセットをクリエイティブチーム間で共有できます</em>
     <br>
   </td>
 </tr>
@@ -331,7 +331,7 @@ ht-degree: 0%
     <div>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>IllustratorのテキストスタイルをCreative Cloudライブラリと共有 (PDF)</strong></a>
     </div>
-    <em>Illustratorでスマートに効率的に作業</em>
+    <em>Illustratorでスマートに仕事をする</em>
     <br>
   </td>
   <td>
@@ -353,7 +353,7 @@ ht-degree: 0%
 <tr>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
-      <img alt="Creative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
+      <img alt="美しいタイポグラフィを作成するCreative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
    </a>
     <div>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>美しいタイポグラフィをCreative Cloudで作成 (PDF)</strong></a>
@@ -363,17 +363,17 @@ ht-degree: 0%
   </td>
    <td>
    <a href="assets/DiscoveringFontswithCreativeCloud.pdf">
-      <img alt="Discovering Fonts withCreative Cloud" src="assets/DiscoveringFontswithCreativeCloud.jpg" />
+      <img alt="フォント検索のCreative Cloud" src="assets/DiscoveringFontswithCreativeCloud.jpg" />
    </a>
     <div>
    <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>フォント検索とCreative Cloud(PDF)</strong></a>
     </div>
-    <em>プロジェクトに適したフォントを見つけるのが大変な場合があります。 様々なCreative Cloudアプリやサービスで、適切なフォントを見つけることが楽しくてインスピレーションを与えます</em>
+    <em>プロジェクトに適したフォントを見つけるのが大変な場合があります。 様々なCreative Cloudアプリやサービスで、適切なフォントを見つけることが楽しく刺激的になりました</em>
     <br>
   </td>
   <td>
    <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf">
-      <img alt="フォントフォントで隠れた宝石をOpenTypeする" src="assets/UnleashHiddenGemsinOpenTypefonts.jpg" />
+      <img alt="フォントフォントの隠れた宝石をOpenTypeする" src="assets/UnleashHiddenGemsinOpenTypefonts.jpg" />
    </a>
     <div>
    <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>フォントフォントの隠れたOpenTypeを解き放つ (PDF)</strong></a>
@@ -400,12 +400,12 @@ ht-degree: 0%
   </td>
    <td>
    <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf">
-      <img alt="Adobe AcrobatとInDesignでデザインフィードバックを簡単に収集して組み込む" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
+      <img alt="Adobe AcrobatとInDesign" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
    </a>
     <div>
    <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>Adobe AcrobatとInDesign(PDF)</strong></a>
     </div>
-    <em>関係者は、Acrobatを使用して詳細なコメントや注釈を追加し、それらのマークアップをAdobe InDesignにすばやく戻して、レイアウトのコンテキストで表示できます</em>
+    <em>関係者は、Acrobatを使用して詳細なコメントや注釈を追加し、それらのマークアップをAdobe InDesignにすばやく戻して、レイアウトのコンテキストで確認できます</em>
     <br>
   </td>
   <td>
@@ -413,29 +413,29 @@ ht-degree: 0%
       <img alt="Adobe InDesign CCで web コンテンツのスタイルを設定" src="assets/StyleWebContentwithInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Adobe InDesign CCで Web コンテンツのスタイルを設定 (PDF)</strong></a>
+   <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Adobe InDesign CCを使用した Web コンテンツのスタイル設定 (PDF)</strong></a>
     </div>
-    <em>InDesignの機能を利用してHTMLや Web グラフィックを出力できます。</em>
+    <em>InDesignの機能を使用してHTMLや Web グラフィックを出力できます。</em>
     <br>
   </td>
 </tr>
 <tr>
    <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
-      <img alt="対話型PDF:ブックマークとリンクされた目次 (InDesignから )" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
+      <img alt="対話型PDF:InDesignからのブックマークとリンクされた目次" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
     <div>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>対話型PDF:ブックマークとリンクされた目次をInDesignから (PDF)</strong></a>
     </div>
-    <em>InDesignの目次の機能を使用して、ブックマークとハイパーリンクの両方を生成する方法について説明します。ブックマークとハイパーリンクは、読者がPDFファイル内の情報をすばやく見つけるのに役立ちます</em>
+    <em>InDesignの目次の機能を使用して、ブックマークとハイパーリンクの両方を生成する方法を学習します。ブックマークとハイパーリンクは、読者がPDFファイル内の情報をすばやく見つけるのに役立ちます</em>
     <br>
   </td>
    <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
-      <img alt="対話型PDF:ハイパーリンクとマスターページのネスト化 (InDesign)" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
+      <img alt="対話型PDF:ハイパーリンクとマスターページのネストInDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>対話型PDF:グラフィックのハイパーリンクとマスターページのネストInDesign(PDF)</strong></a>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>対話型PDF:ハイパーリンクとマスターページのネスト (InDesign)(PDF)</strong></a>
     </div>
     <em>マスターページにハイパーリンクを適用すると、すべてのページでナビゲーションシステムをすばやく管理できます</em>
     <br>
@@ -457,14 +457,14 @@ ht-degree: 0%
       <img alt="Illustratorのグラフィックスタイルについて" src="assets/GettoKnowGraphicStylesinIllustrator.jpg" />
    </a>
     <div>
-   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Illustratorのグラフィックスタイル (PDF)</strong></a>
+   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Illustratorのグラフィックスタイルについて (PDF)</strong></a>
     </div>
     <em>Illustratorでは、テキストのスタイル設定とほぼ同じ方法でアートワークのスタイル設定ができます</em>
     <br>
   </td>
    <td>
    <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf">
-      <img alt="Adobe Illustrator CCでスマートに効率的に作業" src="assets/WorkSmarterNotHarderwithIllustrator.jpg" />
+      <img alt="Adobe Illustrator CCで、スマートに効率的に作業" src="assets/WorkSmarterNotHarderwithIllustrator.jpg" />
    </a>
     <div>
    <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf"><strong>Adobe Illustrator CCでスマートに効率的に作業 (PDF)</strong></a>
@@ -474,10 +474,10 @@ ht-degree: 0%
   </td>
   <td>
    <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf">
-      <img alt="Illustrator Symbols + Layers =レスポンシブなSVGを" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
+      <img alt="Illustrator Symbols + Layers =レスポンシブなSVGに最適" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
    </a>
     <div>
-   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator Symbols + Layers =レスポンシブなSVGを (PDF)</strong></a>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator Symbols + Layers =レスポンシブなSVGに最適 (PDF)</strong></a>
     </div>
     <em>Illustratorは、SVGのシンボル、グループ、ID、正確なベクター定義を作成する機能など、アートワーク形式を比類なくサポートしています</em>
     <br>
@@ -496,7 +496,7 @@ ht-degree: 0%
     <div>
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>製品をリアルな環境で視覚化する (PDF)</strong></a>
     </div>
-    <em>実際の製品の外観を確認するには、Adobe [!DNL Dimension] は頼りになるアプリです</em>
+    <em>実際の製品の見た目を確認する場合は、Adobe [!DNL Dimension] は頼りになるアプリです</em>
     <br>
   </td>
   <td>

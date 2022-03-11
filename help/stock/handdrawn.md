@@ -1,6 +1,6 @@
 ---
-title: Adobeに手描きの美しさを追加 [!DNL Stock] images
-description: Photoshop for iPadを使用して、独自のテクニックで画像に奥行きと立体感を加え、クリエイティブなマーケティングを強化しましょう
+title: Adobe [!DNL Stock] images
+description: Photoshop for iPadを使用して、ユニークなテクニックで画像に奥行きと立体感を加え、クリエイティブなマーケティングを強化しましょう
 role: User
 level: Beginner, Intermediate
 thumbnail: 331819.jpg
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Adobeに手描きの美しさを追加 [!DNL Stock] images
+# Adobe [!DNL Stock] images
 
 Photoshop for iPadを使用して、独自のテクニックで画像に奥行きと立体感を加え、クリエイティブなマーケティングを強化しましょう。
 

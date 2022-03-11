@@ -13,9 +13,9 @@ ht-degree: 10%
 
 # Creative Cloudエンタープライズ版Tutorials
 
-![Creative Cloudの画像](assets/hero_cce.jpg)
+![Creative CloudHero Image](assets/hero_cce.jpg)
 
-エンタープライズ向けCreative Cloudラーニングハブへようこそ。 エンタープライズ向けの学習に特化した幅広いCreative Cloud体験があります。 チュートリアル、Web セミナー、ユースケースでは、初心者と管理者の両方がエンタープライズ製品のCreative Cloudを短時間で習得できるように設計されています。
+エンタープライズ向けCreative Cloudラーニングハブへようこそ。 エンタープライズ向けの学習に特化した幅広いCreative Cloud体験があります。 チュートリアル、Web セミナー、ユースケースでは、初心者から管理者まで、エンタープライズ製品のCreative Cloudをすばやく習得できるように設計されています。
 
 ## トピックを参照
 
@@ -28,7 +28,7 @@ ht-degree: 10%
     <div>
    <a href="cce/overview-cce.md"><strong>Creative Cloud エンタープライズ版</strong></a>
     </div>
-    <em>企業の視点から、最新リリースのCreative Cloudの新機能を学ぶ</em>
+    <em>エンタープライズの観点から、Creative Cloudの最新リリースの新機能を学ぶ</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ ht-degree: 10%
     <div>
    <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
     </div>
-    <em>UX のデザイン、プロトタイプ作成、共有</em>
+    <em>UI/UX のデザイン、プロトタイプ、共有</em>
     <br>
   </td>
 </tr>

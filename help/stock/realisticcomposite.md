@@ -1,6 +1,6 @@
 ---
 title: リアルな合成写真を作成するAdobe [!DNL Stock] images
-description: 2 つの優れたAdobe [!DNL Stock] sns に投稿する人を引き付ける写真
+description: 2 つの優れたAdobe [!DNL Stock] sns に投稿する写真
 role: User
 level: Beginner, Intermediate
 thumbnail: 331836.jpg

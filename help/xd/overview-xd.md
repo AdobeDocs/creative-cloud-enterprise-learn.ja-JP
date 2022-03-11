@@ -1,6 +1,6 @@
 ---
 title: Adobe XD tutorials
-description: Adobe XDの最新情報を入手するためのTutorials
+description: Adobe XDの最新情報に役立つTutorials
 role: User
 level: Beginner, Intermediate
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adobe XD tutorials
 
-![Creative Cloudの画像](../assets/XD.jpg)
+![Creative CloudHero Image](../assets/XD.jpg)
 
 Adobe XDは、web サイト、アプリ、音声インターフェイス、ゲームなどのデジタルエクスペリエンスをデザインするための、UX デザインおよびプロトタイプ作成ツールです。
 
@@ -28,7 +28,7 @@ Adobe XDは、web サイト、アプリ、音声インターフェイス、ゲ�
     <div>
    <a href="components.md"><strong>Adobe XDの [!UICONTROL コンポーネント ] を使いこなす</strong></a>
     </div>
-    <em>[!UICONTROL コンポーネント ] を使用して、デザインワークフローにスピードと一貫性の両方を適用するための前例のない柔軟性を提供する方法について説明します</em>
+    <em>[!UICONTROL コンポーネント ] を使用して、デザインワークフローにスピードと一貫性の両方を適用する、かつてない柔軟性を実現する方法を説明します</em>
     <br>
   </td>
   <td>
@@ -36,9 +36,9 @@ Adobe XDは、web サイト、アプリ、音声インターフェイス、ゲ�
       <img alt="ネストされたシンボルを使用して複数のXDアートボードを制御する" src="assets/ControlMultipleXDArtboardswithNestedSymbols.jpg" />
    </a>
     <div>
-   <a href="assets/ControlMultipleXDArtboardswithNestedSymbols.pdf"><strong>ネストされたシンボルを使用した複数のXDアートボードのコントロール (PDF)</strong></a>
+   <a href="assets/ControlMultipleXDArtboardswithNestedSymbols.pdf"><strong>ネストされたシンボルを使用して複数のXDアートボードを制御する (PDF)</strong></a>
     </div>
-    <em>シンボルを使用すると、再利用可能なアートワークやテキストを作成し、プロジェクトのアートボード間で何度でも適用できます</em>
+    <em>シンボルを使用すると、再利用可能なアートワークやテキストを作成して、プロジェクトのアートボード間で何度でも適用することができます</em>
     <br>
   </td>
   <td>
@@ -55,22 +55,22 @@ Adobe XDは、web サイト、アプリ、音声インターフェイス、ゲ�
 <tr>
  <td>
    <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf">
-      <img alt="Adobe XDを使用した E コマース向けの製品ローテーション型インターフェイスの作成" src="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.jpg" />
+      <img alt="Adobe XDを使用した E コマース用に回転する製品インターフェイスの作成" src="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.jpg" />
    </a>
     <div>
    <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf"><strong>Adobe XDを使用した E コマース用に回転する製品インターフェイスの作成 (PDF)</strong></a>
     </div>
-    <em>製品を一目で見ることができるインターフェイスをデザインすると、デザインをインタラクティブなプロトタイプに変えて、web やモバイルでどのように機能するかを正確に確認できます</em>
+    <em>インターフェイスをデザインして、製品を一目で確認できます。デザインした後、web やモバイルでどのように機能するかを正確に示すインタラクティブプロトタイプを作成できます</em>
     <br>
   </td>
   <td>
    <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf">
-      <img alt="XDでインタラクティブクイズのデザインとプロトタイプ作成" src="assets/DesignandPrototypeanInteractiveQuizwithXD.jpg" />
+      <img alt="XDでインタラクティブクイズのデザインとプロトタイプを作成" src="assets/DesignandPrototypeanInteractiveQuizwithXD.jpg" />
    </a>
     <div>
    <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf"><strong>XDを使用したインタラクティブクイズのデザインとプロトタイプ作成 (PDF)</strong></a>
     </div>
-    <em>プロジェクト中にユーザーに表示されるフィードバックをデザインする</em>
+    <em>プロジェクト中にユーザーに送られるフィードバックをデザインする</em>
     <br>
   </td>
   <td>
@@ -80,7 +80,7 @@ Adobe XDは、web サイト、アプリ、音声インターフェイス、ゲ�
     <div>
    <a href="assets/DesignInteractiveProjectswithMicroAnimationsinXD.pdf"><strong>XDのマイクロアニメーションを使用したインタラクティブプロジェクトのデザイン (PDF)</strong></a>
     </div>
-    <em>Adobe XDを使用して、デザインのインタラクティブなアニメーションプロトタイプを作成する方法について説明します。</em>
+    <em>Adobe XDを使用して、デザインのインタラクティブなアニメーションプロトタイプを作成する方法について説明します</em>
     <br>
   </td>
 </tr>
@@ -107,12 +107,12 @@ Adobe XDは、web サイト、アプリ、音声インターフェイス、ゲ�
   </td>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf">
-      <img alt="Adobe XDでモバイル Web エクスペリエンスのプロトタイプを作成" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
+      <img alt="Adobe XDでのモバイル Web エクスペリエンスのプロトタイプ作成" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf"><strong>Adobe XDを使用したモバイル Web エクスペリエンスのプロトタイプの作成 (PDF)</strong></a>
+   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf"><strong>Adobe XDでのモバイル Web エクスペリエンスのプロトタイプ作成 (PDF)</strong></a>
     </div>
-    <em>エクスペリエンスデザインには、戦略、デザイン、機能的プロトタイピングが必要です。Adobe XDなら、これらすべてを実行できます</em>
+    <em>エクスペリエンスデザインには、戦略、デザイン、機能的プロトタイピングが必要です。Adobe XDがあれば、これらすべてを実現できます</em>
     <br>
   </td>
 </tr>
@@ -122,19 +122,19 @@ Adobe XDは、web サイト、アプリ、音声インターフェイス、ゲ�
       <img alt="外部テキストとグラフィックを使用してXDのリピートグリッドを強化" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf"><strong>外部テキストとグラフィックを使用したXDのリピートグリッドの強化 (PDF)</strong></a>
+   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf"><strong>外部のテキストとグラフィックを使用してXDのリピートグリッドを強化 (PDF)</strong></a>
     </div>
-    <em>リピートグリッドを外部のテキストやグラフィックと組み合わせると、生産性が飛躍的に向上します</em>
+    <em>リピートグリッドに外部のテキストやグラフィックを組み合わせると、生産性が飛躍的に向上します</em>
     <br>
   </td>
   <td>
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf">
-      <img alt="Adobe XDとMAXの狂気の舞台裏" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
+      <img alt="Adobe XDとMAX・狂気の舞台裏" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf"><strong>MAX・マッドネスとAdobe XD(PDF)</strong></a>
+   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf"><strong>『MAX・狂気とAdobe XD』(PDF)</strong></a>
     </div>
-    <em>最適化されたモバイル web エクスペリエンスを提供することで、ユーザーの心に響くことができます</em>
+    <em>最適化されたモバイル web エクスペリエンスは、ユーザーの心に響きます</em>
     <br>
   </td>
 </tr>

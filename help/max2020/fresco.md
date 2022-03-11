@@ -23,12 +23,12 @@ Adobe Frescoは、ベクターワークフローとラスタライズワーク�
 <tr>
  <td>
    <a href="fresco.md#tutorial1">
-      <img alt="Adobe Frescoによる描画の概要" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
+      <img alt="Adobe Frescoを使用した描画の概要" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial1"><strong>Adobe Frescoによる描画の概要</strong></a>
+   <a href="fresco.md#tutorial1"><strong>Adobe Frescoを使用した描画の概要</strong></a>
     </div>
-    <em>企業のブランディングのニーズに合わせて、AdobeFresco の強力な選択ツールとカラー編集ツールを使用して画像を劇的に変更します</em>
+    <em>AdobeFresco の強力な選択ツールとカラー編集ツールを使用して、企業のブランディングニーズに合わせて画像を劇的に変更します</em>
     <br>
   </td>
   <td>
@@ -49,7 +49,7 @@ Adobe Frescoは、ベクターワークフローとラスタライズワーク�
 </tr>
 </table>
 
-## Adobe Frescoを使った描画の概要 (19:07) {#tutorial1}
+## Adobe Frescoを使用した描画の概要 (19:07) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326946?hidetitle=true)
 
@@ -57,15 +57,15 @@ Adobe Frescoは、ベクターワークフローとラスタライズワーク�
 ベクターとラスタライズのワークフローとクラウドドキュメントを組み合わせたブラシベースの方法で、描画とペイントを作成するためのAdobe Frescoについて説明します。
 
 このチュートリアルでは、次の方法について学習します。
-* 好みのピクセルブラシやベクターブラシに加えて、水彩や油彩を模したユニークなライブブラシを使用できます
-* 異なるブラシをレイヤー化し、マスクを使用してテクスチャ効果を作成する
-* 新しいiPhone用Frescoアプリでどこでも作成
-* 作品を様々な形式に書き出して、他のモバイルアプリやデスクトップアプリで使用できます
+* 好みのピクセルブラシやベクターブラシと一緒に、水彩や油彩を模したユニークなライブブラシを使用します
+* 様々なブラシをレイヤー化し、マスクを使用してテクスチャ効果を作成する
+* 新しいiPhone向けFrescoアプリでどこでも作成
+* 作品を様々な形式で書き出して、他のモバイルアプリやデスクトップアプリケーションで使用できます
 
 **提供元：**
 Liz Tanonis、ソリューションコンサルタント（デジタルメディア）
 
-## テクスチャアートワークの作成 —IllustratorのFresco(4:10) {#tutorial2}
+## テクスチャアートワークの作成 —IllustratorへのFresco(4:10) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326947?hidetitle=true)
 
@@ -73,9 +73,9 @@ Liz Tanonis、ソリューションコンサルタント（デジタルメディ
 Adobe Frescoでのテクスチャのペイントと描画と、Illustratorでのテクスチャの使用方法について説明します。
 
 このチュートリアルでは、次の方法について学習します。
-* Adobe FrescoiPhoneアプリでアートワークを作成し、書き出して他のCreative Cloudアプリで使用する
+* Adobe Fresco iPhoneアプリケーションでアートワークを作成し、書き出して他のCreative Cloudアプリケーションで使用します
 * Illustratorの画像トレースツールを使用して、アートワークをベクターに変換する
-* Illustratorでベクターアートワークに手書きのテクスチャを適用する
+* Illustratorでベクターアートワークに手書きテクスチャを適用する
 
 **提供元：**
 Liz Tanonis、ソリューションコンサルタント（デジタルメディア）
@@ -88,4 +88,4 @@ Liz Tanonis、ソリューションコンサルタント（デジタルメディ
 
 **2020 年 10 月リリース**
 
-これらの機能を使い始めましょう（さらに多くの機能を利用できます）。 デスクトップアプリケーションから最新のアップデートをCreative Cloudしてダウンロードします。
+これらの機能をぜひご利用ください（その他） Creative Cloudデスクトップアプリケーションから最新のアップデートをダウンロードします。

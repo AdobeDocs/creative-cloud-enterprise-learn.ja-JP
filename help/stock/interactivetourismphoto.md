@@ -1,6 +1,6 @@
 ---
-title: Adobeでインタラクティブな観光写真を作成 [!DNL Stock] とXD
-description: Adobe [!DNL Stock] とXD
+title: Adobe [!DNL Stock] とXD
+description: Adobe [!DNL Stock] & XD
 role: User
 level: Beginner, Intermediate
 thumbnail: 331820.jpg
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Adobeでインタラクティブな観光写真を作成 [!DNL Stock] とXD
+# Adobe [!DNL Stock] とXD
 
 Adobe [!DNL Stock] とXD
 

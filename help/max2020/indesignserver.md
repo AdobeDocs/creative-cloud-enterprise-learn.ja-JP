@@ -1,6 +1,6 @@
 ---
 title: InDesign Server
-description: AdobeAdobe®InDesign® Server ソフトウェアは、InDesignのデザイン、レイアウト、タイポグラフィ機能を活用して、魅力的なドキュメントをプログラムによって自動生成できるようにする、堅牢でスケーラブルなエンジンを提供します
+description: AdobeAdobe®InDesign® Server ソフトウェアは、InDesignのデザイン、レイアウト、タイポグラフィ機能を活用し、魅力的なドキュメントをプログラムによって自動生成できるようにする、堅牢でスケーラブルなエンジンです
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![チュートリアルヒーロー画像](../assets/InDesignServer.jpg)
 
-AdobeAdobe®InDesign® Server ソフトウェアは、InDesignのデザイン、レイアウト、タイポグラフィ機能を活用して、魅力的なドキュメントをプログラムによって自動生成できるようにする、堅牢でスケーラブルなエンジンを提供します。
+AdobeAdobe®InDesign® Server ソフトウェアは、InDesignのデザイン、レイアウト、タイポグラフィ機能を活用し、魅力的なドキュメントをプログラムによって自動生成できるようにする、堅牢でスケーラブルなエンジンです。
 
 ## 製品Tutorials
 
@@ -23,10 +23,10 @@ AdobeAdobe®InDesign® Server ソフトウェアは、InDesignのデザイン、
 <tr>
  <td>
    <a href="indesignserver.md#tutorial1">
-      <img alt="データドリブン型のInDesign Serverコンテンツ" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
+      <img alt="データドリブン型InDesign Serverコンテンツ" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
    </a>
     <div>
-   <a href="indesignserver.md#tutorial1"><strong>データドリブン型のInDesign Serverコンテンツ</strong></a>
+   <a href="indesignserver.md#tutorial1"><strong>データドリブン型InDesign Serverコンテンツ</strong></a>
     </div>
     <em>データドリブン型の設計は、プログラムによってInDesign Server</em>
     <br>
@@ -49,12 +49,12 @@ AdobeAdobe®InDesign® Server ソフトウェアは、InDesignのデザイン、
 >[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 
 **説明**
-データドリブン型の設計は、プログラムによってInDesign Serverで
+データドリブン型の設計は、プログラムを通じてInDesign Serverで
 
 このチュートリアルでは、次の方法について学習します。
 * 事前に書式設定されたテキストまたはオブジェクトスタイルを使用したInDesignテンプレートの作成
-* 外部データ駆動型コンテンツのフローを組み込み、コンテンツをすばやくパーソナライズ
-* レイアウトの特色PDFを生成したり、他のAEM駆動型出力形式と連携させたりします
+* 外部データ駆動型コンテンツのフローを制御して、コンテンツをより迅速にパーソナライズ
+* レイアウトの特色PDFを生成するか、他のAEM駆動型出力形式と連携します
 
 **提供元：**
 Eric Rowse、シニアソリューションコンサルタント（デジタルメディア）
@@ -80,7 +80,7 @@ Eric Rowse、シニアソリューションコンサルタント（デジタル�
     <div>
    <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server:パートナーを探す</strong></a>
     </div>
-    <em>社内で開発する専門知識はありますが、Adobeでは、パートナーと協力して要件を満たすソリューションを見つけることを推奨しています</em>
+    <em>社内で開発する専門知識はありますが、Adobeでは、パートナーと協力してお客様の要件を満たすソリューションを見つけることを推奨しています</em>
     <br>
   </td>
   <td>
@@ -99,4 +99,4 @@ Eric Rowse、シニアソリューションコンサルタント（デジタル�
 
 **2020 年 10 月リリース**
 
-これらの機能を使い始めましょう（さらに多くの機能を利用できます）。 デスクトップアプリケーションから最新のアップデートをCreative Cloudしてダウンロードします。
+これらの機能をぜひご利用ください（その他） Creative Cloudデスクトップアプリケーションから最新のアップデートをダウンロードします。
