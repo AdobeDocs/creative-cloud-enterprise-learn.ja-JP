@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: 3D 照明、600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
 workflow-type: tm+mt
-source-wordcount: '2738'
+source-wordcount: '2739'
 ht-degree: 0%
 
 ---
@@ -203,4 +203,4 @@ ht-degree: 0%
 
 この概要が、さまざまな状況で 3D ライトをマスターすることの重要性を示すことを願っています。 より説得力のある結果を生み出す準備が整っている必要があります。
 
-素敵な照明です。 ダウンロード [最新リリース](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) をDimensionします。
+素敵な照明です。 ダウンロード [最新リリース](https://creativecloud.adobe.com/apps/download/Dimension) Dimensionです。

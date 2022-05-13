@@ -4,16 +4,16 @@ description: Adobe [!DNL Stock] エンタープライズ版では、2 億点以�
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
+source-git-commit: c81e5982cfb4b168d66dc2a80c27a48895b64a52
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-!![Tutorial Hero Image](../assets/[!DNL Stock].jpg)
+![チュートリアルヒーロー画像](../assets/Stock.jpg)
 
 クリエイターには、注目を集めて維持できる、視覚的に説得力のある新しいコンテンツをすばやく提供しなければならないというプレッシャーがかかっています。 Adobe [!DNL Stock] エンタープライズ版では、クリエイティブチームは毎日使用するAdobeのクリエイティブアプリから 2 億点以上の画像、ビデオ、テンプレート、イラスト、オーディオファイル、3D アセットにアクセスできます。
 

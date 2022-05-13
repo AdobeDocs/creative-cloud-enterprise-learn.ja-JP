@@ -4,16 +4,16 @@ description: Tutorialsを活用してAdobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1196'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] tutorials
 
-!![Creative Cloud Hero Image](../assets/[!DNL Stock].jpg)
+![Creative CloudHero Image](../assets/Stock.jpg)
 
 クリエイターには、注目を集めて維持できる、視覚的に説得力のある新しいコンテンツをすばやく提供しなければならないというプレッシャーがかかっています。 Adobe [!DNL Stock] for enterprise を使用すると、クリエイティブチームは毎日使用するAdobeのクリエイティブアプリから 2 億点以上の画像、ビデオ、テンプレート、イラスト、オーディオファイル、3D アセットにアクセスできます。
 
