@@ -4,9 +4,9 @@ description: AdobeAdobe®InDesign® Server ソフトウェアは、InDesignの�
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 6e04256e587cdf82fc5ce150451697f8c8322b45
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![チュートリアルヒーロー画像](../assets/InDesignServer.jpg)
 
-AdobeAdobe®InDesign® Server ソフトウェアは、InDesignのデザイン、レイアウト、タイポグラフィ機能を活用し、魅力的なドキュメントをプログラムによって自動生成できるようにする、堅牢でスケーラブルなエンジンです。
+Adobe InDesign® Server ソフトウェアは、InDesignのデザイン、レイアウト、タイポグラフィ機能を活用し、魅力的なドキュメントをプログラムによって自動生成できるようにする、堅牢かつスケーラブルなエンジンです。
 
 ## 製品Tutorials
 
