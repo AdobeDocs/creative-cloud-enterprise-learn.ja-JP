@@ -1,7 +1,7 @@
 ---
 cloud: Creative Cloud
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/creative-cloud-enterprise-learn.ja-JP
+git-repo: https://github.com/AdobeDocs/creative-cloud-enterprise-learn.ja-JP
 solution: Creative Cloud
 index: true
 source-git-commit: 1f3b82b031beb84a1adba932fccf678c257164c2
@@ -12,23 +12,23 @@ ht-degree: 0%
 ---
 
 
-# 内部で使用するメタデータ
+# 内部用のメタデータ
 
-metadata.mdファイルには、リポジトリ内のTOC.mdファイルに渡されるリポジトリレベルのメタデータが含まれます。 ユーザガイドのmetadata.mdコンテンツを変更する場合は、任意のTOC.mdファイルで変更します。
+metadata.md ファイルには、リポジトリ内のユーザーガイド TOC.md ファイルに渡されるリポジトリレベルのメタデータが含まれています。 ユーザーガイドの metadata.md コンテンツを変更する場合は、任意の TOC.md ファイルで変更します。
 
-| メタデータ | 何をするか |
+| metadata | 機能 |
 |--- |--- |
-| 解決権 | アーティクルヘッダーでリンクとして使用 |
-| ソリューションハブURL | ヘルプハブページを開きます |
-| 解決策 | ソリューションのタイトルの横にソリューションアイコンを表示します。 未実装 |
-| はじめに | ヘルプの[はじめに]ページへのリンク |
-| チュートリアルURL | ビデオチュートリアルへのリンク – ヘルプチュートリアルまたはKTチュートリアル |
-| ミニ目次レベル | 右手すりに表示する見出しレベルの数を指定します。 デフォルトは2 |
-| ギットレポ | 内部で使用するマスタレポートの場所を指定します |
+| solution-title | リンクとして記事ヘッダーで使用 |
+| solution-hub-url | helpx ハブページを開きます |
+| solution-icon | ソリューションタイトルの横にソリューションアイコンを表示します。 まだ実装されていません |
+| getting-started-url | helpx の「はじめに」ページへのリンク |
+| tutorials-url | ビデオチュートリアルへのリンク — helpx チュートリアルまたは KT チュートリアル |
+| mini-toc-levels | 右側のレールに表示する見出しレベルの数を指定します。 デフォルトは 2 です。 |
+| git-repo | 内部で使用するマスターリポジトリの場所を指定します |
 
-TOC.mdファイル
+TOC.md ファイル内
 
-| メタデータ | 何をするか |
+| metadata | 機能 |
 |--- |--- |
-| ユーザーガイドのタイトル | アーティクルヘッダーでリンクとして使用 |
-| ユーザーガイドのurl | ヘルプハブページを開きます |
+| user-guide-title | リンクとして記事ヘッダーで使用 |
+| user-guide-url | helpx ハブページを開きます |
