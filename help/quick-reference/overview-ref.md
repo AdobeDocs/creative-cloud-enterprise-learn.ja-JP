@@ -4,9 +4,9 @@ description: Tutorialsでエンタープライズ製品のCreative Cloudを向�
 role: User
 level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1200'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="スペーサー" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -79,7 +79,7 @@ ht-degree: 0%
 </table>
 
 
-### Spark
+### Adobe Express( 旧Adobe Spark)
 
 <table>
 <tr>
@@ -340,7 +340,7 @@ ht-degree: 0%
     <br>
   </td>
    <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
@@ -358,7 +358,7 @@ ht-degree: 0%
 <tr>
    <td>
    <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf">
-      <img alt="Create a composite using images and shapes with Illustrator for iPad" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Illustrator for iPadで画像とシェイプを使用して合成画像を作成する" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>Illustrator for iPad(PDF) で画像とシェイプを使用して合成画像を作成する</strong></a>
@@ -390,12 +390,12 @@ ht-degree: 0%
 <tr>
   <td>
    <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf">
-      <img alt="Creating Realistic 3D Mock-ups with Adobe [!DNL Stock] and [!DNL Dimension]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="リアリスティックな 3D モックアップをAdobe [!DNL Stock] および [!DNL Dimension]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf"><strong>リアリスティックな 3D モックアップをAdobe [!DNL Stock] および [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>See how your design translates to real-world objects by combining 3D models from Adobe [!DNL Stock] with custom decals in [!DNL Dimension]</em>
+    <em>Adobeの 3D モデルを組み合わせて、デザインから現実世界のオブジェクトを作成する方法をご覧ください [!DNL Stock] カスタムデカールを含む [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -403,9 +403,9 @@ ht-degree: 0%
       <img alt="撮影をスキップ — 撮影する" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="SkiptheShootGettheShot.pdf"><strong>Skip the Shoot — Get the Shot (PDF)</strong></a>
+   <a href="SkiptheShootGettheShot.pdf"><strong>撮影をスキップ — 撮影する (PDF)</strong></a>
     </div>
-    <em>Customize and brand a 3D model in [!DNL Dimension] using materials, environmental properties, lighting, and photography, to create photo-realistic imagery for any design project</em>
+    <em>3D モデルのカスタマイズとブランディング [!DNL Dimension] マテリアル、環境プロパティ、ライト、写真を使用して、あらゆるデザインプロジェクト用にフォトリアルな画像を作成します</em>
     <br>
   </td>
   <td>
@@ -422,7 +422,7 @@ ht-degree: 0%
 <tr>
   <td>
    <a href="CreateAnimationsinRealTimewithCharacterAnimator.pdf">
-      <img alt="Create Animations in Real Time with Character Animator" src="../assets/acrobat_PDF_96.png" />
+      <img alt="アニメーションをリアルタイムでCharacter Animator" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="CreateAnimationsinRealTimewithCharacterAnimator.pdf"><strong>アニメーションを使用したリアルタイムのCharacter Animatorの作成 (PDF)</strong></a>

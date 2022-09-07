@@ -4,10 +4,10 @@ description: Tutorialsでエンタープライズ製品のCreative Cloudを向�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
 workflow-type: tm+mt
-source-wordcount: '1366'
-ht-degree: 0%
+source-wordcount: '1390'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,23 @@ ht-degree: 0%
 
 
 ## クリックして製品チュートリアルを表示
+
+### Adobe Acrobat
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AcrobatforContentCreators.pdf">
+      <img alt="コンテンツクリエイター向けAcrobat" src="assets/AcrobatforContentCreators.jpg" />
+   </a>
+    <div>
+   <a href="assets/AcrobatforContentCreators.pdf"><strong>コンテンツクリエイター向けAcrobat(PDF)</strong></a>
+    </div>
+    <em>クリエイティブワークフローの効率化に役立つAcrobatツールについて説明します</em>
+    <br>
+  </td>
+</tr>
+</table>
 
 ### Creative Cloud エンタープライズ版
 
@@ -53,7 +70,7 @@ ht-degree: 0%
 </table>
 
 
-### Spark
+### Adobe Express( 旧Adobe Spark)
 
 <table style="table-layout:fixed">
 <tr>
@@ -64,7 +81,7 @@ ht-degree: 0%
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>スライドショーのSpark Pageへの追加 (PDF)</strong></a>
     </div>
-    <em>Adobe Spark Pageには、web ストーリーに命を吹き込む、便利で使いやすいレイアウトコンポーネントがいくつか用意されています</em>
+    <em>Adobe Expressには、web ストーリーに命を吹き込む、すばらしい使いやすいレイアウトコンポーネントがいくつか用意されています</em>
     <br>
   </td>
   <td>
@@ -74,7 +91,7 @@ ht-degree: 0%
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Adobe Sparkでのブランドの作成 (PDF)</strong></a>
     </div>
-    <em>Adobe Sparkでブランドの定義を簡単に</em>
+    <em>Adobe Expressでブランドを簡単に定義</em>
     <br>
   </td>
   <td>
@@ -84,7 +101,7 @@ ht-degree: 0%
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>新しい制作アーティストの紹介：Adobe Spark Post(PDF)</strong></a>
     </div>
-    <em>Adobe Sparkでは、レイアウトの作成、カラーの定義、アートワークの読み込み、コンポジション内での要素の配置について学習します</em>
+    <em>Adobe Expressは、レイアウトの作成、カラーの定義、アートワークの読み込み、コンポジション内での要素の配置に関するヒントを得ることができます</em>
     <br>
   </td>
 </tr>
