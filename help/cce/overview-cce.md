@@ -4,10 +4,10 @@ description: Tutorialsでエンタープライズ製品のCreative Cloudを向�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
+source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
 workflow-type: tm+mt
-source-wordcount: '1390'
-ht-degree: 1%
+source-wordcount: '1401'
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,21 @@ ht-degree: 1%
    <a href="assets/AcrobatforContentCreators.pdf"><strong>コンテンツクリエイター向けAcrobat(PDF)</strong></a>
     </div>
     <em>クリエイティブワークフローの効率化に役立つAcrobatツールについて説明します</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -66,6 +81,11 @@ ht-degree: 1%
     <div>
     <br>
   </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -81,7 +101,7 @@ ht-degree: 1%
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>スライドショーのSpark Pageへの追加 (PDF)</strong></a>
     </div>
-    <em>Adobe Expressには、web ストーリーに命を吹き込む、すばらしい使いやすいレイアウトコンポーネントがいくつか用意されています</em>
+    <em>Adobe Sparkには、web ストーリーに命を吹き込む、便利で使いやすいレイアウトコンポーネントがいくつか用意されています</em>
     <br>
   </td>
   <td>
@@ -91,7 +111,7 @@ ht-degree: 1%
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Adobe Sparkでのブランドの作成 (PDF)</strong></a>
     </div>
-    <em>Adobe Expressでブランドを簡単に定義</em>
+    <em>Adobe Sparkでブランドの定義を簡単に</em>
     <br>
   </td>
   <td>
@@ -101,7 +121,12 @@ ht-degree: 1%
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>新しい制作アーティストの紹介：Adobe Spark Post(PDF)</strong></a>
     </div>
-    <em>Adobe Expressは、レイアウトの作成、カラーの定義、アートワークの読み込み、コンポジション内での要素の配置に関するヒントを得ることができます</em>
+    <em>Adobe Sparkでは、レイアウトの作成、カラーの定義、アートワークの読み込み、コンポジション内での要素の配置について学習します</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -111,7 +136,7 @@ ht-degree: 1%
 
 <table style="table-layout:fixed">
 <tr>
-   <td>
+  <td>
     <a href="alphabetsoup.md">
       <img alt="グラフィック形式のアルファベットの組み合わせのデコード" src="assets/Alphabetsoup.png" />
     </a>
@@ -141,9 +166,7 @@ ht-degree: 1%
     <em>このワークショップ用ビデオチュートリアルでは、Adobeのビデオを組み合わせて、生きた写真を作成します [!DNL Stock] Photoshop</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
       <img alt="PhotoshopとAfter Effectsで魅力的な写真に照明を追加" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
     </a>
@@ -152,8 +175,10 @@ ht-degree: 1%
     </div>
     <em>Adobe After Effectsの光連写効果を使用して、写真を劇的に強化する方法を学習します</em>
     <br>
-   </td>
-   <td>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
       <img alt="PhotoshopとAdobe [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
@@ -163,7 +188,7 @@ ht-degree: 1%
     <em>検索時にシームレスにループするビデオをAdobe [!DNL Stock] Photoshopで人目を引くシネマグラフをすばやく組み立てる</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
       <img alt="Photoshopで生きた写真を制作 — パート 1" src="assets/CreatingaLivingPhotographwithPhotoshopPart1.jpg" />
     </a>
@@ -173,9 +198,7 @@ ht-degree: 1%
     <em>Adobe Photoshopを使用すると、ショートビデオを生きた写真にすばやく変換して、あらゆるソーシャルプラットフォームで視聴者を魅了することができます</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
       <img alt="Photoshopで生きた写真を制作 — パート 2" src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
     </a>
@@ -195,6 +218,8 @@ ht-degree: 1%
     <em>この実践ラボでは、PhotoshopとAfter Effectsを使用して、あらゆるメディアに適した、驚くような画像とエフェクトを作成する手順を追って説明します</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
       <img alt="Adobe Photoshop Actions を使用してInstagramの写真をすばやくブランディング" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
@@ -207,7 +232,7 @@ ht-degree: 1%
   </td>
 </tr>
 <tr>
-    <td>
+  <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Photoshopでスマートに効率的に作業" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
     </a>
@@ -217,7 +242,7 @@ ht-degree: 1%
     <em>Photoshopの変更には時間がかかる場合がありますが、必ずしもそうである必要はありません</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
       <img alt="Adobe Creative Cloudでだれでもクリエイティブに" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
     </a>
@@ -235,6 +260,11 @@ ht-degree: 1%
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>グリーンスクリーンは動画専用ではない (PDF)</strong></a>
     </div>
     <em>写真スタジオでグリーンスクリーンを使用し、After Effectsを使用してPhotoshopで使用する写真を準備できます</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>  
@@ -264,6 +294,11 @@ ht-degree: 1%
     <div>
     <br>
   </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -281,7 +316,7 @@ ht-degree: 1%
     <em>Adobe Portfolioを使えば、作品を効果的に共有し、クリエイターの注目を集めることができます</em>
     <br>
   </td>
-   <td>
+  <td>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
       <img alt="LightroomとバイアンスをAdobe Portfolioに接続" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
    </a>
@@ -299,6 +334,11 @@ ht-degree: 1%
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Adobe Portfolioで最高の作品を見せる (PDF)</strong></a>
     </div>
     <em>Adobe Portfolioを使用すれば、世界中の潜在的なスタッフやクライアントと作品をアップロード、整理、共有できます</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
  </tr>
@@ -339,8 +379,6 @@ ht-degree: 1%
     <em>Creative Cloudライブラリにはブランドシステムが組み込まれており、デザイナーはブランドアセットをクリエイティブチーム間で共有できます</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="IllustratorのテキストスタイルをCreative Cloudライブラリと共有" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -349,16 +387,6 @@ ht-degree: 1%
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>IllustratorのテキストスタイルをCreative Cloudライブラリと共有 (PDF)</strong></a>
     </div>
     <em>Illustratorでスマートに仕事をする</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/GrayBanner_Spacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -398,6 +426,11 @@ ht-degree: 1%
     <em>OpenType形式では、最大 65,536 個のグリフを含めることができます</em>
     <br>
   </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -435,9 +468,7 @@ ht-degree: 1%
     <em>InDesignの機能を使用してHTMLや Web グラフィックを出力できます。</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
       <img alt="対話型PDF:InDesignからのブックマークとリンクされた目次" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
@@ -447,7 +478,9 @@ ht-degree: 1%
     <em>InDesignの目次の機能を使用して、ブックマークとハイパーリンクの両方を生成する方法を学習します。ブックマークとハイパーリンクは、読者がPDFファイル内の情報をすばやく見つけるのに役立ちます</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
       <img alt="対話型PDF:ハイパーリンクとマスターページのネストInDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
@@ -455,6 +488,16 @@ ht-degree: 1%
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>対話型PDF:ハイパーリンクとマスターページのネスト (InDesign)(PDF)</strong></a>
     </div>
     <em>マスターページにハイパーリンクを適用すると、すべてのページでナビゲーションシステムをすばやく管理できます</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/GrayBanner_Spacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -499,6 +542,11 @@ ht-degree: 1%
     <em>Illustratorは、SVGのシンボル、グループ、ID、正確なベクター定義を作成する機能など、アートワーク形式を比類なくサポートしています</em>
     <br>
   </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -514,6 +562,11 @@ ht-degree: 1%
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>製品をリアルな環境で視覚化する (PDF)</strong></a>
     </div>
     <em>実際の製品の見た目を確認する場合は、Adobe [!DNL Dimension] は頼りになるアプリです</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
