@@ -4,9 +4,9 @@ description: Tutorialsでエンタープライズ製品のCreative Cloudを向�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
+source-git-commit: ba9266ed28d6c9db6f5fe64989b43374c4166673
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1419'
 ht-degree: 0%
 
 ---
@@ -230,8 +230,6 @@ ht-degree: 0%
     <em>Photoshopのアクションを使用すれば、退屈な作業を省き、時間を大幅に節約できます</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Photoshopでスマートに効率的に作業" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
@@ -260,11 +258,6 @@ ht-degree: 0%
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>グリーンスクリーンは動画専用ではない (PDF)</strong></a>
     </div>
     <em>写真スタジオでグリーンスクリーンを使用し、After Effectsを使用してPhotoshopで使用する写真を準備できます</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>  
@@ -396,6 +389,16 @@ ht-degree: 0%
 
 <table  style="table-layout:fixed">
 <tr>
+<td>
+   <a href="assets/TamingTypeAnxiety.pdf">
+      <img alt="飼い慣らされたタイプの不安" src="assets/TamingTypeAnxiety.jpg" />
+   </a>
+    <div>
+   <a href="assets/TamingTypeAnxiety.pdf"><strong>飼い慣らし型不安 (PDF)</strong></a>
+    </div>
+    <em>20,000 種類を超えるプロがデザインしたフォントにCreative Cloudでアクセスし、使用する方法</em>
+    <br>
+  </td>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
       <img alt="美しいタイポグラフィを作成するCreative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
@@ -426,12 +429,6 @@ ht-degree: 0%
     <em>OpenType形式では、最大 65,536 個のグリフを含めることができます</em>
     <br>
   </td>
-  <td>
-    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### InDesign
