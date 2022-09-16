@@ -4,9 +4,9 @@ description: Tutorialsを活用してAdobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
+source-git-commit: 7db89df9d3fed62368eb9fb1d3caf1f6b969060b
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1208'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 ![Creative CloudHero Image](../assets/Stock.jpg)
 
-クリエイターには、注目を集めて維持できる、視覚的に説得力のある新しいコンテンツをすばやく提供しなければならないというプレッシャーがかかっています。 Adobe [!DNL Stock] for enterprise を使用すると、クリエイティブチームは毎日使用するAdobeのクリエイティブアプリから 2 億点以上の画像、ビデオ、テンプレート、イラスト、オーディオファイル、3D アセットにアクセスできます。
-
+クリエイターには、魅力的なビジュアルコンテンツをすばやく提供しなければならないというプレッシャーがかかっています。 Adobe Stockを使用することで、クリエイティブチームは毎日使用するCreative Cloudアプリケーションから 3 億点以上のロイヤリティフリーの画像、ビデオ、オーディオファイル、テンプレート、イラスト、3D アセットにアクセスできます。 Creative CloudPro エディションで、Adobe Stockの通常アセットに無制限にアクセスできます。 stock.adobe.com で最新のコレクションを探す
 
 ## クリックしてAdobe [!DNL Stock] tutorial
 
