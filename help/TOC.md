@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud エンタープライズ版
 user-guide-description: エンタープライズ向けのCreative Cloudに特化したチュートリアルとクイックリファレンスガイドをご覧ください。
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 8%
    + [概要](cce/overview-cce.md)
    + チュートリアル {#ccetutorials}
       + [コンテンツクリエイター向けAcrobat](cce/acrobat-content-creators.md)
+      + [CC ライブラリによる CC ワークフローの改善](cce/cc-workflows-cc-libraries.md)
       + [チーム用Creative Cloudライブラリの作成](cce/ccteamlibraries.md)
       + [ブランディングアセットのグループ版Creative Cloudライブラリとの共有](cce/sharecclibraries.md)
       + [ユニークな合成を作成するAdobe [!DNL Stock] iPad版Photoshop](cce/compositepsipad.md)

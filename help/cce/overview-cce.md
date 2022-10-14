@@ -4,9 +4,9 @@ description: Tutorialsでエンタープライズ製品のCreative Cloudを向�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: eb461cadf0dc4c2122e3772e6d8f082516fd14f0
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '1423'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
  <td>
-   <a href="assets/AcrobatforContentCreators.pdf">
+   <a href="acrobat-content-creators.md">
       <img alt="コンテンツクリエイター向けAcrobat" src="assets/AcrobatforContentCreators.jpg" />
    </a>
     <div>
-   <a href="assets/AcrobatforContentCreators.pdf"><strong>コンテンツクリエイター向けAcrobat(PDF)</strong></a>
+   <a href="acrobat-content-creators.md"><strong>コンテンツクリエイター向けAcrobat(PDF)</strong></a>
     </div>
     <em>クリエイティブワークフローの効率化に役立つAcrobatツールについて説明します</em>
     <br>
@@ -141,6 +141,16 @@ ht-degree: 0%
 <table  style="table-layout:fixed">
 <tr>
   <td>
+   <a href="cc-workflows-cc-libraries.md">
+      <img alt="CC ライブラリによる CC ワークフローの改善" src="assets/CCTeamLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="cc-workflows-cc-libraries.md"><strong>CC ライブラリによる CC ワークフローの改善</strong></a>
+    </div>
+    <em>Creative Cloudライブラリを使用してデザイン要素を一元管理し、デザイナーとチームがプロジェクトの一貫性を保つ方法を説明します</em>
+    <br>
+  </td>
+  <td>
    <a href="ccteamlibraries.md">
       <img alt="チーム用Creative Cloudライブラリの作成" src="assets/CCTeamLibraries_1280.jpg" />
    </a>
@@ -170,6 +180,8 @@ ht-degree: 0%
     <em>Creative Cloudライブラリにはブランドシステムが組み込まれており、デザイナーはブランドアセットをクリエイティブチーム間で共有できます</em>
     <br>
   </td>
+  </tr>
+  <tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="IllustratorのテキストスタイルをCreative Cloudライブラリと共有" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -178,6 +190,21 @@ ht-degree: 0%
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>IllustratorのテキストスタイルをCreative Cloudライブラリと共有 (PDF)</strong></a>
     </div>
     <em>Illustratorでスマートに仕事をする</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
