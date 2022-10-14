@@ -1,13 +1,13 @@
 ---
 user-guide-title: Creative Cloudエンタープライズ版Tutorials
 breadcrumb-title: Creative Cloud エンタープライズ版
-user-guide-description: エンタープライズ向けのCreative Cloudに特化したチュートリアルとクイックリファレンスガイドをご覧ください。
+user-guide-description: エンタープライズ向けのCreative Cloudに特化したチュートリアルとクイックリファレンスガイドを表示
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
+source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '387'
+ht-degree: 9%
 
 ---
 
@@ -20,13 +20,15 @@ ht-degree: 0%
    + チュートリアル {#ccetutorials}
       + [コンテンツクリエイター向けAcrobat](cce/acrobat-content-creators.md)
       + [CC ライブラリによる CC ワークフローの改善](cce/cc-workflows-cc-libraries.md)
+      + [飼い慣らされたタイプの不安](cce/Taming-font-anxiety.md)
       + [チーム用Creative Cloudライブラリの作成](cce/ccteamlibraries.md)
       + [ブランディングアセットのグループ版Creative Cloudライブラリとの共有](cce/sharecclibraries.md)
       + [ユニークな合成を作成するAdobe [!DNL Stock] iPad版Photoshop](cce/compositepsipad.md)
       + [Photoshopでのシネマグラフの作成](cce/cinemagraphps.md)
       + [グラフィック形式のアルファベットの組み合わせのデコード](cce/alphabetsoup.md)
       + [iPadとiPhoneのFrescoをお試しください](cce/frescoworkshop.md)
-   + [クイックリファレンスガイド](quick-reference/overview-ref.md)
+   + クイックリファレンスガイド {#ccerefguides}
+   + [製品リスト](quick-reference/overview-ref.md)
 + [!DNL Stock] {#stockoverview}
    + [概要](stock/overview-stock.md)
    + チュートリアル {#stocktutorials}
@@ -63,7 +65,8 @@ ht-degree: 0%
    + [概要](dva/overview-dva.md)
    + チュートリアル {#videotutorials}
       + [Frame.io を使用したビデオレビュー](dva/video-review-frame-io.md)
-   + [クイックリファレンスガイド](dva/overview-dva-ref.md)
+   + クイックリファレンスガイド {#stockrefguides}
+      + [Stock ガイド](dva/overview-dva-ref.md)
 + XD {#xdoverview}
    + [概要](xd/overview-xd.md)
    + チュートリアル {#xdtutorials}
