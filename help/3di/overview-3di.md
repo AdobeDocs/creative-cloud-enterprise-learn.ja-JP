@@ -4,9 +4,9 @@ description: Tutorialsを使って 3D & VR のAdobeを習得
 role: User
 level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: f5976ce274daea03ef5066f1c292c3ed6a6ad92f
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative CloudHero Image](../assets/Dimenio.jpg)
 
-魅力的な 3D のコンテンツを高品質のモデル、マテリアル、ライトを使用して作成できます。 [!DNL Dimension] では、ブランドの視覚化、イラスト、製品モックアップ、パッケージデザインなどのクリエイティブ作品を簡単に制作できます。
-
-## クリックして、3D &amp; VRAdobeのチュートリアルを表示
+魅力的な 3D のコンテンツを高品質のモデル、マテリアル、ライトを使用して作成できます。 [!DNL Dimension] では、ブランドの視覚化、イラスト、製品モックアップ、パッケージデザインなどのクリエイティブ作品を簡単に制作できます。 チュートリアルを表示する画像を選択します。
 
 <table>
 <tr>
@@ -51,9 +49,7 @@ ht-degree: 0%
     <em>実際の製品の外観を確認する場合は、Adobe [!DNL Dimension] は頼りになるアプリです</em>
     <br>
   </td>
-</tr>
-   <tr>
- <td>
+  <td>
    <a href="mastering3dlighting.md">
       <img alt="CGI での 3D ライティングをマスターするためのヒントとテクニック" src="assets/Mastering3dlighting_1.gif" />
    </a>
@@ -63,6 +59,8 @@ ht-degree: 0%
     <em>3D ライティングと、コンピューターで生成したシーンを完全に変える様々なライティング条件を作成する方法、およびシーン内のオブジェクトの外観について学習します</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="photorealistic.md">
       <img alt="3D レンダリングと合成を使用したフォトリアルな仮想写真の作成" src="assets/Photorealistic_TOC.png" />
@@ -81,6 +79,16 @@ ht-degree: 0%
    <a href="3ddimensionstock.md"><strong>3D モデルのカスタマイズとブランディング [!DNL Dimension] とAdobe [!DNL Stock]</strong></a>
     </div>
     <em>3D モデルのカスタマイズとブランディング [!DNL Dimension] マテリアル、環境プロパティ、ライト、写真を使用して、あらゆるデザインプロジェクト用にフォトリアルな画像を作成します</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
+    <div>
     <br>
   </td>
 </tr>

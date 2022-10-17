@@ -4,9 +4,9 @@ description: Tutorialsを活用してAdobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 7db89df9d3fed62368eb9fb1d3caf1f6b969060b
+source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
 workflow-type: tm+mt
-source-wordcount: '1208'
+source-wordcount: '1211'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative CloudHero Image](../assets/Stock.jpg)
 
-クリエイターには、魅力的なビジュアルコンテンツをすばやく提供しなければならないというプレッシャーがかかっています。 Adobe Stockを使用することで、クリエイティブチームは毎日使用するCreative Cloudアプリケーションから 3 億点以上のロイヤリティフリーの画像、ビデオ、オーディオファイル、テンプレート、イラスト、3D アセットにアクセスできます。 Creative CloudPro エディションで、Adobe Stockの通常アセットに無制限にアクセスできます。 stock.adobe.com で最新のコレクションを探す
-
-## クリックしてAdobe [!DNL Stock] tutorial
+クリエイターには、魅力的なビジュアルコンテンツをすばやく提供しなければならないというプレッシャーがかかっています。 Adobe Stockを使用することで、クリエイティブチームは毎日使用するCreative Cloudアプリケーションから 3 億点以上のロイヤリティフリーの画像、ビデオ、オーディオファイル、テンプレート、イラスト、3D アセットにアクセスできます。 Creative CloudPro エディションで、Adobe Stockの通常アセットに無制限にアクセスできます。 stock.adobe.com で最新のコレクションをご覧ください。 チュートリアルを表示する画像を選択します。
 
 <table>
 <tr>
@@ -51,9 +49,7 @@ ht-degree: 0%
     <em>Adobe [!DNL Stock] およびAfter Effectsのアニメーションスタイル</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="animatevector.md">
          <img alt="アニメーションAdobe [!DNL Stock] Photoshopのベクターイラスト" src="assets/animatevector.jpg" />
       </a>
@@ -63,6 +59,8 @@ ht-degree: 0%
       <em>編集可能なベクター画像を使用して、ニュースレターのグラフィックにアニメーションを追加し、Adobeする [!DNL Stock]</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="annualreport.md">
          <img alt="年次報告書の作成にAdobe [!DNL Stock] とSpark Video" src="assets/annualreport.jpg" />
@@ -83,9 +81,7 @@ ht-degree: 0%
       <em>使用Adobe [!DNL Stock] Photoshopで画像、テクスチャ、パターンをカスタムアニメーションに</em>
       <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="changecolors.md">
          <img alt="Adobe [!DNL Stock] ストーリーに合わせた画像のカラー" src="assets/changecolors.jpg" />
       </a>
@@ -105,6 +101,8 @@ ht-degree: 0%
       <em>Adobe Illustratorでコラージュをデザインし、Adobeの画像から目を引く 3D 効果を追加します [!DNL Stock]</em>
       <br>
   </td>
+</tr>
+<tr>
   <td>
       <a href="boldlabel.md">
          <img alt="Adobe [!DNL Stock] テンプレートとPhotoshopスマートオブジェクト" src="assets/boldlabel.jpg" />
@@ -115,9 +113,7 @@ ht-degree: 0%
       <em>Adobeのリアルなパッケージテンプレートを使って、カスタムデザインをデザインし、視覚化しましょう [!DNL Stock]</em>
       <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="infographic.md">
          <img alt="Adobe [!DNL Stock]" src="assets/infographic.jpg" />
       </a>
@@ -179,9 +175,7 @@ ht-degree: 0%
       <em>Adobe [!DNL Stock] &amp; XD</em>
       <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="animationemail.md">
          <img alt="アニメーションを使用した電子メールAdobe [!DNL Stock] とPhotoshop" src="assets/animationemail.jpg" />
       </a>
@@ -191,6 +185,8 @@ ht-degree: 0%
       <em>Adobe [!DNL Stock] とPhotoshop</em>
       <br>
   </td>
+</tr>
+<tr>
  <td>
       <a href="brandgradients.md">
          <img alt="美しいグラデーションとAdobe [!DNL Stock] assets" src="assets/brandgradients.jpg" />
@@ -211,9 +207,7 @@ ht-degree: 0%
       <em>広告キャンペーン全体でカラーとグラデーションを組み合わせることで、様々な画像でブランドの一体感を生み出します</em>
       <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="moodboard.md">
          <img alt="インスピレーションあふれるプロジェクトムードボードをAdobe [!DNL Stock]" src="assets/moodboard.jpg" />
       </a>
@@ -233,6 +227,8 @@ ht-degree: 0%
       <em>2 つの優れたAdobe [!DNL Stock] sns に投稿する写真</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
    <a href="loadingscreen.md">
       <img alt="カスタマイズで読み込み画面のアニメーションをAdobe [!DNL Stock] とXD" src="assets/loadingscreen.jpg" />
@@ -243,9 +239,7 @@ ht-degree: 0%
     <em>ベクターアートワークをAdobe [!DNL Stock] モバイルアプリ用に低温の読み込み画面のアニメーションを作成するには</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
    <a href="presentationtemplate.md">
       <img alt="カスタマイズAdobe [!DNL Stock] プロ並みの目立つプレゼンテーション用テンプレート" src="assets/presentationtemplate.jpg" />
    </a>
@@ -265,6 +259,8 @@ ht-degree: 0%
     <em>プロジェクトに見栄えの良いイラストを加えて、スタイリッシュに仕上げましょう。 最適なベクターを見つけるAdobe [!DNL Stock]を選択し、Adobe Illustratorを使用してプロジェクトのパレットにカラーを一致させます</em>
     <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="静止画に動きを追加するAdobe [!DNL Stock] とPhotoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
@@ -278,31 +274,31 @@ ht-degree: 0%
 </tr>
 <tr>
    <td>
-   <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf">
+   <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank">
       <img alt="Photoshop iPad版でコンポジットを作成し、Adobe [!DNL Stock] images" src="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.jpg" />
    </a>
     <div>
-   <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf"><strong>Photoshop iPad版でコンポジットを作成し、Adobe [!DNL Stock] images(PDF)</strong></a>
+   <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank"><strong>Photoshop iPad版でコンポジットを作成し、Adobe [!DNL Stock] images(PDF)</strong></a>
     </div>
     <em>iPadでPhotoshopの機能を使用して、お気に入りのAdobe Creative Cloudアプリケーションをまったく新しい方法で使用する方法を学習します</em>
     <br>
   </td>
    <td>
-   <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf">
+   <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf" target="_blank">
       <img alt="アニメーションAdobe [!DNL Stock] Photoshopのベクターイラスト" src="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.jpg" />
    </a>
     <div>
-   <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf"><strong>アニメーションAdobe [!DNL Stock] Photoshopのベクターイラスト (PDF)</strong></a>
+   <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf" target="_blank"><strong>アニメーションAdobe [!DNL Stock] Photoshopのベクターイラスト (PDF)</strong></a>
     </div>
     <em>After EffectsとAdobe [!DNL Stock]を使用すると、ストーリーを視覚的に伝えるのに役立つ魅力的な特殊効果をすばやく作成できます</em>
     <br>
   </td>
    <td>
-      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf">
+      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank">
          <img alt="組み合わせてユニークなグラフィックを作成するAdobe [!DNL Stock] images" src="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.jpg" />
       </a>
       <div>
-      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>組み合わせてユニークなグラフィックを作成するAdobe [!DNL Stock] images(PDF)</strong></a>
+      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>組み合わせてユニークなグラフィックを作成するAdobe [!DNL Stock] images(PDF)</strong></a>
       </div>
       <em>2 つの異なる画像を組み合わせて、デザインプロジェクト用にまったく新しいシーンを作成します。 Adobe [!DNL Stock] Adobe Photoshopで簡単に</em>
       <br>
@@ -310,66 +306,76 @@ ht-degree: 0%
 </tr>
 <tr>
    <td>
-      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf">
+      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="Photoshop CC とAdobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
       </a>
       <div>
-      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf"><strong>Photoshop CC とAdobe [!DNL Stock] (PDF)</strong></a>
+      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank"><strong>Photoshop CC とAdobe [!DNL Stock] (PDF)</strong></a>
       </div>
       <em>Adobe Photoshopでビデオ、イラスト、写真を合成してシネマグラフを作成する</em>
       <br>
   </td>
    <td>
-      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf">
+      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="Adobe [!DNL Stock] とPremiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
       </a>
       <div>
-      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf"><strong>Adobe [!DNL Stock] およびPremiere Pro(PDF)</strong></a>
+      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank"><strong>Adobe [!DNL Stock] およびPremiere Pro(PDF)</strong></a>
       </div>
       <em>Adobeを使用してデータに命を吹き込み、説得力のあるストーリーを伝える [!DNL Stock] とAdobe Premiere Pro</em>
       <br>
   </td>
    <td>
-      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf">
+      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank">
          <img alt="再配色Adobe [!DNL Stock] Adobe Illustratorのベクターアートワークで思い通りの外観を実現" src="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.jpg" />
       </a>
       <div>
-      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf"><strong>再配色Adobe [!DNL Stock] Adobe Illustratorでベクターアートワークを作成し、思い通りの外観に仕上げる (PDF)</strong></a>
+      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>再配色Adobe [!DNL Stock] Adobe Illustratorでベクターアートワークを作成し、思い通りの外観に仕上げる (PDF)</strong></a>
       </div>
       <em>Adobe [!DNL Stock] では、独自のベクターグラフィックを簡単に見つけることができます。Adobe Illustratorを使用すると、クリエイティブなビジョンに合わせてすばやく変更できます</em>
       <br>
    </td>
- </tr> 
- <tr>
    <td>
-      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf">
+      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="デザインの成果を現実の環境でAdobe [!DNL Stock] とPhotoshop" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf"><strong>デザインの成果を現実の環境でAdobe [!DNL Stock] およびPhotoshop(PDF)</strong></a>
+      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>デザインの成果を現実の環境でAdobe [!DNL Stock] およびPhotoshop(PDF)</strong></a>
       </div>
       <em>次の手順に従って、作品をリアルな外観でAdobe [!DNL Stock] Adobe Photoshopを使用したテンプレート</em>
       <br>
   </td>
+ </tr> 
+ <tr>
    <td>
-      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf">
+      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="驚くべき詳細をAdobe [!DNL Stock] 画像とLightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
       <div>
-      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf"><strong>驚くべき詳細をAdobe [!DNL Stock] 画像とLightroom for mobile(PDF)</strong></a>
+      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank"><strong>驚くべき詳細をAdobe [!DNL Stock] 画像とLightroom for mobile(PDF)</strong></a>
       </div>
       <em>モバイルデバイスでLightroomの機能を活用して、画像の魅力を最大限に引き出しましょう</em>
       <br>
   </td>
    <td>
-      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf">
+      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="ポスターのデザインを実物どおりにAdobe [!DNL Stock] とPhotoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf"><strong>ポスターのデザインを実物どおりにAdobe [!DNL Stock] およびPhotoshop(PDF)</strong></a>
+      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>ポスターのデザインを実物どおりにAdobe [!DNL Stock] およびPhotoshop(PDF)</strong></a>
       </div>
       <em>実際の環境でデザインを披露することで、デザインが世の中でどのように見えているかを把握できます</em>
       <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>

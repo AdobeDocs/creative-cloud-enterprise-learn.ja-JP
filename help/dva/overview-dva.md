@@ -4,9 +4,9 @@ description: Tutorialsを使用してAdobeDVA 製品の最新情報を入手
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: 36a413f40c7f8743d81628c36daba0062844679b
+source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative CloudHero Image](../assets/CCEbanner-DVA.png)
 
-ビデオ編集、モーショングラフィックス、ビジュアルエフェクト、アニメーションなどに対応したAdobeのソフトウェアとアプリで、アイデアに命を吹き込みましょう。
-
-## クリックしてAdobe動画チュートリアル
+ビデオ編集、モーショングラフィックス、ビジュアルエフェクト、アニメーションなどに対応したAdobeのソフトウェアとアプリで、アイデアに命を吹き込みましょう。 チュートリアルを表示する画像を選択します。
 
 <table>
 <tr>
