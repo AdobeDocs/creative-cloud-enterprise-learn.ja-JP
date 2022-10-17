@@ -4,7 +4,7 @@ breadcrumb-title: Creative Cloud エンタープライズ版
 user-guide-description: エンタープライズ向けのCreative Cloudに特化したチュートリアルとクイックリファレンスガイドを表示
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
+source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 9%
@@ -28,7 +28,7 @@ ht-degree: 9%
       + [グラフィック形式のアルファベットの組み合わせのデコード](cce/alphabetsoup.md)
       + [iPadとiPhoneのFrescoをお試しください](cce/frescoworkshop.md)
    + クイックリファレンスガイド {#ccerefguides}
-   + [CCEガイド](quick-reference/overview-ref.md)
+      + [CCEガイド](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [概要](stock/overview-stock.md)
    + チュートリアル {#stocktutorials}
