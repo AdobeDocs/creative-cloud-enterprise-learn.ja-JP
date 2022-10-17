@@ -4,9 +4,9 @@ description: Adobe XDの最新情報に役立つTutorials
 role: User
 level: Beginner, Intermediate
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -91,8 +91,6 @@ Adobe XDは、web サイト、アプリ、音声インターフェイス、ゲ�
     <em>Adobe XDには、既存のワークフローと連動する優れたインタラクティブデザインツールが用意されており、インタラクティブデザインのビジョンを次のレベルに引き上げることができます</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank">
       <img alt="XDを使用したモバイル Web エクスペリエンスのデザイン" src="assets/MobileWebExperienceswithXD.jpg" />
@@ -103,6 +101,8 @@ Adobe XDは、web サイト、アプリ、音声インターフェイス、ゲ�
     <em>Adobe XDを使用した Russell Brown MAX Madness モバイル Web ギャラリーのデザインプロセスの舞台裏を説明します</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
       <img alt="Adobe XDでのモバイル Web エクスペリエンスのプロトタイプ作成" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
@@ -131,6 +131,11 @@ Adobe XDは、web サイト、アプリ、音声インターフェイス、ゲ�
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>『MAX・狂気とAdobe XD』(PDF)</strong></a>
     </div>
     <em>最適化されたモバイル web エクスペリエンスは、ユーザーの心に響きます</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

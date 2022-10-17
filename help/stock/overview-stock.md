@@ -4,9 +4,9 @@ description: Tutorialsを活用してAdobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '1212'
 ht-degree: 0%
 
 ---
@@ -259,9 +259,7 @@ ht-degree: 0%
     <em>プロジェクトに見栄えの良いイラストを加えて、スタイリッシュに仕上げましょう。 最適なベクターを見つけるAdobe [!DNL Stock]を選択し、Adobe Illustratorを使用してプロジェクトのパレットにカラーを一致させます</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="静止画に動きを追加するAdobe [!DNL Stock] とPhotoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -303,8 +301,6 @@ ht-degree: 0%
       <em>2 つの異なる画像を組み合わせて、デザインプロジェクト用にまったく新しいシーンを作成します。 Adobe [!DNL Stock] Adobe Photoshopで簡単に</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="Photoshop CC とAdobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
@@ -315,6 +311,8 @@ ht-degree: 0%
       <em>Adobe Photoshopでビデオ、イラスト、写真を合成してシネマグラフを作成する</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="Adobe [!DNL Stock] とPremiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -345,9 +343,7 @@ ht-degree: 0%
       <em>次の手順に従って、作品をリアルな外観でAdobe [!DNL Stock] Adobe Photoshopを使用したテンプレート</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="驚くべき詳細をAdobe [!DNL Stock] 画像とLightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -357,6 +353,8 @@ ht-degree: 0%
       <em>モバイルデバイスでLightroomの機能を活用して、画像の魅力を最大限に引き出しましょう</em>
       <br>
   </td>
+ </tr> 
+ <tr>
    <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="ポスターのデザインを実物どおりにAdobe [!DNL Stock] とPhotoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
@@ -368,12 +366,17 @@ ht-degree: 0%
       <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
