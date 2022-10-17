@@ -4,7 +4,7 @@ description: Tutorialsでエンタープライズ製品のCreative Cloudを向�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
+source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 ![Creative CloudHero Image](../assets/CCEbanner.png)
 
 企業のクリエイターは、分散したチームと共同作業をおこない、拡張性の高いプロセスを確立し、企業のシステムとガイドラインを遵守する必要があります。 このチュートリアルでは、エンタープライズの観点からCreative Cloudの新機能を学ぶことができます。
-
 
 ## 製品のチュートリアルを表示するにはここをクリックしてください（アルファベット順に表示）
 
@@ -316,11 +315,11 @@ ht-degree: 0%
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="Taming-font-anxiety.md">
+   <a href="taming-type-anxiety.md">
       <img alt="飼い慣らされたタイプの不安" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="Taming-font-anxiety.md"><strong>飼い慣らし型不安 (PDF)</strong></a>
+   <a href="taming-type-anxiety.md"><strong>飼い慣らし型不安 (PDF)</strong></a>
     </div>
     <em>20,000 種類を超えるプロがデザインしたフォントにCreative Cloudでアクセスし、使用する方法</em>
     <br>

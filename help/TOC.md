@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud エンタープライズ版
 user-guide-description: エンタープライズ向けのCreative Cloudに特化したチュートリアルとクイックリファレンスガイドを表示
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '393'
 ht-degree: 9%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 9%
 # Creative Cloudエンタープライズ版チュートリアル {#cce-learning-hub}
 
 + [概要](overview.md)
-+ CCE {#cceoverview}
++ Creative Cloud エンタープライズ版 {#cceoverview}
    + [概要](cce/overview-cce.md)
    + チュートリアル {#ccetutorials}
       + [コンテンツクリエイター向けAcrobat](cce/acrobat-content-creators.md)
       + [CC ライブラリによる CC ワークフローの改善](cce/cc-workflows-cc-libraries.md)
-      + [飼い慣らされたタイプの不安](cce/Taming-font-anxiety.md)
+      + [飼い慣らされたタイプの不安](cce/taming-type-anxiety.md)
       + [チーム用Creative Cloudライブラリの作成](cce/ccteamlibraries.md)
       + [ブランディングアセットのグループ版Creative Cloudライブラリとの共有](cce/sharecclibraries.md)
       + [ユニークな合成を作成するAdobe [!DNL Stock] iPad版Photoshop](cce/compositepsipad.md)
@@ -28,8 +28,8 @@ ht-degree: 9%
       + [グラフィック形式のアルファベットの組み合わせのデコード](cce/alphabetsoup.md)
       + [iPadとiPhoneのFrescoをお試しください](cce/frescoworkshop.md)
    + クイックリファレンスガイド {#ccerefguides}
-   + [製品リスト](quick-reference/overview-ref.md)
-+ [!DNL Stock] {#stockoverview}
+   + [CCEガイド](quick-reference/overview-ref.md)
++ [!DNL Adobe Stock] {#stockoverview}
    + [概要](stock/overview-stock.md)
    + チュートリアル {#stocktutorials}
       + [検索Adobe [!DNL Stock] ライセンス取得履歴](stock/searchstock.md)
@@ -55,19 +55,19 @@ ht-degree: 9%
       + [カスタマイズで読み込み画面のアニメーションをAdobe [!DNL Stock] とXD](stock/loadingscreen.md)
       + [カスタマイズAdobe [!DNL Stock] プロフェッショナルに見えるプレゼンテーションテンプレート](stock/presentationtemplate.md)
       + [Adobeのカラーのカスタマイズ [!DNL Stock] ベクターイラスト](stock/customizecolors.md)
-+ 3D &amp; VR {#3doverview}
++ Adobe3D &amp; VR {#3doverview}
    + [概要](3di/overview-3di.md)
    + チュートリアル {#3dtutorials}
       + [CGI での 3D ライティングをマスターするためのヒントとテクニック](3di/mastering3dlighting.md)
       + [3D レンダリングと合成を使用したフォトリアルな仮想写真の作成](3di/photorealistic.md)
       + [3D モデルのカスタマイズとブランディング [!DNL Dimension] とAdobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ ビデオ {#videooverview}
++ Adobeビデオ {#videooverview}
    + [概要](dva/overview-dva.md)
    + チュートリアル {#videotutorials}
       + [Frame.io を使用したビデオレビュー](dva/video-review-frame-io.md)
-   + クイックリファレンスガイド {#stockrefguides}
-      + [Stock ガイド](dva/overview-dva-ref.md)
-+ XD {#xdoverview}
+   + クイックリファレンスガイド {#videorefguides}
+      + [ビデオガイド](dva/overview-dva-ref.md)
++ Adobe XD {#xdoverview}
    + [概要](xd/overview-xd.md)
    + チュートリアル {#xdtutorials}
    + [慣れる [!UICONTROL コンポーネント] Adobe XD](xd/components.md)

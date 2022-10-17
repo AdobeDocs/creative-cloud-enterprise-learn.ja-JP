@@ -1,21 +1,21 @@
 ---
-title: チュートリアル
+title: Creative Cloudエンタープライズ版Tutorials
 description: エンタープライズ向けCreative Cloudラーニングハブへようこそ
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: cdb318618d08ab0eab1ec88c3faa3354e11f2fab
+source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '173'
+ht-degree: 9%
 
 ---
 
-# Creative Cloudエンタープライズ版Tutorials
+# Creative Cloudエンタープライズ版チュートリアル
 
 ![Creative CloudHero Image](assets/hero_cce.jpg)
 
-エンタープライズ向けCreative Cloudラーニングハブへようこそ。 エンタープライズ向けの学習に特化した幅広いCreative Cloud体験があります。 チュートリアル、Web セミナー、ユースケースでは、初心者から管理者まで、エンタープライズ製品のCreative Cloudをすばやく習得できるように設計されています。
+エンタープライズ向けCreative Cloudラーニングハブへようこそ。 ここでは、エンタープライズ向けの学習に特化した幅広いCreative Cloud体験を紹介します。 チュートリアル、Web セミナー、ユースケースでは、初心者から管理者まで、エンタープライズ製品のCreative Cloudをすばやく習得できるように設計されています。
 
 ## トピックを参照
 
@@ -42,18 +42,6 @@ ht-degree: 10%
     <br>
   </td>
   <td>
-    <a href="xd/overview-xd.md">
-      <img alt="Adobe XD" src="assets/XD.jpg" />
-    </a>
-    <div>
-   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-    </div>
-    <em>UI/UX のデザイン、プロトタイプ、共有</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe3D &amp; VR" src="assets/Dimenio.jpg" />
     </a>
@@ -63,6 +51,8 @@ ht-degree: 10%
     <em>グラフィックデザイナーのための 3D ツール</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobeビデオ" src="assets/CCEbanner-DVA.png" />
@@ -71,6 +61,16 @@ ht-degree: 10%
    <a href="dva/overview-dva.md"><strong>Adobeビデオ</strong></a>
     </div>
     <em>ビデオ編集、モーショングラフィックス、ビジュアルエフェクト、アニメーションなどに対応したAdobeのソフトウェアとアプリで、アイデアに命を吹き込みましょう</em>
+    <br>
+  </td>
+  <td>
+    <a href="xd/overview-xd.md">
+      <img alt="Adobe XD" src="assets/XD.jpg" />
+    </a>
+    <div>
+   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
+    </div>
+    <em>UI/UX のデザイン、プロトタイプ、共有</em>
     <br>
   </td>
   <td>
