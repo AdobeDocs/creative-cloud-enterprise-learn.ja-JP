@@ -4,7 +4,7 @@ description: 20,000 種類を超えるプロがデザインしたフォントに
 role: User
 level: Beginner, Intermediate
 thumb: KT-10963.jpg
-source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -17,4 +17,4 @@ Adobe Creative Cloudのサブスクリプションには、数多くの特典が
 
 以下の画像を選択して、このチュートリアルを表示するか、ダウンロードしてください。PDFについては、こちらを参照してください。
 
-[![チュートリアルの最初のページの画像](assets/TamingTypeAnxiety.jpg){&quot;width=680&quot;}](assets/TamingTypeAnxiety.pdf){target=&quot;blank&quot;}
+[![チュートリアルの最初のページの画像](assets/TamingTypeAnxiety.png){&quot;width=680&quot;}](assets/TamingTypeAnxiety.pdf){target=&quot;blank&quot;}

@@ -4,7 +4,7 @@ description: Creative Cloudライブラリを使用してデザイン要素を�
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
-source-git-commit: 7d00d1309550538ac1ab3b2c0eb3eeb290268eea
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 以下の画像を選択して、このチュートリアルを表示するか、ダウンロードしてください。PDFについては、こちらを参照してください。
 
-[![チュートリアルの最初のページの画像](assets/Improveccworkflowswithcclibraries.jpg){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target=&quot;blank&quot;}
+[![チュートリアルの最初のページの画像](assets/Improveccworkflowswithcclibraries.png){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target=&quot;blank&quot;}
