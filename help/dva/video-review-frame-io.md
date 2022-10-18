@@ -4,9 +4,9 @@ description: Adobe Premiere Proの Frame.io 拡張機能を使用して、タイ
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg
-source-git-commit: 86d38929a610846a56def4b71b22da3f111a4761
+source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 どこからでも共同作業 この実践チュートリアルでは、Adobe Premiere Pro向けの Frame.io 拡張機能を使用して、タイムラインを離れることなく、アセットの一元化と共有、リアルタイムでのコメントの受け取り、改訂のトラック、承認プロセスの迅速化を実現する方法について説明します。
 
-**以下の画像を選択して、Frame.io でのビデオレビューをダウンロードします (PDF)。**
+以下の画像を選択して、このチュートリアルを表示するか、ダウンロードしてください。PDFについては、こちらを参照してください。
 
-[![Acrobatのチュートリアル画像](assets/Videoreviewwithframe_400.jpg)](assets/Video-review-with-Frame.io.pdf)
+[![チュートリアルの最初のページの画像](assets/Videoreviewwithframe.jpg){&quot;width=680&quot;}](assets/Video-review-with-Frame.io.pdf){target=&quot;blank&quot;}
