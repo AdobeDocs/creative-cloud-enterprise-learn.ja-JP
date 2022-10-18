@@ -4,9 +4,9 @@ description: クリエイティブワークフローの効率化に役立つAdob
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: b20d263758d627eae81d574059646e4911f8ca57
+source-git-commit: 5c00c61ce68465f44c43664ca807f11cd1ff0b93
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 コンテンツ作成者は、通常、PDFを生成し、AcrobatでそれらのPDFファイルを表示します。 ただし、Acrobatには、一般的なクリエイティブワークフローを合理化するのに役立つツールも多数用意されています。
 
-<table style="table-layout:fixed">
+<table style="table-layout:auto">
 <tr>
  <td>
    <a href="assets/AcrobatforContentCreators.pdf" target="_blank">
