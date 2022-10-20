@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud エンタープライズ版
 user-guide-description: エンタープライズ向けのCreative Cloudに特化したチュートリアルとクイックリファレンスガイドを表示
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
+source-git-commit: 8776e5bf06700702223c284d5be437019654a793
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '396'
 ht-degree: 9%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 9%
 + [!DNL Adobe Stock] {#stockoverview}
    + [概要](stock/overview-stock.md)
    + チュートリアル {#stocktutorials}
+      + [魅力的なデジタルアセット](stock/stunning-digital-assets.md)
       + [検索Adobe [!DNL Stock] ライセンス取得履歴](stock/searchstock.md)
       + [Adobe [!DNL Stock] images](stock/handdrawn.md)
       + [マスクとアニメーションでタイポグラフィを演出](stock/flairtypography.md)

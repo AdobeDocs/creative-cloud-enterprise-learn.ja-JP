@@ -4,9 +4,9 @@ description: Tutorialsを活用してAdobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
+source-git-commit: 8776e5bf06700702223c284d5be437019654a793
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1240'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ ht-degree: 0%
 <table>
 <tr>
    <td>
+      <a href="stunning-digital-assets.md">
+         <img alt="魅力的なデジタルアセット" src="assets/Stunningdigitalassets.png" />
+      </a>
+      <div>
+      <a href="stunning-digital-assets.md"><strong>魅力的なデジタルアセット</strong></a>
+      </div>
+      <em>この実践チュートリアルでは、Adobe Stockを CC ライブラリと統合して、印刷や画面用に一貫したプロフェッショナルなデザイン結果を作成する方法を説明します</em>
+      <br>
+  </td>
+  <td>
       <a href="searchstock.md">
          <img alt="検索Adobe [!DNL Stock] ライセンス取得履歴" src="assets/StockSearch_1280.jpg" />
       </a>
@@ -49,6 +59,8 @@ ht-degree: 0%
     <em>Adobe [!DNL Stock] およびAfter Effectsのアニメーションスタイル</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
       <a href="animatevector.md">
          <img alt="アニメーションAdobe [!DNL Stock] Photoshopのベクターイラスト" src="assets/animatevector.jpg" />
@@ -59,9 +71,7 @@ ht-degree: 0%
       <em>編集可能なベクター画像を使用して、ニュースレターのグラフィックにアニメーションを追加し、Adobeする [!DNL Stock]</em>
       <br>
   </td>
-</tr>
-<tr>
-   <td>
+ <td>
       <a href="annualreport.md">
          <img alt="年次報告書の作成にAdobe [!DNL Stock] とSpark Video" src="assets/annualreport.jpg" />
       </a>
@@ -91,7 +101,9 @@ ht-degree: 0%
       <em>ユニークな写真を検索するAdobe [!DNL Stock] Adobe Photoshopで必要に応じてカラーを調整します</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="collage.md">
          <img alt="Adobeを使用したポスター用の 3D コラージュの作成 [!DNL Stock] images" src="assets/collage.jpg" />
       </a>
@@ -101,8 +113,6 @@ ht-degree: 0%
       <em>Adobe Illustratorでコラージュをデザインし、Adobeの画像から目を引く 3D 効果を追加します [!DNL Stock]</em>
       <br>
   </td>
-</tr>
-<tr>
   <td>
       <a href="boldlabel.md">
          <img alt="Adobe [!DNL Stock] テンプレートとPhotoshopスマートオブジェクト" src="assets/boldlabel.jpg" />
@@ -133,7 +143,9 @@ ht-degree: 0%
       <em>製品の価格計画を比較して、見込み客に必要な情報を一目で伝えるグラフィックを作成します</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="surrealcomposite.md">
          <img alt="Adobe [!DNL Stock]" src="assets/surrealcomposite.jpg" />
       </a>
@@ -143,8 +155,6 @@ ht-degree: 0%
       <em>複数の画像とカラー、モーション、マスキングエフェクトを組み合わせて、印象深いエディトリアル画像を作成します</em>
       <br>
   </td>
-</tr>
-<tr>
    <td>
       <a href="surrealpattern.md">
          <img alt="Adobe [!DNL Stock]" src="assets/surrealpattern.jpg" />
@@ -175,7 +185,9 @@ ht-degree: 0%
       <em>Adobe [!DNL Stock] &amp; XD</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="animationemail.md">
          <img alt="アニメーションを使用した電子メールAdobe [!DNL Stock] とPhotoshop" src="assets/animationemail.jpg" />
       </a>
@@ -185,9 +197,7 @@ ht-degree: 0%
       <em>Adobe [!DNL Stock] とPhotoshop</em>
       <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
       <a href="brandgradients.md">
          <img alt="美しいグラデーションとAdobe [!DNL Stock] assets" src="assets/brandgradients.jpg" />
       </a>
@@ -217,7 +227,9 @@ ht-degree: 0%
       <em>チーム/クライアントに情報、アイデア、ビジュアル、カラーパレットを伝えるためのプロジェクトムードボードを作成します</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="realisticcomposite.md">
          <img alt="リアルな合成写真を作成するAdobe [!DNL Stock] images" src="assets/realisticcomposite.jpg" />
       </a>
@@ -227,8 +239,6 @@ ht-degree: 0%
       <em>2 つの優れたAdobe [!DNL Stock] sns に投稿する写真</em>
       <br>
   </td>
-</tr>
-<tr>
    <td>
    <a href="loadingscreen.md">
       <img alt="カスタマイズで読み込み画面のアニメーションをAdobe [!DNL Stock] とXD" src="assets/loadingscreen.jpg" />
@@ -259,7 +269,9 @@ ht-degree: 0%
     <em>プロジェクトに見栄えの良いイラストを加えて、スタイリッシュに仕上げましょう。 最適なベクターを見つけるAdobe [!DNL Stock]を選択し、Adobe Illustratorを使用してプロジェクトのパレットにカラーを一致させます</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="静止画に動きを追加するAdobe [!DNL Stock] とPhotoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -269,8 +281,6 @@ ht-degree: 0%
       <em>静止画にビデオを組み込むことで、あらゆる画面で視聴者を魅了することができます</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
    <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank">
       <img alt="Photoshop iPad版でコンポジットを作成し、Adobe [!DNL Stock] images" src="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.jpg" />
@@ -301,7 +311,9 @@ ht-degree: 0%
       <em>2 つの異なる画像を組み合わせて、デザインプロジェクト用にまったく新しいシーンを作成します。 Adobe [!DNL Stock] Adobe Photoshopで簡単に</em>
       <br>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="Photoshop CC とAdobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
       </a>
@@ -311,8 +323,6 @@ ht-degree: 0%
       <em>Adobe Photoshopでビデオ、イラスト、写真を合成してシネマグラフを作成する</em>
       <br>
   </td>
-</tr>
-<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="Adobe [!DNL Stock] とPremiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -343,7 +353,9 @@ ht-degree: 0%
       <em>次の手順に従って、作品をリアルな外観でAdobe [!DNL Stock] Adobe Photoshopを使用したテンプレート</em>
       <br>
   </td>
-  <td>
+ </tr> 
+ <tr>
+   <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="驚くべき詳細をAdobe [!DNL Stock] 画像とLightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -353,9 +365,7 @@ ht-degree: 0%
       <em>モバイルデバイスでLightroomの機能を活用して、画像の魅力を最大限に引き出しましょう</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="ポスターのデザインを実物どおりにAdobe [!DNL Stock] とPhotoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -366,17 +376,7 @@ ht-degree: 0%
       <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
