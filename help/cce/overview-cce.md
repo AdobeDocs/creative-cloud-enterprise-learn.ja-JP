@@ -4,9 +4,9 @@ description: Tutorialsでエンタープライズ製品のCreative Cloudを向�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1456'
 ht-degree: 0%
 
 ---
@@ -141,10 +141,10 @@ ht-degree: 0%
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="CC ライブラリによる CC ワークフローの改善" src="assets/Improveccworkflowswithcclibraries.png" />
+      <img alt="CC ライブラリによる CC ワークフローの改善 (PDF)" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
-   <a href="cc-workflows-cc-libraries.md"><strong>CC ライブラリによる CC ワークフローの改善</strong></a>
+   <a href="cc-workflows-cc-libraries.md"><strong>CC ライブラリによる CC ワークフローの改善 (PDF)</strong></a>
     </div>
     <em>Creative Cloudライブラリを使用してデザイン要素を一元管理し、デザイナーとチームがプロジェクトの一貫性を保つ方法を説明します</em>
     <br>
@@ -316,7 +316,7 @@ ht-degree: 0%
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="飼い慣らされたタイプの不安" src="assets/TamingTypeAnxiety.png" />
+      <img alt="飼い慣らし型不安 (PDF)" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
    <a href="taming-type-anxiety.md"><strong>飼い慣らし型不安 (PDF)</strong></a>

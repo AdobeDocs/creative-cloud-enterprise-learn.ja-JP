@@ -4,9 +4,9 @@ description: Tutorialsを活用してAdobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 8776e5bf06700702223c284d5be437019654a793
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '1240'
+source-wordcount: '1242'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
 <tr>
    <td>
       <a href="stunning-digital-assets.md">
-         <img alt="魅力的なデジタルアセット" src="assets/Stunningdigitalassets.png" />
+         <img alt="魅力的なデジタルアセット (PDF)" src="assets/Stunningdigitalassets.png" />
       </a>
       <div>
-      <a href="stunning-digital-assets.md"><strong>魅力的なデジタルアセット</strong></a>
+      <a href="stunning-digital-assets.md"><strong>魅力的なデジタルアセット (PDF)</strong></a>
       </div>
       <em>この実践チュートリアルでは、Adobe Stockを CC ライブラリと統合して、印刷や画面用に一貫したプロフェッショナルなデザイン結果を作成する方法を説明します</em>
       <br>
