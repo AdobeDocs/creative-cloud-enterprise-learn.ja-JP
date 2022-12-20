@@ -4,9 +4,9 @@ description: Tutorialsを使って 3D & VR のAdobeを習得
 role: User
 level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: f5976ce274daea03ef5066f1c292c3ed6a6ad92f
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ ht-degree: 0%
 <table>
 <tr>
  <td>
+   <a href="substance-3d-stager.md">
+      <img alt="3D デザインとレンダリング" src="assets/Substance3DStager.png" />
+   </a>
+    <div>
+   <a href="substance-3d-stager.md"><strong>3D デザインとレンダリング</strong></a>
+    </div>
+    <em>コンテンツの読み込み、シーンの配置、マテリアルとテクスチャの適用、画像ベースのライティングと物理的なライティングの調整、様々な解像度でのカメラの保存、フォトリアルな画像のレンダリングをおこないます</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
       <img alt="リアルな 3D モックアップをAdobe [!DNL Stock] および [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
@@ -49,6 +59,8 @@ ht-degree: 0%
     <em>実際の製品の外観を確認する場合は、Adobe [!DNL Dimension] は頼りになるアプリです</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="mastering3dlighting.md">
       <img alt="CGI での 3D ライティングをマスターするためのヒントとテクニック" src="assets/Mastering3dlighting_1.gif" />
@@ -59,8 +71,6 @@ ht-degree: 0%
     <em>3D ライティングと、コンピューターで生成したシーンを完全に変える様々なライティング条件を作成する方法、およびシーン内のオブジェクトの外観について学習します</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="photorealistic.md">
       <img alt="3D レンダリングと合成を使用したフォトリアルな仮想写真の作成" src="assets/Photorealistic_TOC.png" />
@@ -79,11 +89,6 @@ ht-degree: 0%
    <a href="3ddimensionstock.md"><strong>3D モデルのカスタマイズとブランディング [!DNL Dimension] とAdobe [!DNL Stock]</strong></a>
     </div>
     <em>3D モデルのカスタマイズとブランディング [!DNL Dimension] マテリアル、環境プロパティ、ライト、写真を使用して、あらゆるデザインプロジェクト用にフォトリアルな画像を作成します</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
