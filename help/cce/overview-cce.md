@@ -4,9 +4,9 @@ description: Tutorialsでエンタープライズ製品のCreative Cloudを向�
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
+source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
 workflow-type: tm+mt
-source-wordcount: '1456'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,26 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="adobe-express-content-that-stands-out.md">
+      <img alt="Adobe Express:注目を集めるコンテンツ" src="assets/Adobe-Express-content-that-stands-out.png" />
+   </a>
+    <div>
+   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express:注目を集めるコンテンツ</strong></a>
+    </div>
+    <em> Adobe Express</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
+      <img alt="Adobe Sparkでのブランドの作成" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Adobe Sparkでのブランドの作成 (PDF)</strong></a>
+    </div>
+    <em>Adobe Sparkでブランドの定義を簡単に</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
       <img alt="スライドショーのSpark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
    </a>
@@ -83,11 +103,6 @@ ht-degree: 0%
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>新しい制作アーティストの紹介：Adobe Spark Post(PDF)</strong></a>
     </div>
     <em>Adobe Sparkでは、レイアウトの作成、カラーの定義、アートワークの読み込み、コンポジション内での要素の配置について学習します</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -214,6 +229,16 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="collaboration-the-future-of-creativity.md">
+      <img alt="共同作業：クリエイティビティの未来" src="assets/Collaboration-The-Future-of-Creativity.png" />
+   </a>
+    <div>
+   <a href="collaboration-the-future-of-creativity.md"><strong>共同作業：クリエイティビティの未来</strong></a>
+    </div>
+    <em>Adobe Creative Cloudのサブスクリプションには数多くの特典があります。そのうち 20,000 種類は、プロがデザインし、厳選したAdobe Fontsのフォントに無料でアクセスできます</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
       <img alt="ハンドレタリングからIllustratorまでCreative Cloud" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
@@ -231,16 +256,6 @@ ht-degree: 0%
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Lightroom Web からInDesign経由のCreative Cloud(PDF)</strong></a>
     </div>
     <em>カメラファイルとライブラリを使用して、創造性をカメラから最終Creative Cloudに引き上げましょう</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
