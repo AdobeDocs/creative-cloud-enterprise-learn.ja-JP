@@ -1,60 +1,60 @@
 ---
-source-git-commit: 9be3ea4800bbbafd7173eb56547930e486bb8d93
+source-git-commit: 52fd854fb4327ae1280d43b0412b9122f1cdf104
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
-# 記事の投稿
+# Contribute の記事
 
-ドキュメントチーム以外のAdobe社の社員と同様に、コミュニティからの貢献を歓迎します。
+アドビでは、コミュニティからのコントリビューションや、ドキュメントチーム以外のAdobeスタッフからのコントリビューションを歓迎しています。
 
-## Adobe Open Source Code of Conduct
+## Adobeオープンソース行動規範
 
-このプロジェクトでは、[Adobe Open Source Code of Conduct](code-of-conduct.md)または[.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct)を採用しました。 詳細については、[寄稿](contributing.md)の記事を参照してください。
+このプロジェクトでは、 [Adobeオープンソース行動規範](code-of-conduct.md) または [.NET Foundation の行動規範](https://dotnetfoundation.org/code-of-conduct)を選択します。 詳しくは、 [寄稿](contributing.md) 記事
 
-## アドビコンテンツへの貢献について
+## アドビコンテンツへのAdobeについて
 
-[『Adobe Docs Contributor Guide』](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+詳しくは、 [Adobeドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を選択します。
 
-どのような貢献を行うかは、自分が何者で、どのような変更を行うかによって異なります。
+コントリビュート方法は、コントリビュートするユーザーと変更内容によって異なります。
 
-### 軽微な変更
+### マイナーな変更
 
-気持ちの良さからマイナーアップデートを提供する場合は、記事にアクセスし、記事のGitHubソースに移動する記事の&#x200B;**[編集**]リンクをクリックします。 その後、GitHub UIを使用して更新を行います。 詳細については、一般的な[Adobe Docs寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+親切心から、マイナーアップデートを提供する場合は、記事にアクセスし、 **編集** 」リンクをクリックします。 次に、GitHub UI を使用してアップデートを行います。 将軍を見る [Adobeドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 」を参照してください。
 
-このレポのドキュメントやコード例に関して、若干の修正や説明は、Adobeの使用条件に準じています。
+このリポジトリ内のドキュメントおよびコード例に関して提出される軽微な修正や説明は、Adobe利用条件の対象です。
 
-### コミュニティのメンバーからの主な変更や新しい記事
+### コミュニティメンバーによる大きな変更または新しい記事
 
-Adobeコミュニティの一員で、新しい記事を作成したり、大きな変更を送信する場合は、Gitリポジトリの[問題]タブを使用して問題を送信し、ドキュメントチームとの会話を開始してください。 計画に同意した後は、従業員と協力して、パブリック・リポジトリとプライベート・リポジトリの作業を組み合わせて、新しいコンテンツを取り込むのを支援する必要があります。
+Adobeコミュニティの一員で、新しい記事を作成したり、重要な変更を送信したりする場合は、Git リポジトリの「問題」タブを使用して問題を送信し、ドキュメントチームと対話を開始してください。 プランに同意したら、従業員と協力して、パブリックリポジトリーとプライベートリポジトリーでの作業の組み合わせを通じて、新しいコンテンツの導入に協力する必要があります。
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### Adobe Employeesの主な変更点
+### Adobe社員の主な変化
 
-Adobe Experience Cloudソリューションの製品チームのテクニカルライター、プログラムマネージャ、または開発者で、テクニカル記事の作成や投稿を行うのがお客様の仕事の場合は、`https://git.corp.adobe.com/AdobeDocs`のプライベートリポジトリを使用する必要があります。
+Adobe Experience Cloudソリューションのテクニカルライター、プログラムマネージャー、または開発者で、技術記事の投稿や作成が自分の仕事である場合は、 `https://git.corp.adobe.com/AdobeDocs`を選択します。
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
 ## ツールと設定
 
-コミュニティの貢献者は、基本的な編集にGitHub UIを使用したり、レポをフォークして大きな貢献をすることができます。
+コミュニティのコントリビューターは、GitHub UI を使用して基本的な編集をおこなったり、リポジトリをフォークして主要なコントリビューションをおこなったりできます。
 
-詳細は、『[Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)』を参照してください。
+詳しくは、 [Adobeドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 」を参照してください。
 
-## マークダウンを使用してトピックの書式を設定する方法
+## マークダウンを使用してトピックを書式設定する方法
 
-このリポジトリ内のすべての記事は、GitHubフレーバー付きマークダウンを使用します。 マークダウンに詳しくない場合は、次の項を参照してください。
+このリポジトリのすべての記事は、GitHub フレーバーマークダウンを使用しています。 マークダウンに詳しくない場合は、次を参照してください。
 
-* [Markdownの基本](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [印刷可能なマークダウンシート](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [マークダウンの基本](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [印刷可能なマークダウン早見表](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## ラベル
 
-パブリック・リポジトリでは、プル要求に自動ラベルが割り当てられ、プル要求ワークフローの管理に役立ち、プル要求で何が起こっているかを知るのに役立ちます。
+パブリックリポジトリでは、プルリクエストに自動ラベルが割り当てられ、プルリクエストワークフローの管理に役立つほか、プルリクエストの状況を通知する役割を果たします。
 
-* **変更を作成者に送信**:作成者に、保留中のプル要求が通知されました。
-* **結合準備完了**:プルリクエストレビューチームがレビューの準備を整えました。
+* **作成者に送信された変更**:作成者は、保留中のプルリクエストについて通知を受けています。
+* **すぐに合併できる**:プルリクエストレビューチームによるレビューの準備ができました。
