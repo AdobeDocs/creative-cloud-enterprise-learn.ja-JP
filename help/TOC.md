@@ -7,7 +7,7 @@ type: Tutorial
 source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 9%
+ht-degree: 0%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 9%
       + [CCEガイド](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [概要](stock/overview-stock.md)
-   + チュートリアル {#stocktutorials}
+   + Tutorials {#stocktutorials}
       + [魅力的なデジタルアセット](stock/stunning-digital-assets.md)
       + [検索Adobe [!DNL Stock] ライセンス取得履歴](stock/searchstock.md)
       + [Adobe [!DNL Stock] images](stock/handdrawn.md)
@@ -60,21 +60,21 @@ ht-degree: 9%
       + [Adobeのカラーのカスタマイズ [!DNL Stock] ベクターイラスト](stock/customizecolors.md)
 + Adobe3D &amp; VR {#3doverview}
    + [概要](3di/overview-3di.md)
-   + チュートリアル {#3dtutorials}
+   + Tutorials {#3dtutorials}
       + [3D デザインとレンダリング](3di/substance-3d-stager.md)
       + [CGI での 3D ライティングをマスターするためのヒントとテクニック](3di/mastering3dlighting.md)
       + [3D レンダリングと合成を使用したフォトリアルな仮想写真の作成](3di/photorealistic.md)
       + [3D モデルのカスタマイズとブランディング [!DNL Dimension] とAdobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobeビデオ {#videooverview}
    + [概要](dva/overview-dva.md)
-   + チュートリアル {#videotutorials}
+   + Tutorials {#videotutorials}
       + [プロフェッショナルなモーショングラフィックステンプレート](dva/motion-graphics-templates.md)
       + [Frame.io を使用したビデオレビュー](dva/video-review-frame-io.md)
    + クイックリファレンスガイド {#videorefguides}
       + [ビデオガイド](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [概要](xd/overview-xd.md)
-   + チュートリアル {#xdtutorials}
+   + Tutorials {#xdtutorials}
    + [慣れる [!UICONTROL コンポーネント] Adobe XD](xd/components.md)
 + デプロイと管理 {#deploy}
    + [概要](deploy/overview-deploy.md)
@@ -82,7 +82,7 @@ ht-degree: 9%
    + [ユーザー指定ライセンス認証](deploy/nameduserlicensing.md)
 + MAX 2020 {#max2020}
    + [概要](max2020/overview-max.md)
-   + チュートリアル {#tutorials}
+   + Tutorials {#tutorials}
       + [概要](max2020/maxtutorials.md)
       + デスクトップ製品 {#desktop-products}
          + [Acrobat &amp; Sign](max2020/acrobat-sign.md)
@@ -95,9 +95,9 @@ ht-degree: 9%
       + モバイルアプリ {#mobile-apps}
          + [[!DNL Capture]](max2020/capture.md)
          + [Fresco](max2020/fresco.md)
-         + [Illustrator on iPad](max2020/illustratoripad.md)
-         + [Photoshop on iPad](max2020/photoshopipad.md)
-      + インテグレーション {#integrations}
+         + [Illustrator iPad 版](max2020/illustratoripad.md)
+         + [Photoshop iPad 版](max2020/photoshopipad.md)
+      + 統合 {#integrations}
          + [AEM](max2020/aem.md)
          + [Creative Cloud デスクトップアプリ](max2020/creativeclouddesktopapp.md)
          + [CC ライブラリ](max2020/cclibraries.md)
