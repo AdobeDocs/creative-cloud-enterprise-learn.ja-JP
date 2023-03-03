@@ -4,9 +4,9 @@ description: エンタープライズ版およびAcrobat版のCreative Cloudの�
 role: User
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 524d071b6f4e059823601381f04c337aedc55970
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '844'
 ht-degree: 3%
 
 ---
@@ -33,13 +33,13 @@ ETLA契約のシリアル番号ライセンスは、 [Adobeライセンス Web �
 
 ### 有効期限の確認
 
-この [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) は、コンピューター上のAdobe製品が期限切れのシリアル番号を使用しているか、期限切れのシリアル番号を使用しているかを IT 管理者が確認するためのコマンドラインユーティリティです。 ツールには、製品ライセンス識別子 (LEID)、暗号化シリアル番号、有効期限などの情報が表示されます。 This [page](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) contains instructions on downloading &amp; using the tool on either Mac or Windows computers.
+この [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) は、コンピューター上のAdobe製品が期限切れのシリアル番号を使用しているか、期限切れのシリアル番号を使用しているかを IT 管理者が確認するためのコマンドラインユーティリティです。 ツールには、製品ライセンス識別子 (LEID)、暗号化シリアル番号、有効期限などの情報が表示されます。 この [ページ](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) Macまたは Windows コンピューターでツールをダウンロードして使用する方法について説明します。
 
 ## シリアル番号の有効期限が切れる前と後のエンドユーザーエクスペリエンスについて
 
-Both Acrobat and Creative Cloud for enterprise apps will begin to display messages (in the apps) starting 60 days before expiration. シリアル番号が期限切れになると、製品は機能しなくなり、ユーザーにアクションを促します。
+AcrobatとCreative Cloudエンタープライズ版アプリケーションの両方で、有効期限の 60 日前からアプリケーション内にメッセージが表示されます。 シリアル番号が期限切れになると、製品は機能しなくなり、ユーザーにアクションを促します。
 
-### Creative Cloud for enterprise experience
+### Creative Cloudのエンタープライズ体験
 
 次の情報は、エンドユーザーのエクスペリエンスの概要を示しています。 以下の短いビデオに続いて、エンドユーザーのエクスペリエンスについて説明します。
 
@@ -84,13 +84,13 @@ Both Acrobat and Creative Cloud for enterprise apps will begin to display messag
 
 それ以降にAcrobatを起動する場合は、エンドユーザーに **ログインする** その後、独自のAdobe IDを作成して体験版モードに切り替えるオプションが表示されます。 ただし、エンドユーザーが作成した新しいAdobe IDは組織のライセンスに関連付けられず、ユーザーに混乱を招きます。
 
-![Acrobat Sign in dialog 1](assets/acrobatsignin1.png)
+![ダイアログ 1 のAcrobat Sign](assets/acrobatsignin1.png)
 
-![Acrobat Sign in dialog 2](assets/acrobatsignin2.png)
+![ダイアログ 2 のAcrobat Sign](assets/acrobatsignin2.png)
 
 ## サポートが必要な場合は、お問い合わせください
 
 この [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) ツールまたはシリアル番号のデプロイメントから指定ユーザーへの移行でサポートが必要な場合は、いくつかのオプションがあります。
 * エンタープライズオンボーディングチームにAdobeメールを送信します。 **entonb@adobe.com**
-* Open a support ticket in [Admin Console](https://adminconsole.adobe.com/support)
-* カスタマーアカウントマネージャーまたはAdobeサクセスマネージャーにお問い合わせください。
+* サポートチケットを開く [Admin Console](https://adminconsole.adobe.com/support)
+* お客様のAdobe担当に連絡
