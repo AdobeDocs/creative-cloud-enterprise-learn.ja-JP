@@ -1,22 +1,28 @@
 ---
-title: Adobe [!DNL Firefly] overview
+title: Adobe [!DNL Firefly] 概要
 description: Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: e6f761def0a06f38af529baf4e6ea1fe56291050
+source-git-commit: 9a2f538183658cc8b1370e05febab9fa87fae819
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Firefly] 概要
+# Adobe [!DNL Firefly] overview
 
 ![ホタルのヒーローイメージ](../assets/firefly.png)
 
 Firefly は、最初は画像とテキストのエフェクト生成に焦点を当てた、Adobe製品に登場するクリエイティブな生成 AI モデルの新しいファミリーです。 Firefly は、クリエイティブなワークフローを大幅に改善しながら、アイデアを形にし、制作し、コミュニケーションするための新しい方法を提供します。
 
+<br> 
+
+## ホタルのAdobe
+
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
+
+<br> 
 
 ## AdobeFirefly について
 
