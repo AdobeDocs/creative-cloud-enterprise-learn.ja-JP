@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud エンタープライズ版
 user-guide-description: エンタープライズ向けのCreative Cloudに特化したチュートリアルとクイックリファレンスガイドを表示
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,11 @@ ht-degree: 0%
       + [iPadとiPhoneのFrescoをお試しください](cce/frescoworkshop.md)
    + クイックリファレンスガイド {#ccerefguides}
       + [CCEガイド](quick-reference/overview-ref.md)
++ [!DNL Adobe Firefly] {#fireflyoverview}
+   + [概要](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [概要](stock/overview-stock.md)
-   + Tutorials {#stocktutorials}
+   + チュートリアル {#stocktutorials}
       + [魅力的なデジタルアセット](stock/stunning-digital-assets.md)
       + [検索Adobe [!DNL Stock] ライセンス取得履歴](stock/searchstock.md)
       + [Adobe [!DNL Stock] images](stock/handdrawn.md)
@@ -60,21 +62,21 @@ ht-degree: 0%
       + [Adobeのカラーのカスタマイズ [!DNL Stock] ベクターイラスト](stock/customizecolors.md)
 + Adobe3D &amp; VR {#3doverview}
    + [概要](3di/overview-3di.md)
-   + Tutorials {#3dtutorials}
+   + チュートリアル {#3dtutorials}
       + [3D デザインとレンダリング](3di/substance-3d-stager.md)
       + [CGI での 3D ライティングをマスターするためのヒントとテクニック](3di/mastering3dlighting.md)
       + [3D レンダリングと合成を使用したフォトリアルな仮想写真の作成](3di/photorealistic.md)
       + [3D モデルのカスタマイズとブランディング [!DNL Dimension] とAdobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobeビデオ {#videooverview}
    + [概要](dva/overview-dva.md)
-   + Tutorials {#videotutorials}
+   + チュートリアル {#videotutorials}
       + [プロフェッショナルなモーショングラフィックステンプレート](dva/motion-graphics-templates.md)
       + [Frame.io を使用したビデオレビュー](dva/video-review-frame-io.md)
    + クイックリファレンスガイド {#videorefguides}
       + [ビデオガイド](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [概要](xd/overview-xd.md)
-   + Tutorials {#xdtutorials}
+   + チュートリアル {#xdtutorials}
    + [慣れる [!UICONTROL コンポーネント] Adobe XD](xd/components.md)
 + デプロイと管理 {#deploy}
    + [概要](deploy/overview-deploy.md)
@@ -82,7 +84,7 @@ ht-degree: 0%
    + [ユーザー指定ライセンス認証](deploy/nameduserlicensing.md)
 + MAX 2020 {#max2020}
    + [概要](max2020/overview-max.md)
-   + Tutorials {#tutorials}
+   + チュートリアル {#tutorials}
       + [概要](max2020/maxtutorials.md)
       + デスクトップ製品 {#desktop-products}
          + [Acrobat &amp; Sign](max2020/acrobat-sign.md)
