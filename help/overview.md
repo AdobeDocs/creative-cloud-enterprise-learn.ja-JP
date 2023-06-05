@@ -4,10 +4,10 @@ description: エンタープライズ向けCreative Cloudラーニングハブ�
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
+source-git-commit: 715226411355dce6411212f6d51043afc77998be
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 9%
+source-wordcount: '201'
+ht-degree: 12%
 
 ---
 
@@ -32,6 +32,26 @@ ht-degree: 9%
     <br>
   </td>
   <td>
+    <a href="express/overview-express.md">
+      <img alt="Adobe Express" src="assets/Express.png" />
+    </a>
+    <div>
+   <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
+    </div>
+    <em>経験を必要としない、使いやすいクリエイティブツール</em>
+    <br>
+  </td>
+  <td>
+    <a href="firefly/overview-firefly.md">
+      <img alt="Adobeホタル" src="assets/firefly.png" />
+    </a>
+    <div>
+   <a href="firefly/overview-firefly.md"><strong>Adobeホタル</strong></a>
+    </div>
+    <em>クリエイティブな生成 AI モデルの新しいファミリーがAdobe製品に登場</em>
+    <br>
+  </td>
+  <td>
     <a href="stock/overview-stock.md">
       <img alt="Adobe Stock" src="assets/Stock.jpg" />
     </a>
@@ -41,6 +61,7 @@ ht-degree: 9%
     <em>高品質なデジタル画像、イラスト、ビデオ、オーディオ、テンプレートなど</em>
     <br>
   </td>
+</tr>
   <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe3D &amp; VR" src="assets/Dimenio.jpg" />
@@ -51,8 +72,6 @@ ht-degree: 9%
     <em>グラフィックデザイナーのための 3D ツール</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobeビデオ" src="assets/CCEbanner-DVA.png" />
@@ -70,7 +89,7 @@ ht-degree: 9%
     <div>
    <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
     </div>
-    <em>UI/UX のデザイン、プロトタイプ、共有</em>
+    <em>ユーザーエクスペリエンスをデザイン、プロトタイプ作成、共有します</em>
     <br>
   </td>
   <td>

@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud エンタープライズ版
 user-guide-description: エンタープライズ向けのCreative Cloudに特化したチュートリアルとクイックリファレンスガイドを表示
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
+source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '470'
+ht-degree: 10%
 
 ---
 
@@ -31,6 +31,26 @@ ht-degree: 0%
       + [iPadとiPhoneのFrescoをお試しください](cce/frescoworkshop.md)
    + クイックリファレンスガイド {#ccerefguides}
       + [CCEガイド](quick-reference/overview-ref.md)
++ [!DNL Adobe Express] {#expressoverview}
+   + [概要](express/overview-express.md)
+   + チュートリアル {#expresstutorials}
+      + [Adobe Express](express/get-started.md)
+      + [Adobe Express入門](express/adobe-express-beginners.md)
+      + [アイデアをすぐに形に](express/get-inspiration.md)
+      + [テンプレートの作成](express/create-templates.md)
+      + [デザインアセットの追加](express/add-design-assets.md)
+      + [オブジェクトのグループ化](express/group-objects.md)
+      + [レイヤーの選択と移動](express/layers.md)
+      + [複数ページの作成](express/multiple-pages.md)
+      + [取り消しとやり直し](express/undo-redo.md)
+      + [CC ライブラリの使用](express/cc-libraries.md)
+      + [ブランドの適用](express/brand.md)
+      + [Google Drive との連携](express/google-drive.md)
+      + [背景を削除](express/remove-background.md)
+      + [カットアウトの調整](express/refine-cutout.md)
+      + [テキスト効果の使用](express/text-effects.md)
+      + [画像効果の使用](express/image-effects.md)
+      + [曲線テキストの作成](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概要](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}

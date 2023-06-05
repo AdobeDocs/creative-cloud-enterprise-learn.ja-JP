@@ -3,7 +3,7 @@ title: Adobe [!DNL Firefly] 概要
 description: Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: a42dfb6c3f7bc038c6c090372bd25d3d9d696605
+source-git-commit: 7299bb82c2f481aeadee348d262a136a3f9945b5
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -29,21 +29,21 @@ Firefly は、最初は画像とテキストのエフェクト生成に焦点を
 <table>
 <tr>
    <td>
-      <a href="https://firefly.adobe.com/" {target="_blank" }>
-         <img alt="Adobeホタル（ベータ版）" src="../assets/firefly-beta.png" />
+      <a href="https://firefly.adobe.com/" target="_blank">
+         <img alt="Adobeホタル（ベータ版）" src="assets/firefly-beta.png" />
       </a>
       <div>
-      <a href="https://firefly.adobe.com/" {target="_blank" }><strong>Adobeホタル（ベータ版）</strong></a>
+      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobeホタル（ベータ版）</strong></a>
       </div>
       <em>AdobeFirefly ベータプログラムに参加する。</em>
       <br>
   </td>
   <td>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" {target="_blank" }>
-         <img alt="Photoshopで Firefly を見る" src="../assets/firefly-photoshop.png" />
+      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
+         <img alt="Photoshopで Firefly を見る" src="assets/firefly-photoshop.png" />
       </a>
       <div>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" {target="_blank" }><strong>Photoshopで Firefly を見る</strong></a>
+      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank"><strong>Photoshopで Firefly を見る</strong></a>
       </div>
       <em>Firefly は現在Photoshopにあり、作成する方法は決して同じではありません</em>
       <br>
