@@ -4,7 +4,7 @@ description: エンタープライズ向けCreative Cloudラーニングハブ�
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 715226411355dce6411212f6d51043afc77998be
+source-git-commit: 2d9140f3143aa8ff3fe2ec940e32930441fbdc5e
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 12%
@@ -43,10 +43,10 @@ ht-degree: 12%
   </td>
   <td>
     <a href="firefly/overview-firefly.md">
-      <img alt="Adobeホタル" src="assets/firefly.png" />
+      <img alt="Adobe Firefly" src="assets/firefly.png" />
     </a>
     <div>
-   <a href="firefly/overview-firefly.md"><strong>Adobeホタル</strong></a>
+   <a href="firefly/overview-firefly.md"><strong>Adobe Firefly</strong></a>
     </div>
     <em>クリエイティブな生成 AI モデルの新しいファミリーがAdobe製品に登場</em>
     <br>
@@ -93,11 +93,11 @@ ht-degree: 12%
     <br>
   </td>
   <td>
-    <a href="max2020/overview-max.md">
+    <a href="max/overview-max.md">
       <img alt="MAX 2020 — エンタープライズセッション" src="assets/MAX.jpg" />
     </a>
     <div>
-   <a href="max2020/overview-max.md"><strong>MAX 2020 — エンタープライズセッション</strong></a>
+   <a href="max/overview-max.md"><strong>MAX 2020 — エンタープライズセッション</strong></a>
     </div>
     <em>MAX 2020 エンタープライズセッションの詳細</em>
     <br>

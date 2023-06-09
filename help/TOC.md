@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud エンタープライズ版
 user-guide-description: エンタープライズ向けのCreative Cloudに特化したチュートリアルとクイックリファレンスガイドを表示
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 0e71f14ba016ae538d9facbbf54cab6850edd05d
+source-git-commit: 2308b637adf076bf8fdcc56c1b34ebe734385e1e
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '482'
 ht-degree: 10%
 
 ---
@@ -106,29 +106,29 @@ ht-degree: 10%
    + [概要](deploy/overview-deploy.md)
    + [シリアル番号の有効期限](deploy/cceserial.md)
    + [ユーザー指定ライセンス認証](deploy/nameduserlicensing.md)
-+ MAX 2020 {#max2020}
-   + [概要](max2020/overview-max.md)
++ Adobe MAX {#max}
+   + [概要](max/overview-max.md)
    + チュートリアル {#tutorials}
-      + [概要](max2020/maxtutorials.md)
+      + [概要](max/maxtutorials.md)
       + デスクトップ製品 {#desktop-products}
-         + [Acrobat &amp; Sign](max2020/acrobat-sign.md)
-         + [[!DNL Dimension]](max2020/dimension.md)
-         + [Illustrator](max2020/illustrator.md)
-         + [InDesign](max2020/indesign.md)
-         + [Photoshop](max2020/photoshop.md)
-         + [[!DNL Rush]](max2020/rush.md)
-         + [XD](max2020/xd.md)
+         + [Acrobat &amp; Sign](max/acrobat-sign.md)
+         + [[!DNL Dimension]](max/dimension.md)
+         + [Illustrator](max/illustrator.md)
+         + [InDesign](max/indesign.md)
+         + [Photoshop](max/photoshop.md)
+         + [[!DNL Rush]](max/rush.md)
+         + [XD](max/xd.md)
       + モバイルアプリ {#mobile-apps}
-         + [[!DNL Capture]](max2020/capture.md)
-         + [Fresco](max2020/fresco.md)
-         + [Illustrator iPad 版](max2020/illustratoripad.md)
-         + [Photoshop iPad 版](max2020/photoshopipad.md)
+         + [[!DNL Capture]](max/capture.md)
+         + [Fresco](max/fresco.md)
+         + [Illustrator iPad 版](max/illustratoripad.md)
+         + [Photoshop iPad 版](max/photoshopipad.md)
       + 統合 {#integrations}
-         + [AEM](max2020/aem.md)
-         + [Creative Cloud デスクトップアプリ](max2020/creativeclouddesktopapp.md)
-         + [CC ライブラリ](max2020/cclibraries.md)
-         + [InDesign Server](max2020/indesignserver.md)
-         + [[!DNL Stock]](max2020/stock.md)
-         + [エンタープライズ管理](max2020/enterprise.md)
+         + [AEM](max/aem.md)
+         + [Creative Cloud デスクトップアプリ](max/creativeclouddesktopapp.md)
+         + [CC ライブラリ](max/cclibraries.md)
+         + [InDesign Server](max/indesignserver.md)
+         + [[!DNL Stock]](max/stock.md)
+         + [エンタープライズ管理](max/enterprise.md)
       + ハンズオンプロジェクト {#project}
-         + [独自の顔マスクを作成](max2020/handsonproject.md)
+         + [独自の顔マスクを作成](max/handsonproject.md)
