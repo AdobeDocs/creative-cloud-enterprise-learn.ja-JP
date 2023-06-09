@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] 概要
 description: Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
+source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,11 @@ Fireflyは、Adobe製品に搭載されるクリエイティブな生成 AI モ�
       <a href="webinar-experimenting.md">
          <img alt="様々なAdobe Firefly" src="assets/webinar-experimenting.png" />
       </a>
+      <div>
+      <a href="webinar-experimenting.md"><strong>オンラインセミナーでFireflyを試す</strong></a>
+      </div>
+      <em>このオンラインセミナーで、Howard Pinsky がFireflyベータ版に参加します</em>
+      <br>
   </td>
   <td>
     <img alt="スペーサー" src="../assets/Whitespacer.png" />
