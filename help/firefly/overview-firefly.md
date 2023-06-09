@@ -3,55 +3,55 @@ title: Adobe [!DNL Firefly] 概要
 description: Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 7299bb82c2f481aeadee348d262a136a3f9945b5
+source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Firefly] overview
 
-![ホタルのヒーローイメージ](../assets/firefly.png)
+![FireflyHero Image](../assets/firefly.png)
 
-Firefly は、最初は画像とテキストのエフェクト生成に焦点を当てた、Adobe製品に登場するクリエイティブな生成 AI モデルの新しいファミリーです。 Firefly は、クリエイティブなワークフローを大幅に改善しながら、アイデアを形にし、制作し、コミュニケーションするための新しい方法を提供します。
+Fireflyは、Adobe製品に搭載されるクリエイティブな生成 AI モデルの新しいファミリーで、最初は画像とテキストのエフェクト生成に重点を置いています。 Fireflyは、クリエイティブなワークフローを大幅に改善しながら、アイデアを形にし、制作し、コミュニケーションを取る新しい方法を提供します。
 
 <br> 
 
-## ホタルのAdobe
+## Look what you can doAdobe Firefly
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## AdobeFirefly について
+## Adobe Firefly
 
 <table>
 <tr>
    <td>
       <a href="https://firefly.adobe.com/" target="_blank">
-         <img alt="Adobeホタル（ベータ版）" src="assets/firefly-beta.png" />
+         <img alt="Adobe Firefly（ベータ版）" src="assets/firefly-beta.png" />
       </a>
       <div>
-      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobeホタル（ベータ版）</strong></a>
+      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe Firefly（ベータ版）</strong></a>
       </div>
-      <em>AdobeFirefly ベータプログラムに参加する。</em>
+      <em>Adobe Fireflyベータ版プログラムに参加</em>
       <br>
   </td>
   <td>
       <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
-         <img alt="Photoshopで Firefly を見る" src="assets/firefly-photoshop.png" />
+         <img alt="PhotoshopのFireflyを見る" src="assets/firefly-photoshop.png" />
       </a>
       <div>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank"><strong>Photoshopで Firefly を見る</strong></a>
+      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank"><strong>PhotoshopのFireflyを見る</strong></a>
       </div>
-      <em>Firefly は現在Photoshopにあり、作成する方法は決して同じではありません</em>
+      <em>Fireflyは現在Photoshopにあり、これまで通りの制作方法は実現しません</em>
       <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="webinar-experimenting.md">
+         <img alt="様々なAdobe Firefly" src="assets/webinar-experimenting.png" />
+      </a>
   </td>
   <td>
     <img alt="スペーサー" src="../assets/Whitespacer.png" />
