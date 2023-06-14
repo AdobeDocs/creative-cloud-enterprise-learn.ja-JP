@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] 概要
 description: Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
+source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,14 @@ Fireflyは、Adobe製品に搭載されるクリエイティブな生成 AI モ�
       <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-fill.md">
+         <img alt="Photoshopのジェネレーティブフィル" src="assets/generative-fill.png" />
+      </a>
+      <div>
+      <a href="generative-fill.md"><strong>Photoshopのジェネレーティブフィル</strong></a>
+      </div>
+      <em>Adobe Fireflyを利用した生成的塗りつぶしの使用方法</em>
+      <br>
   </td>
 </tr>
 </table>
