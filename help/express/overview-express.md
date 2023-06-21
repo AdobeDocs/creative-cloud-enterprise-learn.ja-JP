@@ -4,7 +4,7 @@ description: Adobe [!DNL Express]
 role: User
 level: Beginner
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: 0e2af14d75ceb0468fecb88ce0e76f2c9d4c9d92
+source-git-commit: aa256d67dcc64f9bc96ccb2cb6bf0c4059a81d20
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -144,7 +144,6 @@ Adobe Expressは使いやすいクリエイティブツールで、経験は必�
       <img alt="曲線テキストの作成" src="assets/curved-text.png" />
    </a>
   </td>
-  <td>
   <td>
     <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
     <div>
