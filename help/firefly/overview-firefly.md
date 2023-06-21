@@ -3,9 +3,10 @@ title: Adobe [!DNL Firefly] 概要
 description: Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
+exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
+source-git-commit: 36effc4e0896ef572130bf3fee4b5059c481f23c
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -69,4 +70,30 @@ Fireflyは、Adobe製品に搭載されるクリエイティブな生成 AI モ�
       <br>
   </td>
 </tr>
+<tr>
+   <td>
+      <a href="web-banner-ad.md">
+         <img alt="Photoshopのバナー広告のバリエーション" src="assets/banner-ad-variations.png" />
+      </a>
+      <div>
+      <a href="web-banner-ad.md"><strong>Photoshopのバナー広告のバリエーション</strong></a>
+      </div>
+      <em>生成塗りつぶしを使用して web 広告バナーの作成を高速化する方法について説明します</em>
+      <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
 </table>
