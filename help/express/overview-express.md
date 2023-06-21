@@ -4,7 +4,7 @@ description: Adobe [!DNL Express]
 role: User
 level: Beginner
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: f2885238c7a57953b176881f352afd541d9ce7b7
+source-git-commit: 0e2af14d75ceb0468fecb88ce0e76f2c9d4c9d92
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -51,12 +51,12 @@ Adobe Expressは使いやすいクリエイティブツールで、経験は必�
   </td>
 </tr>
 <tr>
-  <td>
+ <td>
       <a href="schedule.md">
          <img alt="ソーシャル投稿のスケジュール設定" src="assets/schedule.png" />
       </a>
   </td>
- <td>
+   <td>
    <a href="collaborate.md">
       <img alt="プロジェクトの共同作業者を招待する" src="assets/collaborate.png" />
    </a>
@@ -95,12 +95,12 @@ Adobe Expressは使いやすいクリエイティブツールで、経験は必�
   </td>
 </tr>
 <tr>
-  <td>
+   <td>
       <a href="undo-redo.md">
          <img alt="取り消しとやり直し" src="assets/undo-redo.png" />
       </a>
-  </td>
- <td>
+   </td>
+  <td>
       <a href="cc-libraries.md">
          <img alt="CC ライブラリの使用" src="assets/cc-libraries.png" />
       </a>
@@ -116,12 +116,13 @@ Adobe Expressは使いやすいクリエイティブツールで、経験は必�
       </a>
   </td>
 </tr>
-  <td>
+<tr>
+   <td>
       <a href="remove-background.md">
          <img alt="背景を削除" src="assets/background.png" />
       </a>
   </td>
-  <td>
+   <td>
       <a href="refine-cutout.md">
          <img alt="カットアウトの調整" src="assets/cutouts.png" />
       </a>
@@ -138,11 +139,10 @@ Adobe Expressは使いやすいクリエイティブツールで、経験は必�
   </td>
 </tr>
 <tr>
-
-<td>
-      <a href="create-curved-text.md">
-         <img alt="曲線テキストの作成" src="assets/curved-text.png" />
-      </a>
+  <td>
+   <a href="create-curved-text.md">
+      <img alt="曲線テキストの作成" src="assets/curved-text.png" />
+   </a>
   </td>
   <td>
   <td>
