@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud エンタープライズ版
 user-guide-description: エンタープライズ向けのCreative Cloudに特化したチュートリアルとクイックリファレンスガイドを表示
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: e0d7d7951b1a6faadfe77151952e68eedda8bf4e
+source-git-commit: b9d3493d2596d724970e79e0fa0920bd110fb59a
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '500'
 ht-degree: 10%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 10%
       + [Adobe Express](express/get-started.md)
       + [Adobe Express入門](express/adobe-express-beginners.md)
       + [ソーシャルポスターの作成とFirefly](express/create-social-posters.md)
+      + [Firefly](express/create-webinar-poster.md)
       + [ソーシャル投稿のスケジュール設定](express/schedule.md)
       + [プロジェクトの共同作業者を招待する](express/collaborate.md)
       + [アイデアをすぐに形に](express/get-inspiration.md)

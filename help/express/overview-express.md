@@ -3,9 +3,10 @@ title: Adobe [!DNL Express] 概要
 description: Adobe [!DNL Express]
 role: User
 level: Beginner
-source-git-commit: 579283730f25cc367a97810a34e2f883659b4d9b
+exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
+source-git-commit: f2885238c7a57953b176881f352afd541d9ce7b7
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -44,13 +45,18 @@ Adobe Expressは使いやすいクリエイティブツールで、経験は必�
       </a>
   </td>
   <td>
-      <a href="schedule.md">
-         <img alt="ソーシャル投稿のスケジュール設定" src="assets/schedule.png" />
+      <a href="create-webinar-poster.md">
+         <img alt="Firefly" src="assets/webinar-poster.png" />
       </a>
   </td>
 </tr>
 <tr>
-   <td>
+  <td>
+      <a href="schedule.md">
+         <img alt="ソーシャル投稿のスケジュール設定" src="assets/schedule.png" />
+      </a>
+  </td>
+ <td>
    <a href="collaborate.md">
       <img alt="プロジェクトの共同作業者を招待する" src="assets/collaborate.png" />
    </a>
@@ -65,14 +71,14 @@ Adobe Expressは使いやすいクリエイティブツールで、経験は必�
       <img alt="テンプレートの作成" src="assets/templates.png" />
    </a>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="add-design-assets.md">
          <img alt="デザインアセットの追加" src="assets/design-assets.png" />
       </a>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
       <a href="group-objects.md">
          <img alt="オブジェクトのグループ化" src="assets/group-objects.png" />
       </a>
@@ -87,14 +93,14 @@ Adobe Expressは使いやすいクリエイティブツールで、経験は必�
          <img alt="複数ページの作成" src="assets/multiple-pages.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="undo-redo.md">
          <img alt="取り消しとやり直し" src="assets/undo-redo.png" />
       </a>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
       <a href="cc-libraries.md">
          <img alt="CC ライブラリの使用" src="assets/cc-libraries.png" />
       </a>
@@ -109,12 +115,12 @@ Adobe Expressは使いやすいクリエイティブツールで、経験は必�
          <img alt="Google Drive との連携" src="assets/google-drive.png" />
       </a>
   </td>
-   <td>
+</tr>
+  <td>
       <a href="remove-background.md">
          <img alt="背景を削除" src="assets/background.png" />
       </a>
   </td>
-</tr>
   <td>
       <a href="refine-cutout.md">
          <img alt="カットアウトの調整" src="assets/cutouts.png" />
@@ -130,10 +136,29 @@ Adobe Expressは使いやすいクリエイティブツールで、経験は必�
          <img alt="画像効果の使用" src="assets/image-effects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+
+<td>
       <a href="create-curved-text.md">
          <img alt="曲線テキストの作成" src="assets/curved-text.png" />
       </a>
+  </td>
+  <td>
+  <td>
+    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
