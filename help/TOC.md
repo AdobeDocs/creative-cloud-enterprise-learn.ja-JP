@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud エンタープライズ版
 user-guide-description: エンタープライズ向けのCreative Cloudに特化したチュートリアルとクイックリファレンスガイドを表示
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 83825707e568f91dab3ead2cfe7f02c7c78d0abf
+source-git-commit: 15ead51dd12bd972513ddabdfac1730484558b81
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '509'
 ht-degree: 10%
 
 ---
@@ -58,6 +58,7 @@ ht-degree: 10%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概要](firefly/overview-firefly.md)
    + チュートリアル {#firefly-tutorials}
+      + [Adobe Firefly](firefly/overview-of-firefly.md)
       + [バナー広告のバリエーション [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [生成入力 [!DNL Photoshop]](firefly/generative-fill.md)
       + [テキスト効果](firefly/text-effects.md)
