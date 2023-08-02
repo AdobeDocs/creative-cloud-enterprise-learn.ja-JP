@@ -4,9 +4,9 @@ description: Adobeの最新情報を入手する [!DNL Express]
 role: User
 level: Beginner
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: 0ba5727c6f6d188e4cfe9124f93700a4c43a635d
+source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,9 @@ Adobe Expressは、経験がなくても使いやすいクリエイティブツ�
       </a>
   </td>
   <td>
-      <a href="create-blog-graphics.md">
-         <img alt="Fireflyを使用したブロググラフィックの作成" src="assets/blog-graphic.png" />
+      <a href="create-on-boarding.md">
+         <img alt="Fireflyを使用した採用コンテンツとオンボーディングコンテンツの作成" src="assets/on-boarding.png" />
       </a>
-  </td>
   <td>
       <a href="create-social-posters.md">
          <img alt="Fireflyを使用したソーシャルポスターの作成" src="assets/social-firefly.png" />
@@ -52,6 +51,11 @@ Adobe Expressは、経験がなくても使いやすいクリエイティブツ�
 </tr>
 <tr>
  <td>
+      <a href="create-webinar-poster.md">
+         <img alt="Fireflyを使ってウェビナーのポスターを作成" src="assets/webinar-poster.png" />
+      </a>
+  </td>
+  <td>
       <a href="schedule.md">
          <img alt="ソーシャル投稿のスケジュール" src="assets/schedule.png" />
       </a>
@@ -66,36 +70,36 @@ Adobe Expressは、経験がなくても使いやすいクリエイティブツ�
          <img alt="すぐにインスピレーションを得る" src="assets/inspiration.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="create-templates.md">
       <img alt="テンプレートの作成" src="assets/templates.png" />
    </a>
   </td>
+   <td>
+         <a href="add-design-assets.md">
+            <img alt="デザインアセットの追加" src="assets/design-assets.png" />
+         </a>
+   </td>
+   <td>
+         <a href="group-objects.md">
+            <img alt="オブジェクトのグループ化" src="assets/group-objects.png" />
+         </a>
+   </td>
+   <td>
+         <a href="layers.md">
+            <img alt="レイヤーの選択と移動" src="assets/layers.png" />
+         </a>
+   </td>
 </tr>
 <tr>
-<td>
-      <a href="add-design-assets.md">
-         <img alt="デザインアセットの追加" src="assets/design-assets.png" />
-      </a>
-  </td>
- <td>
-      <a href="group-objects.md">
-         <img alt="オブジェクトのグループ化" src="assets/group-objects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="layers.md">
-         <img alt="レイヤーの選択と移動" src="assets/layers.png" />
-      </a>
-  </td>
   <td>
       <a href="multiple-pages.md">
          <img alt="複数ページの作成" src="assets/multiple-pages.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="undo-redo.md">
          <img alt="取り消しとやり直し" src="assets/undo-redo.png" />
       </a>
@@ -110,13 +114,13 @@ Adobe Expressは、経験がなくても使いやすいクリエイティブツ�
          <img alt="ブランドを適用" src="assets/brand.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="google-drive.md">
          <img alt="Googleドライブの統合" src="assets/google-drive.png" />
       </a>
   </td>
-</tr>
-<tr>
   <td>
       <a href="remove-background.md">
          <img alt="背景を削除" src="assets/background.png" />
@@ -132,22 +136,17 @@ Adobe Expressは、経験がなくても使いやすいクリエイティブツ�
          <img alt="テキストエフェクトの使用" src="assets/text-effects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="image-effects.md">
          <img alt="画像効果の使用" src="assets/image-effects.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
       <a href="create-curved-text.md">
          <img alt="曲線テキストを作成する" src="assets/curved-text.png" />
       </a>
-   </td>
-   <td>
-      <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
    <td>
       <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
