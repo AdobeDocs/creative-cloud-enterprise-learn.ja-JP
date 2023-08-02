@@ -1,17 +1,18 @@
 ---
-title: ソーシャルポスターの作成とFirefly
-description: テキストから画像への変換およびテキスト効果の使用方法について説明します (Adobe Fireflyを利用 )
+title: Fireflyでソーシャルポスターを作成
+description: Adobe Fireflyを利用した、テキストを使用した画像とテキスト効果の使用方法について説明します
 role: User
 level: Beginner
-source-git-commit: 579283730f25cc367a97810a34e2f883659b4d9b
+exl-id: 93765c61-c166-4d0b-86ed-91ed2d29d069
+source-git-commit: 0ba5727c6f6d188e4cfe9124f93700a4c43a635d
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 5%
 
 ---
 
-# ソーシャルポスターの作成とFirefly
+# Fireflyを使用したソーシャルポスターの作成
 
-Adobe Fireflyを利用したテキストから画像への変換とテキスト効果を使用して、ソーシャルメディア向けのプロモーションキャンペーンを作成する方法についてAdobe Expressします。 このチュートリアルでは、 [Adobe Expressベータ](https://www.adobe.com/express/)を選択します。
+Adobe Fireflyを利用したテキストを使って画像やテキスト効果を作成し、ソーシャルメディアのプロモーションキャンペーンをAdobe Expressする方法を説明します。 このチュートリアルでは、新しい [Adobe Expressベータ](https://www.adobe.com/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420533?quality=12&learn=on&hidetitle=true)

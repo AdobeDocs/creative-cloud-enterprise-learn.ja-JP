@@ -1,115 +1,116 @@
 ---
-user-guide-title: Creative Cloudエンタープライズ版Tutorials
+user-guide-title: 大規模法人Tutorials向けCreative Cloud
 breadcrumb-title: Creative Cloud エンタープライズ版
-user-guide-description: エンタープライズ向けのCreative Cloudに特化したチュートリアルとクイックリファレンスガイドを表示
+user-guide-description: 企業向けのCreative Cloudに焦点を当てたチュートリアルとクイックリファレンスガイドを表示
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 15ead51dd12bd972513ddabdfac1730484558b81
+source-git-commit: 0ba5727c6f6d188e4cfe9124f93700a4c43a635d
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '516'
 ht-degree: 10%
 
 ---
 
 
-# Creative Cloudエンタープライズ版チュートリアル {#cce-learning-hub}
+# エンタープライズ版チュートリアルのCreative Cloud {#cce-learning-hub}
 
 + [概要](overview.md)
 + Creative Cloud エンタープライズ版 {#cceoverview}
    + [概要](cce/overview-cce.md)
    + チュートリアル {#ccetutorials}
-      + [コンテンツクリエイター向けAcrobat](cce/acrobat-content-creators.md)
-      + [CC ライブラリによる CC ワークフローの改善](cce/cc-workflows-cc-libraries.md)
-      + [飼い慣らされたタイプの不安](cce/taming-type-anxiety.md)
-      + [Adobe Express:注目を集めるコンテンツ](cce/adobe-express-content-that-stands-out.md)
-      + [共同作業：クリエイティビティの未来](cce/collaboration-the-future-of-creativity.md)
-      + [チーム用Creative Cloudライブラリの作成](cce/ccteamlibraries.md)
-      + [ブランディングアセットのグループ版Creative Cloudライブラリとの共有](cce/sharecclibraries.md)
-      + [ユニークな合成を作成するAdobe [!DNL Stock] iPad版Photoshop](cce/compositepsipad.md)
-      + [Photoshopでのシネマグラフの作成](cce/cinemagraphps.md)
-      + [グラフィック形式のアルファベットの組み合わせのデコード](cce/alphabetsoup.md)
-      + [iPadとiPhoneのFrescoをお試しください](cce/frescoworkshop.md)
+      + [コンテンツ作成者のAcrobat](cce/acrobat-content-creators.md)
+      + [CCライブラリによるCCワークフローの改善](cce/cc-workflows-cc-libraries.md)
+      + [飼い慣らし型不安](cce/taming-type-anxiety.md)
+      + [Adobe Express：際立つコンテンツ](cce/adobe-express-content-that-stands-out.md)
+      + [コラボレーション：未来の創造性](cce/collaboration-the-future-of-creativity.md)
+      + [グループ用のCreative Cloudライブラリの作成](cce/ccteamlibraries.md)
+      + [グループ版Creative Cloudライブラリでのブランディングアセットの共有](cce/sharecclibraries.md)
+      + [Adobeを使用した固有のコンポジットの作成 [!DNL Stock] iPadのPhotoshop](cce/compositepsipad.md)
+      + [Photoshopを使用したシネマグラフの作成](cce/cinemagraphps.md)
+      + [グラフィック形式のアルファベットのスープのデコード](cce/alphabetsoup.md)
+      + [iPadとiPhoneでFrescoをお試しください](cce/frescoworkshop.md)
    + クイックリファレンスガイド {#ccerefguides}
       + [CCEガイド](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
    + [概要](express/overview-express.md)
    + チュートリアル {#expresstutorials}
-      + [Adobe Express](express/get-started.md)
-      + [Adobe Express入門](express/adobe-express-beginners.md)
-      + [ソーシャルポスターの作成とFirefly](express/create-social-posters.md)
-      + [Firefly](express/create-webinar-poster.md)
-      + [ソーシャル投稿のスケジュール設定](express/schedule.md)
-      + [プロジェクトの共同作業者を招待する](express/collaborate.md)
-      + [アイデアをすぐに形に](express/get-inspiration.md)
+      + [Adobe Expressの基本を学ぶ](express/get-started.md)
+      + [初心者向けのAdobe Express](express/adobe-express-beginners.md)
+      + [Fireflyを使用したブログのグラフィックコンテンツの作成](express/create-blog-graphics.md)
+      + [Fireflyを使用したソーシャルポスターの作成](express/create-social-posters.md)
+      + [Fireflyを使ってウェビナーのポスターを作成](express/create-webinar-poster.md)
+      + [ソーシャル投稿のスケジュール](express/schedule.md)
+      + [プロジェクト共同作業者を招待](express/collaborate.md)
+      + [すぐにインスピレーションを得る](express/get-inspiration.md)
       + [テンプレートの作成](express/create-templates.md)
       + [デザインアセットの追加](express/add-design-assets.md)
       + [オブジェクトのグループ化](express/group-objects.md)
       + [レイヤーの選択と移動](express/layers.md)
       + [複数ページの作成](express/multiple-pages.md)
       + [取り消しとやり直し](express/undo-redo.md)
-      + [CC ライブラリの使用](express/cc-libraries.md)
-      + [ブランドの適用](express/brand.md)
-      + [Google Drive との連携](express/google-drive.md)
+      + [CCライブラリの使用](express/cc-libraries.md)
+      + [ブランドを適用](express/brand.md)
+      + [Googleドライブの統合](express/google-drive.md)
       + [背景を削除](express/remove-background.md)
       + [カットアウトの調整](express/refine-cutout.md)
-      + [テキスト効果の使用](express/text-effects.md)
+      + [テキストエフェクトの使用](express/text-effects.md)
       + [画像効果の使用](express/image-effects.md)
-      + [曲線テキストの作成](express/create-curved-text.md)
+      + [曲線テキストを作成する](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概要](firefly/overview-firefly.md)
    + チュートリアル {#firefly-tutorials}
-      + [Adobe Firefly](firefly/overview-of-firefly.md)
-      + [バナー広告のバリエーション [!DNL Photoshop]](firefly/web-banner-ad.md)
-      + [生成入力 [!DNL Photoshop]](firefly/generative-fill.md)
+      + [Adobe Fireflyについて](firefly/overview-of-firefly.md)
+      + [バナー広告のバリエーション: [!DNL Photoshop]](firefly/web-banner-ad.md)
+      + [ジェネレーティブフィルイン [!DNL Photoshop]](firefly/generative-fill.md)
       + [テキスト効果](firefly/text-effects.md)
-      + [生成的再配色 [!DNL Illustrator]](firefly/generative-recolor.md)
+      + [画像生成カラー [!DNL Illustrator]](firefly/generative-recolor.md)
    + ウェビナー {#firefly-webinars}
-      + [様々なAdobe Firefly](firefly/webinar-experimenting.md)
+      + [Adobe Fireflyを試す](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [概要](stock/overview-stock.md)
    + チュートリアル {#stocktutorials}
       + [魅力的なデジタルアセット](stock/stunning-digital-assets.md)
-      + [検索Adobe [!DNL Stock] ライセンス取得履歴](stock/searchstock.md)
-      + [Adobe [!DNL Stock] images](stock/handdrawn.md)
-      + [マスクとアニメーションでタイポグラフィを演出](stock/flairtypography.md)
-      + [アニメーションAdobe [!DNL Stock] Photoshopのベクターイラスト](stock/animatevector.md)
-      + [年次報告書の作成にAdobe [!DNL Stock] とSpark Video](stock/annualreport.md)
-      + [Adobe別のカスタムアニメーションでクリエイティブに命を吹き込む [!DNL Stock]](stock/customanimations.md)
-      + [Adobe [!DNL Stock] ストーリーに合わせた画像のカラー](stock/changecolors.md)
-      + [Adobeを使用したポスター用の 3D コラージュの作成 [!DNL Stock] images](stock/collage.md)
-      + [Adobe [!DNL Stock] テンプレートとPhotoshopスマートオブジェクト](stock/boldlabel.md)
-      + [Adobe [!DNL Stock]](stock/infographic.md)
-      + [製品を使用した製品機能比較表の作成Adobe [!DNL Stock]](stock/featurecomparison.md)
-      + [Adobe [!DNL Stock]](stock/surrealcomposite.md)
-      + [Adobe [!DNL Stock]](stock/surrealpattern.md)
-      + [Adobe [!DNL Stock]](stock/productconfigurator.md)
-      + [Adobe [!DNL Stock] とXD](stock/interactivetourismphoto.md)
-      + [アニメーションを使用した電子メールAdobe [!DNL Stock] とPhotoshop](stock/animationemail.md)
-      + [美しいグラデーションとAdobe [!DNL Stock] assets](stock/brandgradients.md)
-      + [魅力的な web グラフィックの作成とAdobe [!DNL Stock] css を使用した画像](stock/webgraphics.md)
-      + [インスピレーションあふれるプロジェクトムードボードをAdobe [!DNL Stock]](stock/moodboard.md)
-      + [リアルな合成写真を作成するAdobe [!DNL Stock] images](stock/realisticcomposite.md)
-      + [カスタマイズで読み込み画面のアニメーションをAdobe [!DNL Stock] とXD](stock/loadingscreen.md)
-      + [カスタマイズAdobe [!DNL Stock] プロフェッショナルに見えるプレゼンテーションテンプレート](stock/presentationtemplate.md)
-      + [Adobeのカラーのカスタマイズ [!DNL Stock] ベクターイラスト](stock/customizecolors.md)
-+ Adobe3D &amp; VR {#3doverview}
+      + [検索Adobe [!DNL Stock] ライセンス履歴](stock/searchstock.md)
+      + [Adobeに手描きの美を加える [!DNL Stock] images](stock/handdrawn.md)
+      + [マスクとアニメーションを使用してタイポグラフィに魅力を加える](stock/flairtypography.md)
+      + [Adobeのアニメーション化 [!DNL Stock] Photoshopのベクターイラスト](stock/animatevector.md)
+      + [Adobeで作成したビデオから年間レポートを開始 [!DNL Stock] およびSpark Video](stock/annualreport.md)
+      + [Adobeごとのカスタムアニメーションでクリエイティブに命を吹き込む [!DNL Stock]](stock/customanimations.md)
+      + [Adobeの変更 [!DNL Stock] ストーリーに合った画像のカラー](stock/changecolors.md)
+      + [Adobeを使用したポスターの3Dコラージュの作成 [!DNL Stock] images](stock/collage.md)
+      + [Adobeを付けて大胆なラベルを作る [!DNL Stock] テンプレートとPhotoshopスマートオブジェクト](stock/boldlabel.md)
+      + [Adobeを使用して会社のガイドラインのインフォグラフィックを作成する [!DNL Stock]](stock/infographic.md)
+      + [Adobeを使用して製品機能の比較表を作成する [!DNL Stock]](stock/featurecomparison.md)
+      + [Adobeを使用してセミシュールな合成画像を作成する [!DNL Stock]](stock/surrealcomposite.md)
+      + [Adobeを使用してセミシュールなパターンを作成する [!DNL Stock]](stock/surrealpattern.md)
+      + [Adobeを使用してインタラクティブ製品コンフィギュレーターを作成する [!DNL Stock]](stock/productconfigurator.md)
+      + [Adobeでインタラクティブな観光写真を作成 [!DNL Stock] およびXD](stock/interactivetourismphoto.md)
+      + [Adobeを使用した電子メール用アニメーションの作成 [!DNL Stock] およびPhotoshop](stock/animationemail.md)
+      + [美しいグラデーションとAdobeで、統一感のあるブランドイメージを作成します [!DNL Stock] assets](stock/brandgradients.md)
+      + [Adobeを組み合わせて魅力的なwebグラフィックを作成 [!DNL Stock] cssを使用した画像](stock/webgraphics.md)
+      + [Adobeですぐに刺激的なムードボードを作成できます [!DNL Stock]](stock/moodboard.md)
+      + [Adobeを使用したリアルな写真合成の作成 [!DNL Stock] images](stock/realisticcomposite.md)
+      + [Adobeを使用した読み込み画面のアニメーションのカスタマイズ [!DNL Stock] およびXD](stock/loadingscreen.md)
+      + [Adobeのカスタマイズ [!DNL Stock] プロフェッショナルに見せるプレゼンテーションテンプレート](stock/presentationtemplate.md)
+      + [Adobeのカラーをカスタマイズする [!DNL Stock] ベクターイラスト](stock/customizecolors.md)
++ Adobe 3D &amp; VR {#3doverview}
    + [概要](3di/overview-3di.md)
    + チュートリアル {#3dtutorials}
-      + [3D デザインとレンダリング](3di/substance-3d-stager.md)
-      + [CGI での 3D ライティングをマスターするためのヒントとテクニック](3di/mastering3dlighting.md)
-      + [3D レンダリングと合成を使用したフォトリアルな仮想写真の作成](3di/photorealistic.md)
-      + [3D モデルのカスタマイズとブランディング [!DNL Dimension] とAdobe [!DNL Stock]](3di/3ddimensionstock.md)
+      + [3Dデザインとレンダリング](3di/substance-3d-stager.md)
+      + [CGIでの3Dライティングをマスターするためのヒントとテクニック](3di/mastering3dlighting.md)
+      + [3Dレンダリングと合成を使用したフォトリアルなバーチャルフォトの作成](3di/photorealistic.md)
+      + [3Dモデルのカスタマイズとブランディング [!DNL Dimension] およびAdobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobeビデオ {#videooverview}
    + [概要](dva/overview-dva.md)
    + チュートリアル {#videotutorials}
       + [プロフェッショナルなモーショングラフィックステンプレート](dva/motion-graphics-templates.md)
-      + [Frame.io を使用したビデオレビュー](dva/video-review-frame-io.md)
+      + [Frame.ioを使用したビデオレビュー](dva/video-review-frame-io.md)
    + クイックリファレンスガイド {#videorefguides}
       + [ビデオガイド](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [概要](xd/overview-xd.md)
    + チュートリアル {#xdtutorials}
-   + [慣れる [!UICONTROL コンポーネント] Adobe XD](xd/components.md)
+   + [～に慣れる [!UICONTROL コンポーネント] Adobe XD内](xd/components.md)
 + デプロイと管理 {#deploy}
    + [概要](deploy/overview-deploy.md)
    + [シリアル番号の有効期限](deploy/cceserial.md)
@@ -137,6 +138,6 @@ ht-degree: 10%
          + [CC ライブラリ](max/cclibraries.md)
          + [InDesign Server](max/indesignserver.md)
          + [[!DNL Stock]](max/stock.md)
-         + [エンタープライズ管理](max/enterprise.md)
-      + ハンズオンプロジェクト {#project}
-         + [独自の顔マスクを作成](max/handsonproject.md)
+         + [Enterprise Administration](max/enterprise.md)
+      + 実践プロジェクト {#project}
+         + [独自のフェイスマスクを作成](max/handsonproject.md)
