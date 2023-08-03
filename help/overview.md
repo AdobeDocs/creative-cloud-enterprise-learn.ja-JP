@@ -1,21 +1,21 @@
 ---
-title: Creative Cloudエンタープライズ版Tutorials
-description: エンタープライズ向けCreative Cloudラーニングハブへようこそ
+title: 大規模法人Tutorials向けCreative Cloud
+description: 企業向け学習ハブのCreative Cloudへようこそ
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 2d9140f3143aa8ff3fe2ec940e32930441fbdc5e
+source-git-commit: bb4661c032e0c39218f075502bb6224dc41574b5
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 12%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
 
-# Creative Cloudエンタープライズ版チュートリアル
+# エンタープライズ版チュートリアルのCreative Cloud
 
-![Creative CloudHero Image](assets/hero_cce.jpg)
+![Creative Cloudのヒーロー画像](assets/hero_cce.jpg)
 
-エンタープライズ向けCreative Cloudラーニングハブへようこそ。 ここでは、エンタープライズ向けの学習に特化した幅広いCreative Cloud体験を紹介します。 チュートリアル、Web セミナー、ユースケースでは、初心者から管理者まで、エンタープライズ製品のCreative Cloudをすばやく習得できるように設計されています。
+エンタープライズ版Learning HubのCreative Cloudをご利用いただきありがとうございます。 ここでは、企業向けのCreative Cloudに焦点を当てた幅広い学習経験を見つけることができます。 チュートリアル、ウェビナー、ユースケースは、初心者と管理者の両方に企業向け製品のCreative Cloudを迅速に行えるように設計されています。
 
 ## トピックを参照
 
@@ -23,84 +23,44 @@ ht-degree: 12%
 <tr>
   <td>
     <a href="cce/overview-cce.md">
-      <img alt="Creative Cloud エンタープライズ版" src="assets/CCEbanner.png" />
+      <img alt="Creative Cloud エンタープライズ版" src="assets/CCecard.png" />
     </a>
-    <div>
-   <a href="cce/overview-cce.md"><strong>Creative Cloud エンタープライズ版</strong></a>
-    </div>
-    <em>エンタープライズの観点から、Creative Cloudの最新リリースの新機能を学ぶ</em>
-    <br>
   </td>
   <td>
     <a href="express/overview-express.md">
-      <img alt="Adobe Express" src="assets/Express.png" />
+      <img alt="Adobe Express" src="assets/Expresscard.png" />
     </a>
-    <div>
-   <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
-    </div>
-    <em>経験を必要としない、使いやすいクリエイティブツール</em>
-    <br>
   </td>
   <td>
     <a href="firefly/overview-firefly.md">
-      <img alt="Adobe Firefly" src="assets/firefly.png" />
+      <img alt="Adobe Firefly" src="assets/Fireflycard.png" />
     </a>
-    <div>
-   <a href="firefly/overview-firefly.md"><strong>Adobe Firefly</strong></a>
-    </div>
-    <em>クリエイティブな生成 AI モデルの新しいファミリーがAdobe製品に登場</em>
-    <br>
   </td>
   <td>
     <a href="stock/overview-stock.md">
-      <img alt="Adobe Stock" src="assets/Stock.jpg" />
+      <img alt="Adobe Stock" src="assets/Stockcard.png" />
     </a>
-    <div>
-   <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
-    </div>
-    <em>高品質なデジタル画像、イラスト、ビデオ、オーディオ、テンプレートなど</em>
-    <br>
   </td>
 </tr>
   <td>
    <a href="3di/overview-3di.md">
-      <img alt="Adobe3D &amp; VR" src="assets/Dimenio.jpg" />
+      <img alt="Adobe 3D &amp; VR" src="assets/3Dcard.png" />
     </a>
-    <div>
-   <a href="3di/overview-3di.md"><strong>Adobe3D &amp; VR</strong></a>
-    </div>
-    <em>グラフィックデザイナーのための 3D ツール</em>
-    <br>
   </td>
   <td>
   <a href="dva/overview-dva.md">
-      <img alt="Adobeビデオ" src="assets/CCEbanner-DVA.png" />
+      <img alt="Adobeビデオ" src="assets/Videocard.png" />
     </a>
-    <div>
-   <a href="dva/overview-dva.md"><strong>Adobeビデオ</strong></a>
-    </div>
-    <em>ビデオ編集、モーショングラフィックス、ビジュアルエフェクト、アニメーションなどに対応したAdobeのソフトウェアとアプリで、アイデアに命を吹き込みましょう</em>
-    <br>
   </td>
   <td>
     <a href="xd/overview-xd.md">
-      <img alt="Adobe XD" src="assets/XD.jpg" />
+      <img alt="Adobe XD" src="assets/XDcard.png" />
     </a>
-    <div>
-   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-    </div>
-    <em>ユーザーエクスペリエンスをデザイン、プロトタイプ作成、共有します</em>
-    <br>
   </td>
   <td>
     <a href="max/overview-max.md">
-      <img alt="MAX 2020 — エンタープライズセッション" src="assets/MAX.jpg" />
+      <img alt="Adobe MAX" src="assets/Maxcard.png" />
     </a>
-    <div>
-   <a href="max/overview-max.md"><strong>MAX 2020 — エンタープライズセッション</strong></a>
-    </div>
-    <em>MAX 2020 エンタープライズセッションの詳細</em>
-    <br>
   </td>
 </tr>
 </table>
