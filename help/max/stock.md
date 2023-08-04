@@ -1,10 +1,11 @@
 ---
-title: "[!DNL Stock]"
-description: Adobe [!DNL Stock] エンタープライズ版では、2 億点以上の画像、ビデオ、テンプレート、イラスト、オーディオファイル、3D アセットにアクセスできます。
+title: ”[!DNL Stock]”
+description: Adobe [!DNL Stock] エンタープライズ版では、クリエイティブチームが2億点以上の画像、ビデオ、テンプレート、イラスト、オーディオファイル、3Dアセットにアクセスできます
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -13,22 +14,22 @@ ht-degree: 0%
 
 # [!DNL Stock]
 
-![チュートリアルヒーロー画像](../assets/Stock.jpg)
+![チュートリアルのヒーロー画像](../assets/Stock.jpg)
 
-クリエイターには、注目を集めて維持できる、視覚的に説得力のある新しいコンテンツをすばやく提供しなければならないというプレッシャーがかかっています。 Adobe [!DNL Stock] エンタープライズ版では、クリエイティブチームは毎日使用するAdobeのクリエイティブアプリから 2 億点以上の画像、ビデオ、テンプレート、イラスト、オーディオファイル、3D アセットにアクセスできます。
+クリエイターは、注目を集めて保持できる、視覚的に効果のある新しいコンテンツを迅速に提供するようプレッシャーを受けています。 Adobe [!DNL Stock] エンタープライズ版では、クリエイティブチームが毎日使用するAdobeのクリエイティブアプリ内から、2億点以上の画像、ビデオ、テンプレート、イラスト、オーディオファイル、3Dアセットにアクセスできます。
 
-## 製品Tutorials
+## 製品のTutorialsを参照
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="stock.md#tutorial1">
-      <img alt="Adobe [!DNL Stock]" src="../assets/stock_torres_thumbnail.jpg" />
+      <img alt="Adobeで最適なアセットをより迅速に見つける [!DNL Stock]" src="../assets/stock_torres_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial1"><strong>Adobe [!DNL Stock]</strong></a>
+   <a href="stock.md#tutorial1"><strong>Adobeで最適なアセットをより迅速に見つける [!DNL Stock]</strong></a>
     </div>
-    <em>アドビの人工知能エンジン、Adobe Senseiを利用した高品質で高速な検索結果により、ロイヤリティフリーのストック画像を検索してクリエイティブプロジェクトを強化できます</em>
+    <em>人工知能エンジンであるAdobe Senseiを利用して、より良く、より高速な検索結果を使用してクリエイティブプロジェクトを強化するために、最適なロイヤリティフリーのストック画像を見つけましょう</em>
     <br>
   </td>
   <td>
@@ -38,7 +39,7 @@ ht-degree: 0%
     <div>
    <a href="stock.md#tutorial2"><strong>検索とライセンス [!DNL Stock] Adobe Experience Managerのアセット</strong></a>
     </div>
-    <em>簡単な手順でライセンスAdobe [!DNL Stock] デジタルアセット管理システムへのアセットの取り込み</em>
+    <em>ライセンス済みAdobeのアップロードプロセスの簡素化 [!DNL Stock] アセットをデジタルアセット管理システムに組み込む</em>
     <br>
   </td>
   <td>
@@ -49,43 +50,43 @@ ht-degree: 0%
 </tr>
 </table>
 
-## Adobe [!DNL Stock] (10:49) {#tutorial1}
+## Adobeで最適なアセットをより迅速に見つける [!DNL Stock] (10:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **説明**
-アドビの人工知能エンジンであるAdobe Senseiを利用した、より優れた検索結果をすばやく利用して、ロイヤリティフリーの完璧なストック画像を検索し、クリエイティブプロジェクトを強化できます。
+人工知能エンジンであるAdobe Senseiを利用して、より良く、より高速な検索結果を使用してクリエイティブプロジェクトを強化するために、最適なロイヤリティフリーのストック画像を見つけましょう。
 
-このチュートリアルでは、次の方法について学習します。
-* 高品質の画像やビデオを検索する際の時間とストレスを解消しましょう
-* エンタープライズ全体でアセットのライセンスと使用状況を簡単に管理して追跡できます
-* Adobe Creative Cloudアプリ内で検索、プレビュー、ライセンス購入
+このチュートリアルでは、次の方法を学習します。
+* 高品質の画像やビデオを探す手間とストレスを解消
+* 企業全体でアセットのライセンスと使用状況を簡単に管理および追跡
+* Adobe Creative Cloudアプリケーション内で直接検索、プレビュー、ライセンス購入
 
 **提供 :**
 
-ビクトリア・トレス [!DNL Stock] ソリューションコンサルタント（デジタルメディア）
+ビクトリア・トレス [!DNL Stock] ソリューション・コンサルタント（デジタル・メディア）
 
-## 検索とライセンス [!DNL Stock] AEMのアセット (6:46) {#tutorial2}
+## 検索とライセンス [!DNL Stock] AEMのアセット(6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **説明**
-簡単な手順でライセンスAdobe [!DNL Stock] デジタルアセット管理システムにアセットを追加できます。
+ライセンス済みAdobeのアップロードプロセスの簡素化 [!DNL Stock] アセットをデジタルアセット管理システムに組み込むことができます。
 
-このチュートリアルでは、次の方法について学習します。
-* 実行Adobe [!DNL Stock] AEMワークスペース内でのアセット検索
-* ライセンス購入時に、ライセンス購入済みアセットをAEMフォルダーに直接保存する
-* AEMからライセンス認証されたアセットを [!DNL Stock] のライセンス履歴 [!DNL Stock] web サイトを開きます。
+このチュートリアルでは、次の方法を学習します。
+* Adobeを実行 [!DNL Stock] AEMワークスペースを離れずにアセットを検索
+* ライセンス済みアセットをライセンス時にAEMフォルダーに直接保存
+* AEMからライセンスされたアセットの [!DNL Stock] のライセンス履歴 [!DNL Stock] webサイトを開きます。
 
 **提供元：**
-Emily Palmer、ソリューションコンサルタント（デジタルメディア）
+ソリューション・コンサルタント（デジタル・メディア）、Emily Palmer氏
 
 ![[!DNL Stock] ロゴ](../assets/st_appicon_96.png)
 
-**Adobe [!DNL Stock] 関連情報**
+**Adobe [!DNL Stock] リソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/stock.html) は、その他のチュートリアルやコミュニティフォーラムへのリンクを掲載しています。
+[ラーニングとサポート](https://helpx.adobe.com/support/stock.html) は、追加のチュートリアルやコミュニティフォーラムへのリンクのハブです。
 
-**2020 年 10 月リリース**
+**2020年10月リリース**
 
-これらの機能をぜひご利用ください（その他） Creative Cloudデスクトップアプリケーションから最新のアップデートをダウンロードします。
+これらの機能の使用を開始しましょう（さらに多くの機能を使用できます）。 Creative Cloudのデスクトップアプリから最新のアップデートをダウンロードする方法を説明します。

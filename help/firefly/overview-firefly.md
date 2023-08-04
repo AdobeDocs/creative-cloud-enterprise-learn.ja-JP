@@ -1,32 +1,33 @@
 ---
 title: Adobe [!DNL Firefly] 概要
-description: Adobe [!DNL Firefly]
+description: Adobeの最新情報を入手する [!DNL Firefly]
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 756fe272cdf135c4b7c11125b65311cf1eaca7cd
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Firefly] overview
+# Adobe [!DNL Firefly] 概要
 
-![FireflyHero Image](../assets/firefly.png)
+![Fireflyのヒーロー画像](../assets/firefly.png)
 
-Fireflyは、Adobe製品に搭載されるクリエイティブな生成 AI モデルの新しいファミリーで、最初は画像とテキストのエフェクト生成に重点を置いています。 Fireflyは、クリエイティブなワークフローを大幅に改善しながら、アイデアを形にし、制作し、コミュニケーションを取る新しい方法を提供します。
+Fireflyは、クリエイティブなAI生成モデルの新しいファミリーであり、最初は画像とテキストの効果の生成に重点を置いて、Adobe製品に追加されます。 Fireflyは、クリエイティブなワークフローを大幅に改善しながら、アイデア、作成、コミュニケーションを実現する新しい方法を提供します。
 
 <br> 
 
-## Look what you can doAdobe Firefly
+## Adobe Fireflyでできること
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## Adobe Firefly
+## Adobe Fireflyの詳細情報
 
 <table style="table-layout:fixed">
 <tr>
@@ -37,12 +38,12 @@ Fireflyは、Adobe製品に搭載されるクリエイティブな生成 AI モ�
   </td>
   <td>
       <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
-         <img alt="PhotoshopのFireflyを見る" src="assets/firefly-photoshop.png" />
+         <img alt="PhotoshopでFireflyを検索" src="assets/firefly-photoshop.png" />
       </a>
   </td>
   <td>
       <a href="webinar-experimenting.md">
-         <img alt="様々なAdobe Firefly" src="assets/webinar-experimenting.png" />
+         <img alt="Adobe Fireflyを試す" src="assets/webinar-experimenting.png" />
       </a>
   </td>
   <td>
@@ -59,12 +60,12 @@ Fireflyは、Adobe製品に搭載されるクリエイティブな生成 AI モ�
 <tr>
    <td>
       <a href="overview-of-firefly.md">
-         <img alt="Adobe Firefly" src="assets/firefly-overview.png" />
+         <img alt="Adobe Fireflyについて" src="assets/firefly-overview.png" />
       </a>
    </td>
    <td>
       <a href="generative-fill.md">
-         <img alt="Photoshopのジェネレーティブフィル" src="assets/generative-fill.png" />
+         <img alt="Photoshopでの塗りの生成" src="assets/generative-fill.png" />
       </a>
    </td>
    <td>
@@ -81,7 +82,7 @@ Fireflyは、Adobe製品に搭載されるクリエイティブな生成 AI モ�
 <tr>
 <td>
       <a href="generative-recolor.md">
-         <img alt="Illustratorの Generative Recolor" src="assets/firefly-recolor.png" />
+         <img alt="Illustratorでの生成再配色" src="assets/firefly-recolor.png" />
       </a>
   </td>
 <td>

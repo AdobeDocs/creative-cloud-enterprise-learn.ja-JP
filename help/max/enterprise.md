@@ -1,23 +1,24 @@
 ---
-title: エンタープライズ管理
-description: 組織全体でAdobeの使用権限とアセットを管理する
+title: Enterprise Administration
+description: 組織全体にわたるAdobeの使用権限とアセットの管理
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 5%
 
 ---
 
-# エンタープライズ管理
+# Enterprise Administration
 
-![チュートリアルヒーロー画像](../assets/hero_cce.jpg)
+![チュートリアルのヒーロー画像](../assets/hero_cce.jpg)
 
-Adobeの使用権限とアセットを組織全体で管理できます。
+組織全体でAdobeの使用権限とアセットを管理します。
 
-## エンタープライズ管理Tutorials
+## エンタープライズ管理Tutorialsを参照
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,7 +29,7 @@ Adobeの使用権限とアセットを組織全体で管理できます。
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Adobe Fontsの約 200 のファミリーと、Adobe Fontsサービスの使いやすさについて説明します</em>
+    <em>Adobe Fontsの約200種類のファミリーと、Adobe Fontsサービスの使いやすさを確認してください</em>
     <br>
   </td>
   <td>
@@ -50,19 +51,19 @@ Adobeの使用権限とアセットを組織全体で管理できます。
 
 **説明：**
 
-Adobe Fontsの約 200 のファミリーと、Adobe Fontsサービスの使いやすさについて説明します。
+Adobe Fontsの約200種類のファミリーと、Adobe Fontsサービスの使いやすさを確認してください。
 
-このチュートリアルでは、次の方法について学習します。
-* 強力な閲覧インターフェイスを使用して、適切なフォントをすばやく簡単に検索できます
-* ネイティブのアプリケーション統合により時間とCreative Cloudを節約
-* Adobe Admin Consoleですべてのフォントを 1 か所で管理
+このチュートリアルでは、次の方法を学習します。
+* 強力なブラウジングインターフェイスを使用して、適切なフォントをすばやく簡単に見つけます
+* ネイティブのCreative Cloud統合により、時間とコストを節約
+* すべてのフォントをAdobe Admin Consoleで1か所で管理
 
 **提供 :**
 
-Todd Burke、プリンシパルソリューションコンサルタント（デジタルメディア）
+プリンシパルソリューションコンサルタント、Todd Burke氏（デジタルメディア）
 
 **エンタープライズ管理リソース：**
 
-[Adobe Fonts User Guide](https://helpx.adobe.com/fonts/user-guide.html)
+[Adobe Fontsユーザーガイド](https://helpx.adobe.com/fonts/user-guide.html)
 
-[エンタープライズ版の管理者ガイド](https://helpx.adobe.com/enterprise/admin-guide.html)
+[エンタープライズ管理者ガイド](https://helpx.adobe.com/enterprise/admin-guide.html)

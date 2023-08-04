@@ -1,106 +1,107 @@
 ---
-title: Design to Print プラグイン：顔のマスクのカスタマイズ
+title: 印刷プラグインによるフェイスマスクのカスタマイズのデザイン
 description: フェイスマスクをカスタマイズするハンズオンプロジェクト
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
 
 ---
 
-# Design to Print プラグイン：顔のマスクのカスタマイズ
+# 印刷プラグインによるフェイスマスクのカスタマイズのデザイン
 
-![チュートリアルヒーロー画像](../assets/faceMaskSplash.jpg)
+![チュートリアルのヒーロー画像](../assets/faceMaskSplash.jpg)
 
-自分のアートワークでフェイスマスクをカスタマイズできたらいいと思いませんか。 Design to PrintAdobeプラグインを使用すると、数百もの Zazzle 製品でデザインを視覚化し、オンラインマーケットプレイスに直接公開することができます。
+自分のアートワークでフェイスマスクをカスタマイズすることもできたら、素敵だと思いませんか？ Adobeのデザインからプリントへプラグインを使用すると、数多くのZazzle製品でデザインを視覚化し、直接オンラインマーケットプレイスに公開することができます。
 
-## Facemask プロジェクトTutorials
+## FacemaskプロジェクトTutorialsを参照
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="handsonproject.md#tutorial1">
-      <img alt="Photoshop Design to Print プラグインのインストール" src="../assets/d2p_install_sokol_thumbnail.jpg" />
+      <img alt="Photoshop Design to Printプラグインのインストール" src="../assets/d2p_install_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="handsonproject.md#tutorial1"><strong>Photoshop Design to Print プラグインのインストール</strong></a>
+   <a href="handsonproject.md#tutorial1"><strong>Photoshop Design to Printプラグインのインストール</strong></a>
     </div>
-    <em>Adobe Photoshopの強力な選択ツールとカラー編集ツールを使用すれば、企業のブランディングニーズに合わせて画像を劇的に変更できます</em>
+    <em>Adobe Photoshopの強力な選択ツールとカラー編集ツールを使用して、企業のブランディングのニーズに合わせて画像を劇的に変化させます</em>
     <br>
   </td>
   <td>
     <a href="handsonproject.md#tutorial2">
-        <img alt="Design to Print で顔のマスクをカスタマイズ" src="../assets/d2p_faceMask_sokol_thumbnail.jpg" />
+        <img alt="デザインをプリントしたフェイスマスクのカスタマイズ" src="../assets/d2p_faceMask_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md#tutorial2"><strong>Design to Print で顔のマスクをカスタマイズ</strong></a>
+    <a href="handsonproject.md#tutorial2"><strong>デザインをプリントしたフェイスマスクのカスタマイズ</strong></a>
     </div>
-    <em>自分だけの Zazzle フェイスマスクをカスタマイズ</em>
+    <em>独自のZazzleフェイスマスクをカスタマイズする</em>
     <br>
   </td>
   <td>
     <a href="handsonproject.md#tutorial3">
-      <img alt="顔マスクの 3D ビジュアライゼーションの作成" src="../assets/DN_faceMaskShare_sokol_thumbnail.jpg" />
+      <img alt="フェイスマスクの3Dビジュアライゼーションの作成" src="../assets/DN_faceMaskShare_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="handsonproject.md#tutorial3"><strong>顔マスクの 3D ビジュアライゼーションの作成</strong></a>
+   <a href="handsonproject.md#tutorial3"><strong>フェイスマスクの3Dビジュアライゼーションの作成</strong></a>
     </div>
-    <em>イベントギャラリーの顔マスクの 3D 視覚化を作成する</em>
+    <em>イベントギャラリー用にフェイスマスクの3D可視化を作成</em>
     <br>
   </td>
 </tr>
 </table>
 
-## Photoshop Design to Print プラグインのインストール (1:50) {#tutorial1}
+## Photoshop Design to Printプラグインのインストール(1:50) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327096?hidetitle=true)
 
 **説明**
-Photoshop用の Design to Print プラグインのインストール方法について説明します。
+Photoshop用のDesign to Printプラグインをインストールする方法について説明します。
 
-このチュートリアルでは、次の方法について学習します。
-* 服、アクセサリー、文房具、ウォールアートなどの製品のデザインをリアルタイムで視覚化します。
-* Dazzle オンラインマーケットプレイスへの公開
+このチュートリアルでは、次の方法を学習します。
+* 衣服、アクセサリー、文房具、壁のアートなどの製品でデザインをリアルタイムで視覚化できます。
+* Dazzleオンラインマーケットプレイスへの公開
 
 **提供元：**
-Patti Sokol、プリンシパルソリューションコンサルタント（デジタルメディア）
+プリンシパルソリューションコンサルタント（デジタルメディア）、Patti Sokol氏
 
-## デザインを使用してプリントする顔マスクのカスタマイズ (7:54) {#tutorial2}
+## デザインと一緒にフェイスマスクをカスタマイズしてプリントする(7:54) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327097?hidetitle=true)
 
 **説明**
-自分だけの Zazzle フェイスマスクをカスタマイズ
+独自のZazzleフェイスマスクをカスタマイズする
 
-このチュートリアルでは、次の方法について学習します。
-* 服、アクセサリー、文房具、ウォールアートなどの製品のデザインをリアルタイムで視覚化します。
-* Dazzle オンラインマーケットプレイスへの公開
+このチュートリアルでは、次の方法を学習します。
+* 衣服、アクセサリー、文房具、壁のアートなどの製品でデザインをリアルタイムで視覚化できます。
+* Dazzleオンラインマーケットプレイスへの公開
 
-**画像をクリックしてダウンロード Learn Design to PrintPDF**
+**画像をクリックしてダウンロード学ぶデザインして印刷するPDF**
 
-[![Design to Print について](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
+[![印刷するデザインを学ぶ](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
 **提供元：**
-Patti Sokol、プリンシパルソリューションコンサルタント（デジタルメディア）
+プリンシパルソリューションコンサルタント（デジタルメディア）、Patti Sokol氏
 
-## 顔マスクの 3D ビジュアライゼーションの作成 (7:54) {#tutorial3}
+## フェイスマスクの3Dビジュアライゼーションの作成(7:54) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327098?hidetitle=true)
 
 **説明**
-イベントギャラリーの顔マスクの 3D 視覚化を作成する
+イベントギャラリー用にフェイスマスクの3D可視化を作成
 
-このチュートリアルでは、次の方法について学習します。
-* フォトリアリスティックな 3D 視覚化を簡単に作成
-* マテリアルの追加とライティングの制御により、プロフェッショナルな外観を実現
-* アセットを読み込んでブランドやその他のデザインを適用する
+このチュートリアルでは、次の方法を学習します。
+* フォトリアルな3Dビジュアライゼーションを簡単に作成
+* マテリアルを追加し、照明を調整して、プロフェッショナルな外観にします
+* アセットを読み込んで、ブランドや他のデザインを適用する
 
-**「画像」をクリックしてダウンロード [!DNL Dimension] ホワイトマスクの 3D モデルを含むファイル**
+**「画像をダウンロード」をクリックします [!DNL Dimension] ホワイトマスクの3Dモデルを含むファイル**
 
 [![比較画像](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
 
 **提供元：**
-Patti Sokol、プリンシパルソリューションコンサルタント（デジタルメディア）
+プリンシパルソリューションコンサルタント（デジタルメディア）、Patti Sokol氏

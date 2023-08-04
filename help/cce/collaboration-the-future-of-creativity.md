@@ -1,20 +1,23 @@
 ---
-title: 共同作業 — クリエイティビティの未来
-description: Adobe Creative Cloudサブスクリプションの数多くの特典を体験してください。Adobe Fontsの 2 万種類を超えるプロフェッショナルがデザインし、厳選されたフォントに無料でアクセスできます
+title: コラボレーション – 創造性の未来
+description: Adobe FontsでCreative Cloudファイルやフォルダーにコメントを付け、チームメンバー、関係者、クライアントとフィードバックを共有し、厳選されたフォントを提供する方法について説明します
+feature: Collaboration, Share
 role: User
 level: Beginner, Intermediate
+jira: KT-11640
 thumb: KT-11640.jpg
-source-git-commit: 9c294d0754bb6aa1489c5b5761d4522ecf0ad26a
+exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
-# 共同作業：クリエイティビティの未来
+# コラボレーション：未来の創造性
 
-Adobe Creative Cloudのサブスクリプションには、数多くの特典があります。その中から、プロがデザインし、厳選した 2 万種類を超えるAdobe Fontsのフォントに無料でアクセスできます。 Adobe Fontsは元々 Typekit という名称でしたが、デザイナーが個人または商用のプロジェクトでクリエイティブを無制限に使用できる単一のライセンス契約を通じて利用できます。
+Creative Cloud のファイルおよびフォルダーに関するコメントを追加し、チームメンバー、関係者、およびクライアントとフィードバックを共有する方法を説明します。Adobe Creative Cloud webサイトから共有するか、Illustrator、InDesign、Photoshopなどのアプリ内からレビュー用に共有します。
 
-以下の画像を選択して、このチュートリアルを表示するか、ダウンロードしてください。PDFについては、こちらを参照してください。
+このPDFチュートリアルを表示またはダウンロードするには、以下の画像を選択してください。
 
-[![チュートリアルの最初のページの画像](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target=&quot;blank&quot;}
+[![チュートリアルの最初のページの画像](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}

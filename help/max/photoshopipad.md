@@ -1,10 +1,11 @@
 ---
 title: Photoshop iPad 版
-description: iPad版Photoshopなら、思いついたその場で自由にアイデアをカタチにできます
+description: iPadでPhotoshopを使えば、思いついたときにどこでも思いついたことを作ることができます
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 2%
@@ -13,22 +14,22 @@ ht-degree: 2%
 
 # Photoshop iPad 版
 
-![チュートリアルヒーロー画像](../assets/PSoniPad.jpg)
+![チュートリアルのヒーロー画像](../assets/PSoniPad.jpg)
 
-Photoshopは世界最高峰の画像編集とグラフィックデザインソフトウェアです。プロのクリエイティビティをデバイスを問わず無制限に発揮できます。 ひらめいたその瞬間に、ひらめいたその瞬間に、誰でも思いのままに表現できるようになりました。 思い浮かんだものは、Photoshopでカタチにできます。
+Photoshopは、イメージングとグラフィックデザインに関する世界最高のソフトウェアであり、あらゆるデバイスのプロフェッショナルが無制限にクリエイティブに作業できます。 今では、誰でも想像しているものを、インスピレーションが湧くところならどこでも作り出すことができます。 考えさえすればPhotoshopで作れる。
 
-## 製品Tutorials
+## 製品のTutorialsを参照
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="photoshopipad.md#tutorial1">
-      <img alt="iPad版Photoshopの概要" src="../assets/PSiPad_thumbnail.jpg" />
+      <img alt="iPadでのPhotoshopの紹介" src="../assets/PSiPad_thumbnail.jpg" />
    </a>
     <div>
-   <a href="photoshopipad.md#tutorial1"><strong>iPad版Photoshopの概要</strong></a>
+   <a href="photoshopipad.md#tutorial1"><strong>iPadでのPhotoshopの紹介</strong></a>
     </div>
-    <em>このインターフェイスツアーでは、Apple iPadで使用するために刷新されたPhotoshopの機能をいくつか紹介します</em>
+    <em>インターフェイスツアーを開始し、Apple iPadで使用できるように再設計されたPhotoshopの機能をいくつか学びましょう</em>
     <br>
   </td>
   <td>
@@ -44,28 +45,28 @@ Photoshopは世界最高峰の画像編集とグラフィックデザインソ�
 </tr>
 </table>
 
-## iPad版Photoshopの概要 (5:14) {#tutorial1}
+## iPadでのPhotoshopの紹介(5:14) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326899?hidetitle=true)
 
 **説明**
-このインターフェイスツアーでは、Apple iPadで使用できるように刷新されたPhotoshopの機能をいくつか紹介します。
+インターフェイスツアーを開始し、Apple iPadで使用できるように再設計されたPhotoshopの機能をいくつか学びましょう。
 
-このチュートリアルでは、次の方法について学習します。
-* Photoshopツールに
-* モバイルで高精度な編集を実現
-* より没入型で自然な体験
-* クラウドドキュメントによるシームレスなワークフロー
+このチュートリアルでは、次の方法を学習します。
+* お気に入りのPhotoshopツールにアクセス
+* モバイルでの正確な編集によって画質を損なわない
+* より没入感のある自然な体験
+* クラウドドキュメントを使用したシームレスなワークフロー
 
 **提供元：**
-Dan Armstrong、ソリューションコンサルタント（デジタルメディア）
+ソリューションコンサルタント、Dan Armstrong氏（デジタルメディア）
 
-![PhotoshopiPadロゴ](../assets/ps_appicon_96.png)
+![iPadロゴのPhotoshop](../assets/ps_appicon_96.png)
 
-**Photoshop iPad Resources**
+**Photoshop iPad版に関するリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/photoshop.html) は、その他のチュートリアルやコミュニティフォーラムへのリンクを掲載しています。
+[ラーニングとサポート](https://helpx.adobe.com/support/photoshop.html) は、追加のチュートリアルやコミュニティフォーラムへのリンクのハブです。
 
-**2020 年 10 月リリース**
+**2020年10月リリース**
 
-これらの機能をぜひご利用ください（その他） Creative Cloudデスクトップアプリケーションから最新のアップデートをダウンロードします。
+これらの機能の使用を開始しましょう（さらに多くの機能を使用できます）。 Creative Cloudのデスクトップアプリから最新のアップデートをダウンロードする方法を説明します。

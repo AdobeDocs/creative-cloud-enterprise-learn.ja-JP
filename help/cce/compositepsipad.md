@@ -1,24 +1,25 @@
 ---
-title: ユニークな合成を作成するAdobe [!DNL Stock] iPad版Photoshop
-description: 指先ひとつでPhotoshopのパワーを発揮 リエンジニアリングされたタッチベースのインターフェイスにより、お気に入りのCreative Cloudアプリケーションをまったく新しい方法で使用する方法について学習します
+title: Adobeを使用した固有のコンポジットの作成 [!DNL Stock] iPadのPhotoshop
+description: Photoshopのパワーを手軽に利用できます。 刷新されたタッチベースのインターフェイスを使用して、お気に入りのCreative Cloudアプリケーションの1つを全く新しい方法で使用する方法を学習します
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: c2f1440a-5da7-4e04-9c7d-fe595d45a8c2
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# ユニークな合成を作成するAdobe [!DNL Stock] iPad版Photoshop
+# Adobeを使用した固有のコンポジットの作成 [!DNL Stock] iPadのPhotoshop
 
-指先ひとつでPhotoshopのパワーを発揮 リエンジニアリングされたタッチベースのインターフェイスを備えた、お気に入りのCreative Cloudアプリケーションの 1 つを、まったく新しい方法で使用する方法について学習します。
+Photoshopのパワーを手軽に利用できます。 刷新されたタッチベースのインターフェイスを使用して、お気に入りのCreative Cloudアプリケーションの1つを全く新しい方法で使用する方法を学習します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331004?hidetitle=true)
 
 <br> 
 
-[**クイックリファレンスPDFガイド**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
+[**クイックリファレンスPDFガイドをダウンロード**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
 
-[![ クイックリファレンスガイドの最初のページの画像 ](assets/GettoknowPhotoshopontheiPadPage1.png)](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
+[![クイックリファレンスガイドの最初のページの画像](assets/GettoknowPhotoshopontheiPadPage1.png)](../quick-reference/GettoknowPhotoshopontheiPad.pdf)

@@ -1,34 +1,35 @@
 ---
-title: AEM Assetsと Asset Link
-description: AEM Sssets とリンクのリスト
+title: AEM AssetsとAsset Link
+description: AEMアセットとリンクのリスト
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 1%
 
 ---
 
-# AEM Assetsと Asset Link
+# AEM AssetsとAsset Link
 
-![チュートリアルヒーロー画像](../assets/AEM.jpg)
+![チュートリアルのヒーロー画像](../assets/AEM.jpg)
 
-Adobe Experience Managerは、大企業および中堅企業向けの、業界をリードするデジタルエクスペリエンス管理ソリューションです。 ブランドのエンゲージメントを促進し、需要を促進し、顧客のロイヤルティを高める魅力的なエクスペリエンスを提供するための最新のスケーラブルな基盤を提供します。 Experience Managerは、あらゆるチャネルをまたいでデジタルエクスペリエンスを構築、管理、提供するための包括的なツールセットを提供しています。
+Adobe Experience Managerは、大企業および中堅企業向けの業界をリードするデジタルエクスペリエンス管理ソリューションです。 これは、ブランドのエンゲージメントを促進し、需要を促進し、顧客のロイヤルティを高める魅力的なエクスペリエンスを提供するための最新のスケーラブルな基盤を提供します。 Experience Managerには、あらゆるチャネルでデジタルエクスペリエンスを構築、管理、提供するためのツール一式が含まれています。
 
-## 製品Tutorials
+## 製品のTutorialsを参照
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="aem.md#tutorial1">
-      <img alt="AEMと Asset Link" src="../assets/aem_assetlink_rowse_thumbnail.jpg" />
+      <img alt="AEMとAsset Link" src="../assets/aem_assetlink_rowse_thumbnail.jpg" />
    </a>
     <div>
-   <a href="aem.md#tutorial1"><strong>AEMと Asset Link</strong></a>
+   <a href="aem.md#tutorial1"><strong>AEMとAsset Link</strong></a>
     </div>
-    <em>AEMに保存されているアセットを Asset Link でリアルタイムに更新</em>
+    <em>AEMに保存されているアセットをAsset Linkでリアルタイムで更新</em>
     <br>
   </td>
    <td>
@@ -38,7 +39,7 @@ Adobe Experience Managerは、大企業および中堅企業向けの、業界�
     <div>
    <a href="aem.md#tutorial2"><strong>AEMでホストされるInDesignファイル</strong></a>
     </div>
-    <em>AEMでInDesignドキュメントをホストすれば、複数のユーザーが同時にコンテンツバリエーションを作成できます</em>
+    <em>AEMでInDesignドキュメントをホストして、複数のユーザーが同時にコンテンツのバリエーションを作成できるようにします</em>
     <br>
   </td>
   <td>
@@ -49,35 +50,35 @@ Adobe Experience Managerは、大企業および中堅企業向けの、業界�
 </tr>
 </table>
 
-## AEMと Asset Link(5:45) {#tutorial1}
+## AEMとAsset Link(5:45) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326828?hidetitle=true)
 
 **説明**
-Asset Link を使用して、AEMに保存されているアセットをリアルタイムで更新します。
+Asset Linkを使用して、AEMに保存されているアセットをリアルタイムで更新できます。
 
-このチュートリアルでは、次の方法について学習します。
-* デザインプログラム内のアセットを検索および参照するための専用パネルを使用して、必要なときに必要なものを見つけることができます
-* デザインプログラムから直接、アセットを簡単にアップロードできます
-* DAM からデザインプログラムにアセットをチェックインして、リアルタイムで更新します
+このチュートリアルでは、次の方法を学習します。
+* デザインプログラム内でアセットを検索および参照するための専用パネルを使用して、必要なときに必要な情報を見つけることができます
+* デザインプログラムからアセットを簡単にアップロード
+* リアルタイムで更新を行うには、 DAMのアセットをチェックアウトして設計プログラムにチェックインします
 
 **提供元：**
-Eric Rowse、シニアソリューションコンサルタント（デジタルメディア）
+シニアソリューションコンサルタント（デジタルメディア）、Eric Rowse氏
 
-## AEMでホストされるInDesignファイル (3:16) {#tutorial2}
+## AEMでホストされているInDesignファイル(3:16) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326829?hidetitle=true)
 
 **説明**
-AEMでInDesignドキュメントをホストすれば、複数のユーザーが同時にコンテンツバリエーションを作成できます。
+AEMでInDesignドキュメントをホストすると、複数のユーザーが同時にコンテンツのバリエーションを作成できます。
 
-このチュートリアルでは、次の方法について学習します。
-* 一般的なInDesignアクセス用にストレージファイルをAEMにアップロードする
-* ソースファイルが壊れる心配なしに、バリエーションを安全に作成できます
+このチュートリアルでは、次の方法を学習します。
+* InDesignファイルをAEMにアップロードして共通のストレージアクセスを実現
+* ソースファイルを破棄する心配なく、バリエーションを安全に作成
 * 文書フィールドは事前にフォーマットされているため、コンテンツをすばやく編集または変更できます。
 
 **提供元：**
-Eric Rowse、シニアソリューションコンサルタント（デジタルメディア）
+シニアソリューションコンサルタント（デジタルメディア）、Eric Rowse氏
 
 <table style="table-layout:fixed">
 <tr>
@@ -88,12 +89,12 @@ Eric Rowse、シニアソリューションコンサルタント（デジタル�
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
     </div>
-    <em>コンテンツ管理とデジタルアセット管理の最強の組み合わせ</em>
+    <em>コンテンツとデジタル資産管理のニーズに対応する強力なコンボ</em>
     <br>
   </td>
   <td>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html">
-      <img alt="InDesign Server:パートナーを探す" src="../assets/AEM_Thumbnail.jpg" />
+      <img alt="InDesign Server:パートナーの検索" src="../assets/AEM_Thumbnail.jpg" />
    </a>
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html"><strong>AEM Assets</strong></a>
@@ -103,12 +104,12 @@ Eric Rowse、シニアソリューションコンサルタント（デジタル�
   </td>
   <td>
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html">
-      <img alt="InDesign Server:パートナーを探す" src="../assets/AEM_Thumbnail.jpg" />
+      <img alt="InDesign Server:パートナーの検索" src="../assets/AEM_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets:利点</strong></a>
+   <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets：メリット</strong></a>
     </div>
-    <em>デジタルアセットを活用</em>
+    <em>デジタルアセットを活用する</em>
     <br>
   </td>
 </tr>
@@ -116,10 +117,10 @@ Eric Rowse、シニアソリューションコンサルタント（デジタル�
 
 ![AEMロゴ](../assets/aem_appicon_noshadow_96.png)
 
-**Asset Link &amp; AEM Resources**
+**Asset LinkとAEMリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/experience-manager.html) は、その他のチュートリアル、新機能、コミュニティフォーラムへのリンクを掲載しています。
+[ラーニングとサポート](https://helpx.adobe.com/support/experience-manager.html) は、追加のチュートリアル、新機能、およびコミュニティフォーラムへのリンクのハブです。
 
-**2020 年 10 月リリース**
+**2020年10月リリース**
 
-これらの機能をぜひご利用ください（その他） Creative Cloudデスクトップアプリケーションから最新のアップデートをダウンロードします。
+これらの機能の使用を開始しましょう（さらに多くの機能を使用できます）。 Creative Cloudのデスクトップアプリから最新のアップデートをダウンロードする方法を説明します。

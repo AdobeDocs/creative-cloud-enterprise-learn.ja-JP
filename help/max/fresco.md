@@ -1,10 +1,11 @@
 ---
 title: Fresco
-description: Adobe Frescoは、ベクターワークフローとラスタライズワークフローをクラウドドキュメントと組み合わせたブラシベースの方法を使用して、描画やペイントを作成するためのクロスプラットフォームアプリです
+description: Adobe Frescoは、ベクターとラスタライズワークフローをクラウドドキュメントと組み合わせたブラシベースの機能で描画やペインティングを作成するクロスプラットフォームのアプリです
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -13,32 +14,32 @@ ht-degree: 0%
 
 # Fresco
 
-![チュートリアルヒーロー画像](../assets/Fresco.jpg)
+![チュートリアルのヒーロー画像](../assets/Fresco.jpg)
 
-Adobe Frescoは、ベクターワークフローとラスタライズワークフローをクラウドドキュメントと組み合わせたブラシベースの方法を使用して、描画やペイントを作成するためのクロスプラットフォームアプリです。
+Adobe Frescoは、ベクターとラスタライズのワークフローをクラウドドキュメントと組み合わせたブラシベースの方法を使用して描画やペイントを作成するためのクロスプラットフォームのアプリです。
 
-## 製品Tutorials
+## 製品のTutorialsを参照
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="fresco.md#tutorial1">
-      <img alt="Adobe Frescoを使用した描画の概要" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
+      <img alt="Adobe Frescoを使用した描画の紹介" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial1"><strong>Adobe Frescoを使用した描画の概要</strong></a>
+   <a href="fresco.md#tutorial1"><strong>Adobe Frescoを使用した描画の紹介</strong></a>
     </div>
-    <em>AdobeFresco の強力な選択ツールとカラー編集ツールを使用して、企業のブランディングニーズに合わせて画像を劇的に変更します</em>
+    <em>Adobe frescoの強力な選択ツールとカラー編集ツールを使用して、企業のブランディングのニーズに合わせて画像を劇的に変化させます</em>
     <br>
   </td>
   <td>
    <a href="fresco.md#tutorial2">
-      <img alt="テクスチャアートワークの作成 —IllustratorへのFresco" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
+      <img alt="テクスチャを適用したアートワークの作成 – IllustratorへのFresco" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial2"><strong>テクスチャアートワークの作成 —IllustratorへのFresco</strong></a>
+   <a href="fresco.md#tutorial2"><strong>テクスチャを適用したアートワークの作成 – IllustratorへのFresco</strong></a>
     </div>
-    <em>Adobe Frescoでのテクスチャのペイントと描画と、Illustratorでのテクスチャの使用方法について説明します</em>
+    <em>Adobe Frescoでテクスチャをペイントして描画し、Illustratorで使用する方法を説明します</em>
     <br>
   </td>
   <td>
@@ -49,43 +50,43 @@ Adobe Frescoは、ベクターワークフローとラスタライズワーク�
 </tr>
 </table>
 
-## Adobe Frescoを使用した描画の概要 (19:07) {#tutorial1}
+## Adobe Frescoを使用した描画の紹介(19:07) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326946?hidetitle=true)
 
 **説明**
-ベクターとラスタライズのワークフローとクラウドドキュメントを組み合わせたブラシベースの方法で、描画とペイントを作成するためのAdobe Frescoについて説明します。
+ベクターとラスタライズのワークフローをクラウドドキュメントと組み合わせたブラシベースの手法を使用して、描画やペイントを作成するためのAdobe Frescoを紹介します。
 
-このチュートリアルでは、次の方法について学習します。
-* 好みのピクセルブラシやベクターブラシと一緒に、水彩や油彩を模したユニークなライブブラシを使用します
-* 様々なブラシをレイヤー化し、マスクを使用してテクスチャ効果を作成する
-* 新しいiPhone向けFrescoアプリでどこでも作成
-* 作品を様々な形式で書き出して、他のモバイルアプリやデスクトップアプリケーションで使用できます
+このチュートリアルでは、次の方法を学習します。
+* 水彩画や油彩画を模したユニークなライブブラシを、お気に入りのピクセルブラシやベクターブラシと一緒に使用できます
+* 様々なブラシをレイヤー化し、マスクを利用して、テクスチャ効果を作成します
+* iPhone用の新しいFrescoアプリで、場所を問わずに制作を続けましょう
+* 作品を様々な形式に書き出して、他のモバイルアプリやデスクトップアプリで使用できます
 
 **提供元：**
-Liz Tanonis、ソリューションコンサルタント（デジタルメディア）
+ソリューションコンサルタント、Liz Tanonis氏（デジタルメディア）
 
-## テクスチャアートワークの作成 —IllustratorへのFresco(4:10) {#tutorial2}
+## テクスチャを適用したアートワークの作成 – IllustratorへのFresco(4:10) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326947?hidetitle=true)
 
 **説明**
-Adobe Frescoでのテクスチャのペイントと描画と、Illustratorでのテクスチャの使用方法について説明します。
+Adobe Frescoでテクスチャをペイントして描画し、Illustratorでテクスチャを使用する方法を説明します。
 
-このチュートリアルでは、次の方法について学習します。
-* Adobe Fresco iPhoneアプリケーションでアートワークを作成し、書き出して他のCreative Cloudアプリケーションで使用します
-* Illustratorの画像トレースツールを使用して、アートワークをベクターに変換する
-* Illustratorでベクターアートワークに手書きテクスチャを適用する
+このチュートリアルでは、次の方法を学習します。
+* iPhone用Adobe Frescoアプリでアートワークを作成し、書き出して他のCreative Cloudアプリで使用します
+* Illustratorの画像トレースツールを使用してアートワークをベクターに変換
+* Illustratorでベクターアートワークに手作りのテクスチャを適用する
 
 **提供元：**
-Liz Tanonis、ソリューションコンサルタント（デジタルメディア）
+ソリューションコンサルタント、Liz Tanonis氏（デジタルメディア）
 
 ![Frescoロゴ](../assets/fr_appicon_96.png)
 
-**Fresco資料**
+**Frescoリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/adobe-fresco.html) は、その他のチュートリアルのハブです。 [新機能](https://helpx.adobe.com/fresco/using/whats-new.html)コミュニティフォーラムへのリンクも含まれています。
+[ラーニングとサポート](https://helpx.adobe.com/support/adobe-fresco.html) は、追加のチュートリアルのハブです。 [新機能](https://helpx.adobe.com/fresco/using/whats-new.html)、およびコミュニティフォーラムへのリンク。
 
-**2020 年 10 月リリース**
+**2020年10月リリース**
 
-これらの機能をぜひご利用ください（その他） Creative Cloudデスクトップアプリケーションから最新のアップデートをダウンロードします。
+これらの機能の使用を開始しましょう（さらに多くの機能を使用できます）。 Creative Cloudのデスクトップアプリから最新のアップデートをダウンロードする方法を説明します。

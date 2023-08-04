@@ -1,17 +1,19 @@
 ---
-title: 曲線テキストの作成
-description: プロジェクトで曲線文字を作成する方法を学習する
+title: 曲線テキストを作成
+description: プロジェクトで曲線テキストを作成する方法について説明します
+feature: Graphic Design
 role: User
 level: Beginner
-source-git-commit: e45ff88014e4bceea43ab7c45069d73f29987459
+exl-id: 46308791-5d88-42da-b8f9-2f16b27b4362
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 0%
 
 ---
 
-# 曲線テキストの作成
+# 曲線テキストを作成する
 
-プロジェクトで曲線文字を作成する方法を学習します。
+プロジェクトで曲線テキストを作成する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420224?quality=12&learn=on&hidetitle=true)

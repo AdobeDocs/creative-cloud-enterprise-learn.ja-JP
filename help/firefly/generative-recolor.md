@@ -1,19 +1,20 @@
 ---
-title: Illustratorの Generative Recolor
-description: Adobe Fireflyを利用した生成的再配色の使用方法について説明します
+title: Illustratorでの生成再配色
+description: Adobe Fireflyを利用した生成再配色の使用方法を説明します。
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13527
-source-git-commit: a09b13fab3268cef63771abca51756c96f45aa07
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Illustratorの Generative Recolor
+# Illustratorでの生成再配色
 
-Adobe IllustratorのAdobe Fireflyを利用した Generative Recolor を使用して、ホテルのカスタムティーボックスのベクター画像をすばやく再配色する方法について説明します。 このチュートリアルでは、AdobeIllustrator プレリリースを使用します。
+Adobe IllustratorでAdobe Fireflyを利用したジェネレーティブリカラーを使用して、カスタムホテルのティーボックスのベクターイメージをすばやく再配色する方法を説明します。 このチュートリアルでは、Adobe版Illustratorプレリリース版を使用します。
 
 <br> 
 

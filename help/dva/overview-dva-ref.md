@@ -1,20 +1,22 @@
 ---
 title: ビデオクイックリファレンスガイド
-description: AdobeDVA 製品の理解を深めるためのクイックリファレンスガイド
+description: Adobe DVA製品の理解に役立つクイックリファレンスのガイド
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
-source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
+exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 1%
 
 ---
 
-# ビデオのクイックリファレンスガイド
+# ビデオクイックリファレンスガイド
 
-![Creative CloudHero Image](../assets/CCEbanner-DVA.png)
+![Creative Cloudのヒーロー画像](../assets/CCEbanner-DVA.png)
 
-ビデオ編集、モーショングラフィックス、ビジュアルエフェクト、アニメーションなどに対応したAdobeのソフトウェアとアプリで、アイデアに命を吹き込みましょう。 ダウンロードする画像を選択するか、クイックリファレンスガイドのPDFを表示します。
+ビデオ編集、モーショングラフィックス、ビジュアルエフェクト、アニメーションなどのAdobeソフトウェアとアプリを使用して、アイデアを実現します。 画像を選択してダウンロードするか、クイックリファレンスガイドのPDFを表示します。
 
 ## Adobe Audition
 
@@ -22,12 +24,12 @@ ht-degree: 1%
 <tr>
    <td>
       <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf" target="_blank">
-         <img alt="Adobe Auditionのスポット修復ブラシツールを使用すると、不要なオーディオコンテンツを簡単に削除できます。" src="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.jpg" />
+         <img alt="Adobe Auditionのスポット修復ブラシを使用して不要なオーディオコンテンツを素早く削除" src="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.jpg" />
       </a>
       <div>
-      <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf" target="_blank"><strong>Adobe Audition(PDF) のスポット修復ブラシツールを使用して、不要なオーディオコンテンツをすばやく削除します。</strong></a>
+      <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf" target="_blank"><strong>Adobe Audition(PDF)のスポット修復ブラシを使用して、不要なオーディオコンテンツを素早く削除します</strong></a>
       </div>
-      <em>Adobe Photoshopのスポット修復ブラシツールを使用して、Adobe Auditionのオーディオファイルから不要なサウンドを除去できることをご存知でしたか？</em>
+      <em>Adobe Photoshopのスポット修復ブラシを使用すると、Adobe Auditionの音声ファイルから不要な音を除去できます。</em>
       <br>
   </td>
   <td>
@@ -48,18 +50,18 @@ ht-degree: 1%
 </tr>
 </table>
 
-## Adobe Express( 旧Adobe Spark)
+## Adobe Express(旧Adobe Spark)
 
 <table>
 <tr>
 <td>
    <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf" target="_blank">
-      <img alt="Spark PageでSpark Videoを披露" src="assets/ShowcaseyourSparkVideoinyourSparkPage.jpg" />
+      <img alt="Spark PageでSpark Videoを披露する" src="assets/ShowcaseyourSparkVideoinyourSparkPage.jpg" />
    </a>
     <div>
-   <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf" target="_blank"><strong>Spark PageでSpark Videoを公開 (PDF)</strong></a>
+   <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf" target="_blank"><strong>Spark Page(PDF)でSpark Videoを披露する</strong></a>
     </div>
-    <em>Adobe Spark Pageでは、Spark Videoで作成したビデオなど、様々なソースからビデオを読み込むことができます。</em>
+    <em>Adobe Spark Pageでは、Spark Videoで作成したビデオを含む、様々なソースからビデオを読み込むことができます。</em>
     <br>
   </td>
   <td>
@@ -86,54 +88,54 @@ ht-degree: 1%
 <tr>
  <td>
    <a href="assets/AfterEffectsforPhotography.pdf" target="_blank">
-      <img alt="写真編集のためのAfter Effects" src="assets/AfterEffectsforPhotography.jpg" />
+      <img alt="フォトグラフィーのAfter Effects" src="assets/AfterEffectsforPhotography.jpg" />
    </a>
     <div>
-   <a href="assets/AfterEffectsforPhotography.pdf" target="_blank"><strong>写真編集のためのAfter Effects(PDF)</strong></a>
+   <a href="assets/AfterEffectsforPhotography.pdf" target="_blank"><strong>フォトグラフィーのAfter Effects(PDF)</strong></a>
     </div>
-    <em>After Effectsの優れた効果を使用して写真を加工する方法について説明します</em>
+    <em>After Effectsの素晴らしい効果を使用して、写真を補正する方法を説明します</em>
     <br>
   </td>
   <td>
    <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf" target="_blank">
-      <img alt="シネマグラフ：写真とビデオの魅力的な関係" src="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.jpg" />
+      <img alt="シネマグラフ：写真とビデオの間の魅惑的な場所" src="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.jpg" />
    </a>
     <div>
-   <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf" target="_blank"><strong>シネマグラフ：写真とビデオの間の魅力的な場所 (PDF)</strong></a>
+   <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf" target="_blank"><strong>映画：写真とビデオの間の魅惑的な場所(PDF)</strong></a>
     </div>
-    <em>写真と動画の間に存在する、人目を引くハイブリッド写真、シネマグラフについて学びましょう</em>
+    <em>写真とビデオの間に存在する、人目を引くハイブリッドな映画「シネマグラフ」について詳しく説明します</em>
     <br>
   </td>
   <td>
    <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank">
-      <img alt="イラストを作成するAdobe [!DNL Stock] 写真とAfter Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
+      <img alt="Adobeからイラストを作成する [!DNL Stock] After Effectsで撮影" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>イラストを作成するAdobe [!DNL Stock] After Effectsの写真 (PDF)</strong></a>
+   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>Adobeからイラストを作成する [!DNL Stock] After Effectsを使用した写真(PDF)</strong></a>
     </div>
-    <em>After Effectsで色相・彩度とレベル補正をカートゥーンエフェクトと組み合わせて、Adobeからユニークなイラストを作成します [!DNL Stock] 写真</em>
+    <em>After Effectsで、色相・彩度とレベル補正をカートゥーン効果と組み合わせて、Adobeからユニークなスタイルのイラストを作成します [!DNL Stock] 写真</em>
     <br>
   </td>
    <td>
    <a href="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.pdf" target="_blank">
-      <img alt="After Effectsで美しい万華鏡パターンを作成" src="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.jpg" />
+      <img alt="After Effectsで美しい万華鏡のパターンを作成" src="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.pdf" target="_blank"><strong>美しい万華鏡パターンを作成する (After EffectsPDF)</strong></a>
+   <a href="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.pdf" target="_blank"><strong>After EffectsのPDFで美しい万華鏡のパターンを作成)</strong></a>
     </div>
-    <em>Adobe After Effectsの CC Kaleida エフェクトを使用すれば、あらゆる画像から無限の数のパターンとテクスチャを作成できます</em>
+    <em>Adobe After EffectsでCC Kaleidaエフェクトを使用すると、あらゆる画像から無限の数のパターンとテクスチャを作成できます</em>
     <br>
   </td>
 </tr>
 <tr>
 <td>
    <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf" target="_blank">
-      <img alt="After Effectsのキーイングを使用した写真の複雑な透明部分の作成" src="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.jpg" />
+      <img alt="After Effectsでキーイングを使用して写真に複雑な透明部分を作成" src="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf" target="_blank"><strong>After Effectsのキーイングを使用した写真の複雑な透明部分の作成 (PDF)</strong></a>
+   <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf" target="_blank"><strong>After Effectsのキーイングを使用して写真に複雑な透明部分を作成(PDF)</strong></a>
     </div>
-    <em>キーイングはビデオでかなり頻繁に使用されますが、デザインプロジェクトで写真が必要な場合にも大きな助けになります</em>
+    <em>キーイングはビデオに非常に多く使用されます。また、デザインプロジェクトで写真が必要な場合に大きな助けになります</em>
     <br>
   </td>
  <td>
@@ -143,27 +145,27 @@ ht-degree: 1%
     <div>
    <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf" target="_blank"><strong>Adobe Premiereのモーショングラフィックステンプレートを使用したアニメーションタイトルの作成 [!DNL Rush] (PDF)</strong></a>
     </div>
-    <em>ストーリーや個人ブランドに合わせてプロがデザインしたモーショングラフィックステンプレートを追加することで、ビデオの完成度をさらに高めることができます</em>
+    <em>プロがデザインしたモーショングラフィックステンプレートを追加して、ストーリーに合わせたり、個人のブランドに合わせたりして、ビデオの見栄えをさらに向上させることができます</em>
     <br>
   </td>
   <td>
       <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf" target="_blank">
-         <img alt="After Effectsの魅力的な光線効果" src="assets/DazzlingLightEffectsforPhotographywithAfterEffects.jpg" />
+         <img alt="After Effectsで写真撮影するための魅力的なライト効果" src="assets/DazzlingLightEffectsforPhotographywithAfterEffects.jpg" />
       </a>
       <div>
-      <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf" target="_blank"><strong>After Effectsを使用した写真用の眩しい光の効果 (PDF)</strong></a>
+      <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf" target="_blank"><strong>After Effects写真撮影用の魅力的なライト効果(PDF)</strong></a>
       </div>
-      <em>Adobe After Effectsの照明効果を使用すると、写真の外観を劇的に変えることができます</em>
+      <em>Adobe After Effectsの照明効果により、写真の見た目が大きく変わる場合があります</em>
       <br>
   </td>
   <td>
       <a href="assets/EditingVRPhotography360photoswithAfterEffects.pdf" target="_blank">
-         <img alt="After Effectsによる VR 写真の編集（360 度写真）" src="assets/EditingVRPhotography360photoswithAfterEffects.jpg" />
+         <img alt="After EffectsでのVR写真（360度写真）の編集" src="assets/EditingVRPhotography360photoswithAfterEffects.jpg" />
       </a>
       <div>
-      <a href="assets/EditingVRPhotography360photoswithAfterEffects.pdf" target="_blank"><strong>After Effects(PDF) による VR 写真の編集（360 度写真）</strong></a>
+      <a href="assets/EditingVRPhotography360photoswithAfterEffects.pdf" target="_blank"><strong>After Effects(PDF)を使用したVR写真（360度写真）の編集</strong></a>
       </div>
-      <em>より没入型のインタラクティブなゲームや体験は、あまり一般的ではありませんが、360 度の写真はすでにここにあります</em>
+      <em>没入型のインタラクティブなゲームや体験は一般的ではありませんが、360度の写真撮影は既に利用されています</em>
       <br>
   </td>
 </tr>
@@ -175,12 +177,12 @@ ht-degree: 1%
 <tr>
    <td>
       <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf" target="_blank">
-         <img alt="Adobe Premiereのオートダッキング機能で音楽、会話、ナレーションをスムーズに結合する [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
+         <img alt="Adobe Premiereの自動ダッキングにより、音楽、会話、ナレーションをスムーズに組み合わせることができます [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
       </a>
       <div>
-      <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf" target="_blank"><strong>オートダッキング機能により、音楽、会話、ナレーションをスムーズに結合できます。 [!DNL Adobe Premiere Rush] (PDF)</strong></a>
+      <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf" target="_blank"><strong>自動ダッキングを使用して、音楽と会話またはナレーションをスムーズに組み合わせる [!DNL Adobe Premiere Rush] (PDF)</strong></a>
       </div>
-      <em>Adobe Premiere [!DNL Rush] 高度なビデオ編集機能が使いやすいアプリで実現。誰でもプロ品質のビデオを数分で作成できます。</em>
+      <em>Adobe Premiere [!DNL Rush] 使いやすいアプリで高度なビデオ編集機能を提供し、誰でも数分でプロ品質のビデオを作成できます</em>
       <br>
   </td>
   <td>

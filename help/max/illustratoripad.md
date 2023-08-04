@@ -1,10 +1,11 @@
 ---
 title: Illustrator iPad 版
-description: Adobe Illustrator iPad版は、タッチ、Apple Pencil、iPad用に再設計されたベクターデザインのエクスペリエンスです
+description: Adobe Illustrator iPad版は、タッチやApple Pencil、iPad用に再設計されたベクターデザインです
+feature: Vector Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 2%
@@ -13,22 +14,22 @@ ht-degree: 2%
 
 # Illustrator iPad 版
 
-![チュートリアルヒーロー画像](../assets/AIoniPad.jpg)
+![チュートリアルのヒーロー画像](../assets/AIoniPad.jpg)
 
-Adobe Illustrator iPad版は、タッチ、Apple Pencil、iPad向けに再設計されたベクターデザインです。
+Adobe Illustrator iPad版は、タッチやApple Pencil、iPad用に再設計されたベクターデザインです。
 
-## 製品Tutorials
+## 製品のTutorialsを参照
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="illustratoripad.md#tutorial1">
-      <img alt="iPad版Illustratorの概要" src="../assets/illustrator-iPad_repeat_weinberg_thumbnail.jpg" />
+      <img alt="iPadでのIllustratorの紹介" src="../assets/illustrator-iPad_repeat_weinberg_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustratoripad.md#tutorial1"><strong>iPad版Illustratorの概要</strong></a>
+   <a href="illustratoripad.md#tutorial1"><strong>iPadでのIllustratorの紹介</strong></a>
     </div>
-    <em>場所のアイコンを作成して、写真に適用できるパターンに変換します [!DNL Dimension] そして Zazzle プロジェクト！</em>
+    <em>難解な場所のアイコンを作成し、自分に適用できるパターンに変える [!DNL Dimension] Zazzleプロジェクト！</em>
     <br>
   </td>
   <td>
@@ -44,28 +45,28 @@ Adobe Illustrator iPad版は、タッチ、Apple Pencil、iPad向けに再設計
 </tr>
 </table>
 
-## iPad版Illustratorの概要 (9:21) {#tutorial1}
+## iPadでのIllustratorの紹介(9:21) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326823?hidetitle=true)
 
 **説明**
-Illustrator for iPadの概要をご覧いただくと、困った場所のアイコンをすばやく作成して、自分に適用できるパターンに変えることができます [!DNL Dimension] そして Zazzle プロジェクト！
+このiPad向けIllustratorの概要を紹介するクイック編集を使用すると、作業をすばやく開始して、場所を困らせたアイコンを作成し、それを [!DNL Dimension] Zazzleプロジェクト！
 
-このチュートリアルでは、次の方法について学習します。
-* iPad用に再設計されたIllustratorは、生産性を高め、共同作業を迅速化し、クリエイティブなスキルセットを拡大して、すべての人に創造性を与えます
-* タッチインターフェイスにより、Apple Pencilを使用してより触覚しやすく正確な操作が可能になります
-* CC ライブラリからグラフィックとカラーにアクセス
-* モバイルとデスクトップの両方でラウンドトリップワークフローをIllustrator
+このチュートリアルでは、次の方法を学習します。
+* iPad向けに再考されたIllustratorは、生産性を一変させ、共同作業を加速し、クリエイティブスキルを伸ばし、すべての人の創造性を強化します
+* タッチインターフェイスを使用すると、Apple Pencilでより正確な操作を行うことができます
+* CCライブラリからのグラフィックとカラーへのアクセス
+* モバイルとデスクトップのIllustrator間のラウンドトリップワークフロー
 
 **提供元：**
-Dave Weinberg、シニアソリューションコンサルタント（デジタルメディア）
+シニアソリューションコンサルタント（デジタルメディア）、Dave Weinberg氏
 
-![IllustratoriPadロゴ](../assets/ai_appicon_96.png)
+![Illustrator iPad版ロゴ](../assets/ai_appicon_96.png)
 
-**iPad Resources のIllustrator**
+**Illustrator iPad版に関するリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/illustrator.html) は、その他のチュートリアルのハブです。 [新機能](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)コミュニティフォーラムへのリンクも含まれています。
+[ラーニングとサポート](https://helpx.adobe.com/support/illustrator.html) は、追加のチュートリアルのハブです。 [新機能](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)、およびコミュニティフォーラムへのリンク。
 
-**2020 年 10 月リリース**
+**2020年10月リリース**
 
-これらの機能をぜひご利用ください（その他） Creative Cloudデスクトップアプリケーションから最新のアップデートをダウンロードします。
+これらの機能の使用を開始しましょう（さらに多くの機能を使用できます）。 Creative Cloudのデスクトップアプリから最新のアップデートをダウンロードする方法を説明します。

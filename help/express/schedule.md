@@ -1,17 +1,19 @@
 ---
 title: ソーシャル投稿のスケジュール
-description: instagram、Facebook、Twitter、Pinterest、LinkedInの SNS への投稿をスケジュール
+description: instagram、Facebook、Twitter、Pinterest、LinkedInのSNSへの投稿をスケジュール
+feature: Share, Social Media
 role: User
 level: Beginner
-source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
+exl-id: 7ffedb3d-873a-4b8c-8fde-186a6e4edca3
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '26'
 ht-degree: 0%
 
 ---
 
-# ソーシャル投稿のスケジュール設定
+# ソーシャル投稿のスケジュール
 
-instagram、Facebook、Twitter、Pinterest、LinkedInの SNS 投稿をスケジュール設定
+instagram、Facebook、Twitter、Pinterest、LinkedInのソーシャル投稿をスケジュールします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420242?quality=12&learn=on&hidetitle=true)

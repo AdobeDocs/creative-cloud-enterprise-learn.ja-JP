@@ -1,10 +1,11 @@
 ---
-title: MAX 2020Tutorials
-description: このチュートリアルでは、エンタープライズの観点から、Creative Cloudの 2021 リリースの新機能について説明します
+title: MAX 2020のTutorials
+description: これらのチュートリアルは、Creative Cloud版2021年リリースの新機能について、エンタープライズの観点から学習するのに役立ちます
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 27%
@@ -13,22 +14,22 @@ ht-degree: 27%
 
 # チュートリアル
 
-![Max 2020 ヒーロー画像](../assets/MAX.jpg)
+![Max 2020のヒーロー画像](../assets/MAX.jpg)
 
-企業のクリエイターは、分散したチームで共同作業をおこない、拡張性の高いプロセスを確立し、企業のシステムとガイドラインを遵守する必要があります。 このチュートリアルでは、エンタープライズの観点から、Creative Cloudの 2021 リリースの新機能について説明します。
+企業のクリエイターとして、分散したチームとの共同作業、拡張性の高いプロセスの確立、企業のシステムとガイドラインへの準拠が必要になります。 これらのチュートリアルは、Creative Cloudの2021年リリースの新機能について、エンタープライズの観点から学習するのに役立ちます。
 
-## Tutorials（デスクトップ製品別）
+## デスクトップ製品別Tutorials
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="acrobat-sign.md">
-      <img alt="AcrobatとAdobe Sign" src="../assets/DC.jpg" />
+      <img alt="AcrobatおよびAdobe Sign" src="../assets/DC.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md"><strong>AcrobatとAdobe Sign</strong></a>
+    <a href="acrobat-sign.md"><strong>AcrobatおよびAdobe Sign</strong></a>
     </div>
-    <em>文書やフォームの作成、編集、PDFへの署名</em>
+    <em>PDF文書およびフォームを作成、編集、署名</em>
     <br>
   </td>
   <td>
@@ -38,7 +39,7 @@ ht-degree: 27%
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>グラフィックデザイナーのための 3D ツール</em>
+    <em>ブランディング、製品画像、パッケージデザインのためのフォトリアルな3D画像を作成</em>
     <br>
   </td>
   <td>
@@ -60,7 +61,7 @@ ht-degree: 27%
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>高品質なページレイアウトと文字組</em>
+    <em>印刷およびデジタルパブリッシング用のページデザインとレイアウト</em>
     <br>
   </td>
   <td>
@@ -70,7 +71,7 @@ ht-degree: 27%
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>画像補正から加工、web デザインまで対応のプロフェッショナル画像編集ツール</em>
+    <em>デスクトップで美しい画像、グラフィック、アートを編集、合成、作成</em>
     <br>
   </td>
   <td>
@@ -108,7 +109,7 @@ ht-degree: 27%
 </tr>
 </table>
 
-### Tutorials（モバイルアプリ）
+### モバイルアプリ別Tutorials
 
 <table style="table-layout:fixed">
 <tr>
@@ -119,7 +120,7 @@ ht-degree: 27%
     <div>
     <a href="capture.md"><strong>Capture</strong></a>
     </div>
-    <em>画像をカラーテーマ、ベクターグラフィック、ブラシなどに変換</em>
+    <em>あらゆる画像をカラーテーマ、ベクターグラフィック、ブラシなどに変換</em>
     <br>
   </td>
   <td>
@@ -167,16 +168,16 @@ ht-degree: 27%
 </tr>
 </table>
 
-### Tutorials（統合別）
+### 統合別のTutorials
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="aem.md">
-      <img alt="AEM Assets &amp; Asset Link" src="../assets/AEM.jpg" />
+      <img alt="AEM AssetsとAsset Link" src="../assets/AEM.jpg" />
     </a>
     <div>
-    <a href="aem.md"><strong>AEM Assets &amp; Asset Link</strong></a>
+    <a href="aem.md"><strong>AEM AssetsとAsset Link</strong></a>
     </div>
     <em>次世代のデジタルアセット管理</em>
     <br>
@@ -188,7 +189,7 @@ ht-degree: 27%
     <div>
     <a href="creativeclouddesktopapp.md"><strong>Creative Cloud デスクトップアプリケーション</strong></a>
     </div>
-    <em>Creative Cloudデスクトップアプリケーションは、CC アプリケーション、サービス、共同作業などを管理するためのハブです。</em>
+    <em>Creative Cloudデスクトップアプリは、CCのアプリケーション、サービス、共同作業などを管理するためのハブです。</em>
     <br>
   </td>
   <td>
@@ -198,7 +199,7 @@ ht-degree: 27%
     <div>
     <a href="cclibraries.md"><strong>CC ライブラリ</strong></a>
     </div>
-    <em>素材を手元に置き、プロジェクトのブランドを統一</em>
+    <em>アセットとプロジェクトをブランドに残す</em>
     <br>
   </td>
 </tr>
@@ -210,7 +211,7 @@ ht-degree: 27%
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>カスタマイズされた自動化と組み合わせたInDesignの洗練されたツール</em>
+    <em>InDesignの高度なツールとカスタマイズされた自動処理</em>
     <br>
   </td>
  <td>
@@ -220,7 +221,7 @@ ht-degree: 27%
     <div>
     <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>高品質なデジタル画像、イラスト、ビデオ、オーディオ、テンプレートなど</em>
+    <em>高品質のデジタル画像、イラスト、ビデオ、オーディオ、テンプレートなど</em>
     <br>
   </td>
   <td>
@@ -231,18 +232,18 @@ ht-degree: 27%
 </tr>
 </table>
 
-### ハンズオンプロジェクト：独自の顔マスクを作成
+### 実践プロジェクト：独自のフェイスマスクを作成
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="handsonproject.md">
-      <img alt="独自の顔マスクを作成" src="../assets/faceMaskSplash.jpg" />
+      <img alt="独自のフェイスマスクを作成" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>独自の顔マスクを作成</strong></a>
+    <a href="handsonproject.md"><strong>独自のフェイスマスクを作成</strong></a>
     </div>
-    <em>Adobeの Design to Print プラグインを使用すると、数百もの Zazzle 製品でデザインを視覚化し、オンラインマーケットプレイスに直接公開することができます</em>
+    <em>Adobeデザインからプリントプラグインを使用すると、数多くのZazzle製品でデザインをビジュアル化し、オンラインマーケットプレイスに直接公開することができます</em>
     <br>
   </td>
   <td>
