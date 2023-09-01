@@ -1,11 +1,11 @@
 ---
 title: MAX 2020のTutorials
 description: これらのチュートリアルは、Creative Cloud版2021年リリースの新機能について、エンタープライズの観点から学習するのに役立ちます
-feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 27%
@@ -16,7 +16,7 @@ ht-degree: 27%
 
 ![Max 2020のヒーロー画像](../assets/MAX.jpg)
 
-企業のクリエイターとして、分散したチームとの共同作業、拡張性の高いプロセスの確立、企業のシステムとガイドラインへの準拠が必要になります。 これらのチュートリアルは、Creative Cloudの2021年リリースの新機能について、エンタープライズの観点から学習するのに役立ちます。
+企業のクリエイターとして、分散したチームとの共同作業、拡張性の高いプロセスの確立、企業のシステムとガイドラインへの準拠が必要です。 これらのチュートリアルは、Creative Cloudの2021年リリースの新機能について、エンタープライズの観点から学習するのに役立ちます。
 
 ## デスクトップ製品別Tutorials
 

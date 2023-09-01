@@ -3,8 +3,9 @@ title: シリアル番号が期限切れになる場合 ユーザー指定ライ
 description: NUL(Named User Licensing)を通じてAdobe製品のライセンスを取得することで、IT管理者はAdmin Consoleを使用してAdobeツールを簡単に導入および管理できます。また、エンドユーザーは、従業員全体がリモートであっても、トップクラスのクリエイティブで生産性に優れたアプリやAdobeクラウドサービスを利用できます
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 2%

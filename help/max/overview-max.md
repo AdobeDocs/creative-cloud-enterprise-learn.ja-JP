@@ -1,11 +1,11 @@
 ---
 title: MAX 2020 – エンタープライズセッション
 description: デモアセットについて
-feature: Integrations
+feature: Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 1%
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 ![Max 2020のヒーロー画像](../assets/MAX2020.jpg)
 
-企業のクリエイターとして、分散したチームとの共同作業、拡張性の高いプロセスの確立、企業のシステムとガイドラインへの準拠が必要になります。 これらのチュートリアルは、Creative Cloudの2021年リリースの新機能について、エンタープライズの観点から学習するのに役立ちます。
+企業のクリエイターとして、分散したチームとの共同作業、拡張性の高いプロセスの確立、企業のシステムとガイドラインへの準拠が必要です。 これらのチュートリアルは、Creative Cloudの2021年リリースの新機能について、エンタープライズの観点から学習するのに役立ちます。
 
 ## 大規模な運用：AEM AssetsとInDesign Serverの機能を活用(26:54)
 
@@ -45,7 +45,7 @@ WFHは課題をもたらしましたが、クリエーターとその会社は�
 この録画されたライブセッションでは、次の方法を学習します。
 * 様々なブラシとシェーディングのテクニックをFrescoして、手描きのキャンペーンアートワークを作成します
 * iPadのIllustratorで、ブランディングに合わせて不要なアイコンを作成し、共有する
-* iPadでFrescoとIllustratorのアートワークを合成し、外出先でもiPadでPhotoshopを使ってソーシャルメディアチャンネル用のコンテンツを作成
+* iPadでFrescoとIllustratorのアートワークを合成し、外出先でもiPadでPhotoshopを使ってソーシャルメディアチャンネル用にコンテンツを作成
 
 **提供 :**
 
