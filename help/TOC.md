@@ -7,7 +7,7 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: b8c6d0f08927f3bd86df16d4c05098f471247c6a
+source-git-commit: bf33377aba7b4abce6a6c1e6d137451b4b403612
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 9%
@@ -56,7 +56,7 @@ ht-degree: 9%
       + [テキストエフェクトの使用](express/text-effects.md)
       + [画像効果の使用](express/image-effects.md)
       + [曲線テキストを作成する](express/create-curved-text.md)
-      + ユースケースのチュートリアル {#expressusecase}
+   + ユースケースのチュートリアル {#expressusecase}
       + [概要](express/overview-express-use-case-tutorials.md)
       + [分散したチームがコンテンツをローカライズできるようにする](express/localized-marketing-content.md)
       + [創造的なアイデアを促進する](express/jumpstart-ideation.md)
