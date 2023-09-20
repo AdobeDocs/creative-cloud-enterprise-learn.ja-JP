@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: ef203983789b9b18796dc210308047c7c604d249
+source-git-commit: b8c6d0f08927f3bd86df16d4c05098f471247c6a
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '546'
 ht-degree: 9%
 
 ---
@@ -38,32 +38,34 @@ ht-degree: 9%
    + [概要](express/overview-express.md)
    + 使い方チュートリアル {#expresshowto}
       + [概要](express/overview-express-how-to.md)
-         + [Adobe Expressの基本を学ぶ](express/get-started.md)
-         + [ソーシャル投稿のスケジュール](express/schedule.md)
-         + [プロジェクト共同作業者を招待](express/collaborate.md)
-         + [すぐにインスピレーションを得る](express/get-inspiration.md)
-         + [テンプレートの作成](express/create-templates.md)
-         + [デザインアセットの追加](express/add-design-assets.md)
-         + [オブジェクトのグループ化](express/group-objects.md)
-         + [レイヤーの選択と移動](express/layers.md)
-         + [複数ページの作成](express/multiple-pages.md)
-         + [取り消しとやり直し](express/undo-redo.md)
-         + [CCライブラリの使用](express/cc-libraries.md)
-         + [ブランドを適用](express/brand.md)
-         + [Googleドライブの統合](express/google-drive.md)
-         + [背景を削除](express/remove-background.md)
-         + [カットアウトの調整](express/refine-cutout.md)
-         + [テキストエフェクトの使用](express/text-effects.md)
-         + [画像効果の使用](express/image-effects.md)
-         + [曲線テキストを作成する](express/create-curved-text.md)
-      + ユースケースのチュートリアル {expressusecase}
-         + [創造的なアイデアを促進する](express/jumpstart-ideation.md)
-         + [初心者向けのAdobe Express](express/adobe-express-beginners.md)
-         + [Fireflyを使用したマーケティングキャンペーン用のチラシコンテンツの作成](express/create-local-marketing.md)
-         + [Fireflyを使用した採用コンテンツとオンボーディングコンテンツの作成](express/create-on-boarding.md)
-         + [Fireflyを使用したソーシャルポスターの作成](express/create-social-posters.md)
-         + [Fireflyを使用したブログのグラフィックコンテンツの作成](express/create-blog-graphics.md)
-         + [Fireflyを使ってウェビナーのポスターを作成](express/create-webinar-poster.md)
+      + [Adobe Expressの基本を学ぶ](express/get-started.md)
+      + [ソーシャル投稿のスケジュール](express/schedule.md)
+      + [プロジェクト共同作業者を招待](express/collaborate.md)
+      + [すぐにインスピレーションを得る](express/get-inspiration.md)
+      + [テンプレートの作成](express/create-templates.md)
+      + [デザインアセットの追加](express/add-design-assets.md)
+      + [オブジェクトのグループ化](express/group-objects.md)
+      + [レイヤーの選択と移動](express/layers.md)
+      + [複数ページの作成](express/multiple-pages.md)
+      + [取り消しとやり直し](express/undo-redo.md)
+      + [CCライブラリの使用](express/cc-libraries.md)
+      + [ブランドを適用](express/brand.md)
+      + [Googleドライブの統合](express/google-drive.md)
+      + [背景を削除](express/remove-background.md)
+      + [カットアウトの調整](express/refine-cutout.md)
+      + [テキストエフェクトの使用](express/text-effects.md)
+      + [画像効果の使用](express/image-effects.md)
+      + [曲線テキストを作成する](express/create-curved-text.md)
+      + ユースケースのチュートリアル {#expressusecase}
+      + [概要](express/overview-express-use-case-tutorials.md)
+      + [分散したチームがコンテンツをローカライズできるようにする](express/localized-marketing-content.md)
+      + [創造的なアイデアを促進する](express/jumpstart-ideation.md)
+      + [初心者向けのAdobe Express](express/adobe-express-beginners.md)
+      + [Fireflyを使用したマーケティングキャンペーン用のチラシコンテンツの作成](express/create-local-marketing.md)
+      + [Fireflyを使用した採用コンテンツとオンボーディングコンテンツの作成](express/create-on-boarding.md)
+      + [Fireflyを使用したソーシャルポスターの作成](express/create-social-posters.md)
+      + [Fireflyを使用したブログのグラフィックコンテンツの作成](express/create-blog-graphics.md)
+      + [Fireflyを使ってウェビナーのポスターを作成](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概要](firefly/overview-firefly.md)
    + チュートリアル {#firefly-tutorials}
