@@ -3,9 +3,10 @@ title: Fireflyでソーシャルポスターを作成
 description: Adobe Fireflyを利用したText to Imageを使用して、ソーシャルメディアのプロモーションキャンペーンを作成する方法を説明します
 feature: Image Editing, Social Media, Gen AI
 role: User
-level: Beginner
+level: Intermediate
+jira: KT-13463
 exl-id: 93765c61-c166-4d0b-86ed-91ed2d29d069
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 4%

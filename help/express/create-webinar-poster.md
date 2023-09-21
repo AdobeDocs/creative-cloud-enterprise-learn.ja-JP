@@ -2,8 +2,9 @@
 title: Fireflyを使ってウェビナーのポスターを作成
 description: Adobe Fireflyを利用したAdobe ExpressのText to Imageを使用して、バーチャルリアリティイベント用のウェビナーのポスターを作成する方法を説明します
 feature: Image Editing, Gen AI
-level: Beginner
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+level: Intermediate
+jira: KT-13525
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 4%

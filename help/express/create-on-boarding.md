@@ -3,8 +3,9 @@ title: Fireflyを使用した採用コンテンツとオンボーディングコ
 description: Adobe Fireflyを利用したAdobe ExpressのText to Imageを使用して、社員の採用やオンボーディングコンテンツに独自のグラフィックを作成する方法について説明します
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+level: Intermediate
+jira: KT-13755
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 3%
