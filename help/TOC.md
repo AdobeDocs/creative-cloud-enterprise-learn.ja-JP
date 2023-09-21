@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
+source-git-commit: 358e7cb886829fbd3e25cd6d33f220f038fede0a
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '557'
 ht-degree: 9%
 
 ---
@@ -58,6 +58,7 @@ ht-degree: 9%
       + [曲線テキストを作成する](express/create-curved-text.md)
    + ユースケースのチュートリアル {#expressusecase}
       + [概要](express/overview-express-use-case-tutorials.md)
+      + [魅力的なマーチャンダイズコンテンツを作成](express/compelling-merchandise.md)
       + [マーケティングチームがマルチチャネルコンテンツを作成できるようにします](express/multi-channel-marketing-content.md)
       + [分散したチームがコンテンツをローカライズできるようにする](express/localized-marketing-content.md)
       + [創造的なアイデアを促進する](express/jumpstart-ideation.md)
