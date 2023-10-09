@@ -1,19 +1,19 @@
 ---
-title: 画像効果を使用
-description: 画像を明るくしたり暗くしたりする方法を学ぶ
+title: 写真に効果と調整を追加する方法
+description: 写真の効果や調整を追加して、無限の可能性を発見する
 feature: Image Editing
 role: User
 level: Beginner
-exl-id: 6203686b-bc7c-4140-8107-26843753245e
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: d048d1ce-9f87-4257-a3a2-eeb56232c8f8
+source-git-commit: c5da6a77534492307cd58cf44cac651e98018b81
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# 画像効果の使用
+# 写真に効果と調整を追加する方法
 
-画像を明るくしたり暗くしたりする方法について説明します。
+写真に効果や調整を追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420223?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423770?quality=12&learn=on&hidetitle=true)
