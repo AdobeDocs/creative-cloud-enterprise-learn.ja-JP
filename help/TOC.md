@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: b051de1752fa7b92c1c3c312e17512b84b53fda9
+source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '572'
 ht-degree: 9%
 
 ---
@@ -52,10 +52,10 @@ ht-degree: 9%
       + [CCライブラリの使用](express/cc-libraries.md)
       + [ブランドを適用](express/brand.md)
       + [Googleドライブの統合](express/google-drive.md)
-      + [背景を削除](express/remove-background.md)
+      + [ワンクリックで写真から背景を削除する方法](express/remove-background.md)
       + [カットアウトの調整](express/refine-cutout.md)
       + [テキストエフェクトの使用](express/text-effects.md)
-      + [画像効果の使用](express/image-effects.md)
+      + [写真に効果と調整を追加する方法](express/image-effects.md)
       + [曲線テキストを作成する](express/create-curved-text.md)
    + ユースケースのチュートリアル {#expressusecase}
       + [概要](express/overview-express-use-case-tutorials.md)
