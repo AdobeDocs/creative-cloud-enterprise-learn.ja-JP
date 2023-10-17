@@ -1,19 +1,20 @@
 ---
-title: Fireflyを使用したブログのグラフィックコンテンツの作成
-description: Adobe Fireflyを利用してブログにユニークなグラフィックコンテンツをAdobe Expressで作成する方法を説明します
+title: ソーシャルキャンペーンを簡単に実行
+description: Adobe Fireflyを利用したText to Imageを使用して、web、ブログ、ソーシャルキャンペーン用のユニークなグラフィックコンテンツを作成する方法を説明します
 feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-13744
-source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
+exl-id: 36758179-0f46-4fea-9ff5-dae7ec3e8a58
+source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 4%
+source-wordcount: '60'
+ht-degree: 5%
 
 ---
 
-# Fireflyを使用したブログのグラフィックコンテンツの作成
+# ソーシャルキャンペーンを簡単に実行
 
-Adobe Fireflyを利用してブログにユニークなグラフィックコンテンツを作成するためのAdobe Expressで、テキストを画像に変換する方法について説明します。 このチュートリアルでは、新しい [Adobe Express](https://www.adobe.com/express/).
+Adobe Fireflyを利用したText to Imageを使用して、web、ブログ、ソーシャルキャンペーン用のユニークなグラフィックコンテンツを作成する方法を説明します。 このチュートリアルでは、新しい [Adobe Express](https://www.adobe.com/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422408?quality=12&learn=on&hidetitle=true)

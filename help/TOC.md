@@ -8,7 +8,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
+source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 9%
@@ -67,12 +67,13 @@ ht-degree: 9%
       + [Fireflyを使用したマーケティングキャンペーン用のチラシコンテンツの作成](express/create-local-marketing.md)
       + [Fireflyを使用した採用コンテンツとオンボーディングコンテンツの作成](express/create-on-boarding.md)
       + [Fireflyを使用したソーシャルポスターの作成](express/create-social-posters.md)
-      + [Fireflyを使用したブログのグラフィックコンテンツの作成](express/create-blog-graphics.md)
+      + [ソーシャルキャンペーンを簡単に実行](express/create-blog-graphics.md)
       + [Fireflyを使ってウェビナーのポスターを作成](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概要](firefly/overview-firefly.md)
    + チュートリアル {#firefly-tutorials}
       + [Adobe Fireflyについて](firefly/overview-of-firefly.md)
+      + [クリエイティブな効率化を実現](firefly/enable-creative-efficiency.md)
       + [バナー広告のバリエーション: [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [ジェネレーティブフィルイン [!DNL Photoshop]](firefly/generative-fill.md)
       + [テキスト効果](firefly/text-effects.md)
