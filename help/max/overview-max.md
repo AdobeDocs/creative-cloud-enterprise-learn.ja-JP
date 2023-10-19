@@ -5,16 +5,14 @@ feature: Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '500'
 ht-degree: 1%
 
 ---
 
 # MAX 2020 – エンタープライズセッション
-
-![Max 2020のヒーロー画像](../assets/MAX2020.jpg)
 
 企業のクリエイターとして、分散したチームとの共同作業、拡張性の高いプロセスの確立、企業のシステムとガイドラインへの準拠が必要です。 これらのチュートリアルは、Creative Cloudの2021年リリースの新機能について、エンタープライズの観点から学習するのに役立ちます。
 

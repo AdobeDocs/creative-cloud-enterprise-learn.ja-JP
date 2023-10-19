@@ -6,16 +6,14 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '102'
 ht-degree: 1%
 
 ---
 
 # Adobe [!DNL Firefly] 概要
-
-![Fireflyのヒーロー画像](../assets/firefly.png)
 
 Fireflyは、クリエイティブなAI生成モデルの新しいファミリーであり、最初は画像とテキストの効果の生成に重点を置いて、Adobe製品に追加されます。 Fireflyは、クリエイティブなワークフローを大幅に改善しながら、アイデア、作成、コミュニケーションを実現する新しい方法を提供します。
 

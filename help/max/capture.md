@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
 
 # [!DNL Capture]
-
-![チュートリアルのヒーロー画像](../assets/Capture.jpg)
 
 Adobe [!DNL Capture] 携帯電話やタブレットをデザインコレクションツールに変換します。 ユーザーは、様々な種類のアセット（アートワーク用の個々のデジタル要素）を作成できます。   これらの素材は、他のデスクトップアプリやモバイルAdobeアプリと自動的に同期されます。 ユーザーは、クリエイティブプロジェクトに取り込んだり、共同作業者と簡単に共有したりできます。
 

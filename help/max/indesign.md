@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
 
 # InDesign
-
-![チュートリアルのヒーロー画像](../assets/InDesign.jpg)
 
 印刷およびデジタルパブリッシング用の美しいドキュメントを作成するための業界標準のアプリです。 電子書籍や電子雑誌から、書籍、レポート、ホワイトペーパーまで、豊富なデジタル印刷体験を作成できます。
 

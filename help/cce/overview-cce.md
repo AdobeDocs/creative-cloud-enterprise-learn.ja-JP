@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1529'
+source-wordcount: '1525'
 ht-degree: 1%
 
 ---
 
 # エンタープライズ版チュートリアルのCreative Cloud
-
-![Creative Cloudのヒーロー画像](../assets/CCEbanner.png)
 
 企業のクリエイターは、分散したチームとの共同作業、拡張性の高いプロセスの確立、企業のシステムやガイドラインへの準拠を行う必要があります。 これらのチュートリアルは、Creative Cloudの新しい機能を企業の視点から学ぶのに役立ちます。
 
@@ -163,7 +161,7 @@ ht-degree: 1%
    <div>
    <a href="cc-workflows-cc-libraries.md"><strong>CCライブラリによるCCワークフローの改善</strong></a>
     </div>
-    <em>Creative Cloudライブラリを使用してデザイン要素を整理し、デザイナーやチームがプロジェクトの一貫性を維持する方法について説明します</em>
+    <em>Creative Cloudライブラリを使用してデザイン要素を整理し、設計者やチームがプロジェクトの一貫性を維持する方法について説明します</em>
     <br>
   </td>
   <td>

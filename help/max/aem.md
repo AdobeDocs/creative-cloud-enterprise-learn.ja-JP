@@ -5,16 +5,14 @@ feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '383'
 ht-degree: 1%
 
 ---
 
 # AEM AssetsとAsset Link
-
-![チュートリアルのヒーロー画像](../assets/AEM.jpg)
 
 Adobe Experience Managerは、大企業および中堅企業向けの業界をリードするデジタルエクスペリエンス管理ソリューションです。 これは、ブランドのエンゲージメントを促進し、需要を促進し、顧客のロイヤルティを高める魅力的なエクスペリエンスを提供するための最新のスケーラブルな基盤を提供します。 Experience Managerには、あらゆるチャネルでデジタルエクスペリエンスを構築、管理、提供するためのツール一式が含まれています。
 

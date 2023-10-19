@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1190'
 ht-degree: 0%
 
 ---
 
 # エンタープライズ版クイックリファレンスガイドのCreative Cloud
-
-![Creative Cloudのヒーロー画像](../assets/CCEbanner.png)
 
 企業のクリエイターは、分散したチームとの共同作業、拡張性の高いプロセスの確立、企業のシステムやガイドラインへの準拠を行う必要があります。 これらのクイックリファレンスガイド(PDF)は、Creative Cloudの新機能の学習に役立ちます。
 

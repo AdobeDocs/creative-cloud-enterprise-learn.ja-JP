@@ -5,16 +5,14 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 10%
+source-wordcount: '88'
+ht-degree: 13%
 
 ---
 
 # エンタープライズ版チュートリアルのCreative Cloud
-
-![Creative Cloudのヒーロー画像](assets/hero_cce.jpg)
 
 エンタープライズ版Learning HubのCreative Cloudをご利用いただきありがとうございます。 ここでは、企業向けのCreative Cloudに焦点を当てた幅広い学習経験を見つけることができます。 チュートリアル、ウェビナー、ユースケースは、初心者と管理者の両方に企業向け製品のCreative Cloudを迅速に行えるように設計されています。
 

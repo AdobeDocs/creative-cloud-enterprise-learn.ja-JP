@@ -1,20 +1,18 @@
 ---
-title: ”[!DNL Dimension]”
+title: "[!DNL Dimension]"
 description: ”[!DNL Dimension] ブランドのビジュアライゼーション、イラスト、製品のモックアップ、パッケージデザイン、その他のクリエイティブな作品を簡単に構築できます」
 feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
 # [!DNL Dimension]
-
-![チュートリアルのヒーロー画像](../assets/Dimenio.jpg)
 
 高品質のモデル、マテリアル、照明を使用して、魅力的なコンテンツを3Dでより迅速に作成します。 [!DNL Dimension] ブランドのビジュアライゼーション、イラスト、製品のモックアップ、パッケージデザインなどのクリエイティブな作品を簡単に作成できます。
 

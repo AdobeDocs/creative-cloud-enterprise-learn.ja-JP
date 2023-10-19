@@ -5,16 +5,14 @@ feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '611'
 ht-degree: 0%
 
 ---
 
 # Acrobat &amp; Sign
-
-![チュートリアルのヒーロー画像](../assets/DC.jpg)
 
 世界トップクラスのPDFおよび電子サインソリューションを備えたAdobe Document Cloudを使用すると、手動の文書プロセスを効率的なデジタル文書プロセスに変換できます。 複数の画面やデバイスで、いつでも、どこでも、そしてお気に入りのMicrosoftやエンタープライズアプリ内で、ドキュメント、ワークフロー、タスクに対してクイックアクションを実行できるようになりました。
 
@@ -71,7 +69,7 @@ ht-degree: 0%
     <div>
     <a href="acrobat-sign.md#tutorial5"><strong>携帯電話から文書をスキャンしてPDFに送信</strong></a>
     </div>
-    <em>Adobe Scanを使用すると、文書、フォーム、名刺、ホワイトボードを簡単にキャプチャして、高品質のAdobePDFに変換できます</em>
+    <em>Adobe Scanを使用すると、文書、フォーム、名刺、ホワイトボードを簡単にキャプチャし、高品質のAdobePDFに変換できます</em>
     <br>
   </td>
   <td>

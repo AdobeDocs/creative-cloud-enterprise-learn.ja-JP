@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1242'
+source-wordcount: '1238'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] チュートリアル
-
-![Creative Cloudのヒーロー画像](../assets/Stock.jpg)
 
 クリエイターは、魅力的なビジュアルコンテンツを迅速に提供することが求められています。 Adobe Stockを使用すると、クリエイティブチームは毎日使用するCreative Cloudアプリ内で3億点以上ものロイヤリティフリーの画像、ビデオ、オーディオファイル、テンプレート、イラスト、3Dアセットにアクセスできます。 Creative CloudのProエディションでは、Adobe Stockの通常アセットに無制限にアクセスできます。 stock.adobe.comで最新のコレクションをご覧ください。 画像を選択して、チュートリアルを表示します。
 

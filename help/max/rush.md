@@ -1,20 +1,18 @@
 ---
-title: ”[!DNL Rush]”
+title: "[!DNL Rush]"
 description: Premiere [!DNL Rush] は、これまでになく簡単にオンラインコンテンツを作成および共有できる、最初のオールインワン、クロスデバイスのビデオ編集アプリです
 feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
 # [!DNL Rush]
-
-![チュートリアルのヒーロー画像](../assets/Rush.jpg)
 
 Premiere [!DNL Rush] は、これまでになく簡単にオンラインコンテンツを作成および共有できる、最初のオールインワン、クロスデバイスのビデオ編集アプリです。 この統合されたデスクトップおよびモバイルソリューションは、プロジェクトおよび編集内容をクラウドに自動的に同期し、場所やデバイスを問わずに作業を行うことができます。
 

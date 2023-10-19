@@ -1,20 +1,18 @@
 ---
-title: ”[!DNL Stock]”
+title: "[!DNL Stock]"
 description: Adobe [!DNL Stock] エンタープライズ版では、クリエイティブチームが2億点以上の画像、ビデオ、テンプレート、イラスト、オーディオファイル、3Dアセットにアクセスできます
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
-
-![チュートリアルのヒーロー画像](../assets/Stock.jpg)
 
 クリエイターは、注目を集めて保持できる、視覚的に効果のある新しいコンテンツを迅速に提供するようプレッシャーを受けています。 Adobe [!DNL Stock] エンタープライズ版では、クリエイティブチームが毎日使用するAdobeのクリエイティブアプリ内から、2億点以上の画像、ビデオ、テンプレート、イラスト、オーディオファイル、3Dアセットにアクセスできます。
 
