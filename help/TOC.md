@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '602'
 ht-degree: 6%
 
 ---
@@ -48,13 +48,16 @@ ht-degree: 6%
       + [テキストの追加方法](express/text-effects.md)
       + [画像の追加方法](express/image-effects.md)
       + [Gen AI画像の追加方法](express/add-gen-ai-image.md)
+      + [グリッドの使用方法](express/grids.md)
+      + [エレメントの使用方法](express/add-design-assets.md)
+      + [レイヤーとアートボードの操作](express/layers.md)
+      + [共同作業の方法](express/collaborate.md)
+      + [共有とダウンロードの方法](express/share.md)
+      + [バージョン履歴の使用方法](express/version-history.md)
       + [ソーシャル投稿のスケジュール](express/schedule.md)
-      + [プロジェクト共同作業者を招待](express/collaborate.md)
       + [すぐにインスピレーションを得る](express/get-inspiration.md)
       + [テンプレートの作成](express/create-templates.md)
-      + [デザインアセットの追加](express/add-design-assets.md)
       + [オブジェクトのグループ化](express/group-objects.md)
-      + [レイヤーの選択と移動](express/layers.md)
       + [複数ページの作成](express/multiple-pages.md)
       + [取り消しとやり直し](express/undo-redo.md)
       + [CCライブラリの使用](express/cc-libraries.md)

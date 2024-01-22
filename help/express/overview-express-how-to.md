@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -68,50 +68,68 @@ Adobe Fireflyを利用したAI生成で、際立つ素晴らしい作品の制�
          <img alt="Gen AI画像の追加方法" src="assets/gen-ai-image.png" />
       </a>
   </td>
+ <td>
+      <a href="grids.md">
+         <img alt="グリッドの使用方法" src="assets/grids.png" />
+      </a>
+  </td>
+   <td>
+         <a href="add-design-assets.md">
+            <img alt="エレメントの使用方法" src="assets/design-assets.png" />
+         </a>
+   </td>
+   <td>
+         <a href="layers.md">
+            <img alt="レイヤーとアートボードの操作" src="assets/layers.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+   <a href="collaborate.md">
+      <img alt="共同作業の方法" src="assets/collaborate.png" />
+   </a>
+  </td>
+  <td>
+   <a href="share.md">
+      <img alt="共有とダウンロードの方法" src="assets/share.png" />
+   </a>
+  </td>
+  <td>
+   <a href="version-history.md">
+      <img alt="バージョン履歴の使用方法" src="assets/version-history.png" />
+   </a>
+  </td>
   <td>
       <a href="schedule.md">
          <img alt="ソーシャル投稿のスケジュール" src="assets/schedule.png" />
       </a>
   </td>
-  <td>
-   <a href="collaborate.md">
-      <img alt="プロジェクト共同作業者を招待" src="assets/collaborate.png" />
-   </a>
-  </td>
+</tr>
+<tr>
   <td>
       <a href="get-inspiration.md">
          <img alt="すぐにインスピレーションを得る" src="assets/inspiration.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
    <a href="create-templates.md">
       <img alt="テンプレートの作成" src="assets/templates.png" />
    </a>
   </td>
- <td>
-         <a href="add-design-assets.md">
-            <img alt="デザインアセットの追加" src="assets/design-assets.png" />
-         </a>
- </td>
-  <td>
+
+<td>
          <a href="group-objects.md">
             <img alt="オブジェクトのグループ化" src="assets/group-objects.png" />
          </a>
    </td>
-  <td>
-         <a href="layers.md">
-            <img alt="レイヤーの選択と移動" src="assets/layers.png" />
-         </a>
-   </td>
-</tr>
-<tr>
    <td>
       <a href="multiple-pages.md">
          <img alt="複数ページの作成" src="assets/multiple-pages.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="undo-redo.md">
          <img alt="取り消しとやり直し" src="assets/undo-redo.png" />
@@ -127,19 +145,24 @@ Adobe Fireflyを利用したAI生成で、際立つ素晴らしい作品の制�
          <img alt="Googleドライブの統合" src="assets/google-drive.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
          <a href="remove-background.md">
             <img alt="背景を削除" src="assets/background.png" />
          </a>
    </td>
+</tr>
+<tr>
   <td>
          <a href="create-curved-text.md">
             <img alt="曲線テキストを作成する" src="assets/curved-text.png" />
          </a>
    </td>
   <td>
+      <img alt="スペーサー" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
       <img alt="スペーサー" src="../assets/Whitespacer.png" />
       <div>
       <br>
