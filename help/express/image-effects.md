@@ -1,19 +1,20 @@
 ---
-title: 写真に効果と調整を追加する方法
-description: 写真の効果や調整を追加して、無限の可能性を発見する
+title: 画像の追加方法
+description: 画像効果と調整を追加して、無限の可能性を発見する
 feature: Image Editing
 role: User
 level: Beginner
+jira: KT-13411
 exl-id: d048d1ce-9f87-4257-a3a2-eeb56232c8f8
-source-git-commit: c5da6a77534492307cd58cf44cac651e98018b81
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# 写真に効果と調整を追加する方法
+# 画像の追加方法
 
-写真に効果や調整を追加する方法を説明します。
+クリエイティブプロジェクトに画像や画像効果を追加する様々な方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423770?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3420226?quality=12&learn=on&hidetitle=true)

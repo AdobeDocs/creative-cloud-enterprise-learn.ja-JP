@@ -1,19 +1,20 @@
 ---
-title: テキスト効果を使用
-description: ドロップシャドウ、シェイプ、アウトラインテキストを追加する方法を説明します
+title: テキストの追加方法
+description: クリエイティブプロジェクトにテキストを追加する様々な方法について説明します
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 6dfab6fe-897e-4914-b9f4-4306eebec6a2
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13421
+exl-id: 38a01482-11c9-4117-8626-59679eca2c4f
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# テキストエフェクトの使用
+# テキストの追加方法
 
-ドロップシャドウ、シェイプ、アウトラインテキストを追加する方法について説明します。
+クリエイティブプロジェクトにテキストとテキスト効果を追加する様々な方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420222?quality=12&learn=on&hidetitle=true)

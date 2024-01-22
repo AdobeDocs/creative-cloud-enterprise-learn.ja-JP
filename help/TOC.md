@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '588'
 ht-degree: 6%
 
 ---
@@ -42,6 +42,12 @@ ht-degree: 6%
       + [ホームページの内容](express/get-started.md)
       + [クイックアクションの概要](express/quick-actions.md)
       + [テンプレート入門](express/introduction-templates.md)
+      + [ブランドキットの設定](express/brand.md)
+      + [プロジェクトの開始](express/new-project.md)
+      + [プロジェクトのUX](express/workspace.md)
+      + [テキストの追加方法](express/text-effects.md)
+      + [画像の追加方法](express/image-effects.md)
+      + [Gen AI画像の追加方法](express/add-gen-ai-image.md)
       + [ソーシャル投稿のスケジュール](express/schedule.md)
       + [プロジェクト共同作業者を招待](express/collaborate.md)
       + [すぐにインスピレーションを得る](express/get-inspiration.md)
@@ -52,12 +58,9 @@ ht-degree: 6%
       + [複数ページの作成](express/multiple-pages.md)
       + [取り消しとやり直し](express/undo-redo.md)
       + [CCライブラリの使用](express/cc-libraries.md)
-      + [ブランドを適用](express/brand.md)
       + [Googleドライブの統合](express/google-drive.md)
       + [ワンクリックで写真から背景を削除する方法](express/remove-background.md)
       + [カットアウトの調整](express/refine-cutout.md)
-      + [テキストエフェクトの使用](express/text-effects.md)
-      + [写真に効果と調整を追加する方法](express/image-effects.md)
       + [曲線テキストを作成する](express/create-curved-text.md)
    + ユースケースのチュートリアル {#expressusecase}
       + [概要](express/overview-express-use-case-tutorials.md)
@@ -65,7 +68,6 @@ ht-degree: 6%
       + [マーケティングチームがマルチチャネルコンテンツを作成できるようにします](express/multi-channel-marketing-content.md)
       + [分散したチームがコンテンツをローカライズできるようにする](express/localized-marketing-content.md)
       + [創造的なアイデアを促進する](express/jumpstart-ideation.md)
-      + [初心者向けのAdobe Express](express/adobe-express-beginners.md)
       + [Fireflyを使用したマーケティングキャンペーン用のチラシコンテンツの作成](express/create-local-marketing.md)
       + [Fireflyを使用した採用コンテンツとオンボーディングコンテンツの作成](express/create-on-boarding.md)
       + [Fireflyを使用したソーシャルポスターの作成](express/create-social-posters.md)
