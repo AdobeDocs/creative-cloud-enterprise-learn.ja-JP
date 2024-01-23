@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
 workflow-type: tm+mt
-source-wordcount: '602'
-ht-degree: 6%
+source-wordcount: '620'
+ht-degree: 5%
 
 ---
 
@@ -54,12 +54,16 @@ ht-degree: 6%
       + [共同作業の方法](express/collaborate.md)
       + [共有とダウンロードの方法](express/share.md)
       + [バージョン履歴の使用方法](express/version-history.md)
-      + [ソーシャル投稿のスケジュール](express/schedule.md)
+      + [取り消しとやり直し](express/undo-redo.md)
       + [すぐにインスピレーションを得る](express/get-inspiration.md)
+      + [アニメーションの紹介](express/intro-animation.md)
+      + [様々な種類のアニメーション](express/different-types-animation.md)
+      + [アニメーションの設定の微調整](express/tweak-animation.md)
+      + [アニメーションのタイムラインとは何ですか？](express/animation-timeline.md)
+      + [ソーシャル投稿のスケジュール](express/schedule.md)
       + [テンプレートの作成](express/create-templates.md)
       + [オブジェクトのグループ化](express/group-objects.md)
       + [複数ページの作成](express/multiple-pages.md)
-      + [取り消しとやり直し](express/undo-redo.md)
       + [CCライブラリの使用](express/cc-libraries.md)
       + [Googleドライブの統合](express/google-drive.md)
       + [ワンクリックで写真から背景を削除する方法](express/remove-background.md)
