@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
+source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '643'
 ht-degree: 5%
 
 ---
@@ -60,6 +60,11 @@ ht-degree: 5%
       + [様々な種類のアニメーション](express/different-types-animation.md)
       + [アニメーションの設定の微調整](express/tweak-animation.md)
       + [アニメーションのタイムラインとは何ですか？](express/animation-timeline.md)
+      + [アニメーションをずらす方法](express/stagger-animations.md)
+      + [タイムラインへのセクションの追加](express/add-sections-animation.md)
+      + [アニメーションへの音声の追加](express/audio-animation.md)
+      + [アニメーションのサイズを変更する方法](express/resize-animations.md)
+      + [アニメーションの書き出し](express/export-animations.md)
       + [ソーシャル投稿のスケジュール](express/schedule.md)
       + [テンプレートの作成](express/create-templates.md)
       + [オブジェクトのグループ化](express/group-objects.md)

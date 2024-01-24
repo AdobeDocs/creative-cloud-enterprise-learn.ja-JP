@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 9ac4e6bef84f5020e18188c2a9e5fccb6f73bbb4
+source-git-commit: 825bff22978949e0bb47c6194af4d68f8cb38aa9
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -160,6 +160,50 @@ Adobe Fireflyを利用したAI生成で、際立つ素晴らしい作品の制�
          <a href="animation-timeline.md">
             <img alt="アニメーションのタイムラインとは何ですか？" src="assets/what-is-animation-timeline.png" />
          </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="stagger-animations.md">
+            <img alt="アニメーションをずらす方法" src="assets/stagger-animations.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-sections-animation.md">
+            <img alt="アニメーションにセクションを追加する" src="assets/add-sections.png" />
+         </a>
+   </td>
+   <td>
+         <a href="audio-animation.md">
+            <img alt="アニメーションへの音声の追加" src="assets/add-audio.png" />
+         </a>
+   </td>
+   <td>
+         <a href="resize-animations.md">
+            <img alt="アニメーションのサイズを変更する方法" src="assets/resize-animations.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="export-animations.md">
+            <img alt="アニメーションの書き出し" src="assets/exporting-animations.png" />
+         </a>
+   </td>
+   <td>
+      <img alt="スペーサー" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="スペーサー" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="スペーサー" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
    </td>
 </tr>
 </table>
