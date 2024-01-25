@@ -1,18 +1,19 @@
 ---
-title: ソーシャル投稿のスケジュール
-description: instagram、Facebook、Twitter、Pinterest、LinkedInのSNSへの投稿をスケジュール
+title: スケジューラを使用して投稿する方法
+description: instagram、Facebook、Twitter、Pinterest、LinkedInのソーシャル投稿をスケジュールします
 feature: Share, Social Media
 role: User
 level: Beginner
-exl-id: 7ffedb3d-873a-4b8c-8fde-186a6e4edca3
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13430
+exl-id: f248c621-f50c-45c8-97de-4f28c7ea97f1
+source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
-# ソーシャル投稿のスケジュール
+# スケジューラーを使用して投稿する方法
 
 instagram、Facebook、Twitter、Pinterest、LinkedInのソーシャル投稿をスケジュールします。
 

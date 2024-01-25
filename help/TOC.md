@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '689'
 ht-degree: 5%
 
 ---
@@ -65,13 +65,20 @@ ht-degree: 5%
       + [アニメーションへの音声の追加](express/audio-animation.md)
       + [アニメーションのサイズを変更する方法](express/resize-animations.md)
       + [アニメーションの書き出し](express/export-animations.md)
-      + [ソーシャル投稿のスケジュール](express/schedule.md)
+      + [画像から背景を削除する方法](express/remove-background.md)
+      + [Adobe Expressに搭載された新しいGen AI機能について教えてください。](express/intro-gen-ai.md)
+      + [オブジェクト消しゴムツールの使用方法](express/object-eraser.md)
+      + [ジェネレーティブフィルの使用方法](express/generative-fill.md)
+      + [Gen AIによるテキストデザインの向上](express/gen-text.md)
+      + [Text-to-template Gen AIの使用方法](express/text-to-template.md)
+      + [コンテンツを一括翻訳する方法](express/bulk-translate.md)
+      + [PDFの編集方法](express/edit-a-pdf.md)
+      + [スケジューラーを使用して投稿する方法](express/schedule.md)
       + [テンプレートの作成](express/create-templates.md)
       + [オブジェクトのグループ化](express/group-objects.md)
       + [複数ページの作成](express/multiple-pages.md)
       + [CCライブラリの使用](express/cc-libraries.md)
       + [Googleドライブの統合](express/google-drive.md)
-      + [ワンクリックで写真から背景を削除する方法](express/remove-background.md)
       + [カットアウトの調整](express/refine-cutout.md)
       + [曲線テキストを作成する](express/create-curved-text.md)
    + ユースケースのチュートリアル {#expressusecase}
