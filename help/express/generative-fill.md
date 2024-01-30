@@ -3,9 +3,9 @@ title: ジェネレーティブフィルの使用方法
 description: Adobe Fireflyを利用した塗りつぶし生成を使用して、画像に要素を追加したり、画像から要素を削除したりする方法について説明します
 feature: Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14846
-source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%

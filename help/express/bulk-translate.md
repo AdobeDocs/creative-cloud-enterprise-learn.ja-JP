@@ -3,9 +3,9 @@ title: コンテンツを一括翻訳する方法
 description: コンテンツを数秒で一括翻訳する方法を説明します
 feature: Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14851
-source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

@@ -2,9 +2,9 @@
 title: PDFの編集方法
 description: 人目を引くテキスト、画像、ブランド、カラー、アニメーションなどを追加して、静的で古いPDFをイメージチェンジする方法を説明します
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14852
-source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
