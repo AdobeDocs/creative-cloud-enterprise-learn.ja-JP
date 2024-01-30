@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
+source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '268'
 ht-degree: 1%
 
 ---
@@ -321,21 +321,21 @@ Adobe Fireflyを利用したAI生成で、際立つ素晴らしい作品の制�
          </a>
    </td>
    <td>
-         <a href="add-audio-video.md">
-            <img alt="オーディオを追加する方法" src="assets/add-audio-video.png" />
+         <a href="multiple-clips.md">
+            <img alt="複数のクリップの操作" src="assets/multiple-clips.png" />
          </a>
    </td>
 </tr>
 <tr>
-   <td>
+  <td>
+         <a href="add-audio-video.md">
+            <img alt="オーディオを追加する方法" src="assets/add-audio-video.png" />
+         </a>
+   </td>
+    <td>
          <a href="export-video.md">
             <img alt="ビデオを書き出す方法" src="assets/export-video.png" />
          </a>
-   </td>
-   <td>
-    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
    </td>
    <td>
     <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
