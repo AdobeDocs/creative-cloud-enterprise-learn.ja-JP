@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
+source-git-commit: 91329113e9dcca0f2ebdc8d6d998f4f0a2d2012d
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '730'
 ht-degree: 5%
 
 ---
@@ -74,7 +74,6 @@ ht-degree: 5%
       + [コンテンツを一括翻訳する方法](express/bulk-translate.md)
       + [PDFの編集方法](express/edit-a-pdf.md)
       + [スケジューラーを使用して投稿する方法](express/schedule.md)
-      + [テンプレートの作成](express/create-templates.md)
       + [オブジェクトのグループ化](express/group-objects.md)
       + [複数ページの作成](express/multiple-pages.md)
       + [CCライブラリの使用](express/cc-libraries.md)
@@ -87,6 +86,10 @@ ht-degree: 5%
       + [複数のクリップの操作](express/multiple-clips.md)
       + [オーディオを追加する方法](express/add-audio-video.md)
       + [ビデオを書き出す方法](express/export-video.md)
+      + [レイヤーをロックする方法と理由](express/lock-layers.md)
+      + [テンプレートの作成](express/create-templates.md)
+      + [テンプレートを保存して共有](express/share-templates.md)
+      + [テンプレートの使用方法](express/use-templates.md)
    + ユースケースのチュートリアル {#expressusecase}
       + [概要](express/overview-express-use-case-tutorials.md)
       + [魅力的なマーチャンダイズコンテンツを作成](express/compelling-merchandise.md)

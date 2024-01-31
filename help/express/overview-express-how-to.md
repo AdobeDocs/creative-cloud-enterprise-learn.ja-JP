@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
+source-git-commit: 3d3e0b0aa8884a86a59f2b89d21e64952cd0ab6c
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '284'
 ht-degree: 1%
 
 ---
@@ -262,11 +262,6 @@ Adobe Fireflyを利用したAI生成で、際立つ素晴らしい作品の制�
       </a>
    </td>
    <td>
-   <a href="create-templates.md">
-      <img alt="テンプレートの作成" src="assets/templates.png" />
-   </a>
-   </td>
-   <td>
          <a href="group-objects.md">
             <img alt="オブジェクトのグループ化" src="assets/group-objects.png" />
          </a>
@@ -276,13 +271,13 @@ Adobe Fireflyを利用したAI生成で、際立つ素晴らしい作品の制�
          <img alt="複数ページの作成" src="assets/multiple-pages.png" />
       </a>
   </td>
-</tr>
-<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="CCライブラリの使用" src="assets/cc-libraries.png" />
       </a>
   </td>
+</tr>
+<tr>
    <td>
       <a href="google-drive.md">
          <img alt="Googleドライブの統合" src="assets/google-drive.png" />
@@ -297,6 +292,11 @@ Adobe Fireflyを利用したAI生成で、際立つ素晴らしい作品の制�
          <a href="create-curved-text.md">
             <img alt="曲線テキストを作成する" src="assets/curved-text.png" />
          </a>
+   </td>
+   <td>
+    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
    </td>
 </tr>
 </table>
@@ -346,6 +346,33 @@ Adobe Fireflyを利用したAI生成で、際立つ素晴らしい作品の制�
     <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
+   </td>
+</tr>
+</table>
+
+## テンプレート
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="lock-layers.md">
+            <img alt="レイヤーをロックする方法と理由" src="assets/lock-layers.png" />
+         </a>
+   </td>
+  <td>
+         <a href="create-templates.md">
+            <img alt="テンプレートの作成" src="assets/create-template.png" />
+         </a>
+   </td>
+   <td>
+         <a href="share-templates.md">
+            <img alt="テンプレートを保存して共有" src="assets/share-templates.png" />
+         </a>
+   </td>
+   <td>
+         <a href="use-templates.md">
+            <img alt="テンプレートの使用方法" src="assets/use-templates.png" />
+         </a>
    </td>
 </tr>
 </table>
