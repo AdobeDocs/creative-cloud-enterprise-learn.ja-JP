@@ -1,19 +1,19 @@
 ---
 title: バージョン履歴の使用方法
-description: プロジェクトの最新バージョンのログを表示する方法について説明します
+description: バージョン履歴にアクセスし、プロジェクトの以前のバージョンを表示およびコピーする方法について説明します
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14829
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
 # バージョン履歴の使用方法
 
-プロジェクトの最新バージョンのログを表示する方法について説明します。
+バージョン履歴にアクセスし、プロジェクトの以前のバージョンを表示およびコピーする方法について説明します。 開発の重要なポイントをマークして、プロジェクトの進行中の特定の時間に簡単に戻ることができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426937?quality=12&learn=on&hidetitle=true)

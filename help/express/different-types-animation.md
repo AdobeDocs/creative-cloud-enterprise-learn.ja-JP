@@ -1,19 +1,19 @@
 ---
 title: 様々な種類のアニメーション
-description: 様々な種類のアニメーションを使用して、プロジェクトのエンゲージメントを高めます
+description: 様々な種類のアニメーションを使用してプロジェクトのエンゲージメントを高める
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14832
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
 # 様々な種類のアニメーション
 
-プロジェクトに追加して、より魅力的にできる3つの異なるタイプのアニメーションについて説明します。
+プロジェクトに追加して、より魅力的にできる3種類のアニメーション（イントロ、ループ、アウトロ）について説明します。 各アニメーションには、プレビューと選択が可能な異なるスタイルがあります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)

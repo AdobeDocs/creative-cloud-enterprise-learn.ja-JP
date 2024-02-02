@@ -5,15 +5,19 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-14851
-source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # コンテンツを一括翻訳する方法
 
-単一ページまたは複数ページのファイルのテキストを任意の46言語に翻訳して、手動翻訳の必要性と外部の翻訳ツールによる手間を省く方法を説明します。
+コンテンツを46の言語で自動翻訳し、プロジェクトの言語バリエーションを作成する方法を説明します。 必要な言語を選択し、コンテンツを複製して翻訳し、すべてのアニメーションを保持できます。
+
+>[!NOTE]
+>
+>共有またはダウンロードする前に、翻訳が正確かどうかを確認することが重要です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)

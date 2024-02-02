@@ -5,15 +5,15 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14838
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '35'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
 # アニメーションのサイズを変更する方法
 
-ソーシャルメディアへの投稿用に組み込みのプリセットを使用して、アニメーションのサイズを最適化する方法について説明します。
+instagramなどのソーシャルメディアへの投稿用に組み込みのプリセットを使用して、アニメーションのサイズを最適化する方法を説明します。 アニメーションのサイズをどのように変更するかに関係なく、設定は保持されるので、再作成する必要はありません。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426984?quality=12&learn=on&hidetitle=true)
