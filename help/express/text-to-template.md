@@ -5,9 +5,9 @@ feature: Gen AI, Graphic Design
 role: User
 level: Intermediate
 jira: KT-14848
-source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
+source-git-commit: 70de488fa5dfc5324a03c54d7ad3cc2afd7444bf
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -17,3 +17,52 @@ ht-degree: 0%
 数秒以内にテキストの説明からソーシャル投稿、ポスター、チラシ、カードの編集可能なテンプレートを生成する方法を説明します。 ダウンロードや共有を行う前に、デザインの編集、フォントの変更、プロジェクトのブランディングを行うことができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427022?quality=12&learn=on&hidetitle=true)
+
+## このシリーズの追加のビデオ
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="remove-background.md">
+            <img alt="画像から背景を削除する方法" src="assets/background.png" />
+         </a>
+   </td>
+   <td>
+         <a href="intro-gen-ai.md">
+            <img alt="Adobe Expressの新しいGen AI機能について教えてください。" src="assets/intro-gen-ai.png" />
+         </a>
+   </td>
+   <td>
+         <a href="object-eraser.md">
+            <img alt="オブジェクト消しゴムツールの使用方法" src="assets/object-eraser.png" />
+         </a>
+   </td>
+   <td>
+         <a href="generative-fill.md">
+            <img alt="ジェネレーティブフィルの使用方法" src="assets/gen-fill.png" />
+         </a>
+   </td>      
+</tr>
+<tr>
+   <td>
+      <a href="gen-text.md">
+         <img alt="Gen AIによるテキストデザインの向上" src="assets/text-design.png" />
+      </a>
+   </td>
+   <td>
+      <a href="bulk-translate.md">
+         <img alt="コンテンツを一括翻訳する方法" src="assets/bulk-translate.png" />
+      </a>
+   </td>
+   <td>
+      <a href="edit-a-pdf.md">
+         <img alt="PDFの編集方法" src="assets/edit-pdf.png" />
+      </a>
+   </td>
+   <td>
+      <a href="schedule.md">
+         <img alt="スケジューラーを使用して投稿する方法" src="assets/schedule.png" />
+      </a>
+   </td>
+</tr>
+</table>
