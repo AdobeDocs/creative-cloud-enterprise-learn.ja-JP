@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '776'
 ht-degree: 4%
 
 ---
@@ -110,11 +110,17 @@ ht-degree: 4%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概要](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
-      + [Adobe Fireflyについて](firefly/overview-of-firefly.md)
+      + [概要 [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
+      + [検索 [!DNL Adobe Firefly]](firefly/discover.md)
+      + [ランディングページ](firefly/landing-page.md)
+      + [テキストを画像に](firefly/text-to-image.md)
+      + [テキストエフェクト](firefly/text-effects.md)
+      + [ジェネレーティブフィル](firefly/gen-fill.md)
+      + [生成的再配色](firefly/gen-recolor.md)
+      + [使用例 [!DNL Firefly]](firefly/examples.md)
       + [クリエイティブな効率化を実現](firefly/enable-creative-efficiency.md)
       + [バナー広告のバリエーション: [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [ジェネレーティブフィルイン [!DNL Photoshop]](firefly/generative-fill.md)
-      + [テキスト効果](firefly/text-effects.md)
       + [画像生成カラー [!DNL Illustrator]](firefly/generative-recolor.md)
    + ウェビナー {#firefly-webinars}
       + [Adobe Fireflyを試す](firefly/webinar-experimenting.md)
