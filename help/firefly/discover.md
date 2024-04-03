@@ -5,18 +5,18 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15034
-source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
+exl-id: b7acc009-f2b5-463b-b2ea-b0a9015587b8
+source-git-commit: 8b749e15925c2fab02ee84749e645ffbd8686fd0
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '39'
 ht-degree: 2%
 
 ---
 
 # Adobe Fireflyを見つける
 
-商用目的での安全性の確保と技術革新を目的としたAI生成により、未来のクリエイティビティをAdobe Fireflyに伝えることができます。 Adobe Fireflyを試す [こちら](https://firefly.adobe.com/).
+Adobe Fireflyを見つける [創造性の未来](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html) ai生成により、商用目的での安全な使用とイノベーションを可能にします。 Adobe Fireflyを試す [こちら](https://firefly.adobe.com/).
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427606?quality=12&learn=on&hidetitle=true)
-
