@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: a070aad2cc264fd6e3fefdc7a3ad5b092aa0fd72
+source-git-commit: 88fe17c839859a4fdc39f1ebc7494cc226beaab8
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,11 @@ Fireflyは、クリエイティブなAI生成モデルの新しいファミリ�
       </a>
    </td>
    <td>
+      <a href="custom-model-subject.md">
+         <img alt="被写体を使用したカスタムモデルの作成" src="assets/custom-model-subject.png" />
+      </a>
+   </td>
+   <td>
       <a href="custom-model-style.md">
          <img alt="スタイルを使用してカスタムモデルを作成する" src="assets/custom-model-styles.png" />
       </a>
@@ -69,14 +74,14 @@ Fireflyは、クリエイティブなAI生成モデルの新しいファミリ�
          <img alt="Adobe Fireflyを見つける" src="assets/discover.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="landing-page.md">
          <img alt="ランディングページ" src="assets/landing-page.png" />
       </a>
    </td>
-</tr>
-<tr>
-   <td>
+    <td>
       <a href="text-to-image.md">
          <img alt="テキストを画像に" src="assets/text-to-image.png" />
       </a>
@@ -91,14 +96,14 @@ Fireflyは、クリエイティブなAI生成モデルの新しいファミリ�
          <img alt="ジェネレーティブフィル" src="assets/generative-fill.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="gen-recolor.md">
          <img alt="生成的再配色" src="assets/generative-recolor.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="examples.md">
          <img alt="Fireflyの使用例" src="assets/examples.png" />
       </a>
@@ -113,22 +118,17 @@ Fireflyは、クリエイティブなAI生成モデルの新しいファミリ�
          <img alt="Photoshopでの塗りの生成" src="assets/generative-fill-ps.png" />
       </a>
    </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="web-banner-ad.md">
          <img alt="Photoshopのバナー広告のバリエーション" src="assets/banner-ad-variations.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="generative-recolor.md">
             <img alt="Illustratorでの生成再配色" src="assets/firefly-recolor.png" />
       </a>
-   </td>
-   <td>
-      <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
    <td>
       <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
