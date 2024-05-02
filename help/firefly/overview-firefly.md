@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 1fc995e8be33317f0d9200bb421fcff0f77a568c
+source-git-commit: 2d7bf0097a3c6b4ca0a8e692026f3457c3ef5c82
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -22,33 +22,6 @@ Fireflyは、クリエイティブなAI生成モデルの新しいファミリ�
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
-
-## Adobe Fireflyの詳細情報
-
-<table style="table-layout:fixed">
-<tr>
-   <td>
-      <a href="https://firefly.adobe.com/" target="_blank">
-         <img alt="Adobe Firefly（ベータ版）" src="assets/firefly-beta.png" />
-      </a>
-  </td>
-  <td>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
-         <img alt="PhotoshopでFireflyを検索" src="assets/firefly-photoshop.png" />
-      </a>
-  </td>
-  <td>
-      <a href="webinar-experimenting.md">
-         <img alt="Adobe Fireflyを試す" src="assets/webinar-experimenting.png" />
-      </a>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
 
 ## Fireflyチュートリアル
 
