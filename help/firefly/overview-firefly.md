@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 6789f2b08b15dfb0133597f8ccb3f7d3f0a76499
+source-git-commit: 1fc995e8be33317f0d9200bb421fcff0f77a568c
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -60,11 +60,23 @@ Fireflyは、クリエイティブなAI生成モデルの新しいファミリ�
       </a>
    </td>
    <td>
+      <a href="discover.md">
+         <img alt="Adobe Fireflyを見つける" src="assets/discover.png" />
+      </a>
+   </td>
+   <td>
+      <a href="accelerate-ideas.md">
+         <img alt="クリエイティブなアイデアを加速" src="assets/accelerate-creative-ideation.png" />
+      </a>
+   </td>
+   <td>
       <a href="reusable-scenes.md">
          <img alt="商品の魅力的なシーンを作成" src="assets/reusable-scenes.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="custom-model-subject.md">
          <img alt="被写体を使用したカスタムモデルの作成" src="assets/custom-model-subject.png" />
       </a>
@@ -72,13 +84,6 @@ Fireflyは、クリエイティブなAI生成モデルの新しいファミリ�
    <td>
       <a href="custom-model-style.md">
          <img alt="スタイルを使用してカスタムモデルを作成する" src="assets/custom-model-styles.png" />
-      </a>
-   </td>
-</tr>
-<tr>
-   <td>
-      <a href="discover.md">
-         <img alt="Adobe Fireflyを見つける" src="assets/discover.png" />
       </a>
    </td>
    <td>
@@ -91,14 +96,14 @@ Fireflyは、クリエイティブなAI生成モデルの新しいファミリ�
          <img alt="テキストを画像に" src="assets/text-to-image.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+ <td>
       <a href="text-effects.md">
          <img alt="テキストエフェクト" src="assets/text-effects.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="gen-fill.md">
          <img alt="ジェネレーティブフィル" src="assets/generative-fill.png" />
       </a>
@@ -113,14 +118,14 @@ Fireflyは、クリエイティブなAI生成モデルの新しいファミリ�
          <img alt="Fireflyの使用例" src="assets/examples.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="enable-creative-efficiency.md">
          <img alt="クリエイティブな効率化を実現" src="assets/enable-creative-efficiency.png" />
       </a>
    </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="generative-fill.md">
          <img alt="Photoshopでの塗りの生成" src="assets/generative-fill-ps.png" />
       </a>
@@ -134,10 +139,5 @@ Fireflyは、クリエイティブなAI生成モデルの新しいファミリ�
       <a href="generative-recolor.md">
             <img alt="Illustratorでの生成再配色" src="assets/firefly-recolor.png" />
       </a>
-   </td>
-   <td>
-      <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
 </table>
