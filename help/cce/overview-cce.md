@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1394'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 企業のクリエイターは、分散したチームとの共同作業、拡張性の高いプロセスの確立、企業のシステムやガイドラインへの準拠を行う必要があります。 これらのチュートリアルは、Creative Cloudの新しい機能を企業の視点から学ぶのに役立ちます。
 
-## クリックして、製品チュートリアルを表示します（アルファベット順）。
+## 表示する製品（アルファベット順にリストされている）チュートリアルを選択
 
 ### Adobe Acrobat
 
@@ -46,63 +46,6 @@ ht-degree: 1%
   <td>
     <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Adobe Express(旧Adobe Spark)
-
-<table style="table-layout:fixed">
-<tr>
- <td>
-   <a href="adobe-express-content-that-stands-out.md">
-      <img alt="Adobe Express：際立つコンテンツ" src="assets/Adobe-Express-content-that-stands-out.png" />
-   </a>
-    <div>
-   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express：際立つコンテンツ</strong></a>
-    </div>
-    <em> Adobe Expressで美しいグラフィック、webページ、ビデオストーリーを数分で作成</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Adobe Sparkでブランドを作成する" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Adobe Sparkでのブランド作成(PDF)</strong></a>
-    </div>
-    <em>Adobe Sparkを使用すると、ブランドを簡単に定義できます</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="Spark Pageへのグライドショーの追加" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
-   </a>
-    <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Spark Pageへのグライドショーの追加(PDF)</strong></a>
-    </div>
-    <em>Adobe Sparkには、webストーリーに命を吹き込むための使いやすい素晴らしいレイアウトコンポーネントが用意されています</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Adobe Sparkでブランドを作成する" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Adobe Sparkでのブランド作成(PDF)</strong></a>
-    </div>
-    <em>Adobe Sparkを使用すると、ブランドを簡単に定義できます</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="新しいプロダクションアーティストとの出会い： Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
-   </a>
-    <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>新しいプロダクションアーティストとの出会い：Adobe Spark Post(PDF)</strong></a>
-    </div>
-    <em>Adobe Sparkは、レイアウトの作成、カラーの定義、アートワークの読み込み、コンポジション内での要素の配置を行う際に、ユーザーから学びます</em>
     <br>
   </td>
 </tr>
@@ -256,6 +199,11 @@ ht-degree: 1%
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Lightroom WebからCreative Cloud経由でInDesignへ(PDF)</strong></a>
     </div>
     <em>Creative Cloudのファイルやライブラリを使用して、クリエイティブな作業をカメラから最終的なデザインに持ち込むことができます</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
