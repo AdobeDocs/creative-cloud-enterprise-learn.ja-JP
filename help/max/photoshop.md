@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Photoshopは、イメージングとグラフィックデザインに関する�
       <img alt="キャンペーンに合わせて画像を編集" src="../assets/PS_ObjectSelect_ContentAware_wood.jpg" />
    </a>
     <div>
-   <a href="photoshop.md#tutorial1"><strong>キャンペーンに合わせて画像を編集</strong></a>
+   <a href="photoshop.md#tutorial1"><strong>キャンペーンに合わせて画像を編集する</strong></a>
     </div>
     <em>Adobe Photoshopの強力な選択ツールとカラー編集ツールを使用して、企業のブランディングのニーズに合わせて画像を劇的に変化させます</em>
     <br>
@@ -35,9 +35,9 @@ Photoshopは、イメージングとグラフィックデザインに関する�
         <img alt="空を選択して置き換え" src="../assets/PS_Sky_Replace_wood.jpg" />
     </a>
     <div>
-    <a href="photoshop.md#tutorial2"><strong>空を選択して置き換え</strong></a>
+    <a href="photoshop.md#tutorial2"><strong>空を選択して置き換える</strong></a>
     </div>
-    <em>画像内の空を自動的に選択し、選択した空に置き換えて、選択範囲に合わせて画像のカラーを自動調整します</em>
+    <em>画像内の空を自動的に選択し、選択した空で置き換えて、選択範囲に合わせて画像のカラーを自動調整します</em>
     <br>
   </td>
   <td>
@@ -61,7 +61,7 @@ Adobe Photoshopの強力な選択ツールとカラー編集ツールを使用�
 * より良い結果を得るには、ブラシに異なるシェイプを使用します
 * Adobe Senseiは、AIを活用した日常の作業を支援
 
-**提供元：**
+**発表者：**
 シニアソリューションコンサルタント、A.J Wood氏（デジタルメディア）
 
 ## 空を選択して置き換え(2:16) {#tutorial2}
@@ -76,14 +76,14 @@ Adobe Photoshopの強力な選択ツールとカラー編集ツールを使用�
 * 「空を置き換え」では、出力がすべてのマスク、調整、画像とともにレイヤーグループとして保存され、さらに微調整が行われます
 
 
-**提供元：**
+**発表者：**
 シニアソリューションコンサルタント、A.J Wood氏（デジタルメディア）
 
 ![Photoshopロゴ](../assets/ps_appicon_96.png)
 
-**Photoshop Resources**
+**Photoshopリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/photoshop.html) は、追加のチュートリアルのハブです。 [新機能](https://helpx.adobe.com/photoshop/using/whats-new.html)、およびコミュニティフォーラムへのリンク。
+[ラーニングとサポート](https://helpx.adobe.com/support/photoshop.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/photoshop/using/whats-new.html)、およびコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

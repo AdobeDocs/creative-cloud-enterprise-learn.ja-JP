@@ -25,7 +25,7 @@ ht-degree: 0%
       <img alt="シンボルを使用した複数のアイコンインスタンスの更新" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustrator.md#tutorial1"><strong>シンボルを使用した複数のアイコンインスタンスの更新</strong></a>
+   <a href="illustrator.md#tutorial1"><strong>シンボルを使用して複数のアイコンインスタンスを更新する</strong></a>
     </div>
     <em>手作業を減らし、シンボルとの一貫性を維持する</em>
     <br>
@@ -35,9 +35,9 @@ ht-degree: 0%
         <img alt="グリフにスナップしてテキストと画像を整列" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>グリフにスナップしてテキストと画像を整列</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>グリフのスナップを使用したテキストと画像の整列</strong></a>
     </div>
-    <em>字形を文書の重要な領域にすばやくスナップ</em>
+    <em>字形をドキュメントの重要な領域にすばやくスナップする</em>
     <br>
   </td>
   <td>
@@ -58,7 +58,7 @@ ht-degree: 0%
 このチュートリアルでは、次の方法を学習します。
 * 手作業を減らし、シンボルとの一貫性を維持する
 
-**提供元：**
+**発表者：**
 プリンシパルソリューションコンサルタント（デジタルメディア）、Patti Sokol氏
 
 ## グリフのスナップを使用したテキストと画像の整列(6:48) {#tutorial2}
@@ -71,14 +71,14 @@ ht-degree: 0%
 このチュートリアルでは、次の方法を学習します。
 * 字形を文書の重要な領域にすばやくスナップ
 
-**提供元：**
+**発表者：**
 プリンシパルソリューションコンサルタント（デジタルメディア）、Patti Sokol氏
 
 ![Illustratorロゴ](../assets/ai_appicon_96.png)
 
-**Illustrator Resources**
+**Illustratorリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/illustrator.html) は、追加のチュートリアルやコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://helpx.adobe.com/support/illustrator.html)は、追加のチュートリアルやコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

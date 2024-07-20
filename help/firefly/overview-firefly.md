@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Firefly] 概要
-description: Adobeの最新情報を入手する [!DNL Firefly]
+title: Adobe [!DNL Firefly] の概要
+description: Adobe [!DNL Firefly]の最新の状態を確認する
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Firefly] 概要
+# Adobe [!DNL Firefly]の概要
 
 Fireflyは、クリエイティブなAI生成モデルの新しいファミリーであり、最初は画像とテキストの効果の生成に重点を置いて、Adobe製品に追加されます。 Fireflyは、クリエイティブなワークフローを大幅に改善しながら、アイデア、作成、コミュニケーションを実現する新しい方法を提供します。
 

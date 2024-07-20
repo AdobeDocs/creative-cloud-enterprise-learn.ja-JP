@@ -1,5 +1,5 @@
 ---
-title: Adobeを使用した固有のコンポジットの作成 [!DNL Stock] iPadのPhotoshop
+title: iPadのAdobe [!DNL Stock] とPhotoshopを使用して独自の合成画像を作成する
 description: Photoshopのパワーを手軽に利用できます。 刷新されたタッチベースのインターフェイスを使用して、お気に入りのCreative Cloudアプリケーションの1つを全く新しい方法で使用する方法を学習します
 feature: Image Editing
 role: User
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Adobeを使用した固有のコンポジットの作成 [!DNL Stock] iPadのPhotoshop
+# iPadのAdobe [!DNL Stock]とPhotoshopを使用して一意の合成を作成します
 
 Photoshopのパワーを手軽に利用できます。 刷新されたタッチベースのインターフェイスを使用して、お気に入りのCreative Cloudアプリケーションの1つを全く新しい方法で使用する方法を学習します。
 

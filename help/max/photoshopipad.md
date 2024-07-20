@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 2%
 
 ---
@@ -27,7 +27,7 @@ Photoshopは、イメージングとグラフィックデザインに関する�
     <div>
    <a href="photoshopipad.md#tutorial1"><strong>iPadでのPhotoshopの紹介</strong></a>
     </div>
-    <em>インターフェイスツアーを開始し、Apple iPadで使用できるように再設計されたPhotoshopの機能をいくつか学びましょう</em>
+    <em>インターフェイスツアーを開始して、Apple iPadで使用するために再設計されたPhotoshopの機能をいくつか学びましょう</em>
     <br>
   </td>
   <td>
@@ -56,14 +56,14 @@ Photoshopは、イメージングとグラフィックデザインに関する�
 * より没入感のある自然な体験
 * クラウドドキュメントを使用したシームレスなワークフロー
 
-**提供元：**
+**発表者：**
 ソリューションコンサルタント、Dan Armstrong氏（デジタルメディア）
 
 ![iPadロゴのPhotoshop](../assets/ps_appicon_96.png)
 
-**Photoshop iPad版に関するリソース**
+**iPadのPhotoshopリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/photoshop.html) は、追加のチュートリアルやコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://helpx.adobe.com/support/photoshop.html)は、追加のチュートリアルやコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

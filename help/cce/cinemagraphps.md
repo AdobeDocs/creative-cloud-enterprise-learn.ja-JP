@@ -1,6 +1,6 @@
 ---
 title: Photoshopを使用したシネマグラフの作成
-description: このステップバイステップのワークショップビデオチュートリアルでは、Adobeのビデオを組み合わせて生きた写真を作成します [!DNL Stock] Photoshopの巧みなマスクテクニック
+description: このステップバイステップのワークショップビデオチュートリアルでは、Photoshopの巧妙なマスキングテクニックをAdobe [!DNL Stock] のビデオと組み合わせて、生き生きとした写真を作成します
 feature: Image Editing
 role: User
 level: Beginner, Intermediate
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Photoshopを使用したシネマグラフの作成
 
-このステップバイステップのワークショップビデオチュートリアルでは、Adobeのビデオを組み合わせて生きた写真を作成します [!DNL Stock] Photoshopの巧みなマスクテクニックを使用して、
+このステップバイステップのワークショップビデオチュートリアルでは、Photoshopの巧妙なマスクテクニックを使用して、Adobe [!DNL Stock]のビデオを組み合わせ、生き生きとした写真を作成します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331002?hidetitle=true)
 

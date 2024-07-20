@@ -1,6 +1,6 @@
 ---
-title: Adobeを使用したリアルな写真合成の作成 [!DNL Stock] images
-description: 2つの素晴らしいAdobeをまとめる [!DNL Stock] ソーシャル投稿にユーザーを引き込む写真
+title: Adobe [!DNL Stock] 画像でリアルな写真合成を作成
+description: 2枚の素晴らしいAdobe [!DNL Stock] の写真を組み合わせて、ソーシャルメディアへの投稿にユーザーを引き込むことができます
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobeを使用したリアルな写真合成の作成 [!DNL Stock] images
+# Adobe [!DNL Stock]枚の画像でリアルな写真合成を作成
 
-2つの素晴らしいAdobeをまとめる [!DNL Stock] 写真を使用して、ソーシャルメディアへの投稿にユーザーを引き込むことができます。
+2枚の素晴らしいAdobe [!DNL Stock]の写真を組み合わせて、ソーシャルメディアにユーザーを引き込むことができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331836?hidetitle=true)

@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 5%
+source-wordcount: '133'
+ht-degree: 4%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 5%
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Adobe Fontsの約200種類のファミリーと、Adobe Fontsサービスの使いやすさを確認してください</em>
+    <em>Adobe Fontsの約200のファミリーと、Adobe Fontsサービスの使いやすさを確認してください</em>
     <br>
   </td>
   <td>
@@ -56,7 +56,7 @@ Adobe Fontsの約200種類のファミリーと、Adobe Fontsサービスの使�
 * ネイティブのCreative Cloud統合により、時間とコストを節約
 * すべてのフォントをAdobe Admin Consoleで1か所で管理
 
-**提供 :**
+**発表者：**
 
 プリンシパルソリューションコンサルタント、Todd Burke氏（デジタルメディア）
 
@@ -64,4 +64,4 @@ Adobe Fontsの約200種類のファミリーと、Adobe Fontsサービスの使�
 
 [Adobe Fontsユーザーガイド](https://helpx.adobe.com/fonts/user-guide.html)
 
-[エンタープライズ管理者ガイド](https://helpx.adobe.com/enterprise/admin-guide.html)
+[エンタープライズ管理ガイド](https://helpx.adobe.com/enterprise/admin-guide.html)

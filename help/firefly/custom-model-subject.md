@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # 被写体を使用したカスタムモデルの作成
 
-Fireflyでカスタムモデルを作成し、特定のテーマを使用して、組織のブランドに合った新しい画像を作成する方法について説明します。 カスタムモデルを使用すると、関連性のあるパーソナライズされたコンテンツを大規模に作成できます。 Adobe Fireflyを試す [こちら](https://firefly.adobe.com/).
+Fireflyでカスタムモデルを作成し、特定のテーマを使用して、組織のブランドに合った新しい画像を作成する方法について説明します。 カスタムモデルを使用すると、関連性のあるパーソナライズされたコンテンツを大規模に作成できます。 [こちら](https://firefly.adobe.com/)でAdobe Fireflyを試してください。
 
 <br> 
 
@@ -23,4 +23,4 @@ Fireflyでカスタムモデルを作成し、特定のテーマを使用して�
 
 >[!IMPORTANT]
 >
->詳細については、 [カスタム・モデルのセキュリティ・アーキテクチャとデータ・フロー](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
+>[カスタムモデルのセキュリティアーキテクチャとデータフロー](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf)の詳細をご覧ください。

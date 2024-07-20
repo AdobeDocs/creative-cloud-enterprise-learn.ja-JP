@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ ht-degree: 0%
       <img alt="Acrobat共有レビューの開始" src="../assets/acrobat_sharedreview_armstrong.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial1"><strong>Acrobat共有レビューの開始</strong></a>
+   <a href="acrobat-sign.md#tutorial1"><strong>Acrobat共有レビューを開始しています</strong></a>
     </div>
-    <em>レビュー担当者を招待してPDFの文書にコメントを追加してもらう</em>
+    <em>レビュー担当者を招待してPDF文書にコメントを追加する</em>
     <br>
   </td>
   <td>
@@ -37,7 +37,7 @@ ht-degree: 0%
     <div>
     <a href="acrobat-sign.md#tutorial2"><strong>Adobe Signを使用したオンライン権利放棄Formsの作成</strong></a>
     </div>
-    <em>文書をオンラインフォームにすばやく変換してオンラインに投稿し、必要な人が誰でも入力して署名できます</em>
+    <em>文書をすばやくオンラインフォームに変換してオンラインに投稿し、必要とするユーザーが誰でも入力して署名できるようにします</em>
     <br>
   </td>
   <td>
@@ -47,7 +47,7 @@ ht-degree: 0%
     <div>
     <a href="acrobat-sign.md#tutorial3"><strong>Adobe Signで署名を依頼</strong></a>
     </div>
-    <em>WordからPDFに移動し、Adobe Signで署名用に送信</em>
+    <em>WordからPDFに移動して、Adobe Signで署名用に送信</em>
     <br>
   </td>
 </tr>
@@ -59,7 +59,7 @@ ht-degree: 0%
     <div>
    <a href="acrobat-sign.md#tutorial4"><strong>Liquid Modeを使用したモバイルでのメニューの表示</strong></a>
     </div>
-    <em>Liquid Modeを使用して、モバイルデバイス上のPDFの読み取りエクスペリエンスを向上</em>
+    <em>Liquid Modeを使用して、モバイルデバイスでのPDFの閲覧体験を向上させる</em>
     <br>
   </td>
   <td>
@@ -69,7 +69,7 @@ ht-degree: 0%
     <div>
     <a href="acrobat-sign.md#tutorial5"><strong>携帯電話から文書をスキャンしてPDFに送信</strong></a>
     </div>
-    <em>Adobe Scanを使用すると、文書、フォーム、名刺、ホワイトボードを簡単にキャプチャし、高品質のAdobePDFに変換できます</em>
+    <em>Adobe Scanを使用すると、文書、フォーム、名刺、ホワイトボードを簡単にキャプチャして、高品質のAdobePDFに変換できます</em>
     <br>
   </td>
   <td>
@@ -92,12 +92,13 @@ ht-degree: 0%
 * コメントを1か所で収集
 * 共同作業を促す同時コメント
 
-**Adobeレビューとコメントオプションの比較PDF**
+**Adobeのレビューとコメントオプションの比較PDF**
 
 [![比較画像](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
-**提供元：**
-ソリューションコンサルタント（デジタルメディア）、Dan Armstrong氏、シニアマネージャーソリューションコンサルティング（デジタルメディア）のRick Borstein氏
+**発表者：**
+ソリューションコンサルタント、Dan Armstrong氏（デジタルメディア）
+ソリューション・コンサルティング（デジタル・メディア）担当シニア・マネージャ、Rick Borstein氏
 
 ## Adobe Signを使用したオンライン権利放棄Formsの作成(5:19) {#tutorial2}
 
@@ -111,8 +112,9 @@ ht-degree: 0%
 * 顧客が自分のデバイスからアクセスできるWebサイトにデジタルフォームを投稿する
 * 入力済みのフォームは、自動的にアーカイブされて記録に残されます
 
-**提供元：**
-Taylor Kobey、ソリューションコンサルタント（デジタルメディア）、Emily Palmer、ソリューションコンサルタント（デジタルメディア）
+**発表者：**
+Taylor Kobey氏、ソリューションコンサルタント（デジタルメディア）
+ソリューション・コンサルタント（デジタル・メディア）、Emily Palmer氏
 
 ## Adobe Signで署名を依頼(3:21) {#tutorial3}
 
@@ -124,7 +126,7 @@ WordからPDFに移動し、Adobe Signで署名用に送信
 このチュートリアルでは、次の方法を学習します。
 * 署名用に電子文書を送信するために毎日使用するツールを活用
 
-**提供元：**
+**発表者：**
 ソリューション・コンサルティング（デジタル・メディア）担当シニア・マネージャ、Rick Borstein氏
 
 ## Liquid Modeを使用したモバイルでのメニューの表示(2:57) {#tutorial4}
@@ -139,7 +141,7 @@ Liquid Modeを使用すると、モバイルデバイスでのPDFの読み取り
 * PDFレイアウトを改善
 * モバイルやタブレットから文書を簡単に読み取れるように、その場で機能を追加
 
-**提供元：**
+**発表者：**
 アソシエイトソリューションコンサルタント、Emilie Enke氏（デジタルメディア）
 
 ## 携帯電話から文書をスキャンしてPDFに送信(5:53) {#tutorial5}
@@ -154,14 +156,14 @@ Adobe Scanを使用すると、文書、フォーム、名刺、ホワイトボ�
 * 手書きまたは印刷されたテキストを自動的に識別してシャープにし、グレアやシャドウなどの不要な要素を削除します
 * Acrobat ReaderでスキャンしたPDFを開いて、メモやコメントを作成し、チームでレビューします
 
-**提供元：**
+**発表者：**
 アソシエイトソリューションコンサルタント、Emilie Enke氏（デジタルメディア）
 
 ![DCロゴ](../assets/Doc-Cloud-256.png)
 
-**AcrobatおよびAdobe Signリソース**
+**AcrobatおよびAdobe Signのリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/document-cloud.html) は、追加のチュートリアルのハブです。 [新機能](https://helpx.adobe.com/acrobat/using/whats-new.html)、およびコミュニティフォーラムへのリンク。
+[ラーニングとサポート](https://helpx.adobe.com/support/document-cloud.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/acrobat/using/whats-new.html)、およびコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # Adobe Fireflyを見つける
 
-Adobe Fireflyを見つける [創造性の未来](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html) ai生成により、商用目的での安全な使用とイノベーションを可能にします。 Adobe Fireflyを試す [こちら](https://firefly.adobe.com/).
+安全性を重視した商用目的での利用と技術革新を目的としたジェネレーティブAIにより、[未来のAdobe Firefly](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html)を実現します。 [こちら](https://firefly.adobe.com/)でAdobe Fireflyを試してください。
 
 <br> 
 

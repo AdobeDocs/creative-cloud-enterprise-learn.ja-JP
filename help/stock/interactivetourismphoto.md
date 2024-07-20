@@ -1,6 +1,6 @@
 ---
-title: Adobeでインタラクティブな観光写真を作成 [!DNL Stock] およびXD
-description: Adobeを使用して、webサイトのプロトタイプ内にインタラクティブな写真をすばやく作成します [!DNL Stock] & XD
+title: Adobe [!DNL Stock] とXDでインタラクティブな観光写真を作成
+description: Adobe [!DNL Stock] とXDを使用して、webサイトのプロトタイプ内にインタラクティブな写真をすばやく作成します
 feature: Licensable Assets, UI Design
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobeでインタラクティブな観光写真を作成 [!DNL Stock] およびXD
+# Adobe[!DNL Stock]とXDでインタラクティブな観光写真を作成
 
-Adobeを使用して、webサイトのプロトタイプ内にインタラクティブな写真をすばやく作成します [!DNL Stock] &amp; XD.
+Adobe [!DNL Stock]とXDを使用して、webサイトのプロトタイプ内にインタラクティブな写真をすばやく作成します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331820?hidetitle=true)

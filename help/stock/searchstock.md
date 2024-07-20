@@ -1,6 +1,6 @@
 ---
-title: 検索Adobe [!DNL Stock] ライセンス履歴
-description: 組織のAdobeをすばやく検索する方法を説明します [!DNL Stock] エンタープライズ版Creative Cloudのライセンス履歴
+title: Adobe [!DNL Stock] のライセンス履歴の検索
+description: Creative Cloudエンタープライズ版で組織のAdobeのライセンス履歴をすばやく検索する方法を説明します [!DNL Stock]
 feature: Licensable Assets
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 検索Adobe [!DNL Stock] ライセンス履歴
+# Adobe[!DNL Stock]のライセンス履歴の検索
 
-このビデオチュートリアルでは、組織のAdobeをすばやく検索する方法を説明します [!DNL Stock] エンタープライズ版のCreative Cloudのライセンス履歴。
+このビデオチュートリアルでは、企業向けのCreative Cloudで、組織のAdobe[!DNL Stock]のライセンス履歴をすばやく検索する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)

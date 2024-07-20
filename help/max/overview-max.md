@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
 source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 1%
+source-wordcount: '510'
+ht-degree: 0%
 
 ---
 
@@ -28,9 +28,10 @@ ht-degree: 1%
 * Adobe Experience Manager(AEM) Assetsは、Adobe Creative Cloudと連携して、DAMユーザーがクリエイティブチームと共同作業を行い、コンテンツ作成プロセスでの共同作業を合理化できるデジタルアセット管理(DAM)ソリューションです
 * Adobe InDesign Serverは、他のシステムとの統合により、自動パブリッシングソリューションを強化するレイアウトおよび組版エンジンです
 
-**提供 :**
+**発表者：**
 
-シニアソリューションコンサルタント（デジタルメディア）、Eric Rowse氏、プリンシパルソリューションコンサルタント（概念実証）、Derek Lu氏
+シニアソリューションコンサルタント（デジタルメディア）、Eric Rowse氏
+プリンシパルソリューションコンサルタント、Derek Lu氏(Proof of Concept)
 
 ## 新しい法線のための新しいツール(29:57)
 
@@ -45,11 +46,13 @@ WFHは課題をもたらしましたが、クリエーターとその会社は�
 * iPadのIllustratorで、ブランディングに合わせて不要なアイコンを作成し、共有する
 * iPadでFrescoとIllustratorのアートワークを合成し、外出先でもiPadでPhotoshopを使ってソーシャルメディアチャンネル用にコンテンツを作成
 
-**提供 :**
+**発表者：**
 
-シニアソリューションコンサルタント（デジタルメディア）、Dave Weinberg氏、ソリューションコンサルタント（デジタルメディア）、Liz Tanonis氏、ソリューションコンサルタント（デジタルメディア）、Emilie Enke氏
+シニアソリューションコンサルタント（デジタルメディア）、Dave Weinberg氏
+ソリューションコンサルタント、Liz Tanonis氏（デジタルメディア）
+ソリューションコンサルタント、Emilie Enke氏（デジタルメディア）
 
-## CCライブラリとの共同作業(27:58)
+## CC Librariesとの連携(27:58)
 
 >[!VIDEO](https://video.tv.adobe.com/v/328199?hidetitle=true)
 
@@ -61,9 +64,10 @@ Adobe Creative Cloudライブラリを使用すると、お気に入りのCreati
 * すべてのクリエイティブアプリケーション内で、必要なアセットを簡単に見つけることができます
 * 組織全体のコミュニケーターが、制御を維持しながら、ブランド上のエクスペリエンスを作成できるようにします
 
-**提供 :**
+**発表者：**
 
-シニアソリューションコンサルタント（デジタルメディア）、Ashley Dvorin氏、ソリューションコンサルタント（デジタルメディア）、Emily Palmer氏
+シニアソリューションコンサルタント（デジタルメディア）、Ashley Dvorin氏
+ソリューション・コンサルタント（デジタル・メディア）、Emily Palmer氏
 
 ## デモアセットについて： LOCAL
 

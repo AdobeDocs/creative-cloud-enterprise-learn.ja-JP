@@ -5,7 +5,8 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
-source-git-commit: d7b0469735ceb9259f585bacb524a231a34de880
+exl-id: 08e566b6-b1fa-4834-b17a-5ea55dc16877
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 # 共有とダウンロードの方法
 
-PNG、JPEG、PDFなど、様々なファイル形式でプロジェクトをダウンロードして共有するオプションについて説明します。 プロジェクトをWebに公開し、簡単にアクセスするためのリンクを生成します。また、ソーシャルメディアのプラットフォームに直接メディアをスケジュールして共有し、各プラットフォームの投稿をカスタマイズすることもできます。
+PNG、JPEG、PDFなど、様々なファイル形式でプロジェクトをダウンロードして共有するオプションについて説明します。 Publishは、webへのプロジェクトの作成やリンクの作成を簡単に行えます。また、ソーシャルメディアへのメディアの投稿をスケジュールして直接共有することもできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426936?quality=12&learn=on&hidetitle=true)
 

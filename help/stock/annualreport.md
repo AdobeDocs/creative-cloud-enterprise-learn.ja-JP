@@ -1,6 +1,6 @@
 ---
-title: Adobeで作成したビデオから年間レポートを開始 [!DNL Stock] およびSpark Video
-description: Adobeを使用して年次報告書をストーリー化 [!DNL Stock] およびSpark Video
+title: Adobe [!DNL Stock] とSpark Videoで作成したビデオで年間レポートを開始します
+description: Adobe [!DNL Stock] とSpark Videoを使用して、年次報告書をストーリー化しましょう
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobeで作成したビデオから年間レポートを開始 [!DNL Stock] およびSpark Video
+# Adobe[!DNL Stock]とSpark Videoで作成したビデオで年間レポートを開始します
 
-Adobeを使用して年次報告書をストーリー化 [!DNL Stock] そしてSpark Video。
+Adobe[!DNL Stock]とSpark Videoを使用して、年次報告書をストーリーにします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331808?hidetitle=true)

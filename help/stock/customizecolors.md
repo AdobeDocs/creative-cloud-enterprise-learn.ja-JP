@@ -1,6 +1,6 @@
 ---
-title: Adobeのカラーをカスタマイズする [!DNL Stock] ベクターイラスト
-description: 見栄えの良いイラストを使って、プロジェクトに磨きをかけます。 Adobeで最適なベクターを見つける [!DNL Stock]Adobe Illustratorでプロジェクトのパレットにカラーを一致させます
+title: Adobeの色をカスタマイズする [!DNL Stock] ベクターイラスト
+description: 見栄えの良いイラストを使って、プロジェクトに磨きをかけます。 Adobe [!DNL Stock]で最適なベクターを見つけ、Adobe Illustratorを使用してプロジェクトのパレットにカラーを一致させます
 feature: Licensable Assets, Vector Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobeのカラーをカスタマイズする [!DNL Stock] ベクターイラスト
+# Adobe [!DNL Stock]のベクターイラストの色をカスタマイズする
 
-見栄えの良いイラストを使って、プロジェクトに磨きをかけます。 Adobeで最適なベクターを見つける [!DNL Stock]を選択し、Adobe Illustratorを使用してプロジェクトのパレットにカラーを一致させます。
+見栄えの良いイラストを使って、プロジェクトに磨きをかけます。 Adobe [!DNL Stock]で最適なベクターを見つけ、Adobe Illustratorを使用してプロジェクトのパレットにカラーを一致させます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331826?hidetitle=true)

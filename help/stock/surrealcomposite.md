@@ -1,5 +1,5 @@
 ---
-title: Adobeを使用してセミシュールな合成画像を作成する [!DNL Stock]
+title: Adobe [!DNL Stock]を使用してセミシュール合成を作成します
 description: カラー、モーション、マスキング効果を適用した複数の画像を組み合わせて、思い出に残る編集画像を作成します
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobeを使用してセミシュールな合成画像を作成する [!DNL Stock]
+# Adobe[!DNL Stock]を使用してセミシュール合成を作成します
 
 カラー、モーション、マスキング効果を適用した複数の画像を組み合わせて、思い出に残る編集画像を作成します。
 

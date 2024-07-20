@@ -15,7 +15,7 @@ ht-degree: 8%
 
 # テキストを画像に
 
-テキストの説明から画像を作成する方法について説明します。 [画像の生成](https://www.adobe.com/products/firefly/features/text-to-image.html) 特定のニーズに応じて、パーソナライズされた刺激的なコンテンツを作成することができます。 Adobe Fireflyを試す [こちら](https://firefly.adobe.com/).
+テキストの説明から画像を作成する方法について説明します。 特定のニーズに応じて[画像を生成](https://www.adobe.com/products/firefly/features/text-to-image.html)すると、パーソナライズされた刺激的なコンテンツを作成できます。 [こちら](https://firefly.adobe.com/)でAdobe Fireflyを試してください。
 
 <br> 
 

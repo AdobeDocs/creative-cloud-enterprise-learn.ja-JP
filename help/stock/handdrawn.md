@@ -1,5 +1,5 @@
 ---
-title: Adobeに手描きの美を加える [!DNL Stock] images
+title: Adobe [!DNL Stock] 画像に手描きの美を加える
 description: Photoshop iPad版を使用して、画像に深みと奥行きを加える独自のテクニックでクリエイティブなマーケティングを強化します
 feature: Licensable Assets, Image Editing
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobeに手描きの美を加える [!DNL Stock] images
+# Adobeの[!DNL Stock]枚の画像に手描きの美しさを加える
 
 Photoshop iPad版を使用して、画像に深みと奥行きを加える独自のテクニックを使用して、クリエイティブなマーケティングを強化します。
 

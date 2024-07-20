@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Express] ハウツーTutorials
-description: Adobeの最新情報を入手する [!DNL Express]
+title: Adobe [!DNL Express] 使い方Tutorials
+description: Adobe [!DNL Express]の最新の状態を確認する
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] 使い方チュートリアル
+# Adobe [!DNL Express]の使い方チュートリアル
 
 Adobe Fireflyを利用したAI生成で、際立つ素晴らしい作品の制作を開始しましょう。 Adobe Expressのあるチラシ、TikToks、履歴書、リールをデザインします。
 
@@ -273,7 +273,7 @@ Adobe Fireflyを利用したAI生成で、際立つ素晴らしい作品の制�
   </td>
   <td>
       <a href="cc-libraries.md">
-         <img alt="CCライブラリの使用" src="assets/cc-libraries.png" />
+         <img alt="CC Librariesを使用" src="assets/cc-libraries.png" />
       </a>
   </td>
 </tr>

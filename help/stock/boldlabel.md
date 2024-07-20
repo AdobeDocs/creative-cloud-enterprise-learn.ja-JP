@@ -1,6 +1,6 @@
 ---
-title: Adobeを付けて大胆なラベルを作る [!DNL Stock] テンプレートとPhotoshopスマートオブジェクト
-description: Adobeのリアルなパッケージテンプレートを使用して、カスタムデザインをデザインし、ビジュアル化します [!DNL Stock]
+title: Adobe [!DNL Stock] テンプレートとPhotoshopスマートオブジェクトで目立つラベルを作成
+description: Adobe [!DNL Stock]のリアルなパッケージテンプレートを使用して、カスタムデザインをデザインし、ビジュアル化します
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobeを付けて大胆なラベルを作る [!DNL Stock] テンプレートとPhotoshopスマートオブジェクト
+# Adobe [!DNL Stock]のテンプレートとPhotoshopのスマートオブジェクトで太字のラベルを作成
 
-Adobeのリアルなパッケージテンプレートを使用して、カスタムデザインをデザインし、ビジュアル化します [!DNL Stock]    .
+Adobe[!DNL Stock]のリアルなパッケージテンプレートを使用して、カスタムデザインをデザインし、ビジュアル化します    .
 
 >[!VIDEO](https://video.tv.adobe.com/v/331823?hidetitle=true)

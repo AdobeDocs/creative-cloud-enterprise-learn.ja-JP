@@ -5,15 +5,16 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-13756
-source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
+exl-id: d0753867-1e68-44d0-9dfb-33abbedd7a04
+source-git-commit: 068b3b3cc5c5d6281e06d810a1ee5e3242227881
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 4%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
 # Fireflyを使用したマーケティングキャンペーン用のチラシコンテンツの作成
 
-Adobe Fireflyを利用したAdobe ExpressのText to Imageを使用して、グローバルホテルのマーケティングキャンペーンからローカライズされたコンテンツを作成する方法について説明します。 このチュートリアルでは、新しい [Adobe Express](https://www.adobe.com/express/).
+Adobe Fireflyを利用したAdobe ExpressのText to Imageを使用して、グローバルホテルのマーケティングキャンペーンからローカライズされたコンテンツを作成する方法について説明します。 このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/express/)を使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422426?quality=12&learn=on&hidetitle=true)

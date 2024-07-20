@@ -7,8 +7,8 @@ feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
 source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 2%
+source-wordcount: '615'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ NUL(Named User Licensing)を通じてAdobe製品のライセンスを取得す�
 
 ## ユーザー指定ライセンスについて
 
-[ユーザー指定ライセンス](https://helpx.adobe.com/enterprise/using/licensing.html) は、ソフトウェアをシリアル番号やデバイスの代わりに個人に割り当てることができるソフトウェアライセンスモデルです。 NULは、IT管理者に高度なユーザーID管理機能とエンタープライズレベルのセキュリティを提供し、Adobe Admin Consoleを使用したアプリケーションの簡単なデプロイと管理を可能にします。
+[ユーザー指定ライセンス](https://helpx.adobe.com/enterprise/using/licensing.html)は、ソフトウェアをシリアル番号やデバイスの代わりに個人に割り当てることを可能にするソフトウェアライセンスモデルです。 NULは、IT管理者に高度なユーザーID管理機能とエンタープライズレベルのセキュリティを提供し、Adobe Admin Consoleを使用したアプリケーションの簡単なデプロイと管理を可能にします。
 
 ## ユーザー指定ライセンスの利点：
 
@@ -32,7 +32,7 @@ NUL(Named User Licensing)を通じてAdobe製品のライセンスを取得す�
 
 * エキスパートサービスをご利用ください。
 
-  Adobeとのエンタープライズタームライセンス契約では、Adobeエキスパートとの電話またはweb会議を通じて、30分間の無制限のセッションを提供しています。 セッションを予約するには、Admin Consoleの「サポート」タブに移動して「 **エキスパートセッションを依頼**.
+  Adobeとのエンタープライズタームライセンス契約では、Adobeエキスパートとの電話またはweb会議を通じて、30分間の無制限のセッションを提供しています。 セッションを予約するには、Admin Consoleの「サポート」タブに移動し、「**エキスパートセッションを依頼**」をクリックします。
 
 * 多数のユーザー 問題ありません。
 
@@ -46,4 +46,4 @@ NUL(Named User Licensing)を通じてAdobe製品のライセンスを取得す�
 
   NULを活用することで、Adobe Creative CloudやAdobe Document Cloudといった生産性向上のための強力なツールにアクセスできるようになります。 ドキュメントを安全に作成して署名する、カスタムPDFをすばやく作成する、デスクトップに移動する前にタブレットでクリエイティブプロジェクトを開始する、Document Cloudを介してチームとドキュメントを共有する、Adobe XDで新しいチームプロジェクトに取り組むなど、多くの作業が可能になります。 クラウドベースのサービスにより、アセットの共有と、リモートチームとしての共同作業が簡単になります。
 
-最新のワークフローの課題には、最新のソリューションが必要です。 ユーザー指定ライセンスへの移行をお手伝いします。 詳細については、 [ユーザー指定ライセンス移行ガイド](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) をクリックして、トランジションを開始します。
+最新のワークフローの課題には、最新のソリューションが必要です。 ユーザー指定ライセンスへの移行をお手伝いします。 移行を開始するには、[ユーザー指定ライセンスの移行ガイド](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf)を参照してください。

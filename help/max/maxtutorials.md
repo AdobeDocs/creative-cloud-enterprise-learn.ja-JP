@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 27%
+source-wordcount: '322'
+ht-degree: 9%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 27%
     <div>
     <a href="acrobat-sign.md"><strong>AcrobatおよびAdobe Sign</strong></a>
     </div>
-    <em>PDF文書およびフォームを作成、編集、署名</em>
+    <em>PDF文書およびフォームを作成、編集、および署名</em>
     <br>
   </td>
   <td>
@@ -47,7 +47,7 @@ ht-degree: 27%
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>ベクター画像やイラスト作成の業界標準ツール</em>
+    <em>ベクターグラフィックとイラスト</em>
     <br>
   </td>
 </tr>
@@ -77,9 +77,9 @@ ht-degree: 27%
       <img alt="Rush" src="../assets/Rush.jpg" />
     </a>
     <div>
-    <a href="rush.md"><strong>Rush</strong></a>
+    <a href="rush.md"><strong>ラッシュ</strong></a>
     </div>
-    <em>どこからでも簡単にビデオを作成してオンラインでシェア</em>
+    <em>どこからでもオンラインビデオを作成して共有できます</em>
     <br>
   </td>
 </tr>
@@ -91,7 +91,7 @@ ht-degree: 27%
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>ユーザーエクスペリエンスをデザイン、プロトタイプ作成、共有します</em>
+    <em>ユーザーエクスペリエンスをデザイン、プロトタイプ作成、共有する</em>
     <br>
   </td>
   <td>
@@ -128,7 +128,7 @@ ht-degree: 27%
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
-    <em>今までになかった究極のイラストレーションツール</em>
+    <em>どこでも絵を描くことの楽しさを再発見する</em>
     <br>
   </td>
   <td>
@@ -136,9 +136,9 @@ ht-degree: 27%
       <img alt="Illustrator iPad 版" src="../assets/AIoniPad.jpg" />
     </a>
     <div>
-    <a href="illustratoripad.md"><strong>Illustrator iPad 版</strong></a>
+    <a href="illustratoripad.md"><strong>iPadのIllustrator</strong></a>
     </div>
-    <em>ベクター画像やイラスト作成の業界標準ツール</em>
+    <em>ベクターグラフィックとイラスト</em>
     <br>
   </td>
 </tr>
@@ -148,9 +148,9 @@ ht-degree: 27%
       <img alt="Photoshop iPad 版" src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>Photoshop iPad 版</strong></a>
+    <a href="photoshopipad.md"><strong>iPadのPhotoshop</strong></a>
     </div>
-    <em>デスクトップと iPad で美しい画像、グラフィック、アートを編集、合成、作成できます</em>
+    <em>デスクトップとiPadで美しい画像、グラフィック、アートを編集、合成、作成</em>
     <br>
   </td>
   <td>
@@ -177,7 +177,7 @@ ht-degree: 27%
     <div>
     <a href="aem.md"><strong>AEM AssetsとAsset Link</strong></a>
     </div>
-    <em>次世代のデジタルアセット管理</em>
+    <em>次世代デジタル資産管理</em>
     <br>
   </td>
   <td>
@@ -185,9 +185,9 @@ ht-degree: 27%
       <img alt="Creative Cloud デスクトップアプリ" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud デスクトップアプリケーション</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Creative Cloudデスクトップアプリ</strong></a>
     </div>
-    <em>Creative Cloudデスクトップアプリは、CCのアプリケーション、サービス、共同作業などを管理するためのハブです。</em>
+    <em>Creative Cloudデスクトップアプリは、CCのアプリ、サービス、共同作業などを管理するためのハブです。</em>
     <br>
   </td>
   <td>
@@ -239,9 +239,9 @@ ht-degree: 27%
       <img alt="独自のフェイスマスクを作成" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>独自のフェイスマスクを作成</strong></a>
+    <a href="handsonproject.md"><strong>独自のフェイスマスクを作成する</strong></a>
     </div>
-    <em>Adobeデザインからプリントプラグインを使用すると、数多くのZazzle製品でデザインをビジュアル化し、オンラインマーケットプレイスに直接公開することができます</em>
+    <em>Adobeのデザインからプリントまでプラグインを使用すると、何百点ものZazzle製品でデザインを視覚化し、そのデザインを直接オンラインマーケットプレイスに公開できます</em>
     <br>
   </td>
   <td>

@@ -1,6 +1,6 @@
 ---
-title: Adobeを使用して会社のガイドラインのインフォグラフィックを作成する [!DNL Stock]
-description: Adobeのさまざまなアセットを組み合わせる [!DNL Stock] 視覚的に感動的なインフォグラフィックの形式でガイドラインを伝達する
+title: Adobe [!DNL Stock]を使用して会社のガイドラインのインフォグラフィックを作成する
+description: Adobe [!DNL Stock] のさまざまなアセットを組み合わせて、視覚的に魅力的なインフォグラフィックの形式でガイドラインを伝える
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobeを使用して会社のガイドラインのインフォグラフィックを作成する [!DNL Stock]
+# Adobe[!DNL Stock]を使用して会社のガイドラインのインフォグラフィックを作成する
 
-Adobeのさまざまなアセットを組み合わせる [!DNL Stock] 視覚的に感動的なインフォグラフィックの形でガイドラインを伝達する。
+Adobe [!DNL Stock]のさまざまなアセットを組み合わせて、視覚的に魅力的なインフォグラフィックの形式でガイドラインを伝えます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331811?hidetitle=true)

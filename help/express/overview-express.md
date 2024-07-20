@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Express] 概要
-description: Adobeの最新情報を入手する [!DNL Express]
+title: Adobe [!DNL Express] の概要
+description: Adobe [!DNL Express]の最新の状態を確認する
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 10%
 
 ---
 
-# Adobe [!DNL Express] 概要
+# Adobe [!DNL Express]の概要
 
 新しいオールインワンAdobe Expressアプリを使用すると、リール、TikTokのビデオ、チラシ、履歴書、バナー、ロゴなどをデザインして、すばやく簡単にコンテンツを作成できます。 Adobe Fireflyを利用したAI生成機能により、素晴らしい作品を際立たせることができます。
 
@@ -21,7 +21,7 @@ ht-degree: 10%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
 
-## Adobe [!DNL Express] チュートリアル
+## Adobe [!DNL Express]のチュートリアル
 
 <table style="table-layout:fixed">
 <tr>

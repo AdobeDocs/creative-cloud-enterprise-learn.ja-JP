@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # スタイルを使用してカスタムモデルを作成する
 
-Fireflyでカスタムモデルを構築し、背景、カラー、色相など特定のスタイルを使用して、組織のブランドに新しい画像を作成する方法を説明します。 カスタムモデルを使用すると、関連性のあるパーソナライズされたコンテンツを大規模に作成できます。 Adobe Fireflyを試す [こちら](https://firefly.adobe.com/).
+Fireflyでカスタムモデルを構築し、背景、カラー、色相など特定のスタイルを使用して、組織のブランドに新しい画像を作成する方法を説明します。 カスタムモデルを使用すると、関連性のあるパーソナライズされたコンテンツを大規模に作成できます。 [こちら](https://firefly.adobe.com/)でAdobe Fireflyを試してください。
 
 <br> 
 
@@ -23,4 +23,4 @@ Fireflyでカスタムモデルを構築し、背景、カラー、色相など�
 
 >[!IMPORTANT]
 >
->詳細については、 [カスタム・モデルのセキュリティ・アーキテクチャとデータ・フロー](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
+>[カスタムモデルのセキュリティアーキテクチャとデータフロー](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf)の詳細をご覧ください。

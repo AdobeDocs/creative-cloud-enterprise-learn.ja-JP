@@ -1,6 +1,6 @@
 ---
-title: ～に慣れる [!UICONTROL コンポーネント] Adobe XD内
-description: 使い方を学ぶ [!UICONTROL コンポーネント] デザインのワークフローにスピードと一貫性の両方を適用できる、これまでにない柔軟性を提供します。
+title: Adobe XDの[!UICONTROL コンポーネント]に慣れる
+description: '[!UICONTROL コンポーネント]を使用して、デザインワークフローに速度と一貫性の両方を適用するためのこれまでにない柔軟性を実現する方法について説明します'
 feature: UI Design
 role: User
 level: Beginner, Intermediate
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# ～に慣れる [!UICONTROL コンポーネント] Adobe XD内
+# Adobe XDの[!UICONTROL コンポーネント]に慣れる
 
-使い方を学ぶ [!UICONTROL コンポーネント] デザインのワークフローにスピードと一貫性の両方を適用できる、これまでにない柔軟性を提供します。
+[!UICONTROL コンポーネント]を使用して、デザインワークフローに速度と一貫性の両方を適用するためのこれまでにない柔軟性を実現する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
 

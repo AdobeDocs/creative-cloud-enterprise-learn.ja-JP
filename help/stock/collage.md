@@ -1,6 +1,6 @@
 ---
-title: Adobeを使用したポスターの3Dコラージュの作成 [!DNL Stock] images
-description: Adobe Illustratorで、Adobeの画像から人目を引く3D効果を適用したコラージュをデザインしましょう [!DNL Stock]
+title: Adobe [!DNL Stock] 画像を使用してポスターの3Dコラージュを作成
+description: Adobe Illustratorで、Adobeの画像から人目を引く3D効果を使用してコラージュをデザインします [!DNL Stock]
 feature: Licensable Assets, 3D
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobeを使用したポスターの3Dコラージュの作成 [!DNL Stock] images
+# Adobe [!DNL Stock]の画像を使用して、ポスターの3Dコラージュを作成します
 
-注目を集めるポスターを作成します。 Adobeーで関連する画像を検索 [!DNL Stock] さらに、目を引く3D効果を適用したAdobe Illustratorでコラージュをデザインすることもできます。
+注目を集めるポスターを作成します。 Adobe [!DNL Stock]で関連する画像を見つけて、人目を引く3D効果を備えたAdobe Illustratorでコラージュをデザインします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331805?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Adobeごとのカスタムアニメーションでクリエイティブに命を吹き込む [!DNL Stock]
-description: Adobeを使用 [!DNL Stock] Photoshopの画像、テクスチャ、パターン、カスタムアニメーション
+title: Adobe [!DNL Stock]によるカスタムアニメーションでクリエイティブを生き生きとさせる
+description: PhotoshopでAdobe [!DNL Stock] の画像、テクスチャ、パターンを使用してカスタムアニメーションを作成
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobeごとのカスタムアニメーションでクリエイティブに命を吹き込む [!DNL Stock]
+# Adobe[!DNL Stock]によるカスタムアニメーションを使用して、クリエイティブに動き出しましょう
 
-Adobeを使用 [!DNL Stock] Photoshopの画像、テクスチャ、パターン、カスタムアニメーション
+Photoshopで、Adobe [!DNL Stock]のイメージ、テクスチャ、パターンをカスタムアニメーションに使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331806?hidetitle=true)

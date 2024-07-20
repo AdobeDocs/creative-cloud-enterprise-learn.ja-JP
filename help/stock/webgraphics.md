@@ -1,5 +1,5 @@
 ---
-title: Adobeを組み合わせて魅力的なwebグラフィックを作成 [!DNL Stock] cssを使用した画像
+title: Adobe [!DNL Stock] 画像をCSSと組み合わせて、魅力的なwebグラフィックを作成
 description: 広告キャンペーン全体でカラーとグラデーションを組み合わせ、様々な画像でブランドの一体感を生み出します
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobeを組み合わせて魅力的なwebグラフィックを作成 [!DNL Stock] cssを使用した画像
+# Adobe [!DNL Stock]の画像をCSSと組み合わせて、魅力的なwebグラフィックを作成します
 
 広告キャンペーン全体でカラーとグラデーションを組み合わせ、様々な画像でブランドの一体感を生み出します。
 

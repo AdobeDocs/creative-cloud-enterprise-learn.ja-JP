@@ -1,6 +1,6 @@
 ---
-title: Adobeを使用した読み込み画面のアニメーションのカスタマイズ [!DNL Stock] およびXD
-description: Adobeからのベクターアートワークのカスタマイズ [!DNL Stock] モバイルアプリの冷たい読み込み画面のアニメーションを作成するには
+title: Adobe [!DNL Stock] とXDを使用して読み込み画面のアニメーションをカスタマイズする
+description: Adobe [!DNL Stock] のベクターアートワークをカスタマイズして、モバイルアプリの冷たい読み込み画面のアニメーションを作成
 feature: Licensable Assets, UI Design
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobeを使用した読み込み画面のアニメーションのカスタマイズ [!DNL Stock] およびXD
+# Adobe [!DNL Stock]とXDを使用して読み込み画面のアニメーションをカスタマイズする
 
-Adobeからのベクターアートワークのカスタマイズ [!DNL Stock] モバイルアプリ用の冷たい読み込み画面アニメーションを作成する。
+Adobe [!DNL Stock]のベクターアートワークをカスタマイズして、モバイルアプリの冷たい読み込み画面のアニメーションを作成します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331814?hidetitle=true)

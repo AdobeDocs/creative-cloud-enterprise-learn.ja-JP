@@ -1,5 +1,5 @@
 ---
-title: Adobeを使用してセミシュールなパターンを作成する [!DNL Stock]
+title: Adobe [!DNL Stock]を使用してセミシュールなパターンを作成します
 description: Adobeのシュールな画像に基づいて、美しいシームレスなパターンを作成します [!DNL Stock]
 feature: Licensable Assets
 role: User
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobeを使用してセミシュールなパターンを作成する [!DNL Stock]
+# Adobe[!DNL Stock]を使用してセミシュールなパターンを作成します
 
-Adobeのシュールな画像に基づいて、美しいシームレスなパターンを作成します [!DNL Stock].
+Adobe[!DNL Stock]の現実離れした画像に基づいて、美しいシームレスなパターンを作成します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)

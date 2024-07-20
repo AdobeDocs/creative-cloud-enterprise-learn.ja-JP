@@ -1,5 +1,5 @@
 ---
-title: CCライブラリの使用
+title: CC Librariesを使用
 description: CCライブラリアセットをグループと共有する方法について説明します。
 feature: Integrations
 role: User
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# CCライブラリの使用
+# CC Librariesを使用
 
 CCライブラリアセットをチームと共有する方法について説明します。
 

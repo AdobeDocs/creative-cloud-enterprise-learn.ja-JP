@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Adobe Experience Managerは、大企業および中堅企業向けの業界を�
     <div>
    <a href="aem.md#tutorial1"><strong>AEMとAsset Link</strong></a>
     </div>
-    <em>AEMに保存されているアセットをAsset Linkでリアルタイムで更新</em>
+    <em>Asset Linkを使用して、AEMに保存されているアセットをリアルタイムで更新する</em>
     <br>
   </td>
    <td>
@@ -35,9 +35,9 @@ Adobe Experience Managerは、大企業および中堅企業向けの業界を�
       <img alt="AEMでホストされるInDesignファイル" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
    </a>
     <div>
-   <a href="aem.md#tutorial2"><strong>AEMでホストされるInDesignファイル</strong></a>
+   <a href="aem.md#tutorial2"><strong>AEMでホストされているInDesignファイル</strong></a>
     </div>
-    <em>AEMでInDesignドキュメントをホストして、複数のユーザーが同時にコンテンツのバリエーションを作成できるようにします</em>
+    <em>複数のユーザーが同時にコンテンツのバリエーションを作成できるように、InDesignのドキュメントをAEMでホストします</em>
     <br>
   </td>
   <td>
@@ -60,7 +60,7 @@ Asset Linkを使用して、AEMに保存されているアセットをリアル�
 * デザインプログラムからアセットを簡単にアップロード
 * リアルタイムで更新を行うには、 DAMのアセットをチェックアウトして設計プログラムにチェックインします
 
-**提供元：**
+**発表者：**
 シニアソリューションコンサルタント（デジタルメディア）、Eric Rowse氏
 
 ## AEMでホストされているInDesignファイル(3:16) {#tutorial2}
@@ -75,7 +75,7 @@ AEMでInDesignドキュメントをホストすると、複数のユーザーが
 * ソースファイルを破棄する心配なく、バリエーションを安全に作成
 * 文書フィールドは事前にフォーマットされているため、コンテンツをすばやく編集または変更できます。
 
-**提供元：**
+**発表者：**
 シニアソリューションコンサルタント（デジタルメディア）、Eric Rowse氏
 
 <table style="table-layout:fixed">
@@ -87,7 +87,7 @@ AEMでInDesignドキュメントをホストすると、複数のユーザーが
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
     </div>
-    <em>コンテンツとデジタル資産管理のニーズに対応する強力なコンボ</em>
+    <em>コンテンツとデジタル資産管理のニーズに対応する強力な組み合わせ</em>
     <br>
   </td>
   <td>
@@ -97,7 +97,7 @@ AEMでInDesignドキュメントをホストすると、複数のユーザーが
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html"><strong>AEM Assets</strong></a>
     </div>
-    <em>次世代のデジタルアセット管理</em>
+    <em>次世代デジタル資産管理</em>
     <br>
   </td>
   <td>
@@ -105,7 +105,7 @@ AEMでInDesignドキュメントをホストすると、複数のユーザーが
       <img alt="InDesign Server:パートナーの検索" src="../assets/AEM_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets：メリット</strong></a>
+   <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets：特典</strong></a>
     </div>
     <em>デジタルアセットを活用する</em>
     <br>
@@ -115,9 +115,9 @@ AEMでInDesignドキュメントをホストすると、複数のユーザーが
 
 ![AEMロゴ](../assets/aem_appicon_noshadow_96.png)
 
-**Asset LinkとAEMリソース**
+**Asset Link &amp; AEM Resources**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/experience-manager.html) は、追加のチュートリアル、新機能、およびコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://helpx.adobe.com/support/experience-manager.html)は、追加のチュートリアル、新機能、およびコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

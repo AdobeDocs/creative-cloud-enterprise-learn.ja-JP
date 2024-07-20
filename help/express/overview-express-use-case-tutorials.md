@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] ユースケースTutorials
-description: Adobeの最新情報を入手する [!DNL Express] ユースケース
+description: Adobeの最新情報 [!DNL Express] の使用例
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Intermediate
@@ -13,15 +13,15 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] ユースケースのチュートリアル
+# Adobe[!DNL Express]のユースケースチュートリアル
 
 組織内の様々なチームがAdobe Expressからどのようなメリットを得られるかを説明します。
 
 ## 新機能
 
-* [オンライン学習コースのプロモーションビジュアルの作成](promo-visual.md)
+* [オンライン学習コースのプロモーションビジュアルを作成しています](promo-visual.md)
 オンライン学習コースの魅力的なビジュアルを作成する方法を学ぶ
-* [年末のビデオの作成](end-of-year-video.md)
+* [年度末のビデオを作成しています](end-of-year-video.md)
 刺激的な年末ビデオを作成する方法を学ぶ
 * [ニュースレターの作成方法](newsletter.md)
 印刷、電子メール、またはWebへの投稿に使用できるニュースレターの表紙を作成する方法について説明します

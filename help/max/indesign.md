@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -37,17 +37,19 @@ ht-degree: 0%
     <div>
    <a href="indesign.md#tutorial2"><strong>InDesignからレビュー用に共有</strong></a>
     </div>
-    <em>デザイナーとそのチームメンバーのシームレスなクリエイティブレビューエクスペリエンス</em>
+    <em>デザイナーとそのチームメンバーのシームレスなクリエイティブレビュー体験</em>
     <br>
   </td>
   <td>
     <a href="indesign.md#tutorial3">
-        <img alt="Document CloudレビューからのPDFコメントの読み込み" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
+        <img alt="文書からPDFコメントを取り込む 
+クラウドレビュー" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
-    <a href="indesign.md#tutorial3"><strong>Document CloudレビューからのPDFコメントの読み込み</strong></a>
+    <a href="indesign.md#tutorial3"><strong>文書からPDFのコメントを取り込む 
+クラウドレビュー</strong></a>
     </div>
-    <em>PDFのコメントをInDesignに直接読み込み、要求された変更をすばやく適用できます</em>
+    <em>PDFのコメントを直接InDesignに読み込み、要求された変更内容をすばやく適用する</em>
     <br>
   </td>
 </tr>
@@ -57,7 +59,7 @@ ht-degree: 0%
       <img alt="ビデオファイルをInDesignドキュメントに追加" src="../assets/indesign_video_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="indesign.md#tutorial4"><strong>ビデオファイルをInDesignドキュメントに追加</strong></a>
+   <a href="indesign.md#tutorial4"><strong>InDesignドキュメントにビデオファイルを追加</strong></a>
     </div>
     <em>InDesignにビデオを追加します。 PDFに出力してオンラインで公開</em>
     <br>
@@ -87,7 +89,7 @@ WebサイトにリンクするQRコードを生成します。
 * お客様に安心を
 * デジタル化により、コンテンツを最新の状態に簡単に維持
 
-**提供元：**
+**発表者：**
 プリンシパルソリューションコンサルタント（デジタルメディア）、Patti Sokol氏
 
 ## InDesignがレビュー用に共有(4:04) {#tutorial2}
@@ -103,11 +105,11 @@ WebサイトにリンクするQRコードを生成します。
 * 複数の関係者からのフィードバックを1か所で収集
 * アプリ内でフィードバックを管理し、すぐに変更を行うことができます。
 
-**Adobeレビューとコメントオプションの比較PDF**
+**Adobeのレビューとコメントオプションの比較PDF**
 
 [![比較画像](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
-**提供元：**
+**発表者：**
 ソリューション・コンサルタント（デジタル・メディア）、Emily Palmer氏
 
 ## Document CloudレビューからのPDFコメントの読み込み(4:52) {#tutorial3}
@@ -121,11 +123,11 @@ PDFのコメントをInDesignに直接読み込み、要求された変更をす
 * 既存のPDFコメントワークフローをサポート
 * 複数のソースから組み合わせたPDFで機能
 
-**Adobeレビューとコメントオプションの比較PDF**
+**Adobeのレビューとコメントオプションの比較PDF**
 
 [![比較画像](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
-**提供元：**
+**発表者：**
 シニアソリューションコンサルタント（デジタルメディア）、Michael Murphy氏
 
 ## InDesignドキュメントへのビデオファイルの追加(5:58) {#tutorial4}
@@ -139,14 +141,14 @@ InDesignにビデオを追加します。 PDFに出力し、オンラインで�
 * InDesignへのビデオの追加
 * PDFに出力してオンラインで公開
 
-**提供元：**
+**発表者：**
 プリンシパルソリューションコンサルタント（デジタルメディア）、Patti Sokol氏
 
 ![InDesignLogo](../assets/id_appicon_96.png)
 
 **InDesignリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/indesign.html) は、追加のチュートリアルのハブです。 [新機能](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)、およびコミュニティフォーラムへのリンク。
+[ラーニングとサポート](https://helpx.adobe.com/support/indesign.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)、およびコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

@@ -1,6 +1,6 @@
 ---
 title: マスクとアニメーションを使用してタイポグラフィに魅力を加える
-description: Adobeの素材を使用してテキストに命を吹き込みます [!DNL Stock] After Effectsのアニメーションスタイル
+description: Adobe [!DNL Stock] の素材とAfter Effectsのアニメーションスタイルを使用して、テキストに命を吹き込みます
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # マスクとアニメーションを使用してタイポグラフィに魅力を加える
 
-Adobeの素材を使用してテキストに命を吹き込みます [!DNL Stock] After Effectsのアニメーションスタイル
+Adobe [!DNL Stock]の要素とAfter Effectsのアニメーションスタイルを使用して、テキストに命を吹き込みます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

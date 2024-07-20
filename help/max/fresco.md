@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,9 @@ Adobe Frescoは、ベクターとラスタライズのワークフローをク�
       <img alt="テクスチャを適用したアートワークの作成 – IllustratorへのFresco" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial2"><strong>テクスチャを適用したアートワークの作成 – IllustratorへのFresco</strong></a>
+   <a href="fresco.md#tutorial2"><strong>テクスチャアートワークの作成 – IllustratorへのFresco</strong></a>
     </div>
-    <em>Adobe Frescoでテクスチャをペイントして描画し、Illustratorで使用する方法を説明します</em>
+    <em>Adobe Frescoでテクスチャをペイントして描画し、Illustratorでテクスチャを使用する方法を学ぶ</em>
     <br>
   </td>
   <td>
@@ -61,7 +61,7 @@ Adobe Frescoは、ベクターとラスタライズのワークフローをク�
 * iPhone用の新しいFrescoアプリで、場所を問わずに制作を続けましょう
 * 作品を様々な形式に書き出して、他のモバイルアプリやデスクトップアプリで使用できます
 
-**提供元：**
+**発表者：**
 ソリューションコンサルタント、Liz Tanonis氏（デジタルメディア）
 
 ## テクスチャを適用したアートワークの作成 – IllustratorへのFresco(4:10) {#tutorial2}
@@ -76,14 +76,14 @@ Adobe Frescoでテクスチャをペイントして描画し、Illustratorでテ
 * Illustratorの画像トレースツールを使用してアートワークをベクターに変換
 * Illustratorでベクターアートワークに手作りのテクスチャを適用する
 
-**提供元：**
+**発表者：**
 ソリューションコンサルタント、Liz Tanonis氏（デジタルメディア）
 
 ![Frescoロゴ](../assets/fr_appicon_96.png)
 
 **Frescoリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/adobe-fresco.html) は、追加のチュートリアルのハブです。 [新機能](https://helpx.adobe.com/fresco/using/whats-new.html)、およびコミュニティフォーラムへのリンク。
+[ラーニングとサポート](https://helpx.adobe.com/support/adobe-fresco.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/fresco/using/whats-new.html)、およびコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

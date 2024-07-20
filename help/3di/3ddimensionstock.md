@@ -1,6 +1,6 @@
 ---
-title: 3Dモデルのカスタマイズとブランディング [!DNL Dimension] およびAdobe [!DNL Stock]
-description: '[!DNL]で3Dモデルをカスタマイズしてブランド化する [!DNL Dimension]] マテリアル、環境プロパティ、照明、写真を使用して、あらゆるデザインプロジェクトでフォトリアリスティックな画像を作成'
+title: ' [!DNL Dimension] とAdobe [!DNL Stock]で3Dモデルをカスタマイズしてブランド化する'
+description: マテリアル、環境特性、照明、写真を使用して[!DNL [!DNL Dimension]] で3Dモデルをカスタマイズしてブランド化し、あらゆるデザインプロジェクトでフォトリアリスティックな画像を作成できます
 feature: 3D
 role: User
 level: Beginner, Intermediate
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# 3Dモデルのカスタマイズとブランディング [!DNL Dimension] およびAdobe [!DNL Stock]
+# [!DNL Dimension]とAdobe [!DNL Stock]を使用して3Dモデルをカスタマイズし、ブランド化します
 
-3Dモデルのカスタマイズとブランディング [!DNL Dimension] マテリアル、環境プロパティ、照明、写真を使用して、あらゆるデザインプロジェクトでフォトリアリスティックな画像を作成します。
+マテリアル、環境特性、照明、写真を使用して[!DNL Dimension]で3Dモデルをカスタマイズし、ブランド化して、あらゆるデザインプロジェクトでフォトリアリスティックな画像を作成できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
 

@@ -1,5 +1,5 @@
 ---
-title: Adobeを使用して製品機能の比較表を作成する [!DNL Stock]
+title: Adobe [!DNL Stock]を使用して製品機能の比較表を作成します
 description: 製品の価格プランを比較するグラフィックを作成して、見込み客に必要な情報を一目で確認できるようにします。
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobeを使用して製品機能の比較表を作成する [!DNL Stock]
+# Adobe [!DNL Stock]を使用して製品機能の比較表を作成します
 
 製品価格プランを比較するグラフィックを作成して、見込み客に必要な情報を一目で把握できるようにします。
 

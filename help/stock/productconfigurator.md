@@ -1,6 +1,6 @@
 ---
-title: Adobeを使用してインタラクティブ製品コンフィギュレーターを作成する [!DNL Stock]
-description: インタラクティブ機能、アニメーション機能、編集可能なアートワークをAdobeから使用できます [!DNL Stock] 金融情報を目に見える形で提示する
+title: Adobe [!DNL Stock]を使用して対話型製品コンフィギュレーターを作成します
+description: Adobe [!DNL Stock] のインタラクティブ機能、アニメーション機能、編集可能なアートワークを使用して、財務情報を視覚的に表示します
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Adobeを使用してインタラクティブ製品コンフィギュレーターを作成する [!DNL Stock]
+# Adobe[!DNL Stock]で対話型製品コンフィギュレーターを作成します
 
-インタラクティブ機能、アニメーション機能、編集可能なアートワークをAdobeから使用できます [!DNL Stock] 財務情報を視覚的に提示する。
+Adobe [!DNL Stock]のインタラクティブ機能、アニメーション、編集可能なアートワークの機能を使用して、財務情報を視覚的に表示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331832?hidetitle=true)
