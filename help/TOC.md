@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1fc995e8be33317f0d9200bb421fcff0f77a568c
+source-git-commit: a6239fe87239003e2730d402d8ae1c2cda52bd87
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '803'
 ht-degree: 4%
 
 ---
@@ -92,6 +92,7 @@ ht-degree: 4%
       + [テンプレートの使用方法](express/use-templates.md)
    + ユースケースチュートリアル{#expressusecase}
       + [概要](express/overview-express-use-case-tutorials.md)
+      + [イベント用のマルチチャネル人事コンテンツの作成](express/create-hr-content.md)
       + [オンライン学習コースのプロモーションビジュアルの作成](express/promo-visual.md)
       + [年末のビデオの作成](express/end-of-year-video.md)
       + [ニュースレターの作成方法](express/newsletter.md)
