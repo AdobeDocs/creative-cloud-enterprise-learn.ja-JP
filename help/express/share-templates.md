@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14886
 exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,35 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="レイヤーをロックする方法と理由" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="レイヤーをロックする方法と理由" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>レイヤーをロックする方法と理由</strong></a>
+            </div>
+            <em>テンプレートのさまざまな要素をロックすることが重要である理由を説明します</em>
+            <br>
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="テンプレートの作成" src="assets/create-template.png" />
+            <img alt="効率を最大化：再利用可能なテンプレートを作成" src="assets/create-template.png" />
          </a>
-    </td>
+         <div>
+         <a href="create-templates.md"><strong>効率を最大限に高める：再利用可能なテンプレートを作成</strong></a>
+         </div>
+         <em>テンプレートを使用して、ブランドの一貫性、効率性、プロフェッショナリズム、およびコスト削減を組織にもたらす方法を説明します</em>
+         <br>
+   </td>
     <td>
-            <a href="use-templates.md">
-                <img alt="テンプレートの使用方法" src="assets/use-templates.png" />
-            </a>
-    </td>
+         <a href="use-templates.md">
+            <img alt="テンプレートによるブランドの一貫性の維持が簡単" src="assets/use-templates.png" />
+         </a>
+         <div>
+         <a href="use-templates.md"><strong>テンプレートを使用してブランドの一貫性を簡単に確保</strong></a>
+         </div>
+         <em>組織全体でブランドのコンテンツをすばやく効率的に作成する方法を説明します</em>
+         <br>
+   </td>
     <td>
       <img alt="スペーサー" src="../assets/Whitespacer.png" />
       <div>

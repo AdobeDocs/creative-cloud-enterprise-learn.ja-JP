@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -25,18 +25,33 @@ ht-degree: 0%
 <tr>
    <td>
          <a href="create-templates.md">
-            <img alt="テンプレートの作成" src="assets/create-template.png" />
+            <img alt="効率を最大化：再利用可能なテンプレートを作成" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>効率を最大限に高める：再利用可能なテンプレートを作成</strong></a>
+         </div>
+         <em>テンプレートを使用して、ブランドの一貫性、効率性、プロフェッショナリズム、およびコスト削減を組織にもたらす方法を説明します</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="テンプレートを保存して共有" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>テンプレートの保存と共有</strong></a>
+         </div>
+         <em>テンプレートを保存して、チームのブランドキットまたはライブラリと共有する方法を説明します</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="テンプレートの使用方法" src="assets/use-templates.png" />
+            <img alt="テンプレートによるブランドの一貫性の維持が簡単" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>テンプレートを使用してブランドの一貫性を簡単に確保</strong></a>
+         </div>
+         <em>組織全体でブランドのコンテンツをすばやく効率的に作成する方法を説明します</em>
+         <br>
    </td>
    <td>
       <img alt="スペーサー" src="../assets/Whitespacer.png" />

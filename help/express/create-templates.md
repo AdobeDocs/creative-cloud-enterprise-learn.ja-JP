@@ -1,21 +1,21 @@
 ---
-title: テンプレートの作成
-description: テンプレートを作成して、他のユーザーが使用するための指示を追加する方法について説明します
+title: 効率性を最大化：再利用可能なテンプレートを作成
+description: Adobe Expressテンプレートを使用して、ブランドの一貫性、効率性、プロフェッショナリズム、コスト削減を実現する方法を説明します
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# テンプレートの作成
+# 効率を最大化：再利用可能なテンプレートを作成
 
-特定のレイヤーをロックし、他のレイヤーのロックを解除してチームが変更できるようにするテンプレートを作成する方法を説明します。 このテンプレートを使用して、チームに対する指示を含めることもできます。
+Adobe Expressテンプレートを使用して、ブランドの一貫性、効率性、プロフェッショナリズム、コスト削減を実現する方法を説明します。 このチュートリアルでは、Photoshop、Illustrator、InDesign、PowerPointファイルなど、既存のコンテンツから再利用可能なファイルを作成する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
 
@@ -24,20 +24,35 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="レイヤーをロックする方法と理由" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="レイヤーをロックする方法と理由" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>レイヤーをロックする方法と理由</strong></a>
+            </div>
+            <em>テンプレートのさまざまな要素をロックすることが重要である理由を説明します</em>
+            <br>
     </td>
     <td>
-            <a href="share-templates.md">
-                <img alt="テンプレートを保存して共有" src="assets/share-templates.png" />
-            </a>
-    </td>
-    <td>
-            <a href="use-templates.md">
-                <img alt="テンプレートの使用方法" src="assets/use-templates.png" />
-            </a>
-    </td>
+         <a href="share-templates.md">
+            <img alt="テンプレートを保存して共有" src="assets/share-templates.png" />
+         </a>
+         <div>
+         <a href="share-templates.md"><strong>テンプレートの保存と共有</strong></a>
+         </div>
+         <em>テンプレートを保存して、チームのブランドキットまたはライブラリと共有する方法を説明します</em>
+         <br>
+   </td>
+   <td>
+         <a href="use-templates.md">
+            <img alt="テンプレートによるブランドの一貫性の維持が簡単" src="assets/use-templates.png" />
+         </a>
+         <div>
+         <a href="use-templates.md"><strong>テンプレートを使用してブランドの一貫性を簡単に確保</strong></a>
+         </div>
+         <em>組織全体でブランドのコンテンツをすばやく効率的に作成する方法を説明します</em>
+         <br>
+   </td>
     <td>
       <img alt="スペーサー" src="../assets/Whitespacer.png" />
       <div>
@@ -45,3 +60,4 @@ ht-degree: 0%
     </td>
 </tr>
 </table>
+
