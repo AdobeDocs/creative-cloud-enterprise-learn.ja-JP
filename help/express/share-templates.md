@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14886
 exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
          <div>
          <a href="create-templates.md"><strong>効率を最大限に高める：再利用可能なテンプレートを作成</strong></a>
          </div>
-         <em>テンプレートを使用して、ブランドの一貫性、効率性、プロフェッショナリズム、およびコスト削減を組織にもたらす方法を説明します</em>
+         <em>テンプレートを使用して、ブランドの一貫性、効率性、およびコスト削減を組織にもたらす方法を説明します</em>
          <br>
    </td>
     <td>

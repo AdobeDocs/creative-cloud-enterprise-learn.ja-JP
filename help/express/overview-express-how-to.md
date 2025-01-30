@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -355,24 +355,44 @@ Adobe Fireflyを利用したAI生成で、際立つ素晴らしい作品の制�
 <table style="table-layout:fixed">
 <tr>
    <td>
-         <a href="lock-layers.md">
+        <a href="lock-layers.md">
             <img alt="レイヤーをロックする方法と理由" src="assets/lock-layers.png" />
-         </a>
-   </td>
-   <td>
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>レイヤーをロックする方法と理由</strong></a>
+            </div>
+            <em>テンプレートのさまざまな要素をロックすることが重要である理由を説明します</em>
+            <br>
+    </td>
+    <td>
          <a href="create-templates.md">
-            <img alt="テンプレートの作成" src="assets/create-template.png" />
+            <img alt="効率を最大化：再利用可能なテンプレートを作成" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>効率を最大限に高める：再利用可能なテンプレートを作成</strong></a>
+         </div>
+         <em>テンプレートを使用して、ブランドの一貫性、効率性、およびコスト削減を組織にもたらす方法を説明します</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="テンプレートを保存して共有" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>テンプレートの保存と共有</strong></a>
+         </div>
+         <em>テンプレートを保存して、チームのブランドキットまたはライブラリと共有する方法を説明します</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="テンプレートの使用方法" src="assets/use-templates.png" />
+            <img alt="テンプレートによるブランドの一貫性の維持が簡単" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>テンプレートを使用してブランドの一貫性を簡単に確保</strong></a>
+         </div>
+         <em>組織全体でブランドのコンテンツをすばやく効率的に作成する方法を説明します</em>
+         <br>
    </td>
 </tr>
 </table>
