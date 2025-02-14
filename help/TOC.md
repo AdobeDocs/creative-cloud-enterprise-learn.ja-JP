@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a6239fe87239003e2730d402d8ae1c2cda52bd87
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '806'
 ht-degree: 4%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 4%
       + [オーディオを追加する方法](express/add-audio-video.md)
       + [ビデオを書き出す方法](express/export-video.md)
       + [レイヤーをロックする方法と理由](express/lock-layers.md)
-      + [テンプレートの作成](express/create-templates.md)
+      + [効率を最大化：再利用可能なテンプレートを作成](express/create-templates.md)
       + [テンプレートを保存して共有](express/share-templates.md)
       + [テンプレートの使用方法](express/use-templates.md)
    + ユースケースチュートリアル{#expressusecase}
