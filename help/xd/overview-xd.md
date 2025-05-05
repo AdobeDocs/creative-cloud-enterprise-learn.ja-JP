@@ -24,9 +24,9 @@ Adobe XDは、webサイト、アプリ、音声インターフェイス、ゲー
       <img alt="Adobe XDのコンポーネントに慣れる" src="assets/Componentsxd.jpg" />
    </a>
     <div>
-   <a href="components.md"><strong>Adobe XDの[!UICONTROLコンポーネント]を使い慣れましょう</strong></a>
+   <a href="components.md"><strong>Adobe XDの[!UICONTROL コンポーネント]を使い慣れましょう</strong></a>
     </div>
-    <em>[!UICONTROLコンポーネント]を使用して、デザインワークフローに速度と一貫性の両方を適用するためのこれまでにない柔軟性を実現する方法を説明します</em>
+    <em>[!UICONTROL コンポーネント]を使用して、デザインワークフローに速度と一貫性の両方を適用するためのこれまでにない柔軟性を実現する方法を説明します</em>
     <br>
   </td>
   <td>

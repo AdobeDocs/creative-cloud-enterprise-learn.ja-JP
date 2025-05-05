@@ -19,7 +19,7 @@ ht-degree: 4%
 # 大規模法人Tutorials向けCreative Cloud {#cce-learning-hub}
 
 + [概要](overview.md)
-+ エンタープライズ版{#cceoverview}のCreative Cloud
++ エンタープライズ版のCreative Cloud{#cceoverview}
    + [概要](cce/overview-cce.md)
    + Tutorials {#ccetutorials}
       + [コンテンツ作成者のAcrobat](cce/acrobat-content-creators.md)
@@ -174,7 +174,7 @@ ht-degree: 4%
    + [概要](xd/overview-xd.md)
    + Tutorials {#xdtutorials}
    + [Adobe XDの[!UICONTROL コンポーネント]に慣れる](xd/components.md)
-+ {#deploy}の展開と管理
++ の展開と管理{#deploy}
    + [概要](deploy/overview-deploy.md)
    + [シリアル番号の有効期限](deploy/cceserial.md)
    + [ユーザー指定ライセンス認証](deploy/nameduserlicensing.md)
