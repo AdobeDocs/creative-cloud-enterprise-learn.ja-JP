@@ -63,7 +63,7 @@ Adobe Illustrator iPad版は、タッチやApple Pencil、iPad用に再設計さ
 
 **iPadのIllustratorリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/illustrator.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)、およびコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://helpx.adobe.com/jp/support/illustrator.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/jp/illustrator/using/whats-new/mobile-2021.html)、およびコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

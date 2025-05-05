@@ -78,7 +78,7 @@ ht-degree: 0%
 
 **Illustratorリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/illustrator.html)は、追加のチュートリアルやコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://helpx.adobe.com/jp/support/illustrator.html)は、追加のチュートリアルやコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

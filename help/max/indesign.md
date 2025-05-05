@@ -148,7 +148,7 @@ InDesignにビデオを追加します。 PDFに出力し、オンラインで�
 
 **InDesignリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/indesign.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)、およびコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://helpx.adobe.com/jp/support/indesign.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/jp/indesign/user-guide.html/indesign/using/whats-new.ug.html)、およびコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

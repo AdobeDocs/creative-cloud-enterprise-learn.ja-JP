@@ -34,7 +34,7 @@ ETLA契約に関連付けられたシリアル番号ライセンスは、[Adobe�
 
 ### 有効期限の確認
 
-[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html)は、コンピューター上のAdobe製品の有効期限が既に切れているか、まもなく期限切れになるシリアル番号を使用しているかどうかをIT管理者が確認するためのコマンドラインユーティリティです。 このツールには、製品ライセンス識別子(LEID)、暗号化されたシリアル番号、有効期限などの情報が表示されます。 この[ページ](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html)には、MacまたはWindowsコンピューターにツールをダウンロードして使用する手順が記載されています。
+[AdobeExpiryCheck](https://helpx.adobe.com/jp/enterprise/kb/volume-license-expiration-check.html)は、コンピューター上のAdobe製品の有効期限が既に切れているか、まもなく期限切れになるシリアル番号を使用しているかどうかをIT管理者が確認するためのコマンドラインユーティリティです。 このツールには、製品ライセンス識別子(LEID)、暗号化されたシリアル番号、有効期限などの情報が表示されます。 この[ページ](https://helpx.adobe.com/jp/enterprise/kb/volume-license-expiration-check.html)には、MacまたはWindowsコンピューターにツールをダウンロードして使用する手順が記載されています。
 
 ## シリアル番号の有効期限が切れる前と後のエンドユーザーのエクスペリエンスについて
 
@@ -91,7 +91,7 @@ AcrobatおよびCreative Cloud法人版アプリでは、期限切れの60日前
 
 ## サポートが必要な場合はお問い合わせください
 
-[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html)ツールの使用について質問がある場合、またはシリアル番号のデプロイメントから指定ユーザーへの移行にサポートが必要な場合は、いくつかのオプションがあります。
+[AdobeExpiryCheck](https://helpx.adobe.com/jp/enterprise/kb/volume-license-expiration-check.html)ツールの使用について質問がある場合、またはシリアル番号のデプロイメントから指定ユーザーへの移行にサポートが必要な場合は、いくつかのオプションがあります。
 * Adobeエンタープライズオンボーディングチームに電子メールを送信 – **entonb@adobe.com**
 * [Admin Console](https://adminconsole.adobe.com/support)でサポートチケットを開く
 * Adobeアカウントチームにご連絡ください

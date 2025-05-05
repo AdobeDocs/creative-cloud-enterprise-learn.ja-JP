@@ -117,7 +117,7 @@ AEMでInDesignドキュメントをホストすると、複数のユーザーが
 
 **Asset Link &amp; AEM Resources**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/experience-manager.html)は、追加のチュートリアル、新機能、およびコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://helpx.adobe.com/jp/support/experience-manager.html)は、追加のチュートリアル、新機能、およびコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

@@ -83,7 +83,7 @@ Adobe Frescoでテクスチャをペイントして描画し、Illustratorでテ
 
 **Frescoリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/adobe-fresco.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/fresco/using/whats-new.html)、およびコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://helpx.adobe.com/jp/support/adobe-fresco.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/jp/fresco/using/whats-new.html)、およびコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

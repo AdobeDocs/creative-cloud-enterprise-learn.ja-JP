@@ -60,7 +60,7 @@ Substanceマテリアルは、1つのマテリアルで何千ものバリエー�
 
 **Dimensionリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/dimension.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)、およびコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://helpx.adobe.com/jp/support/dimension.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/jp/dimension/user-guide.html/dimension/using/whats-new.ug.html)、およびコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

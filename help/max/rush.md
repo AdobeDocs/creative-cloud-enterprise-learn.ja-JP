@@ -64,7 +64,7 @@ A.J. Wood、ソリューション・コンサルタント（デジタル・メ�
 
 **[!DNL Rush]リソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/support/premiere-rush.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)、およびコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://helpx.adobe.com/jp/support/premiere-rush.html)は、追加のチュートリアル、[新機能](https://helpx.adobe.com/jp/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)、およびコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

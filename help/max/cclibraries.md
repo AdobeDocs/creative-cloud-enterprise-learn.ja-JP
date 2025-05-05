@@ -80,7 +80,7 @@ Adobe Creative Cloudライブラリを使用すると、お気に入りのCreati
 
 **CC Librariesリソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/creative-cloud/help/libraries.html)は、追加のチュートリアル、新機能、およびコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://helpx.adobe.com/jp/creative-cloud/help/libraries.html)は、追加のチュートリアル、新機能、およびコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

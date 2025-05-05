@@ -62,7 +62,7 @@ Adobe [!DNL Capture]は、携帯電話やタブレットをデザインコレク
 
 **[!DNL Capture]リソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/mobile-apps/help/capture-faq.html)は、追加のチュートリアルやコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://helpx.adobe.com/jp/mobile-apps/help/capture-faq.html)は、追加のチュートリアルやコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

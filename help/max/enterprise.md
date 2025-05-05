@@ -62,6 +62,6 @@ Adobe Fontsの約200種類のファミリーと、Adobe Fontsサービスの使�
 
 **エンタープライズ管理リソース：**
 
-[Adobe Fontsユーザーガイド](https://helpx.adobe.com/fonts/user-guide.html)
+[Adobe Fontsユーザーガイド](https://helpx.adobe.com/jp/fonts/user-guide.html)
 
-[エンタープライズ管理ガイド](https://helpx.adobe.com/enterprise/admin-guide.html)
+[エンタープライズ管理ガイド](https://helpx.adobe.com/jp/enterprise/admin-guide.html)

@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## アドビコンテンツへのAdobeについて
 
-詳しくは、 [Adobeドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を選択します。
+詳しくは、 [Adobeドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を選択します。
 
 コントリビュート方法は、コントリビュートするユーザーと変更内容によって異なります。
 
 ### マイナーな変更
 
-親切心から、マイナーアップデートを提供する場合は、記事にアクセスし、 **編集** 」リンクをクリックします。 次に、GitHub UI を使用してアップデートを行います。 将軍を見る [Adobeドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 」を参照してください。
+親切心から、マイナーアップデートを提供する場合は、記事にアクセスし、 **編集** 」リンクをクリックします。 次に、GitHub UI を使用してアップデートを行います。 将軍を見る [Adobeドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja) 」を参照してください。
 
 このリポジトリ内のドキュメントおよびコード例に関して提出される軽微な修正や説明は、Adobe利用条件の対象です。
 
@@ -43,7 +43,7 @@ Adobe Experience Cloudソリューションのテクニカルライター、プ�
 
 コミュニティのコントリビューターは、GitHub UI を使用して基本的な編集をおこなったり、リポジトリをフォークして主要なコントリビューションをおこなったりできます。
 
-詳しくは、 [Adobeドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 」を参照してください。
+詳しくは、 [Adobeドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja) 」を参照してください。
 
 ## マークダウンを使用してトピックを書式設定する方法
 
