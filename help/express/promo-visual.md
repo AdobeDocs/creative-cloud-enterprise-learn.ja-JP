@@ -17,4 +17,4 @@ ht-degree: 0%
 
 オンライン学習コースの魅力的なビジュアルを作成する方法について説明します。 最初に、数多くのプロフェッショナルなデザインのテンプレートから1つをリミックスします。 次に、写真を追加し、編集技術を使用してコンポジションにブレンドします。その後、サイズを変更して最終的な画像を完成させます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427122?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433932?quality=12&learn=on&hidetitle=true&captions=jpn)

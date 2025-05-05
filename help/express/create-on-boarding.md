@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Adobe Fireflyを利用したAdobe ExpressのText to Imageを使用して、社員の採用やオンボーディングコンテンツに独自のグラフィックを作成する方法について説明します。 この例では、社内の全員が正確にブランドに沿ったコンテンツを作成できるように、テンプレートを使用します。 このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/express/)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422411?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444261?quality=12&learn=on&hidetitle=true&captions=jpn)

@@ -19,4 +19,4 @@ Adobe Fireflyでできること Adobe Expressアプリや、Adobe Photoshopな�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420929?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446169?quality=12&learn=on&hidetitle=true&captions=jpn)

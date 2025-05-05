@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >共有またはダウンロードする前に、翻訳が正確かどうかを確認することが重要です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438269?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

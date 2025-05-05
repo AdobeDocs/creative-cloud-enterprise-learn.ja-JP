@@ -17,4 +17,4 @@ ht-degree: 0%
 
 キーワードを使用してプロフェッショナルなデザインのテンプレートを検索し、ニュースレターの作成を開始する方法を説明します。 ロゴとテキストのコピーを変更したら、同僚を招待して共同作業を行い、独自のコンテンツを追加できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427120?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439204?quality=12&learn=on&hidetitle=true&captions=jpn)

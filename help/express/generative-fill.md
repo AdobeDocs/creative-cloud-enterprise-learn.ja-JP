@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Adobe Fireflyを利用した塗りつぶし生成を使用して、画像に要素を追加したり、画像から要素を削除したりする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427020?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437833?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

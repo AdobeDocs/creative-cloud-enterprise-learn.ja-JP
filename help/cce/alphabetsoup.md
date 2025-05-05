@@ -18,7 +18,7 @@ ht-degree: 0%
 
 JPG、PNG、SVG、GIF、EPSの各ファイルは、すべてデザインで一般的に使用されます。webページ用のファイルもあれば、プレゼンテーション、出版物、クリエイティブプロジェクト用のファイルもあります。 しかし、彼らは何を意味し、あなたはどちらを選ぶべきですか？ この15分間のハンズオンワークショップでご確認ください。 様々なグラフィックの書き出しと最適化を試しながら、Photoshopで透明効果を適用して、プレゼンテーションスキルを新しいレベルに引き上げる方法を簡単に説明します。 デザイナー兼デベロッパーのChris Converseと協力して、Photoshopから書き出されたカスタマイズされたグラフィックを使用して、PowerPointで魅力的なアニメーションを作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333805?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410416?hidetitle=true&captions=jpn)
 
 <br> 
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Adobe Expressテンプレートを使用して、ブランドの一貫性、効率性、プロフェッショナリズム、コスト削減を実現する方法を説明します。 このチュートリアルでは、Photoshop、Illustrator、InDesign、PowerPointファイルなど、既存のコンテンツから再利用可能なファイルを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433965?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

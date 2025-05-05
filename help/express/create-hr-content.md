@@ -15,4 +15,4 @@ ht-degree: 1%
 
 組織のブランドに沿ったマルチチャネル人事コンテンツをすばやく作成する方法について説明します。 マルチチャネルコンテンツを迅速に配信することで、より多くの従業員にコミュニケーションを提供し、最新のニュースを常に把握できるようにします。 このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/express/)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434597?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3434598?quality=12&learn=on&hidetitle=true&captions=jpn)

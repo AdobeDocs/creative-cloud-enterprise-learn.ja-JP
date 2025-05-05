@@ -17,7 +17,7 @@ ht-degree: 0%
 
 instagramの正方形のポストなど、カンバスサイズを決めて新規プロジェクトをゼロから作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441411?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

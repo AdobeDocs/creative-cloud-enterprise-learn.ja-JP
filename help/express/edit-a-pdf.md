@@ -16,7 +16,7 @@ ht-degree: 0%
 
 人目を引くテキスト、画像、ブランド、カラー、アニメーションなどを追加して、静的で古いPDFをイメージチェンジする方法を説明します。 編集が完了したら、PDFをダウンロードしたり、PDFを共有したり、JPEGなどの他のファイル形式に変換したりすることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427024?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437899?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

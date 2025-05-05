@@ -17,4 +17,4 @@ ht-degree: 0%
 
 PowerPointプレゼンテーションの魅力的な背景を作成する方法について説明します。 Adobe Fireflyを利用したtext-to-imageを使用すると、プレゼンテーション用にパーソナライズされた画像を作成し、その画像にさらに変更を加えてエフェクトを適用し、プレゼンテーションで使用するためにダウンロードできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427117?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433976?quality=12&learn=on&hidetitle=true&captions=jpn)

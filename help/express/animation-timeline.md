@@ -17,7 +17,7 @@ ht-degree: 0%
 
 アニメーションのタイムラインを移動および調整する方法について説明します。 タイムラインはアニメーション全体の全体的なビューで、アニメーションの長さをプレビューしたり、短くしたり長くしたりすることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437602?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

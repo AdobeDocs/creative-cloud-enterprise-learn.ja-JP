@@ -19,4 +19,4 @@ Fireflyを使用して、刺激的なPowerPointプレゼンテーション、ム
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427611?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437057?quality=12&learn=on&hidetitle=true&captions=jpn)

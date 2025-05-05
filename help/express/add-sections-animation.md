@@ -17,7 +17,7 @@ ht-degree: 0%
 
 画像や見出しなどの要素をアニメーションに追加して、アニメーションをレベルアップします。 アニメーションを変更せずに、シーン内の要素を追加、複製、並べ替えまたは置換する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426982?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433921?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

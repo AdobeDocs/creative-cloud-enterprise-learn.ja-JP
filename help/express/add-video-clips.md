@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ドラッグ&amp;ドロップでビデオをすばやく簡単に作成する方法を説明します。 テンプレートや独自の静的デザインから始めて、ブランド、デザインアセット、Adobe Stockビデオ、ミュージックなどを追加します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427071?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436414?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

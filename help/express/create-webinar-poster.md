@@ -16,4 +16,4 @@ ht-degree: 1%
 
 Adobe Fireflyを利用したAdobe ExpressのText to Imageを使用して、バーチャルリアリティイベント用のウェビナーのポスターを作成する方法を説明します。 このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/express/)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420810?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446864?quality=12&learn=on&hidetitle=true&captions=jpn)

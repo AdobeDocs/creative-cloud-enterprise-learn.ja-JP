@@ -17,7 +17,7 @@ ht-degree: 0%
 
 アニメーションの設定を調整して、効果を向上させる方法を説明します。 アニメーションの長さ、個性、速度、強さを編集して、特定の効果を作成できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426977?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438522?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

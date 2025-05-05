@@ -17,7 +17,7 @@ ht-degree: 0%
 
 オーディオを追加して、魅力的で覚えやすいプロジェクトを作成する方法を説明します。 独自のオーディオファイルをアップロードしたり、ロイヤリティフリーのストックオーディオから選択したりできます。 また、ボイスオーバーを録音したり、オーディオとボイスオーバーの両方の音量を調整したりすることもできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436844?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

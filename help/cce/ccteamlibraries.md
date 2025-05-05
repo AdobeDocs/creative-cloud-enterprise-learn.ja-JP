@@ -24,4 +24,4 @@ Creative Cloudライブラリグループ版を使用して、グループまた
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/335325?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410398?hidetitle=true&captions=jpn)

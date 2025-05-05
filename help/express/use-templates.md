@@ -17,7 +17,7 @@ ht-degree: 0%
 
 組織全体でブランド上のコンテンツをすばやく効率的に作成する方法について説明します。 このチュートリアルでは、すぐに共有およびローカライズできる新しいブランドコンテンツの作成方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436125?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

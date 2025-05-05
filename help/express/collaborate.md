@@ -17,7 +17,7 @@ ht-degree: 0%
 
 招待、権限の設定、コメントの解決、プロジェクトの同時作業など、クリエイティブなプロジェクトで同僚と共同作業する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420253?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439538?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

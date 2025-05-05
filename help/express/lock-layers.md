@@ -17,7 +17,7 @@ ht-degree: 0%
 
 テンプレートのさまざまな要素をロックして変更できないようにすることが重要である理由を説明します。 ロゴなど、特定の要素は変更しないでください。テンプレートを共有する前にロックできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427095?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437066?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

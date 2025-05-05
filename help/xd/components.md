@@ -16,7 +16,7 @@ ht-degree: 0%
 
 [!UICONTROL コンポーネント]を使用して、デザインワークフローに速度と一貫性の両方を適用するためのこれまでにない柔軟性を実現する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410477?hidetitle=true&captions=jpn)
 
 PDFファイルアイコンをクリックして、このチュートリアルのPDFをダウンロードします。
 

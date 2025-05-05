@@ -17,7 +17,7 @@ ht-degree: 0%
 
 あらゆるソーシャルメディアとマーケティングのニーズに合わせて、プロがデザインした数多くのテンプレートをご覧ください。 テンプレートを使用すると、自分の言葉や写真をリミックスして、カスタマイズされたコンテンツをすばやく作成できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426927?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443532?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

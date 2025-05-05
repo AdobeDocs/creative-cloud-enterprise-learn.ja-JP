@@ -17,7 +17,7 @@ ht-degree: 0%
 
 instagramなどのソーシャルメディアへの投稿用に組み込みのプリセットを使用して、アニメーションのサイズを最適化する方法を説明します。 アニメーションのサイズをどのように変更するかに関係なく、設定は保持されるので、再作成する必要はありません。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437723?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

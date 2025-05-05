@@ -17,7 +17,7 @@ ht-degree: 0%
 
 デザインプロジェクトでアートボードとレイヤーを操作する方法について説明します。 様々なソーシャルチャネル用にアートボードを追加、削除、複製、並べ替え、サイズ変更します。 また、レイヤースタック内の要素の順序を変更することもできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447066?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## このシリーズの追加のビデオ
 

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/express/)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446161?quality=12&learn=on&hidetitle=true&captions=jpn)

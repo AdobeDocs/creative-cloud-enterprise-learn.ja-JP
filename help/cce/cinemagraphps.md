@@ -16,7 +16,7 @@ ht-degree: 0%
 
 このステップバイステップのワークショップビデオチュートリアルでは、Photoshopの巧妙なマスクテクニックを使用して、Adobe [!DNL Stock]のビデオを組み合わせ、生き生きとした写真を作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/331002?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410689?hidetitle=true&captions=jpn)
 
 <br> 
 
