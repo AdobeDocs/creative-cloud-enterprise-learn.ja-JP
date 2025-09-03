@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
+source-git-commit: 8ecd2f40db3e601c0a57df1812293ca869e815ea
 workflow-type: tm+mt
-source-wordcount: '806'
-ht-degree: 4%
+source-wordcount: '813'
+ht-degree: 6%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 4%
 # 大規模法人Tutorials向けCreative Cloud {#cce-learning-hub}
 
 + [概要](overview.md)
-+ エンタープライズ版のCreative Cloud{#cceoverview}
++ Creative Cloud エンタープライズ版 {#cceoverview}
    + [概要](cce/overview-cce.md)
-   + Tutorials {#ccetutorials}
+   + チュートリアル {#ccetutorials}
       + [コンテンツ作成者のAcrobat](cce/acrobat-content-creators.md)
       + [CC LibrariesによるCCワークフローの改善](cce/cc-workflows-cc-libraries.md)
       + [飼い慣らし型不安](cce/taming-type-anxiety.md)
@@ -33,11 +33,11 @@ ht-degree: 4%
       + [Photoshopを使用したシネマグラフの作成](cce/cinemagraphps.md)
       + [グラフィック形式のアルファベットのスープのデコード](cce/alphabetsoup.md)
       + [iPadとiPhoneでFrescoをお試しください](cce/frescoworkshop.md)
-   + クイックリファレンスガイド{#ccerefguides}
+   + クイックリファレンスガイド {#ccerefguides}
       + [CCEガイド](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
    + [概要](express/overview-express.md)
-   + チュートリアルの使い方{#expresshowto}
+   + 使い方チュートリアル {#expresshowto}
       + [概要](express/overview-express-how-to.md)
       + [ホームページの内容](express/get-started.md)
       + [クイックアクションの概要](express/quick-actions.md)
@@ -90,7 +90,7 @@ ht-degree: 4%
       + [効率を最大化：再利用可能なテンプレートを作成](express/create-templates.md)
       + [テンプレートを保存して共有](express/share-templates.md)
       + [テンプレートの使用方法](express/use-templates.md)
-   + ユースケースチュートリアル{#expressusecase}
+   + ユースケースのチュートリアル {#expressusecase}
       + [概要](express/overview-express-use-case-tutorials.md)
       + [イベント用のマルチチャネル人事コンテンツの作成](express/create-hr-content.md)
       + [オンライン学習コースのプロモーションビジュアルの作成](express/promo-visual.md)
@@ -110,9 +110,10 @@ ht-degree: 4%
       + [Fireflyを使ってウェビナーのポスターを作成](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概要](firefly/overview-firefly.md)
-   + Tutorials {#firefly-tutorials}
+   + チュートリアル {#firefly-tutorials}
       + [ [!DNL Adobe Firefly]の概要](firefly/overview-of-firefly.md)
       + [ [!DNL Adobe Firefly]を見つける](firefly/discover.md)
+      + [Creative Productionでの背景の削除と置き換え](firefly/creative-production/background.md)
       + [クリエイティブなアイデアを加速](firefly/accelerate-ideas.md)
       + [商品の再利用可能なシーンの作成](firefly/reusable-scenes.md)
       + [被写体を使用したカスタムモデルの作成](firefly/custom-model-subject.md)
@@ -127,11 +128,11 @@ ht-degree: 4%
       + [ [!DNL Photoshop]のバナー広告のバリエーション](firefly/web-banner-ad.md)
       + [生成塗りつぶし [!DNL Photoshop]](firefly/generative-fill.md)
       + [ [!DNL Illustrator]での生成再配色](firefly/generative-recolor.md)
-   + ウェビナー{#firefly-webinars}
+   + ウェビナー {#firefly-webinars}
       + [Adobe Fireflyを試す](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [概要](stock/overview-stock.md)
-   + Tutorials {#stocktutorials}
+   + チュートリアル {#stocktutorials}
       + [魅力的なデジタルアセット](stock/stunning-digital-assets.md)
       + [Adobe [!DNL Stock] のライセンス履歴の検索](stock/searchstock.md)
       + [Adobe [!DNL Stock] 画像に手描きの美を加える](stock/handdrawn.md)
@@ -158,31 +159,31 @@ ht-degree: 4%
       + [Adobeの色をカスタマイズする [!DNL Stock] ベクターイラスト](stock/customizecolors.md)
 + Adobe 3D &amp; VR {#3doverview}
    + [概要](3di/overview-3di.md)
-   + Tutorials {#3dtutorials}
+   + チュートリアル {#3dtutorials}
       + [3Dデザインとレンダリング](3di/substance-3d-stager.md)
       + [CGIでの3Dライティングをマスターするためのヒントとテクニック](3di/mastering3dlighting.md)
       + [3Dレンダリングと合成を使用したフォトリアルなバーチャルフォトの作成](3di/photorealistic.md)
       + [ [!DNL Dimension] とAdobe [!DNL Stock]で3Dモデルをカスタマイズしてブランド化する](3di/3ddimensionstock.md)
-+ Adobeビデオ{#videooverview}
++ Adobeビデオ {#videooverview}
    + [概要](dva/overview-dva.md)
-   + Tutorials {#videotutorials}
+   + チュートリアル {#videotutorials}
       + [プロフェッショナルなモーショングラフィックステンプレート](dva/motion-graphics-templates.md)
       + [Frame.ioを使用したビデオレビュー](dva/video-review-frame-io.md)
-   + クイックリファレンスガイド{#videorefguides}
+   + クイックリファレンスガイド {#videorefguides}
       + [ビデオガイド](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [概要](xd/overview-xd.md)
-   + Tutorials {#xdtutorials}
+   + チュートリアル {#xdtutorials}
    + [Adobe XDの[!UICONTROL コンポーネント]に慣れる](xd/components.md)
-+ の展開と管理{#deploy}
++ デプロイと管理 {#deploy}
    + [概要](deploy/overview-deploy.md)
    + [シリアル番号の有効期限](deploy/cceserial.md)
    + [ユーザー指定ライセンス認証](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [概要](max/overview-max.md)
-   + Tutorials {#tutorials}
+   + チュートリアル {#tutorials}
       + [概要](max/maxtutorials.md)
-      + デスクトップ製品{#desktop-products}
+      + デスクトップ製品 {#desktop-products}
          + [Acrobat &amp; Sign](max/acrobat-sign.md)
          + [[!DNL Dimension]](max/dimension.md)
          + [Illustrator](max/illustrator.md)
@@ -190,17 +191,17 @@ ht-degree: 4%
          + [Photoshop](max/photoshop.md)
          + [[!DNL Rush]](max/rush.md)
          + [XD](max/xd.md)
-      + モバイルアプリ{#mobile-apps}
+      + モバイルアプリ {#mobile-apps}
          + [[!DNL Capture]](max/capture.md)
          + [Fresco](max/fresco.md)
          + [Illustrator iPad 版](max/illustratoripad.md)
          + [Photoshop iPad 版](max/photoshopipad.md)
-      + 統合{#integrations}
+      + 統合 {#integrations}
          + [AEM](max/aem.md)
          + [Creative Cloud デスクトップアプリ](max/creativeclouddesktopapp.md)
          + [CC ライブラリ](max/cclibraries.md)
          + [InDesign Server](max/indesignserver.md)
          + [[!DNL Stock]](max/stock.md)
          + [Enterprise Administration](max/enterprise.md)
-      + 実践プロジェクト{#project}
+      + 実践プロジェクト {#project}
          + [独自のフェイスマスクを作成](max/handsonproject.md)
