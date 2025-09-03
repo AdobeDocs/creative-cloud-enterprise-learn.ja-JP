@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8ecd2f40db3e601c0a57df1812293ca869e815ea
+source-git-commit: aebe14690cd3c13019ed593c7ca3ffe284b1354b
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '817'
 ht-degree: 6%
 
 ---
@@ -113,7 +113,6 @@ ht-degree: 6%
    + チュートリアル {#firefly-tutorials}
       + [ [!DNL Adobe Firefly]の概要](firefly/overview-of-firefly.md)
       + [ [!DNL Adobe Firefly]を見つける](firefly/discover.md)
-      + [Creative Productionでの背景の削除と置き換え](firefly/creative-production/background.md)
       + [クリエイティブなアイデアを加速](firefly/accelerate-ideas.md)
       + [商品の再利用可能なシーンの作成](firefly/reusable-scenes.md)
       + [被写体を使用したカスタムモデルの作成](firefly/custom-model-subject.md)
@@ -128,6 +127,9 @@ ht-degree: 6%
       + [ [!DNL Photoshop]のバナー広告のバリエーション](firefly/web-banner-ad.md)
       + [生成塗りつぶし [!DNL Photoshop]](firefly/generative-fill.md)
       + [ [!DNL Illustrator]での生成再配色](firefly/generative-recolor.md)
+   + Creative Productionチュートリアル {#firefly-creative-production}
+      + [ [!DNL Adobe Firefly] クリエイティブプロダクションの概要](firefly/creative-production/overview-firefly-creative-production.md)
+      + [背景の削除と置換](firefly/creative-production/background.md)
    + ウェビナー {#firefly-webinars}
       + [Adobe Fireflyを試す](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
