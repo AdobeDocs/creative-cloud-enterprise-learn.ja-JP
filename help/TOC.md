@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: aebe14690cd3c13019ed593c7ca3ffe284b1354b
+source-git-commit: 52677453aa7f1d1efd92259f29036433430ca557
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '821'
 ht-degree: 6%
 
 ---
@@ -115,6 +115,7 @@ ht-degree: 6%
       + [ [!DNL Adobe Firefly]を見つける](firefly/discover.md)
       + [クリエイティブなアイデアを加速](firefly/accelerate-ideas.md)
       + [商品の再利用可能なシーンの作成](firefly/reusable-scenes.md)
+      + [カスタムモデルの作成](firefly/custom-model.md)
       + [被写体を使用したカスタムモデルの作成](firefly/custom-model-subject.md)
       + [スタイルを使用してカスタムモデルを作成する](firefly/custom-model-style.md)
       + [ランディングページ](firefly/landing-page.md)
