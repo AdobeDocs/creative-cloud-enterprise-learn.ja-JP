@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 52677453aa7f1d1efd92259f29036433430ca557
+source-git-commit: f60b915c0a289217dec46ca72659c015ae71aaef
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '808'
 ht-degree: 6%
 
 ---
@@ -116,8 +116,6 @@ ht-degree: 6%
       + [クリエイティブなアイデアを加速](firefly/accelerate-ideas.md)
       + [商品の再利用可能なシーンの作成](firefly/reusable-scenes.md)
       + [カスタムモデルの作成](firefly/custom-model.md)
-      + [被写体を使用したカスタムモデルの作成](firefly/custom-model-subject.md)
-      + [スタイルを使用してカスタムモデルを作成する](firefly/custom-model-style.md)
       + [ランディングページ](firefly/landing-page.md)
       + [テキストを画像に](firefly/text-to-image.md)
       + [テキストエフェクト](firefly/text-effects.md)

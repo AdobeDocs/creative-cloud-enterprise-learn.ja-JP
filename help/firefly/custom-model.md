@@ -1,26 +1,24 @@
 ---
 title: カスタムモデルの作成
-description: Fireflyでカスタムモデルを構築し、組織のブランドに合わせて新しい画像を作成する方法を説明します
+description: Fireflyのカスタムモデルをトレーニングする方法を説明します。 詳しくは、[こちら](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)を参照してください。
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-19197
-index: false
-hidefromtoc: true
-source-git-commit: f68247cca10a0a3b9d9b4343bdcd2742fb8cd451
+source-git-commit: 6a6d7585b4face212ca5c26b60972d4e3a02cf1b
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
 # カスタムモデルの作成
 
-Fireflyでカスタムモデルを構築し、背景、カラー、色相など特定のスタイルを使用して、組織のブランドに新しい画像を作成する方法を説明します。 カスタムモデルを使用すると、関連性のあるパーソナライズされたコンテンツを大規模に作成できます。 [こちら](https://firefly.adobe.com/)でAdobe Fireflyを試してください。
+Fireflyでカスタムモデルをトレーニングし、組織のブランドに新しい画像を生み出す方法を説明します。 カスタムモデルを使用すると、関連性のあるパーソナライズされたコンテンツを大規模に作成できます。 カスタムモデルのトレーニングに関する詳細情報[こちら](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474932?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## Fireflyカスタムモデルとは
 
