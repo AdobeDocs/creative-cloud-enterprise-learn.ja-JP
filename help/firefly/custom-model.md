@@ -7,20 +7,20 @@ level: Beginner
 jira: KT-19197
 index: false
 hidefromtoc: true
-source-git-commit: 7ebbbac26c65a3e99bdc18eb0c4d5db7e162d5ae
+source-git-commit: f68247cca10a0a3b9d9b4343bdcd2742fb8cd451
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# スタイルを使用してカスタムモデルを作成する
+# カスタムモデルの作成
 
 Fireflyでカスタムモデルを構築し、背景、カラー、色相など特定のスタイルを使用して、組織のブランドに新しい画像を作成する方法を説明します。 カスタムモデルを使用すると、関連性のあるパーソナライズされたコンテンツを大規模に作成できます。 [こちら](https://firefly.adobe.com/)でAdobe Fireflyを試してください。
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474932?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## Fireflyカスタムモデルとは
 
