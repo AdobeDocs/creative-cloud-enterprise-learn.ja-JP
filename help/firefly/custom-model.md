@@ -20,7 +20,7 @@ Fireflyでカスタムモデルを構築し、背景、カラー、色相など�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3474932?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## Fireflyカスタムモデルとは
 
