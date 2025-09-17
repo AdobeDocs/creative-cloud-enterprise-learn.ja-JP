@@ -242,7 +242,7 @@ Fireflyは、クリエイティブなAI生成モデルの新しいファミリ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" title="カスタムモデルの作成" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474931?quality=12&hidetitle=true&format=jpeg&nocache=1758117649719" alt="カスタムモデルの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474932?quality=12&hidetitle=true&format=jpeg&nocache=1758117649719&captions=jpn" alt="カスタムモデルの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -311,7 +311,7 @@ Fireflyは、クリエイティブなAI生成モデルの新しいファミリ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" title="テキストエフェクト" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420829?quality=12&hidetitle=true&format=jpeg&nocache=1758117649937" alt="テキストエフェクト"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432209?quality=12&hidetitle=true&format=jpeg&nocache=1758117649937&captions=jpn" alt="テキストエフェクト"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
