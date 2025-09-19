@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->CC Librariesに保存されたAdobe Stockのアセットは、MicrosoftのPowerPointおよびWordにシームレスに追加できます。 Adobe Creative Cloudアドインをダウンロードしてインストールする方法は、[こちら](https://helpx.adobe.com/creative-cloud/help/libraries-addin-microsoft-office.html)またはMicrosoft App Storeを参照してください。 どちらのアプリも、特にIllustrator、InDesignまたはPhotoshopでAdobe Stockの使用経験があるユーザーは、手順が簡単です。 詳しくは、[Microsoft Office 365のAdobe Stock統合プラグインの調査](https://helpx.adobe.com/stock/help/microsoft-office-plug-ins.html)を参照してください。
+>CC Librariesに保存されたAdobe Stockのアセットは、MicrosoftのPowerPointおよびWordにシームレスに追加できます。 Adobe Creative Cloudアドインをダウンロードしてインストールする方法は、[こちら](https://helpx.adobe.com/jp/creative-cloud/help/libraries-addin-microsoft-office.html)またはMicrosoft App Storeを参照してください。 どちらのアプリも、特にIllustrator、InDesignまたはPhotoshopでAdobe Stockの使用経験があるユーザーは、手順が簡単です。 詳しくは、[Microsoft Office 365のAdobe Stock統合プラグインの調査](https://helpx.adobe.com/jp/stock/help/microsoft-office-plug-ins.html)を参照してください。
