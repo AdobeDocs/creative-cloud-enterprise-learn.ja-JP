@@ -99,7 +99,7 @@ Photoshop用のDesign to Printプラグインをインストールする方法�
 
 **画像をクリックして、白いマスクの3Dモデルが含まれた[!DNL Dimension]ファイルをダウンロード**
 
-[![比較画像](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
+[![比較画像](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&native_visual_search=&similar_content_id=&is_recent_search=&search_type=usertyped&k=face+mask&asset_id=324075591)
 
 **発表者：**
 プリンシパルソリューションコンサルタント（デジタルメディア）、Patti Sokol氏
