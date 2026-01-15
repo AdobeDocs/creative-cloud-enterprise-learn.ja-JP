@@ -1,13 +1,13 @@
 ---
-title: "[!DNL Stock]"
+title: '[!DNL Stock]'
 description: Adobe [!DNL Stock] エンタープライズ版では、クリエイティブチームが2億点以上の画像、ビデオ、テンプレート、イラスト、オーディオファイル、3Dアセットにアクセスできます
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
     <div>
    <a href="stock.md#tutorial1"><strong>Adobe [!DNL Stock]</strong></a>で最適なアセットをより迅速に見つける
     </div>
-    <em>人工知能エンジンのAdobe Senseiを活用し、より良く、より高速な検索結果を使用してクリエイティブプロジェクトを強化するために、最適なロイヤリティフリーのストック画像を見つけてください</em>
+    <em>Adobe AIを利用したより高速な検索結果を使用して、クリエイティブプロジェクトを強化するための最適なロイヤリティフリーのストック画像を見つけましょう</em>
     <br>
   </td>
   <td>
@@ -54,9 +54,10 @@ Adobe Experience Manager</strong></a>
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **説明**
-人工知能エンジンであるAdobe Senseiを利用して、より良く、より高速な検索結果を使用してクリエイティブプロジェクトを強化するために、最適なロイヤリティフリーのストック画像を見つけましょう。
+AdobeAIを活用したより良く、より高速な検索結果を使用して、クリエイティブプロジェクトを強化するための最適なロイヤリティフリーのストック画像を見つけましょう。
 
 このチュートリアルでは、次の方法を学習します。
+
 * 高品質の画像やビデオを探す手間とストレスを解消
 * 企業全体でアセットのライセンスと使用状況を簡単に管理および追跡
 * Adobe Creative Cloudアプリケーション内で直接検索、プレビュー、ライセンス購入
@@ -65,7 +66,7 @@ Adobe Experience Manager</strong></a>
 
 Victoria Torres、[!DNL Stock]ソリューションコンサルタント（デジタルメディア）
 
-## AEMでの[!DNL Stock]アセットの検索とライセンス認証(6:46) {#tutorial2}
+## AEMで[!DNL Stock]個のアセットを検索してライセンスを取得(6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
@@ -84,8 +85,8 @@ Victoria Torres、[!DNL Stock]ソリューションコンサルタント（デ�
 
 **Adobe [!DNL Stock]リソース**
 
-[ラーニングとサポート](https://helpx.adobe.com/jp/support/stock.html)は、追加のチュートリアルやコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://helpx.adobe.com/support/stock.html)は、追加のチュートリアルやコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 
-これらの機能の使用を開始しましょう（さらに多くの機能を使用できます）。 Creative Cloudのデスクトップアプリから最新のアップデートをダウンロードする方法を説明します。
+Creative Cloudのデスクトップアプリから最新のアップデートをダウンロードして、これらの機能（および他）を使い始めましょう。

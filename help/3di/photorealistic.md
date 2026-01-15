@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 keywords: バーチャルフォト、100グローバルMSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '2387'
+source-wordcount: '2376'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ![Adobe [!DNL Dimension]コンポジットで金属球モデルの平面を編集しています](assets/Photorealistic_3.png)
 
-Adobe [!DNL Dimension]を使用すると、Adobe Senseiを利用した「画像から環境を設定」機能を使用して、2Dと3Dの要素を直接アプリ内でシームレスに組み合わせることができます。 この方法で要素を合成する主な利点は、リアルな見映えの画像を作成するプロセスが強化されることです。現実と変わらない3Dシーンを、現実世界で撮影可能な背景画像で置き換えることができます。
+Adobe [!DNL Dimension]を使用すると、Adobe AIを使用して2Dと3Dの要素を直接アプリ内でシームレスに組み合わせることができます。 この方法で要素を合成する主な利点は、リアルな見映えの画像を作成するプロセスが強化されることです。現実と変わらない3Dシーンを、現実世界で撮影可能な背景画像で置き換えることができます。
 
 ![Adobe [!DNL Dimension]の「画像から環境を設定」機能は、背景イメージを分析し、撮影に使用されたカメラの焦点距離と位置を推定します](assets/Photorealistic_4.gif)
 
@@ -38,7 +38,7 @@ Adobe [!DNL Dimension]を使用すると、Adobe Senseiを利用した「画像�
 
 ![リビングルームに置かれた小型バイクのフォトリアルな3D合成画像](assets/Photorealistic_5.png)
 
-「画像から環境を設定」は、背景画像が撮影された照明環境の「幻覚」を再現しようとします。 これは、優れた結果を短時間で得られる素晴らしい処理ですが、背景と一緒に環境をキャプチャすると、よりリアルな結果が得られます。 これは、Adobe Sensei機能を独自にトレーニングするために使用される方法でもあります。
+「画像から環境を設定」は、背景画像が撮影された照明環境の「幻覚」を再現しようとします。 これは、優れた結果を短時間で得られる素晴らしい処理ですが、背景と一緒に環境をキャプチャすると、よりリアルな結果が得られます。 これは、AdobeAIのトレーニングに使用される手法でもあります。
 
 ![オフィス空間の360度HDRパノラマ](assets/Photorealistic_6.png)
 
@@ -168,4 +168,4 @@ EVにカラー調整を行った後は、一時的に個別のファイルに書
 
 最終的には、リアリティと3Dが非常に効果的にブレンドされ、エンドユーザーは、最小限の労力でフォトリアルな画像を作成するという目標を達成することができます。 ワークフローを説明するために作成した[無料の [!DNL Dimension] シーン](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338)を使用して、実際に試してみてください。
 
-[今すぐ[!DNL Dimension]の最新リリースをダウンロード](https://creativecloud.adobe.com/apps/download/dimension)し、フォトリアルな画像の作成を開始してください。
+[今すぐ](https://creativecloud.adobe.com/apps/download/dimension)の最新リリースをダウンロード[!DNL Dimension]し、フォトリアルな画像の作成を開始してください。
