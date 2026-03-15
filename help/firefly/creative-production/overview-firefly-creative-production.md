@@ -5,9 +5,10 @@ feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-18996
-source-git-commit: d7ed0a256523d346011da0c7d98bb23c871ef40e
+exl-id: 19f51b11-4fc3-412e-a64d-3d653478fecb
+source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -19,12 +20,12 @@ Adobe Fireflyクリエイティブ制作のコードなしインターフェイ�
 ## Firefly Creative Productionチュートリアル
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background
   {image = https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
-
 -->
 
 <!-- END CARDS -->
