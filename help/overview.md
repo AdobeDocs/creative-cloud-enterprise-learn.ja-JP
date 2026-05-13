@@ -1,13 +1,27 @@
 ---
-title: 企業向けTutorialsCreative Cloud
+title: 企業向けCreative Cloud
 description: Enterprise Learning Hub向けCreative Cloudへようこそ
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
+TQID: https://experienceleague.adobe.com/r0Wb24k8et-PY1rHi-CNF2RffU-BPT4ibtmckgf5A7g
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+  - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: 586
 ht-degree: 5%
 
 ---
@@ -141,7 +155,7 @@ ht-degree: 5%
                     <p class="is-size-6">Adobe製品のクリエイティブなAI生成モデルのファミリー</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/overview-firefly" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> チュートリアルを参照 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを参照</span>
                 </a>
             </div>
         </div>
@@ -161,10 +175,10 @@ ht-degree: 5%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/overview-stock" target="_self" rel="referrer" title="Adobe Stock">Adobe Stock</a>
                     </p>
-                    <p class="is-size-6">高画質なデジタル画像、イラスト、ビデオ、オーディオ、テンプレートなど</p>
+                    <p class="is-size-6">高品質のデジタル画像、イラスト、ビデオ、オーディオ、テンプレートなど</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/overview-stock" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> チュートリアルを参照 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを参照</span>
                 </a>
             </div>
         </div>
@@ -173,8 +187,8 @@ ht-degree: 5%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/overview-3di" title="Adobeの 3D&amp;VR" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_18e961b58ea0fc7210e7aed113da2b2f69a23d0d4.png?width=400&format=webply&optimize=medium" alt="Adobeの 3D&amp;VR"
+                    <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/overview-3di" title="Adobe 3D &amp; VR" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_18e961b58ea0fc7210e7aed113da2b2f69a23d0d4.png?width=400&format=webply&optimize=medium" alt="Adobe 3D &amp; VR"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -182,12 +196,12 @@ ht-degree: 5%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/overview-3di" target="_self" rel="referrer" title="Adobeの 3D&amp;VR">Adobe 3D および VR</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/overview-3di" target="_self" rel="referrer" title="Adobe 3D &amp; VR">Adobe 3D &amp; VR</a>
                     </p>
-                    <p class="is-size-6">ブランディング、製品ショット、パッケージデザインのためのフォトリアリスティックな 3D 画像の作成</p>
+                    <p class="is-size-6">ブランディング、製品画像、パッケージデザインのためのフォトリアルな3D画像を作成</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/overview-3di" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> チュートリアルを参照 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを参照</span>
                 </a>
             </div>
         </div>
@@ -196,8 +210,8 @@ ht-degree: 5%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/overview-dva" title="Adobe ビデオ" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_1b94f0eb740d3be825f3f8db916c0703c432d9ed5.png?width=400&format=webply&optimize=medium" alt="Adobe ビデオ"
+                    <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/overview-dva" title="Adobeビデオ" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_1b94f0eb740d3be825f3f8db916c0703c432d9ed5.png?width=400&format=webply&optimize=medium" alt="Adobeビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -205,12 +219,12 @@ ht-degree: 5%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/overview-dva" target="_self" rel="referrer" title="Adobe ビデオ">Adobe ビデオ </a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/overview-dva" target="_self" rel="referrer" title="Adobeビデオ">Adobeビデオ</a>
                     </p>
                     <p class="is-size-6">ビデオでアイデアを実現</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/overview-dva" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> チュートリアルを参照 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを参照</span>
                 </a>
             </div>
         </div>

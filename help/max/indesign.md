@@ -5,9 +5,17 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/pKY2Rbu80CAU9iZU3rU4kbUzO8lBYaTvY2dr7UB8f4c
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: 435
 ht-degree: 0%
 
 ---
@@ -92,7 +100,7 @@ WebサイトにリンクするQRコードを生成します。
 **発表者：**
 プリンシパルソリューションコンサルタント（デジタルメディア）、Patti Sokol氏
 
-## InDesignがレビュー用に共有(4:04) {#tutorial2}
+## InDesignからレビュー用に共有(4:04) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326824?hidetitle=true)
 
@@ -112,7 +120,7 @@ WebサイトにリンクするQRコードを生成します。
 **発表者：**
 ソリューション・コンサルタント（デジタル・メディア）、Emily Palmer氏
 
-## Document CloudレビューからのPDFコメントの読み込み(4:52) {#tutorial3}
+## Document CloudレビューからPDFのコメントを読み込む(4:52) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326959?hidetitle=true)
 
@@ -130,7 +138,7 @@ PDFのコメントをInDesignに直接読み込み、要求された変更をす
 **発表者：**
 シニアソリューションコンサルタント（デジタルメディア）、Michael Murphy氏
 
-## InDesignドキュメントへのビデオファイルの追加(5:58) {#tutorial4}
+## InDesignドキュメントにビデオファイルを追加する(5:58) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326757?hidetitle=true)
 

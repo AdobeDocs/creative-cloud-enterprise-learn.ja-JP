@@ -5,9 +5,17 @@ feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/9wkX7D0IVInCzEFg6GNjZBb6deU28Xg76wdH6Ma8OVw
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: 624
 ht-degree: 0%
 
 ---
@@ -80,7 +88,7 @@ ht-degree: 0%
 </tr>
 </table>
 
-## Acrobat共有レビューの開始(3:49) {#tutorial1}
+## Acrobat共有レビューを開始しています(3:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 
@@ -100,7 +108,7 @@ ht-degree: 0%
 ソリューションコンサルタント、Dan Armstrong氏（デジタルメディア）
 ソリューション・コンサルティング（デジタル・メディア）担当シニア・マネージャ、Rick Borstein氏
 
-## Adobe Signを使用したオンライン権利放棄Formsの作成(5:19) {#tutorial2}
+## Adobe Sign (5:19)を使用してオンライン権利放棄Formsを作成 {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
@@ -116,7 +124,7 @@ ht-degree: 0%
 Taylor Kobey氏、ソリューションコンサルタント（デジタルメディア）
 ソリューション・コンサルタント（デジタル・メディア）、Emily Palmer氏
 
-## Adobe Signで署名を依頼(3:21) {#tutorial3}
+## Adobe Sign (3:21)で署名を依頼 {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
@@ -129,7 +137,7 @@ WordからPDFに移動し、Adobe Signで署名用に送信
 **発表者：**
 ソリューション・コンサルティング（デジタル・メディア）担当シニア・マネージャ、Rick Borstein氏
 
-## Liquid Modeを使用したモバイルでのメニューの表示(2:57) {#tutorial4}
+## Liquid Mode (2:57)を使用したモバイルでのメニューの表示 {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327093?hidetitle=true)
 
@@ -144,7 +152,7 @@ Liquid Modeを使用すると、モバイルデバイスでのPDFの読み取り
 **発表者：**
 アソシエイトソリューションコンサルタント、Emilie Enke氏（デジタルメディア）
 
-## 携帯電話から文書をスキャンしてPDFに送信(5:53) {#tutorial5}
+## 携帯電話(5:53)から文書をスキャンしてPDFに送信 {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327094?hidetitle=true)
 
@@ -152,7 +160,7 @@ Liquid Modeを使用すると、モバイルデバイスでのPDFの読み取り
 Adobe Scanを使用すると、文書、フォーム、名刺、ホワイトボードを簡単にキャプチャし、高品質のAdobePDFに変換できます。
 
 このチュートリアルでは、次の方法を学習します。
-* 携帯電話を使用して、文書、フォーム、名刺、ホワイトボードをキャプチャし、高品質のAdobePDFに変換
+* 携帯電話を使用して、文書、フォーム、名刺、ホワイトボードをキャプチャし、高品質のPDFに変換
 * 手書きまたは印刷されたテキストを自動的に識別してシャープにし、グレアやシャドウなどの不要な要素を削除します
 * Acrobat ReaderでスキャンしたPDFを開いて、メモやコメントを作成し、チームでレビューします
 

@@ -6,9 +6,16 @@ role: User
 level: Beginner
 jira: KT-14826
 exl-id: a8e11845-ad80-4f40-93e1-12b05e3c4201
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/llP1jCSiv2ZbBj9Fy8ijmbmNe5i7gff8LS92D-ANC1c
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: 111
 ht-degree: 0%
 
 ---
@@ -17,7 +24,7 @@ ht-degree: 0%
 
 グリッドを使用して、写真のコラージュ、ムード掲示板、人目を引くポスターを作成する方法について説明します。 40種類のグリッドレイアウトから、オリジナルの画像やAdobe Stockの写真をカスタマイズできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439993?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3439993?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## このシリーズの追加のビデオ
 

@@ -5,16 +5,24 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+TQID: https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '840'
-ht-degree: 1%
+source-wordcount: 871
+ht-degree: 4%
 
 ---
 
 # エンタープライズ版およびAcrobat版のシリアル番号の有効期限に関するCreative Cloudについて
 
-従来、Adobeでは、エンタープライズタームライセンス契約(ETLA)のお客様に対して、アプリケーション(Creative Suite、エンタープライズ版Creative Cloud、Acrobat XI、Acrobat DCなど)にシリアル番号を発行していました。 これらのシリアル番号には有効期限があります。 有効期限を過ぎると、製品は動作しなくなります。シリアル番号の有効期限が切れる前に移行を計画することが重要です。 このページでは、エンドユーザーが引き続きAdobeのアプリケーションとサービスにアクセスできるようにするために必要な手順の概要を説明します。
+従来、Adobeでは、エンタープライズタームライセンス契約(ETLA)のお客様に対して、アプリケーション（Creative Suite、エンタープライズ版Creative Cloud、Acrobat XI、Acrobat DCなど）にシリアル番号を発行していました。 これらのシリアル番号には有効期限があります。 有効期限を過ぎると、製品は動作しなくなります。シリアル番号の有効期限が切れる前に移行を計画することが重要です。 このページでは、エンドユーザーが引き続きAdobeのアプリケーションとサービスにアクセスできるようにするために必要な手順の概要を説明します。
 
 ## シリアル番号の有効期限の確認
 
@@ -44,7 +52,7 @@ AcrobatおよびCreative Cloud法人版アプリでは、期限切れの60日前
 
 次の情報は、エンドユーザーエクスペリエンスの概要を示しています。 以下に短いビデオを示し、エンドユーザーのエクスペリエンスを確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441276?hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3441276?captions=jpn&hidetitle=true)
 
 **有効期限の前**
 
@@ -93,5 +101,5 @@ AcrobatおよびCreative Cloud法人版アプリでは、期限切れの60日前
 
 [AdobeExpiryCheck](https://helpx.adobe.com/jp/enterprise/kb/volume-license-expiration-check.html)ツールの使用について質問がある場合、またはシリアル番号のデプロイメントから指定ユーザーへの移行にサポートが必要な場合は、いくつかのオプションがあります。
 * Adobeエンタープライズオンボーディングチームに電子メールを送信 – **entonb@adobe.com**
-* [Admin Console](https://adminconsole.adobe.com/support)でサポートチケットを開く
+* [Admin Console](https://adminconsole.adobe.com/support/?locale=ja)でサポートチケットを開く
 * Adobeアカウントチームにご連絡ください
