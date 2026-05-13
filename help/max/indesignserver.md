@@ -73,21 +73,21 @@ ht-degree: 0%
 <table>
 <tr>
  <td>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html">
+   <a href="https://www.adobe.com/jp/products/indesignserver/buying-guide.html">
       <img alt="InDesign Server：購入ガイド" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server：購入ガイド</strong></a>
+   <a href="https://www.adobe.com/jp/products/indesignserver/buying-guide.html"><strong>InDesign Server：購入ガイド</strong></a>
     </div>
     <em>社内の開発者またはパートナーが利用できるリソース</em>
     <br>
   </td>
   <td>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html">
+   <a href="https://www.adobe.com/jp/products/indesignserver/partner.html">
       <img alt="InDesign Server:パートナーの検索" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server:パートナーの検索</strong></a>
+   <a href="https://www.adobe.com/jp/products/indesignserver/partner.html"><strong>InDesign Server:パートナーの検索</strong></a>
     </div>
     <em>お客様は社内で開発できる専門知識を持っていますが、Adobeでは、お客様の要件を満たすソリューションを見つけるためにパートナーと協力することをお勧めします</em>
     <br>
@@ -104,7 +104,7 @@ ht-degree: 0%
 
 **InDesign Serverリソース**
 
-[ラーニングとサポート](https://www.adobe.com/products/indesignserver.html)は、追加のチュートリアル、新機能、およびコミュニティフォーラムへのリンクのハブです。
+[ラーニングとサポート](https://www.adobe.com/jp/products/indesignserver.html)は、追加のチュートリアル、新機能、およびコミュニティフォーラムへのリンクのハブです。
 
 **2020年10月リリース**
 

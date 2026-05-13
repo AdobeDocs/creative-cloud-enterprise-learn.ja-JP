@@ -66,7 +66,7 @@ ht-degree: 0%
 
 ![写真、3Dスタジオのシーン、抽象的な3Dシーンから作られた環境光の例](assets/Mastering3dlighting_5.jpg)
 
-[[!DNL Dimension]](https://www.adobe.com/products/dimension.html)で新しいシーンを作成すると、既定の環境光が自動的に作成されます。 このため、シーン内のすべての要素を実際にすぐに見ることができます。 Adobe [!DNL Dimension]のスターターアセットには、一定の数の環境光が含まれているので、すぐに試してみることができます。 また、[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp)には、厳選された環境光が多数用意されています。
+[[!DNL Dimension]](https://www.adobe.com/jp/products/dimension.html)で新しいシーンを作成すると、既定の環境光が自動的に作成されます。 このため、シーン内のすべての要素を実際にすぐに見ることができます。 Adobe [!DNL Dimension]のスターターアセットには、一定の数の環境光が含まれているので、すぐに試してみることができます。 また、[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp)には、厳選された環境光が多数用意されています。
 
 環境光は非常にリアルな結果を生み出し、時間を大幅に節約できます。 手動で同じようなことを実現するには、3Dで環境全体（様々な光源を含む）を実際に作成する必要があります。これは非常に手間のかかる作業です。
 
