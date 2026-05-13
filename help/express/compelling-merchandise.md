@@ -30,4 +30,4 @@ ht-degree: 2%
 
 このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/express/)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424458?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447132?captions=jpn&quality=12&learn=on&hidetitle=true)

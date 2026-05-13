@@ -24,7 +24,7 @@ ht-degree: 0%
 
 数秒以内にテキストの説明からソーシャル投稿、ポスター、チラシ、カードの編集可能なテンプレートを生成する方法を説明します。 ダウンロードや共有を行う前に、デザインの編集、フォントの変更、プロジェクトのブランディングを行うことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427022?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438115?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## このシリーズの追加のビデオ
 

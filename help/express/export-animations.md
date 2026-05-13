@@ -24,7 +24,7 @@ ht-degree: 0%
 
 編集に招待する方法、webに公開する方法、ソーシャル投稿をスケジュールする方法、アニメーションをダウンロードする方法について説明します。 Adobe Expressでは、状況に応じて、書き出し先のファイルフォーマットに関する推奨事項を提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426985?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433954?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## このシリーズの追加のビデオ
 

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 グリッドを使用して、写真のコラージュ、ムード掲示板、人目を引くポスターを作成する方法について説明します。 40種類のグリッドレイアウトから、オリジナルの画像やAdobe Stockの写真をカスタマイズできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426934?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439993?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## このシリーズの追加のビデオ
 

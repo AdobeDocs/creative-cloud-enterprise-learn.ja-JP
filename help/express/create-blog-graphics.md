@@ -28,4 +28,4 @@ ht-degree: 5%
 
 Adobe Fireflyを利用したText to Imageを使用して、web、ブログ、ソーシャルキャンペーン用のユニークなグラフィックコンテンツを作成する方法を説明します。 このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/express/)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422408?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441364?captions=jpn&quality=12&learn=on&hidetitle=true)

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 プロジェクトに追加して、より魅力的にできる3種類のアニメーション（イントロ、ループ、アウトロ）について説明します。 各アニメーションには、プレビューと選択が可能な異なるスタイルがあります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433943?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## このシリーズの追加のビデオ
 

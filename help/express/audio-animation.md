@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Expressで利用できるロイヤリティフリーのストックオーディオファイルなど、オーディオを追加して、魅力的で覚えやすいプロジェクトを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426983?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433910?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## このシリーズの追加のビデオ
 

@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ビデオの解像度を設定し、ダウンロードして、ソーシャルチャネルに直接ビデオを共有する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427093?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436016?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## このシリーズの追加のビデオ
 

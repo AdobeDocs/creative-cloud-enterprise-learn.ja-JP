@@ -24,7 +24,7 @@ ht-degree: 0%
 
 バージョン履歴にアクセスし、プロジェクトの以前のバージョンを表示およびコピーする方法について説明します。 開発の重要なポイントをマークして、プロジェクトの進行中の特定の時間に簡単に戻ることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426937?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438698?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## このシリーズの追加のビデオ
 
