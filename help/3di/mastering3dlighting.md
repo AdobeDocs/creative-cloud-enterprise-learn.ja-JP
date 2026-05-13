@@ -6,9 +6,14 @@ role: User
 level: Beginner, Intermediate
 keywords: 3Dライティング、600グローバルMSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/CZbD3FV-y-j2LJMhRfGB13pTkcb9t7dETQmvIr-anwQ
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '2722'
+source-wordcount: 2754
 ht-degree: 0%
 
 ---
@@ -56,7 +61,7 @@ ht-degree: 0%
 
 ![写真、3Dスタジオのシーン、抽象的な3Dシーンから作られた環境光の例](assets/Mastering3dlighting_5.jpg)
 
-[[!DNL Dimension]](https://www.adobe.com/jp/products/dimension.html)で新しいシーンを作成すると、既定の環境光が自動的に作成されます。 このため、シーン内のすべての要素を実際にすぐに見ることができます。 Adobe [!DNL Dimension]のスターターアセットには、一定の数の環境光が含まれているので、すぐに試してみることができます。 また、[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp)には、厳選された環境光が多数用意されています。
+[[!DNL Dimension]](https://www.adobe.com/products/dimension.html)で新しいシーンを作成すると、既定の環境光が自動的に作成されます。 このため、シーン内のすべての要素を実際にすぐに見ることができます。 Adobe [!DNL Dimension]のスターターアセットには、一定の数の環境光が含まれているので、すぐに試してみることができます。 また、[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp)には、厳選された環境光が多数用意されています。
 
 環境光は非常にリアルな結果を生み出し、時間を大幅に節約できます。 手動で同じようなことを実現するには、3Dで環境全体（様々な光源を含む）を実際に作成する必要があります。これは非常に手間のかかる作業です。
 
