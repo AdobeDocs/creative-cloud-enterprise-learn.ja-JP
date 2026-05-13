@@ -7,10 +7,16 @@ level: Beginner, Intermediate
 jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
 TQID: https://experienceleague.adobe.com/M7ZbwU4I7Dq26Hh3Ps-WJD7jhYwwVo5VrNfllLeTwEU
-product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: a09a5a04-e30b-4d55-b031-38e6f5ec86dbid: e9001ce2-5245-4a8e-8601-dd958009072f
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
 source-wordcount: 462
@@ -29,9 +35,9 @@ Adobe XDは、webサイト、アプリ、音声インターフェイス、ゲー
       <img alt="Adobe XDのコンポーネントに慣れる" src="assets/Componentsxd.jpg" />
    </a>
     <div>
-   <a href="components.md"><strong>Adobe XDの[!UICONTROLコンポーネント]を使い慣れましょう</strong></a>
+   <a href="components.md"><strong>Adobe XDの[!UICONTROL コンポーネント]を使い慣れましょう</strong></a>
     </div>
-    <em>[!UICONTROLコンポーネント]を使用して、デザインワークフローに速度と一貫性の両方を適用するためのこれまでにない柔軟性を実現する方法を説明します</em>
+    <em>[!UICONTROL コンポーネント]を使用して、デザインワークフローに速度と一貫性の両方を適用するためのこれまでにない柔軟性を実現する方法を説明します</em>
     <br>
   </td>
   <td>
