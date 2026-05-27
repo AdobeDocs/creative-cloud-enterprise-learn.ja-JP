@@ -10,7 +10,7 @@ type: Tutorial
 auto-video-transcripts: true
 source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '803'
 ht-degree: 6%
 
 ---
@@ -165,7 +165,7 @@ ht-degree: 6%
       + [CGIでの3Dライティングをマスターするためのヒントとテクニック](3di/mastering3dlighting.md)
       + [3Dレンダリングと合成を使用したフォトリアルなバーチャルフォトの作成](3di/photorealistic.md)
       + [&#x200B; [!DNL Dimension] とAdobe [!DNL Stock]で3Dモデルをカスタマイズしてブランド化する](3di/3ddimensionstock.md)
-+ Adobe Video {#videooverview}
++ Adobeビデオ {#videooverview}
    + [概要](dva/overview-dva.md)
    + チュートリアル {#videotutorials}
       + [プロフェッショナルなモーショングラフィックステンプレート](dva/motion-graphics-templates.md)
