@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
+source-git-commit: 71056d443a4a6b29978d55211ea961c6aee2ebe4
 workflow-type: tm+mt
-source-wordcount: '803'
-ht-degree: 6%
+source-wordcount: '761'
+ht-degree: 4%
 
 ---
 
@@ -180,29 +180,3 @@ ht-degree: 6%
    + [概要](deploy/overview-deploy.md)
    + [シリアル番号の有効期限](deploy/cceserial.md)
    + [ユーザー指定ライセンス認証](deploy/nameduserlicensing.md)
-+ Adobe MAX {#max}
-   + [概要](max/overview-max.md)
-   + チュートリアル {#tutorials}
-      + [概要](max/maxtutorials.md)
-      + デスクトップ製品 {#desktop-products}
-         + [Acrobat &amp; Sign](max/acrobat-sign.md)
-         + [[!DNL Dimension]](max/dimension.md)
-         + [Illustrator](max/illustrator.md)
-         + [InDesign](max/indesign.md)
-         + [Photoshop](max/photoshop.md)
-         + [[!DNL Rush]](max/rush.md)
-         + [XD](max/xd.md)
-      + モバイルアプリ {#mobile-apps}
-         + [[!DNL Capture]](max/capture.md)
-         + [Fresco](max/fresco.md)
-         + [Illustrator iPad 版](max/illustratoripad.md)
-         + [Photoshop iPad 版](max/photoshopipad.md)
-      + 統合 {#integrations}
-         + [AEM](max/aem.md)
-         + [Creative Cloud デスクトップアプリ](max/creativeclouddesktopapp.md)
-         + [CC ライブラリ](max/cclibraries.md)
-         + [InDesign Server](max/indesignserver.md)
-         + [[!DNL Stock]](max/stock.md)
-         + [Enterprise Administration](max/enterprise.md)
-      + 実践プロジェクト {#project}
-         + [独自のフェイスマスクを作成](max/handsonproject.md)
