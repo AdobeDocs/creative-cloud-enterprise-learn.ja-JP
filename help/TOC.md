@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 71056d443a4a6b29978d55211ea961c6aee2ebe4
+source-git-commit: 5bbcac38cff2c03e96c6342e49de07231c173d9c
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '782'
 ht-degree: 4%
 
 ---
@@ -111,8 +111,8 @@ ht-degree: 4%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概要](firefly/overview-firefly.md)
    + チュートリアル {#firefly-tutorials}
-      + [&#x200B; [!DNL Adobe Firefly]の概要](firefly/overview-of-firefly.md)
-      + [&#x200B; [!DNL Adobe Firefly]を見つける](firefly/discover.md)
+      + [ [!DNL Adobe Firefly]の概要](firefly/overview-of-firefly.md)
+      + [ [!DNL Adobe Firefly]を見つける](firefly/discover.md)
       + [クリエイティブなアイデアを加速](firefly/accelerate-ideas.md)
       + [商品の再利用可能なシーンの作成](firefly/reusable-scenes.md)
       + [カスタムモデルの作成](firefly/custom-model.md)
@@ -121,14 +121,21 @@ ht-degree: 4%
       + [テキストエフェクト](firefly/text-effects.md)
       + [ジェネレーティブフィル](firefly/gen-fill.md)
       + [生成的再配色](firefly/gen-recolor.md)
-      + [&#x200B; [!DNL Firefly]の使用例](firefly/examples.md)
+      + [ [!DNL Firefly]の使用例](firefly/examples.md)
       + [クリエイティブな効率化を実現](firefly/enable-creative-efficiency.md)
-      + [&#x200B; [!DNL Photoshop]のバナー広告のバリエーション](firefly/web-banner-ad.md)
+      + [ [!DNL Photoshop]のバナー広告のバリエーション](firefly/web-banner-ad.md)
       + [生成塗りつぶし [!DNL Photoshop]](firefly/generative-fill.md)
-      + [&#x200B; [!DNL Illustrator]での生成再配色](firefly/generative-recolor.md)
+      + [ [!DNL Illustrator]での生成再配色](firefly/generative-recolor.md)
    + Creative Productionチュートリアル {#firefly-creative-production}
-      + [&#x200B; [!DNL Adobe Firefly] クリエイティブプロダクションの概要](firefly/creative-production/overview-firefly-creative-production.md)
+      + [ [!DNL Adobe Firefly] クリエイティブプロダクションの概要](firefly/creative-production/overview-firefly-creative-production.md)
       + [背景の削除と置換](firefly/creative-production/background.md)
+   + Graphチュートリアル {#firefly-graph}
+      + [ [!DNL Adobe Firefly Graph]の概要](firefly/graph/overview-firefly-graph.md)
+      + [Fireflyグラフとは](firefly/graph/what-is-firefly-graph.md)
+      + [Fireflyグラフのキーコンセプト](firefly/graph/key-concepts.md)
+      + [最初のグラフを作成](firefly/graph/create-your-first-graph.md)
+      + [テンプレートのカスタマイズ](firefly/graph/customize-template.md)
+      + [テンプレートライブラリ](firefly/graph/template-library.md)
    + ウェビナー {#firefly-webinars}
       + [Adobe Fireflyを試す](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
@@ -164,7 +171,7 @@ ht-degree: 4%
       + [3Dデザインとレンダリング](3di/substance-3d-stager.md)
       + [CGIでの3Dライティングをマスターするためのヒントとテクニック](3di/mastering3dlighting.md)
       + [3Dレンダリングと合成を使用したフォトリアルなバーチャルフォトの作成](3di/photorealistic.md)
-      + [&#x200B; [!DNL Dimension] とAdobe [!DNL Stock]で3Dモデルをカスタマイズしてブランド化する](3di/3ddimensionstock.md)
+      + [ [!DNL Dimension] とAdobe [!DNL Stock]で3Dモデルをカスタマイズしてブランド化する](3di/3ddimensionstock.md)
 + Adobeビデオ {#videooverview}
    + [概要](dva/overview-dva.md)
    + チュートリアル {#videotutorials}
