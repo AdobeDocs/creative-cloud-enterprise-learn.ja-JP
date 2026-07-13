@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: acbfa0d157359d805ee6f5af352799cf5d0ee7d9
+source-git-commit: eaa388c2919c505dc2148b1d09705d2109a995c1
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,9 @@ ht-degree: 0%
       <img alt="デジタルブック" src="../assets/graph-introducing.png" />
    </a>
     <div>
-   <a href="introducing-graph.md"><strong>Fireflyグラフの概要</strong></a>
+   <a href="introducing-graph.md"><strong>Fireflyグラフウェビナーのご紹介</strong></a>
     </div>
-    <em>Fireflyの完全にビジュアルなワークフローシステムGraphの詳細</em>
+    <em>このウェビナーでは、Fireflyの完全に視覚的なワークフローシステムGraphについて、すべて学習します</em>
     
   </td>
   <td>
