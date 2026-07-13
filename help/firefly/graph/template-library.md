@@ -1,5 +1,5 @@
 ---
-title: ​5. Fireflyグラフテンプレートライブラリ
+title: ​4. Fireflyグラフテンプレートライブラリ
 description: プロジェクトに合わせてカスタマイズできる既製のFireflyグラフテンプレートを参照
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 1%
 
 ---
 
-# &#x200B;5. Fireflyグラフテンプレートライブラリ
+# &#x200B;4. Fireflyグラフテンプレートライブラリ
 
 各テンプレートは、誰かが既に作成した完全なグラフです。 一つを開いて正確に動作を確認し、自分の入力を入れ替えて自分のものにします。
 

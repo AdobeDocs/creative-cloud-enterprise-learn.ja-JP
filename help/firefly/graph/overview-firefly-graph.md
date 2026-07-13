@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 2%
@@ -52,23 +52,23 @@ ht-degree: 2%
     
   </td>
   <td>
-   <a href="customize-template.md">
-      <img alt="メイクアップ瓶の異なる背景" src="../assets/graph-4.png" />
-   </a>
-    <div>
-   <a href="customize-template.md"><strong>4. テンプレートのカスタマイズ</strong></a></div>
-    <em>テンプレートに自分のアイデアを反映させる</em>
-    
-  </td>
-</tr>
-<tr>
- <td>
    <a href="template-library.md">
       <img alt="メイクアップ瓶に映った最後の背景" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>5. テンプレートライブラリ</strong></a></div>
+   <a href="template-library.md"><strong>4. テンプレートライブラリ</strong></a></div>
     <em>各</em>の説明とリンクを含む、すべてのテンプレートを参照します
+    
+  </td>
+</tr>
+<tr>
+  <td>
+   <a href="customize-template.md">
+      <img alt="メイクアップ瓶の異なる背景" src="../assets/graph-4.png" />
+   </a>
+    <div>
+   <a href="customize-template.md"><strong>5. テンプレートのカスタマイズ</strong></a></div>
+    <em>テンプレートに自分のアイデアを反映させる</em>
     
   </td>
   <td>

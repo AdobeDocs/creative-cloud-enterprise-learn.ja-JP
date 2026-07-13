@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 52158ed3c024133a9a0d59537a774285d64dce1d
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '74'
 ht-degree: 2%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 2%
 
 ## 次のステップ
 
-テンプレートから開始しますか？ [4に移動します。 独自の概要を反映するようにテンプレート](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)をカスタマイズします。
+テンプレートから開始しますか？ [4に移動します。 独自の概要を反映するためのテンプレートライブラリ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)。
