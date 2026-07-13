@@ -1,5 +1,5 @@
 ---
-title: 最初のグラフを作成
+title: ​3. 最初のグラフを作成
 description: 空白のカンバスから書き出しまで、最初のFireflyグラフワークフローを構築するためのステップバイステップのウォークスルー
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-# 最初のグラフを作成
+# &#x200B;3. 最初のグラフを作成
 
 ノード、接続、およびテンプレートの内容がわかったら、最初のワークフローを構築する準備が整います。
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 ## 次のステップ
 
-テンプレートから作成する場合 [テンプレートをカスタマイズ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)に移動して、自分の概要を反映します。
+テンプレートから作成する場合 [4に移動します。 独自の概要を反映するようにテンプレート](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)をカスタマイズします。

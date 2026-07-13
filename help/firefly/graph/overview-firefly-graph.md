@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: a7d2985143bdc7ebfd50eda769dc5d97ecf615ef
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 0%
+source-wordcount: '246'
+ht-degree: 2%
 
 ---
 
@@ -29,9 +29,8 @@ ht-degree: 0%
       <img alt="化粧瓶" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>Fireflyグラフとは</strong></a>
-    </div>
-    <em>グラフと1つのプロンプトの比較</em>
+   <a href="what-is-firefly-graph.md"><strong>1. Fireflyグラフとは</strong></a></div>
+    <em>Fireflyグラフとは何か、および1つのプロンプトとどのように比較するかを説明します</em>
     
   </td>
   <td>
@@ -39,9 +38,8 @@ ht-degree: 0%
       <img alt="背景付きのメイクアップ瓶" src="../assets/graph-2.png" />
    </a>
     <div>
-   <a href="key-concepts.md"><strong>キーコンセプト</strong></a>
-    </div>
-    <em>ノード、接続、およびテンプレート</em>
+   <a href="key-concepts.md"><strong>2. キーコンセプト</strong></a></div>
+    <em>ノード、接続、およびテンプレートの詳細</em>
     
   </td>
   <td>
@@ -49,8 +47,7 @@ ht-degree: 0%
       <img alt="メイクアップジャーの新しい背景" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>最初のグラフを作成する</strong></a>
-    </div>
+   <a href="create-your-first-graph.md"><strong>3. 最初のグラフを作成</strong></a></div>
     <em>キャンバスから書き出しまでの5ステップのウォークスルー</em>
     
   </td>
@@ -59,8 +56,7 @@ ht-degree: 0%
       <img alt="メイクアップ瓶の異なる背景" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>テンプレートのカスタマイズ</strong></a>
-    </div>
+   <a href="customize-template.md"><strong>4. テンプレートのカスタマイズ</strong></a></div>
     <em>テンプレートに自分のアイデアを反映させる</em>
     
   </td>
@@ -71,8 +67,7 @@ ht-degree: 0%
       <img alt="メイクアップ瓶に映った最後の背景" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>テンプレートライブラリ</strong></a>
-    </div>
+   <a href="template-library.md"><strong>5. テンプレートライブラリ</strong></a></div>
     <em>各</em>の説明とリンクを含む、すべてのテンプレートを参照します
     
   </td>

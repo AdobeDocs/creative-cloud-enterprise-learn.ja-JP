@@ -1,5 +1,5 @@
 ---
-title: ' [!DNL Firefly Graph]とは'
+title: ​1.  [!DNL Firefly Graph]とは
 description: グラフと単一のプロンプトの違いと、すべての手順を表示して再利用できる理由を説明します
 feature: Image Editing, Gen AI
 role: User
@@ -7,18 +7,20 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 0%
+source-wordcount: '292'
+ht-degree: 1%
 
 ---
 
-# [!DNL Firefly Graph]とは
+# &#x200B;1. [!DNL Firefly Graph]とは
 
 ほとんどのAI生成ツールでは、1つのプロンプトから1つの出力が得られます。 もし短い変更があれば、手作業で全体を再構築し、最終的なファイル以外に手を加えるものはありません。
 
 Fireflyグラフは動作が異なります。 単一のプロンプトの代わりに、**グラフ**&#x200B;を作成します。これは、すべての入力、変換、および出力が一緒にキャプチャされる、段階を追った視覚的なワークフローです。 1つの手順を変更して再実行します。チェーン全体を再構築するわけではありません。 すべてのステップは目に見えるノードであり、チームは検査、調整し、そのまま引き継ぐことができます。
+
+![視覚的なグラフのスクリーンショット](../assets/what-is-1.png)
 
 つまり、Graphはクリエイティブなプロセスを置き換えるものではなく、そのプロセスを見て、再利用し、スケールできるものに変えるものです。
 
@@ -38,4 +40,4 @@ Fireflyグラフは動作が異なります。 単一のプロンプトの代わ
 
 ## 次のステップ
 
-アイデアに慣れたら、[キーコンセプト：ノード、コネクション、テンプレート](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)に進み、グラフを実際に作成するために使用するボキャブラリについて学びます。
+アイデアに問題がなければ、[2に移動します。 キーコンセプト：ノード、コネクション、テンプレート](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)を使用して、グラフを実際に作成する際に使用するボキャブラリについて学習します。
