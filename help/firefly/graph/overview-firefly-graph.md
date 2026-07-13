@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: eaa388c2919c505dc2148b1d09705d2109a995c1
+source-git-commit: f940c165582a647204f888b9181d9b2a152b13bf
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="what-is-firefly-graph.md">
-      <img alt="お菓子の盆" src="../assets/graph-1.png" />
+      <img alt="化粧瓶" src="../assets/graph-1.png" />
    </a>
     <div>
    <a href="what-is-firefly-graph.md"><strong>Fireflyグラフとは</strong></a>
@@ -36,7 +36,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="key-concepts.md">
-      <img alt="折紙" src="../assets/graph-2.png" />
+      <img alt="背景付きのメイクアップ瓶" src="../assets/graph-2.png" />
    </a>
     <div>
    <a href="key-concepts.md"><strong>キーコンセプト</strong></a>
@@ -46,7 +46,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="create-your-first-graph.md">
-      <img alt="化粧瓶" src="../assets/graph-3.png" />
+      <img alt="メイクアップジャーの新しい背景" src="../assets/graph-3.png" />
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>最初のグラフを作成する</strong></a>
@@ -56,7 +56,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="customize-template.md">
-      <img alt="ミツバチ" src="../assets/graph-4.png" />
+      <img alt="メイクアップ瓶の異なる背景" src="../assets/graph-4.png" />
    </a>
     <div>
    <a href="customize-template.md"><strong>テンプレートのカスタマイズ</strong></a>
@@ -68,7 +68,7 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="template-library.md">
-      <img alt="デジタルブック" src="../assets/graph-5.png" />
+      <img alt="メイクアップ瓶に映った最後の背景" src="../assets/graph-5.png" />
    </a>
     <div>
    <a href="template-library.md"><strong>テンプレートライブラリ</strong></a>
