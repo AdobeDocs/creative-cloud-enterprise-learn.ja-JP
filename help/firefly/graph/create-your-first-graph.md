@@ -24,4 +24,4 @@ ht-degree: 2%
 
 ## 次のステップ
 
-テンプレートから開始しますか？ [4に移動します。 独自の概要を反映するためのテンプレートライブラリ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)。
+テンプレートから開始しますか？ [4に移動します。 独自の概要を反映するためのテンプレートライブラリ](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)。
