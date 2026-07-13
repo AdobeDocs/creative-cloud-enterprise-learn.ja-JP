@@ -26,4 +26,4 @@ ht-degree: 3%
 
 ## 次のステップ
 
-どのテンプレートから始めればよいかわからない場合 [テンプレートライブラリ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)を参照して、ユースケースに近いライブラリを見つけます。
+どのテンプレートから始めればよいかわからない場合 [テンプレートライブラリ](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)を参照して、ユースケースに近いライブラリを見つけます。
