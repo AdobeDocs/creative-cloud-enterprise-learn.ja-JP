@@ -6,8 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-hidefromtoc: true
-source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
+source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -40,6 +39,6 @@ Fireflyグラフは動作が異なります。 単一のプロンプトの代わ
 
 ## 次のステップ
 
-アイデアに問題がなければ、[2に移動します。 キーコンセプト：ノード、コネクション、テンプレート](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)を使用して、グラフを実際に作成する際に使用するボキャブラリについて学習します。
+アイデアに問題がなければ、[2に移動します。 キーコンセプト：ノード、コネクション、テンプレート](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)を使用して、グラフを実際に作成する際に使用するボキャブラリについて学習します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
