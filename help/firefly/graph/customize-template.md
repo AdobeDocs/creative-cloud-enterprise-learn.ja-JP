@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
+source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 4%
+source-wordcount: '134'
+ht-degree: 3%
 
 ---
 
@@ -23,3 +23,5 @@ ht-degree: 4%
 3. **結果を信頼する前に、グラフを1回だけ完全に実行してください。**
 4. **1つの変数を変更して再実行する**&#x200B;ことで、そのステップが何を制御しているかを正確に確認できます。
 5. **カスタマイズしたバージョンを独自の名前で保存します。**
+
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
