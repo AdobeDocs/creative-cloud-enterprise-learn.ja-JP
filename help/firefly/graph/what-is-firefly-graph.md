@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Fireflyグラフは動作が異なります。 単一のプロンプトの代わりに、**グラフ**&#x200B;を作成します。これは、すべての入力、変換、および出力が一緒にキャプチャされる、段階を追った視覚的なワークフローです。 1つの手順を変更して再実行します。チェーン全体を再構築するわけではありません。 すべてのステップは目に見えるノードであり、チームは検査、調整し、そのまま引き継ぐことができます。
 
-![視覚的なグラフのスクリーンショット](../assets/what-is-1.png)
+![視覚的なグラフのスクリーンショット](../assets/what-is-1.png){align="center"}
 
 つまり、Graphはクリエイティブなプロセスを置き換えるものではなく、そのプロセスを見て、再利用し、スケールできるものに変えるものです。
 
@@ -40,6 +40,6 @@ Fireflyグラフは動作が異なります。 単一のプロンプトの代わ
 
 ## 次のステップ
 
-アイデアに問題がなければ、[2に移動します。 キーコンセプト：ノード、コネクション、テンプレート](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)を使用して、グラフを実際に作成する際に使用するボキャブラリについて学習します。
+アイデアに問題がなければ、[2に移動します。 キーコンセプト：ノード、コネクション、テンプレート](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)を使用して、グラフを実際に作成する際に使用するボキャブラリについて学習します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
