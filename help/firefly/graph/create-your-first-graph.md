@@ -25,7 +25,7 @@ ht-degree: 2%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3495912?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3495913?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## 次のステップ
 
