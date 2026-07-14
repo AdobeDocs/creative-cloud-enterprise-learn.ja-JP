@@ -1,5 +1,5 @@
 ---
-title: テンプレートのカスタマイズ
+title: ​5. テンプレートのカスタマイズ
 description: Fireflyグラフテンプレートを、自分の概要やアセットが反映されるワークフローに変換するための短いチェックリスト
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 2%
+source-wordcount: '147'
+ht-degree: 3%
 
 ---
 
-# テンプレートのカスタマイズ
+# &#x200B;5. テンプレートのカスタマイズ
 
 すべてのテンプレートには、サンプル入力と一般的なユースケースが付属しています。 このワークフローは、自分の概要、アセット、および結果を反映するだけで、*あなた*&#x200B;に適したワークフローになります。
 
@@ -26,4 +26,4 @@ ht-degree: 2%
 
 ## 次のステップ
 
-どのテンプレートから始めればよいかわからない場合 [テンプレートライブラリ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)を参照して、ユースケースに近いライブラリを見つけます。
+どのテンプレートから始めればよいかわからない場合 [テンプレートライブラリ](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)を参照して、ユースケースに近いライブラリを見つけます。

@@ -1,33 +1,27 @@
 ---
-title: 最初のグラフを作成
-description: 空白のカンバスから書き出しまで、最初のFireflyグラフワークフローを構築するためのステップバイステップのウォークスルー
+title: ​3. 最初のグラフを作成
+description: 最初のFireflyグラフを作成するためのステップバイステップのウォークスルー
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 2%
 
 ---
 
-# 最初のグラフを作成
+# &#x200B;3. 最初のグラフを作成
 
 ノード、接続、およびテンプレートの内容がわかったら、最初のワークフローを構築する準備が整います。
 
-1. **空白のキャンバスを開くか、テンプレートから開始します。** ノードライブラリまたはテンプレートギャラリーを参照して、必要な場所に近い開始点を見つけます。
-2. **ノードを接続してワークフローを構築します。** ノードの出力から次のノードの入力への接続を描画し、ステップをチェーン接続します。たとえば、入力イメージがスタイルノードに流れ、さらにバリエーションジェネレータに流れ、さらにエクスポートに流れます。
-3. **後で変更するものすべてに入力コントロールを追加します。** 静的値をスライダー、カラーピッカー、テキストフィールドに変換すれば、ユーザー（またはチームメイト）はグラフを編集せずに主要なパラメーターを調整できます。
-4. **グラフを実行し、各ステップをプレビューします。** ワークフロー全体の実行が完了する前に、任意のノードで出力をプレビューできます。
-5. **1つの入力を変更して再実行してください。** 参照画像の入れ替え、スタイルプロンプトの調整、変数の微調整を行うと、下流のすべての要素が自動的に更新されます。 人の手で作り直されるものはない。
+<br> 
 
-## 最初に試す内容
-
-どこから始めればよいかがわからない場合は、テンプレートライブラリにある未完成のテンプレートの1つを空白のキャンバスではなく開きます。これにより、最初から作成する前に完全な作業用のグラフを表示するのが最も簡単です。
+>[!VIDEO](https://video.tv.adobe.com/v/3495912?quality=12&learn=on&hidetitle=true)
 
 ## 次のステップ
 
-テンプレートから作成する場合 [テンプレートをカスタマイズ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)に移動して、自分の概要を反映します。
+テンプレートから開始しますか？ [4に移動します。 独自の概要を反映するためのテンプレートライブラリ](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)。

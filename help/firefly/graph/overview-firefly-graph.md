@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 446781c05fe19cf7be073b08dc4c50906745b76d
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 0%
+source-wordcount: '244'
+ht-degree: 2%
 
 ---
 
@@ -26,73 +26,68 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="what-is-firefly-graph.md">
-      <img alt="お菓子の盆" src="../assets/graph-what-is.png" />
+      <img alt="化粧瓶" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>Fireflyグラフとは</strong></a>
-    </div>
-    <em>グラフと1つのプロンプトの比較</em>
+   <a href="what-is-firefly-graph.md"><strong>1. Fireflyグラフとは</strong></a></div>
+    <em>Fireflyグラフとは何か、および1つのプロンプトとどのように比較するかを説明します</em>
     
   </td>
   <td>
    <a href="key-concepts.md">
-      <img alt="折紙" src="../assets/graph-key-concepts.png" />
+      <img alt="背景付きのメイクアップ瓶" src="../assets/graph-2.png" />
    </a>
     <div>
-   <a href="key-concepts.md"><strong>キーコンセプト</strong></a>
-    </div>
-    <em>ノード、接続、およびテンプレート</em>
+   <a href="key-concepts.md"><strong>2. キーコンセプト</strong></a></div>
+    <em>ノード、接続、およびテンプレートの詳細</em>
     
   </td>
   <td>
    <a href="create-your-first-graph.md">
-      <img alt="化粧瓶" src="../assets/graph-first.png" />
+      <img alt="メイクアップジャーの新しい背景" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>最初のグラフを作成する</strong></a>
-    </div>
-    <em>キャンバスから書き出しまでの5ステップのウォークスルー</em>
+   <a href="create-your-first-graph.md"><strong>3. 最初のグラフを作成</strong></a></div>
+    <em>キャンバスから書き出すためのウォークスルー</em>
     
   </td>
   <td>
-   <a href="customize-template.md">
-      <img alt="ミツバチ" src="../assets/graph-template.png" />
+   <a href="template-library.md">
+      <img alt="メイクアップ瓶に映った最後の背景" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>テンプレートのカスタマイズ</strong></a>
-    </div>
-    <em>テンプレートに自分のアイデアを反映させる</em>
+   <a href="template-library.md"><strong>4. テンプレートライブラリ</strong></a></div>
+    <em>各</em>の説明とリンクを含む、すべてのテンプレートを参照します
     
   </td>
 </tr>
 <tr>
- <td>
-   <a href="template-library.md">
-      <img alt="デジタルブック" src="../assets/graph-library.png" />
+  <td>
+   <a href="customize-template.md">
+      <img alt="メイクアップ瓶の異なる背景" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>テンプレートライブラリ</strong></a>
-    </div>
-    <em>各</em>の説明とリンクを含む、すべてのテンプレートを参照します
+   <a href="customize-template.md"><strong>5. テンプレートのカスタマイズ</strong></a></div>
+    <em>テンプレートに自分のアイデアを反映させる</em>
     
   </td>
   <td>
    <a href="introducing-graph.md">
-      <img alt="デジタルブック" src="../assets/graph-introducing.png" />
+      <img alt="箱入りのチョコレート" src="../assets/graph-introducing.png" />
    </a>
     <div>
-   <a href="introducing-graph.md"><strong>Fireflyグラフの概要</strong></a>
+   <a href="introducing-graph.md"><strong>Fireflyグラフウェビナーのご紹介</strong></a>
     </div>
-    <em>Fireflyの完全にビジュアルなワークフローシステムGraphの詳細</em>
+    <em>このウェビナーでは、Fireflyの完全に視覚的なワークフローシステムGraphについて、すべて学習します</em>
     
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
+    <img alt="スペーサー" src="../../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Gray_thumbnail.png" />
+    <img alt="スペーサー" src="../../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>

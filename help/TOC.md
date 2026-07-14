@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 5bbcac38cff2c03e96c6342e49de07231c173d9c
+source-git-commit: 719a2d0ed899fc0ebec604802f5480085c67df7b
 workflow-type: tm+mt
-source-wordcount: '782'
-ht-degree: 4%
+source-wordcount: '789'
+ht-degree: 3%
 
 ---
 
@@ -129,13 +129,14 @@ ht-degree: 4%
    + Creative Productionチュートリアル {#firefly-creative-production}
       + [&#x200B; [!DNL Adobe Firefly] クリエイティブプロダクションの概要](firefly/creative-production/overview-firefly-creative-production.md)
       + [背景の削除と置換](firefly/creative-production/background.md)
-   + Graphチュートリアル {#firefly-graph}
-      + [&#x200B; [!DNL Adobe Firefly Graph]の概要](firefly/graph/overview-firefly-graph.md)
-      + [Fireflyグラフとは](firefly/graph/what-is-firefly-graph.md)
-      + [Fireflyグラフのキーコンセプト](firefly/graph/key-concepts.md)
-      + [最初のグラフを作成](firefly/graph/create-your-first-graph.md)
-      + [テンプレートのカスタマイズ](firefly/graph/customize-template.md)
-      + [テンプレートライブラリ](firefly/graph/template-library.md)
+   + {hide-from-toc} Graphチュートリアル {#firefly-graph}
+      + {hide-from-toc}[Adobe Fireflyグラフの概要](firefly/graph/overview-firefly-graph.md)
+      + {hide-from-toc}[Fireflyグラフとは](firefly/graph/what-is-firefly-graph.md)
+      + {hide-from-toc}[Fireflyグラフのキーコンセプト](firefly/graph/key-concepts.md)
+      + {hide-from-toc}[最初のグラフを作成する](firefly/graph/create-your-first-graph.md)
+      + {hide-from-toc}[テンプレートのカスタマイズ](firefly/graph/customize-template.md)
+      + {hide-from-toc}[テンプレートライブラリ](firefly/graph/template-library.md)
+      + {hide-from-toc}[Fireflyグラフウェビナーのご紹介](firefly/graph/introducing-graph.md)
    + ウェビナー {#firefly-webinars}
       + [Adobe Fireflyを試す](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
