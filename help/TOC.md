@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 719a2d0ed899fc0ebec604802f5480085c67df7b
+source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '787'
 ht-degree: 3%
 
 ---
@@ -135,7 +135,6 @@ ht-degree: 3%
       + {hide-from-toc}[Fireflyグラフのキーコンセプト](firefly/graph/key-concepts.md)
       + {hide-from-toc}[最初のグラフを作成する](firefly/graph/create-your-first-graph.md)
       + {hide-from-toc}[テンプレートのカスタマイズ](firefly/graph/customize-template.md)
-      + {hide-from-toc}[テンプレートライブラリ](firefly/graph/template-library.md)
       + {hide-from-toc}[Fireflyグラフウェビナーのご紹介](firefly/graph/introducing-graph.md)
    + ウェビナー {#firefly-webinars}
       + [Adobe Fireflyを試す](firefly/webinar-experimenting.md)
