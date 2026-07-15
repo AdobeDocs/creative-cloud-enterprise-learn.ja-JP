@@ -4,12 +4,12 @@ description: 他のユーザーとグラフを共有する方法
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22058
 hide: true
 hidefromtoc: true
-source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
+source-git-commit: e8ff9999edb2a79f8ad9b479985e4aa9e1047ff2
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -34,10 +34,11 @@ ht-degree: 0%
 
    ![アクセス](../assets/share_3.png){align="center"}
 
-   メンバーがリンクを使用せずにグラフを検索できるように、「検索で検出可能」をオンにします。
-確認バナーには、リンクを使用してグラフを表示できるユーザーが正確に表示されます。 リンクを任意の場所に送信する前に、これを確認してください。 これは、次に招待された人だけでなく、そのリンクの今後のすべての受信者に適用されます。
+1. メンバーがリンクを使用せずにグラフを検索できるように、「検索で検出可能」をオンにします。
 
    ![バナー](../assets/share_4.png){align="center"}
+
+   確認バナーには、リンクを使用してグラフを表示できるユーザーが正確に表示されます。 リンクを任意の場所に送信する前に、これを確認してください。 これは、次に招待された人だけでなく、そのリンクの今後のすべての受信者に適用されます。
 
 1. 招待フィールドに電子メールアドレスを直接入力して、1人のユーザーに一般的なリンク設定とは別のアクセス権を付与します。 フィールドの下に表示される候補からエントリを選択します。
 
@@ -55,6 +56,6 @@ ht-degree: 0%
 
 ## 次のステップ
 
-テンプレートから開始しますか？ [5に移動します。 独自の概要を反映するようにテンプレート](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)をカスタマイズします。
+テンプレートから開始しますか？ [5に移動します。 独自の概要を反映するようにテンプレート](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)をカスタマイズします。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
