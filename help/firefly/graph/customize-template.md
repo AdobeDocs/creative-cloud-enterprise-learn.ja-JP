@@ -4,10 +4,10 @@ description: Fireflyグラフテンプレートを、自分の概要やアセッ
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22056
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: 568f2d7d617d440c37b0c4d96ff5e5567f838185
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 3%
@@ -24,4 +24,4 @@ ht-degree: 3%
 4. **1つの変数を変更して再実行する**&#x200B;ことで、そのステップが何を制御しているかを正確に確認できます。
 5. **カスタマイズしたバージョンを独自の名前で保存します。**
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
