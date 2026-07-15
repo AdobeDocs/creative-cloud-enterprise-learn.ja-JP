@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: a6de66734272da23c21087df4dbf46a7175d5e00
+source-git-commit: eaec81eb392c356a1819c459b50a627bd43dff9d
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 3%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -54,17 +54,27 @@ ht-degree: 3%
     <br>
   </td>
    <td>
-   <a href="customize-template.md">
+   <a href="share-a-graph.md">
       <img alt="メイクアップ瓶の異なる背景" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>4. テンプレートのカスタマイズ</strong></a>
+   <a href="share-a-graph.md"><strong>4. グラフを共有</strong></a>
     </div>
-    <em>テンプレートに自分のアイデアを反映させる</em>
+    <em>他のユーザーとグラフを共有する方法を学ぶ</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+   <a href="customize-template.md">
+      <img alt="メイクアップ瓶の異なる背景" src="../assets/graph-5.png" />
+   </a>
+    <div>
+   <a href="customize-template.md"><strong>5. テンプレートのカスタマイズ</strong></a>
+    </div>
+    <em>テンプレートに自分のアイデアを反映させる</em>
+    <br>
+  </td>
   <td>
    <a href="introducing-graph.md">
       <img alt="箱入りのチョコレート" src="../assets/graph-introducing.png" />
@@ -73,11 +83,6 @@ ht-degree: 3%
    <a href="introducing-graph.md"><strong>Fireflyグラフウェビナーのご紹介</strong></a>
     </div>
     <em>このウェビナーでは、Fireflyの完全に視覚的なワークフローシステムGraphについて、すべて学習します</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
