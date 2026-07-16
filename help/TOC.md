@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dccb91143eafcea26362e77f119b0bcbfef7d3b6
+source-git-commit: 2228d76351909fe09423f9715f15e644b5d74d12
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '790'
 ht-degree: 3%
 
 ---
@@ -135,6 +135,7 @@ ht-degree: 3%
       + {hide-from-toc}[Fireflyグラフとは](firefly/graph/what-is-firefly-graph.md)
       + {hide-from-toc}[Fireflyグラフのキーコンセプト](firefly/graph/key-concepts.md)
       + {hide-from-toc}[最初のグラフを作成する](firefly/graph/create-your-first-graph.md)
+      + {hide-from-toc}[グラフを共有](firefly/graph/share-a-graph.md)
       + {hide-from-toc}[テンプレートのカスタマイズ](firefly/graph/customize-template.md)
       + {hide-from-toc}[Fireflyグラフウェビナーのご紹介](firefly/graph/introducing-graph.md)
    + ウェビナー {#firefly-webinars}

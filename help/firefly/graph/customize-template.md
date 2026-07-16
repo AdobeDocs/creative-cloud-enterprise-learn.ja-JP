@@ -1,20 +1,20 @@
 ---
-title: ​4. テンプレートのカスタマイズ
+title: ​5. テンプレートのカスタマイズ
 description: Fireflyグラフテンプレートを、自分の概要やアセットが反映されるワークフローに変換するための短いチェックリスト
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22056
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 3%
 
 ---
 
-# &#x200B;4. テンプレートのカスタマイズ
+# &#x200B;5. テンプレートのカスタマイズ
 
 すべてのテンプレートには、サンプル入力と一般的なユースケースが付属しています。 このワークフローは、自分の概要、アセット、および結果を反映するだけで、*あなた*&#x200B;に適したワークフローになります。
 
