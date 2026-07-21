@@ -1,21 +1,21 @@
 ---
 title: はじめに – 画像の生成
-description: できるだけシンプルなグラフを作成する方法を説明します
+description: 基本的なグラフ（1つのプロンプトノードから1つの生成ノードを1つの出力に）を作成する方法について説明します
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: bab6c055a00501f11e18fd80af7afcaf555a3694
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
 
 # はじめに – 画像の生成
 
-プロンプトノードを1つの生成ノードにまとめ、1つの出力にまとめる、最もシンプルなグラフで基本を説明します。 [作業の開始 – 画像テンプレートを生成します](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d)。
+基本的なグラフ（1つのプロンプトノードを1つの生成ノードに1つの出力に）を作成する方法について説明します。 [作業の開始 – 画像テンプレートを生成します](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d)。
 
 >[!TIP]
 >
@@ -30,4 +30,4 @@ ht-degree: 1%
 * **教育** – 実際のプロジェクト作業を割り当てる前に、新規チームメンバーにグラフを示す最初のサンプル画像を作成します。
 
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
