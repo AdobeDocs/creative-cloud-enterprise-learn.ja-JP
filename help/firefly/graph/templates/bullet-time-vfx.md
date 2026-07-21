@@ -30,4 +30,4 @@ ht-degree: 1%
 * **小売店** – 製品発売ページ用に新しいスニーカーの360度フリーズフレームショットを作成します。
 * **自動車** – ターンテーブルスタジオセッションを使用せずに、デジタルショールーム用の車両の回転するヒーロー写真を作成します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

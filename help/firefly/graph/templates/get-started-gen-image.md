@@ -30,4 +30,4 @@ ht-degree: 1%
 * **教育** – 実際のプロジェクト作業を割り当てる前に、新規チームメンバーにグラフを示す最初のサンプル画像を作成します。
 
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
