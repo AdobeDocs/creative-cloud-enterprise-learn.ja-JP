@@ -29,4 +29,4 @@ ht-degree: 1%
 * **小売業** – 数多くの季節の製品写真やソーシャル投稿で、1つのブランドのスポーク文字を維持します。
 * **教育** – アニメーション化されたインストラクターのキャラクターが、コース内のすべてのレッスン動画で一貫するようにします。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
