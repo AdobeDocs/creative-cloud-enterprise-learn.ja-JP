@@ -4,9 +4,9 @@ description: 被写体を背景から分離する方法を学ぶ
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22100
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -29,4 +29,4 @@ ht-degree: 1%
 * **小売業** – ライフスタイル写真から衣服を分離して、クリーンな製品専用カタログイメージを作成します。
 * **自動車** – 撮影場所から車を切り抜き、スタジオの背景に置いて印刷します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

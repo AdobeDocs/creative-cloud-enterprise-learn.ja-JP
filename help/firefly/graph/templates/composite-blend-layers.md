@@ -3,9 +3,9 @@ title: レイヤーを合成およびブレンド
 description: 製品のカットアウトと背景シーンを別々のレイヤー入力として重ねる方法を説明します
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22101
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -29,4 +29,4 @@ ht-degree: 1%
 * **小売業** – 製品のカットアウトを季節のライフスタイルの背景にブレンドし、ホームページのバナーを作成します。
 * **旅行** – 共同ブランドのプロモーションのために、商品の背景に旅行先の背景を合成します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
