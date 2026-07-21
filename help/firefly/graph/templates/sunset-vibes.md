@@ -29,4 +29,4 @@ ht-degree: 1%
 * **飲み物** – 夏のプロモーションのために、季節のキャッチコピーと暖かみのあるライフスタイルの背景を組み合わせます。
 * **小売店** – フラッシュ販売の発表用に、スタイル設定されたテキストと背景のクイック資産を生成します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

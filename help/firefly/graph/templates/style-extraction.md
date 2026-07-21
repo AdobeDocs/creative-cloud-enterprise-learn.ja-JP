@@ -29,4 +29,4 @@ ht-degree: 1%
 * **小売業** - 1枚のヒーロー写真からアートディレクターの承認を得た外観を抽出し、シーズン全体の製品写真に適用します。
 * **飲み物** – 新しいパッケージのマッチングレンダリングで、受賞歴のあるキャンペーン写真の雰囲気を表現します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

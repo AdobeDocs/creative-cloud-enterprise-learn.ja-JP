@@ -29,4 +29,4 @@ ht-degree: 1%
 * **小売店** – 一貫性のない照明で撮影された写真セット全体で製品の色を標準化します。
 * **財務** – 公開する前に、マーケティング写真のバッチ全体で流れ色になっているブランドの色を補正します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

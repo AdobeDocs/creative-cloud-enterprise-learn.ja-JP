@@ -29,4 +29,4 @@ ht-degree: 1%
 * **小売業** – 製品のカットアウトを季節のライフスタイルの背景にブレンドし、ホームページのバナーを作成します。
 * **旅行** – 共同ブランドのプロモーションのために、商品の背景に旅行先の背景を合成します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
