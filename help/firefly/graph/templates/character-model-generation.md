@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**始める前** – 最適な結果を得るには、このテンプレートを独自のブランド、製品、およびワークフローにカスタマイズしてください。 出力を使用する前に、参照画像やプロンプトを入れ替えて、コピーします。
 
-![文字モデルの生成](../../assets/character-model-generation.png){align="center"}
-
 [!BADGE ユースケース]{type=Informative tooltip="活用例"}
 
 * **屋外** – パッケージのレンダリングやビデオで使用するトレイルマスコットの3Dモデルを作成します。まず、1つの承認済みキャラクターの概要を作成します。
 * **技術** – クリーンアップのためにモデル管理者に提出する準備が整った手書きの簡単な説明から、基本3D文字モデルを生成します。
 * **教育機関向け** – コースのビデオレッスンで使用する3Dインストラクターのキャラクターモデルを作成します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+![文字モデルの生成](../../assets/character-model-generation.png){align="center"}
+
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

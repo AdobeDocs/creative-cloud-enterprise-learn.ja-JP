@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**始める前** – 最適な結果を得るには、このテンプレートを独自のブランド、製品、およびワークフローにカスタマイズしてください。 出力を使用する前に、参照画像やプロンプトを入れ替えて、コピーします。
 
-![エディトリアル写真](../../assets/editorial-photoshoot.png){align="center"}
-
 [!BADGE ユースケース]{type=Informative tooltip="活用例"}
 
 * **小売業** - 1つのモデルの衣類をエディトリアル全編で交換し、季節を感じるルックブックを作成します。モデルを予約し直す必要はありません。
 * **美しさ** - 1つのモデル参照を使用して、複数の製品の外観にわたって一貫したエディトリアルシリーズを構築します。
 * **アウトドア** - 1回のモデル撮影で、新しいジャケットの配色のラインナップ全体のエディトリアルセットを生成します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+![エディトリアル写真](../../assets/editorial-photoshoot.png){align="center"}
+
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

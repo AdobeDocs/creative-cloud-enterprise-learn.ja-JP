@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22104
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**始める前** – 最適な結果を得るには、このテンプレートを独自のブランド、製品、およびワークフローにカスタマイズしてください。 出力を使用する前に、参照画像やプロンプトを入れ替えて、コピーします。
 
-![Bullet Time VFX](../../assets/bullet-time-vfx.png){align="center"}
-
 [!BADGE ユースケース]{type=Informative tooltip="活用例"}
 
 * **屋外** – 有料のソーシャル広告で、撮影場所にマルチカメラのリグを設置せずに、クライマーの動きをとらえた箇条書き型のヒーロー写真を作成します。
 * **小売店** – 製品発売ページ用に新しいスニーカーの360度フリーズフレームショットを作成します。
 * **自動車** – ターンテーブルスタジオセッションを使用せずに、デジタルショールーム用の車両の回転するヒーロー写真を作成します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+![Bullet Time VFX](../../assets/bullet-time-vfx.png){align="center"}
+
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

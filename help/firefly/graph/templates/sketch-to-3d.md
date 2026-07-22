@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**始める前** – 最適な結果を得るには、このテンプレートを独自のブランド、製品、およびワークフローにカスタマイズしてください。 出力を使用する前に、参照画像やプロンプトを入れ替えて、コピーします。
 
-![3Dにスケッチ](../../assets/sketch-to-3d.png){align="center"}
-
 [!BADGE ユースケース]{type=Informative tooltip="活用例"}
 
 * **技術** – 初期のハードウェアコンセプトのスケッチを、物理的なプロトタイプの構築を約束する前に、設計レビュー用の3Dのターンアラウンドに変換します。
 * **自動車** – 初期の車両コンセプトスケッチを、内部レビュー用に回転する3Dのターンアラウンドとして視覚化します。
 * **エンターテイメント** – キャラクターのコンセプトのスケッチを、ピッチデッキの3Dターンアラウンドに変換します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+![3Dにスケッチ](../../assets/sketch-to-3d.png){align="center"}
+
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

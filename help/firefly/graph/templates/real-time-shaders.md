@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**始める前** – 最適な結果を得るには、このテンプレートを独自のブランド、製品、およびワークフローにカスタマイズしてください。 出力を使用する前に、参照画像やプロンプトを入れ替えて、コピーします。
 
-![リアルタイムシェーダー](../../assets/real-time-shaders.png){align="center"}
-
 [!BADGE ユースケース]{type=Informative tooltip="活用例"}
 
 * **技術** – カスタムのスタイル化されたシェーダーを構築するインタラクティブな展示会のデモで使用される3D製品コンフィギュレーターを検索します。
 * **自動車** – 物理プロトタイプが存在する前に、車両モデル上のカスタムペイントおよびマテリアルシェーダをプレビューします。
 * **小売店** – デジタルシェルフディスプレイ用の3D製品レンダリングで、スタイル化されたマテリアルの外観をテストします。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+![リアルタイムシェーダー](../../assets/real-time-shaders.png){align="center"}
+
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
