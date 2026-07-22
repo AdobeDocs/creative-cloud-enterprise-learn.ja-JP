@@ -1,21 +1,21 @@
 ---
 title: ブランディング可視化
-description: 製品のシーンでロゴを視覚化する方法を説明します
+description: 製品のシーンでロゴやブランドを視覚化する方法について説明します
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: af06d76d4cad7ccf7adeb845d71525480b68ea4f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '192'
 ht-degree: 1%
 
 ---
 
 # ブランディングの視覚化
 
-製品のシーンでロゴを視覚化する方法について説明します。 ブランドガイドラインまたはロゴとカラーパレットを使用してフィードし、1回の操作で静的キーアートと短いモーションパスの両方を出力するので、両方の形式が視覚的に揃ったままになります。[ブランディング可視化テンプレートを開きます](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:c11ecbe0-0751-58ce-9f30-2eb6518bfd51)。
+製品のシーンでロゴやブランドを視覚化する方法について説明します。 ブランドガイドラインまたはロゴとカラーパレットを使用してフィードし、1回の操作で静的キーアートと短いモーションパスの両方を出力するので、両方の形式が視覚的に揃ったままになります。[ブランディング可視化テンプレートを開きます](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:c11ecbe0-0751-58ce-9f30-2eb6518bfd51)。
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ ht-degree: 1%
 * **飲み物** - 3つのロゴとカラーパレットの方向を、完成したキーアートとしてテストしてから、いずれかの方向を選んで制作を開始します。
 * **財務** – デザインレビューに到達する前に、ブランド化されたビジュアルとして新しいカードまたはアプリIDをプレビューします。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
