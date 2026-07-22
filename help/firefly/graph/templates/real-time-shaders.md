@@ -29,4 +29,4 @@ ht-degree: 1%
 * **自動車** – 物理プロトタイプが存在する前に、車両モデル上のカスタムペイントおよびマテリアルシェーダをプレビューします。
 * **小売店** – デジタルシェルフディスプレイ用の3D製品レンダリングで、スタイル化されたマテリアルの外観をテストします。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

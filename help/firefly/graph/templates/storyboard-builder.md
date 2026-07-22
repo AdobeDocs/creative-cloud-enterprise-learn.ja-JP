@@ -29,4 +29,4 @@ ht-degree: 1%
 * **飲み物** – 季節ごとのキャンペーンのためにシーンごとのストーリーボードを作成し、ビートを並べ替えて、カットをロックする前にペースをテストします。
 * **旅行** – 撮影リストを確定する前に、目的地キャンペーンのストーリー展開の円弧を描いたストーリーボードを作成します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

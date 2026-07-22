@@ -29,4 +29,4 @@ ht-degree: 1%
 * **飲み物** – ブランドのマスコットのコレクション可能なフィギュアをモックアップにして、限定販売の商品をドロップします。
 * **エンターテイメント** – ライセンスピッチデッキ用にビニール玩具の形式でキャラクターをプレビューします。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

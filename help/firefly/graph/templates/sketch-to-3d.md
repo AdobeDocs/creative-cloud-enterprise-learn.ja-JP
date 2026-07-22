@@ -29,4 +29,4 @@ ht-degree: 1%
 * **自動車** – 初期の車両コンセプトスケッチを、内部レビュー用に回転する3Dのターンアラウンドとして視覚化します。
 * **エンターテイメント** – キャラクターのコンセプトのスケッチを、ピッチデッキの3Dターンアラウンドに変換します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

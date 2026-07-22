@@ -29,4 +29,4 @@ ht-degree: 1%
 * **小売** – ディレクターが予約される前に、キャンペーン概要から直接、製品発表ビデオをストーリーボードで再生します。
 * **技術** – 機能スクリプトからストーリーボードに沿って解説ビデオを作成し、アニメーションの開始前に関係者を整列させます。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
