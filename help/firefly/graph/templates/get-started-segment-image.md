@@ -29,4 +29,4 @@ ht-degree: 1%
 * **小売業** – ライフスタイル写真から衣服を分離して、クリーンな製品専用カタログイメージを作成します。
 * **自動車** – 撮影場所から車を切り抜き、スタジオの背景に置いて印刷します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

@@ -30,4 +30,4 @@ ht-degree: 1%
 * **財務** – アドバイザーチーム全体の顔写真を標準化して、チームの会議ページに使用します。
 * **ヘルス** – 複数の診療所にまたがるスタッフの顔写真を標準化して、Webサイトの外観を統一します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

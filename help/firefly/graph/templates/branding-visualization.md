@@ -29,4 +29,4 @@ ht-degree: 1%
 * **飲み物** - 3つのロゴとカラーパレットの方向を、完成したキーアートとしてテストしてから、いずれかの方向を選んで制作を開始します。
 * **財務** – デザインレビューに到達する前に、ブランド化されたビジュアルとして新しいカードまたはアプリIDをプレビューします。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

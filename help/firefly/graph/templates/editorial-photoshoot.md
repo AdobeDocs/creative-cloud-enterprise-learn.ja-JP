@@ -29,4 +29,4 @@ ht-degree: 1%
 * **美しさ** - 1つのモデル参照を使用して、複数の製品の外観にわたって一貫したエディトリアルシリーズを構築します。
 * **アウトドア** - 1回のモデル撮影で、新しいジャケットの配色のラインナップ全体のエディトリアルセットを生成します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

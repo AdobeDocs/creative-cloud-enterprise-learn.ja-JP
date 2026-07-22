@@ -29,4 +29,4 @@ ht-degree: 1%
 * **自動車** – ラップ生産の前に、車両モデル全体で新しい仕上がりまたはデカールのデザインをプレビューします。
 * **小売** – 印刷承認の前に、アパレルのモックアップの全行にわたって新しいロゴ配置をテストします。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

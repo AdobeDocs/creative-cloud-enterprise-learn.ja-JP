@@ -29,4 +29,4 @@ ht-degree: 1%
 * **技術** – ユニットが撮影可能になる前に、起動ページ用に新しいデバイスのスタジオ品質のレンダリングを作成します。
 * **小売業** – 個々の撮影セッションを予約せずに、製品ライン全体で一貫したスタジオ写真を作成します。
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
