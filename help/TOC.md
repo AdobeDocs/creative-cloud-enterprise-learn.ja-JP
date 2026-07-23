@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '861'
 ht-degree: 3%
 
 ---
@@ -149,6 +149,19 @@ ht-degree: 3%
       + {hide-from-toc}[特定色域の選択の補正](firefly/graph/templates/selective-color-correction.md)
       + {hide-from-toc}[はじめに – ビデオの生成](firefly/graph/templates/get-started-video-gen.md)
       + {hide-from-toc}[Bullet Time VFX](firefly/graph/templates/bullet-time-vfx.md)
+      + {hide-from-toc}[ストーリーボードへのテキスト](firefly/graph/templates/text-to-storyboard.md)
+      + {hide-from-toc}[ストーリーボードビルダー](firefly/graph/templates/storyboard-builder.md)
+      + {hide-from-toc}[リアルタイムシェーダー](firefly/graph/templates/real-time-shaders.md)
+      + {hide-from-toc}[文字モデルの生成](firefly/graph/templates/character-model-generation.md)
+      + {hide-from-toc}[ビニール玩具のデザイン](firefly/graph/templates/vinyl-toy-design.md)
+      + {hide-from-toc}[スケッチして3Dに変換](firefly/graph/templates/sketch-to-3d.md)
+      + {hide-from-toc}[ブランディングの視覚化](firefly/graph/templates/branding-visualization.md)
+      + {hide-from-toc}[ブランド製品のモックアップ](firefly/graph/templates/brand-product-mockup.md)
+      + {hide-from-toc}[エディトリアル写真](firefly/graph/templates/editorial-photoshoot.md)
+      + {hide-from-toc}[フォトスタジオ](firefly/graph/templates/photography-studio.md)
+      + {hide-from-toc}[デカールをサーフェスに適用](firefly/graph/templates/decal-to-surfaces.md)
+      + {hide-from-toc}[デザインシステムジェネレーター](firefly/graph/templates/design-system-generator.md)
+      + {hide-from-toc}[顔写真の生成](firefly/graph/templates/headshots-generation.md)
   + ウェビナー {#firefly-webinars}
     + [Adobe Fireflyを試す](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

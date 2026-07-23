@@ -5,7 +5,7 @@ role: User
 level: Beginner
 jira: KT-22101
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -20,13 +20,13 @@ ht-degree: 1%
 >
 >**始める前** – 最適な結果を得るには、このテンプレートを独自のブランド、製品、およびワークフローにカスタマイズしてください。 出力を使用する前に、参照画像やプロンプトを入れ替えて、コピーします。
 
-![レイヤーの合成とブレンド](../../assets/composite-blend-layers.png){align="center"}
-
 [!BADGE ユースケース]{type=Informative tooltip="活用例"}
 
 * **飲み物** – 新しい缶のデザインを、空を飛ばさずに夏のキャンペーン用にビーチのライフスタイルシーンに合成します
 撮影者を特定の場所に
 * **小売業** – 製品のカットアウトを季節のライフスタイルの背景にブレンドし、ホームページのバナーを作成します。
 * **旅行** – 共同ブランドのプロモーションのために、商品の背景に旅行先の背景を合成します。
+
+![レイヤーの合成とブレンド](../../assets/composite-blend-layers.png){align="center"}
 
 [Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
