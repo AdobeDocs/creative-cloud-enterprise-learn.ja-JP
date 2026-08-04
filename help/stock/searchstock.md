@@ -25,4 +25,4 @@ ht-degree: 0%
 
 このビデオチュートリアルでは、企業向けのCreative Cloudで、組織のAdobe[!DNL Stock]のライセンス履歴をすばやく検索する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410410?captions=jpn&hidetitle=true)

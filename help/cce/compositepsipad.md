@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Photoshopのパワーを手軽に利用できます。 刷新されたタッチベースのインターフェイスを使用して、お気に入りのCreative Cloudアプリケーションの1つを全く新しい方法で使用する方法を学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/331004?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410491?captions=jpn&hidetitle=true)
 
 <br> 
 

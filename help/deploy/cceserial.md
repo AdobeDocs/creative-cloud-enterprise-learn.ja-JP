@@ -52,7 +52,7 @@ AcrobatおよびCreative Cloud法人版アプリでは、期限切れの60日前
 
 次の情報は、エンドユーザーエクスペリエンスの概要を示しています。 以下に短いビデオを示し、エンドユーザーのエクスペリエンスを確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441276?captions=jpn&hidetitle=true)
 
 **有効期限の前**
 
@@ -76,7 +76,7 @@ AcrobatおよびCreative Cloud法人版アプリでは、期限切れの60日前
 
 次の情報は、エンドユーザーエクスペリエンスの概要を示しています。 以下に短いビデオを示し、エンドユーザーのエクスペリエンスを確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/331749?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439960?captions=jpn&hidetitle=true)
 
 
 **有効期限の前**
