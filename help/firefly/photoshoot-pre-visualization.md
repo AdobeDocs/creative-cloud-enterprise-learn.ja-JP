@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Adobe Fireflyの力をフルに活用して、写真撮影のビジョン全体をプレビューします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497050?captions=jpn&quality=12&learn=on&hidetitle=true)

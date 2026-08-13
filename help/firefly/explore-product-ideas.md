@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Fireflyボードを使えば、大まかなコンセプトから、テキスト一覧や線画をはるかに超える共有可能なビジュアルを作成し、チームでブレーンストーミングを行うことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497130?captions=jpn&quality=12&learn=on&hidetitle=true)
