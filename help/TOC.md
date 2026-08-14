@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
+source-git-commit: 389890ce1b958a53c3541db6bbfb2c7d532e22ac
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '880'
 ht-degree: 3%
 
 ---
@@ -132,6 +132,7 @@ ht-degree: 3%
     + [背景の削除と置換](firefly/creative-production/background.md)
     + {hide-from-toc}[写真撮影前の視覚化](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[会議、マーカー、モックアップを使わずに製品のアイデアを探す](firefly/explore-product-ideas.md)
+    + {hide-from-toc}[1つの単語を共有されたクリエイティブなビジョンに変換](firefly/creative-vision.md)
   + {hide-from-toc} Graphチュートリアル {#firefly-graph}
     + {hide-from-toc}[Adobe Fireflyグラフの概要](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[Fireflyグラフとは](firefly/graph/what-is-firefly-graph.md)
