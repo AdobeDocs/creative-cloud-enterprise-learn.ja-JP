@@ -18,4 +18,4 @@ ht-degree: 0%
 
 製品のコンセプトは、3Dアーティストやイラストレーターがアイデアの形を見るのを待つことを意味していました。 Fireflyボードを使えば、マーカーやモックアップを使わず、アイデアを形にする3Dレンダリングを駆使して、驚異的なリアリズムを持つアイデアを生み出すことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497130?captions=jpn&quality=12&learn=on&hidetitle=true)

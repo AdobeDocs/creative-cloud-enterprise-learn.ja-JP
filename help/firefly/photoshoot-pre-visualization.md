@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Gen AIを使用して、撮影全体をプリビジュアライゼーションし、意図した環境に製品を配置することで、1つのフレームを撮影する前に、クライアントのサインオフによって場所、設定、キャラクターを固定できるようにする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497050?captions=jpn&quality=12&learn=on&hidetitle=true)

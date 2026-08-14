@@ -18,4 +18,4 @@ ht-degree: 0%
 
 クリエイティブチームのアイデアを引き出し、共有スタイルを早期に定義する方法を説明します。クライアントが即座に反応します。 Adobe Fireflyによって、コンセプトは言葉を超えて、誤解の余地のない豊かなビジュアルに変わります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497191?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497196?captions=jpn&quality=12&learn=on&hidetitle=true)
