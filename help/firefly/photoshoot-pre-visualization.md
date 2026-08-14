@@ -1,21 +1,21 @@
 ---
 title: 写真撮影前の視覚化
-description: Adobe Fireflyの力をフルに活用して、写真撮影のビジョン全体をプレビューします
+description: Gen AIを使用して写真全体をプリビジュアライゼーションする方法を説明します
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Beginner, Intermediate, Experienced
 jira: KT-22291
 hide: true
 hidefromtoc: true
-source-git-commit: 256a1bd60eecaae02b974e86fd7bff9e35b51503
+source-git-commit: 8122068e72a49a2e5be625fa95accb6168aff403
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # 写真撮影前の視覚化
 
-Adobe Fireflyの力をフルに活用して、写真撮影のビジョン全体をプレビューします。
+Gen AIを使用して、撮影全体をプリビジュアライゼーションし、意図した環境に製品を配置することで、1つのフレームを撮影する前に、クライアントのサインオフによって場所、設定、キャラクターを固定できるようにする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497050?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
