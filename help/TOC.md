@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
 workflow-type: tm+mt
-source-wordcount: '861'
+source-wordcount: '872'
 ht-degree: 3%
 
 ---
@@ -130,6 +130,8 @@ ht-degree: 3%
   + Creative Productionチュートリアル {#firefly-creative-production}
     + [&#x200B; [!DNL Adobe Firefly] クリエイティブプロダクションの概要](firefly/creative-production/overview-firefly-creative-production.md)
     + [背景の削除と置換](firefly/creative-production/background.md)
+    + {hide-from-toc}[写真撮影前の視覚化](firefly/photoshoot-pre-visualization.md)
+    + {hide-from-toc}[会議、マーカー、モックアップを使わずに製品のアイデアを探す](firefly/explore-product-ideas.md)
   + {hide-from-toc} Graphチュートリアル {#firefly-graph}
     + {hide-from-toc}[Adobe Fireflyグラフの概要](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[Fireflyグラフとは](firefly/graph/what-is-firefly-graph.md)
