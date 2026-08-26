@@ -18,4 +18,4 @@ ht-degree: 0%
 
 クリエイティブチームがAdobe Fireflyボードを使用してアイデアを早期にテストし、すべてのテイクが計画通りに到着することを確信させる方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502280?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3502281?captions=jpn&quality=12&learn=on&hidetitle=true)
