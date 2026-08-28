@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: ca32f73972c01089fd3741643c32bfc63cb974fc
+source-git-commit: dec5f84efd42c91c97fc49e3043c09add3d78ed6
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '905'
 ht-degree: 3%
 
 ---
@@ -72,7 +72,7 @@ ht-degree: 3%
     + [ジェネレーティブフィルの使用方法](express/generative-fill.md)
     + [Gen AIによるテキストデザインの向上](express/gen-text.md)
     + [Text-to-template Gen AIの使用方法](express/text-to-template.md)
-    + [コンテンツを一括翻訳する方法](express/bulk-translate.md)
+    + [コンテンツを一括移動する方法](express/bulk-translate.md)
     + [PDFの編集方法](express/edit-a-pdf.md)
     + [スケジューラーを使用して投稿する方法](express/schedule.md)
     + [オブジェクトのグループ化](express/group-objects.md)
@@ -168,6 +168,7 @@ ht-degree: 3%
       + {hide-from-toc}[顔写真の生成](firefly/graph/templates/headshots-generation.md)
   + ウェビナー {#firefly-webinars}
     + [Adobe Fireflyを試す](firefly/webinar-experimenting.md)
+    + [思い切って考える：アイデアを印象的なビジュアルに一変させる](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [概要](stock/overview-stock.md)
   + チュートリアル {#stocktutorials}
