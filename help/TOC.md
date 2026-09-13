@@ -168,7 +168,7 @@ ht-degree: 3%
       + {hide-from-toc}[顔写真の生成](firefly/graph/templates/headshots-generation.md)
   + ウェビナー {#firefly-webinars}
     + [Adobe Fireflyを試す](firefly/webinar-experimenting.md)
-    + [思い切って考える：アイデアを印象的なビジュアルに一変させる](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
+    + [思い切って考える：アイデアを印象的なビジュアルに一変させる](https://experienceleague.adobe.com/ja/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [概要](stock/overview-stock.md)
   + チュートリアル {#stocktutorials}
