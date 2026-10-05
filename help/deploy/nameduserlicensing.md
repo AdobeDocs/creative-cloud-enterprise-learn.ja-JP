@@ -5,23 +5,29 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-TQID: https://experienceleague.adobe.com/1Vae4kugu2cH2aiRmUYs8mRxEyc8cF9gqWaivm5AB4w
+TQID: 'https://experienceleague.adobe.com/1Vae4kugu2cH2aiRmUYs8mRxEyc8cF9gqWaivm5AB4w'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: f3adbe6f-7e4c-5fb5-874d-60c3e79c80a8
+    internal-label: Deploy
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Security
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 638
+source-wordcount: '638'
 ht-degree: 1%
-
 ---
-
 # シリアル番号が期限切れになる場合 ユーザー指定ライセンスが必要な理由
 
 今日の風潮では、IT管理は迅速に全デジタル体験に移行する必要がありました。 チームが自宅から生産的に作業を行う方法を習得するにつれて、ビジネス継続性を支援するツールの必要性が高まっています。 これらの課題は、大規模なIT導入に影響を与え、特に仮想環境のユーザー管理に影響を与えます。
@@ -32,7 +38,7 @@ NUL(Named User Licensing)を通じてAdobe製品のライセンスを取得す�
 
 ## ユーザー指定ライセンスについて
 
-[ユーザー指定ライセンス](https://helpx.adobe.com/jp/enterprise/using/licensing.html)は、ソフトウェアをシリアル番号やデバイスの代わりに個人に割り当てることを可能にするソフトウェアライセンスモデルです。 NULは、IT管理者に高度なユーザーID管理機能とエンタープライズレベルのセキュリティを提供し、Adobe Admin Consoleを使用したアプリケーションの簡単なデプロイと管理を可能にします。
+[ユーザー指定ライセンス](https://helpx.adobe.com/enterprise/using/licensing.html)は、ソフトウェアをシリアル番号やデバイスの代わりに個人に割り当てることを可能にするソフトウェアライセンスモデルです。 NULは、IT管理者に高度なユーザーID管理機能とエンタープライズレベルのセキュリティを提供し、Adobe Admin Consoleを使用したアプリケーションの簡単なデプロイと管理を可能にします。
 
 ## ユーザー指定ライセンスの利点：
 

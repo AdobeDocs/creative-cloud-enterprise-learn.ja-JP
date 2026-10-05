@@ -6,24 +6,31 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-TQID: https://experienceleague.adobe.com/M7ZbwU4I7Dq26Hh3Ps-WJD7jhYwwVo5VrNfllLeTwEU
+TQID: 'https://experienceleague.adobe.com/M7ZbwU4I7Dq26Hh3Ps-WJD7jhYwwVo5VrNfllLeTwEU'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: 401e32ea-dbf3-5b5e-950e-e7ccc600fa78
+    internal-label: UI Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
+    internal-label: Experience design
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Web experience
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 462
+source-wordcount: '462'
 ht-degree: 0%
-
 ---
-
 # Adobe XDチュートリアル
 
 Adobe XDは、webサイト、アプリ、音声インターフェイス、ゲーム、およびその他の種類のデジタルエクスペリエンスをデザインするためのユーザーエクスペリエンスデザインおよびプロトタイピングツールです。 画像を選択して、チュートリアルを表示します。
@@ -35,9 +42,9 @@ Adobe XDは、webサイト、アプリ、音声インターフェイス、ゲー
       <img alt="Adobe XDのコンポーネントに慣れる" src="assets/Componentsxd.jpg" />
    </a>
     <div>
-   <a href="components.md"><strong>Adobe XDの[!UICONTROL コンポーネント]を使い慣れましょう</strong></a>
+   <a href="components.md"><strong>Adobe XDの[!UICONTROLコンポーネント]を使い慣れましょう</strong></a>
     </div>
-    <em>[!UICONTROL コンポーネント]を使用して、デザインワークフローに速度と一貫性の両方を適用するためのこれまでにない柔軟性を実現する方法を説明します</em>
+    <em>[!UICONTROLコンポーネント]を使用して、デザインワークフローに速度と一貫性の両方を適用するためのこれまでにない柔軟性を実現する方法を説明します</em>
     <br>
   </td>
   <td>
@@ -109,7 +116,7 @@ Adobe XDは、webサイト、アプリ、音声インターフェイス、ゲー
     <div>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank"><strong>XD (PDF)を使用したモバイルWebエクスペリエンスのデザイン</strong></a>
     </div>
-    <em>Adobe XDを使用したRussell Brown MAX Madnessモバイルwebギャラリーのデザインプロセスの舞台裏を紹介します</em>
+    <em>Adobe XDを使って、Russell Brown MAX Madnessモバイルwebギャラリーのデザインプロセスをシーンの背後から見る</em>
     <br>
   </td>
 </tr>
@@ -126,20 +133,20 @@ Adobe XDは、webサイト、アプリ、音声インターフェイス、ゲー
   </td>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
-      <img alt="外部テキストおよびグラフィックを使用したXDでのリピートグリッドの強化" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
+      <img alt="外部テキストおよびグラフィックを使用したXDのリピートグリッドの強化" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>XDのリピートグリッドを外部テキストおよび外部グラフィック(PDF)で強化</strong></a>
+   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>XDのリピートグリッドに外部テキストとグラフィック(PDF)を追加する</strong></a>
     </div>
-    <em>リピートグリッドを外部のテキストおよびグラフィックと組み合わせて、生産性を強化します</em>
+    <em>リピートグリッドを外部のテキストやグラフィックと組み合わせて、生産性を高めます</em>
     <br>
   </td>
   <td>
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank">
-      <img alt="MAXの狂気とAdobe XDの舞台裏" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
+      <img alt="MAXの狂気とAdobe XDのシーンの裏側" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>Adobe XDとのMAXの狂気の舞台裏(PDF)</strong></a>
+   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>MAXの狂気とAdobe XD (PDF)のシーンの裏側</strong></a>
     </div>
     <em>最適化されたモバイルWebエクスペリエンスを提供することは、ユーザーの共感を呼び起こす可能性があります</em>
     <br>

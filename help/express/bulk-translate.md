@@ -1,34 +1,38 @@
 ---
-title: コンテンツを一括翻訳する方法
-description: コンテンツを数秒で一括翻訳する方法を説明します
+title: コンテンツを一括移動する方法
+description: コンテンツを数秒で一括移動する方法を説明します
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-14851
 exl-id: 1d07770d-e423-4c72-a771-97bca0df4fe1
-TQID: https://experienceleague.adobe.com/ijC1T8f4XNs3GzZZd4tsxJmxML-hqMHLzhnYoDl-BGM
+TQID: 'https://experienceleague.adobe.com/ijC1T8f4XNs3GzZZd4tsxJmxML-hqMHLzhnYoDl-BGM'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Intermediate
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 128
+source-wordcount: '128'
 ht-degree: 0%
-
 ---
+# コンテンツを一括移動する方法
 
-# コンテンツを一括翻訳する方法
-
-コンテンツを46の言語で自動翻訳し、プロジェクトの言語バリエーションを作成する方法を説明します。 必要な言語を選択し、コンテンツを複製して翻訳し、すべてのアニメーションを保持できます。
+コンテンツを46の言語で自動移動し、プロジェクトの言語バリエーションを作成する方法を説明します。 必要な言語を選択し、コンテンツを複製して移動して、すべてのアニメーションを保持できます。
 
 >[!NOTE]
 >
 >共有またはダウンロードする前に、翻訳が正確かどうかを確認することが重要です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3438269?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)
 
 ## このシリーズの追加のビデオ
 

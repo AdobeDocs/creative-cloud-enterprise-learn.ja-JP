@@ -6,27 +6,41 @@ role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-TQID: https://experienceleague.adobe.com/aY5x7jWyzTgckibWDj7BcdvqyZR1yy4GUQOikhFWQRA
+TQID: 'https://experienceleague.adobe.com/aY5x7jWyzTgckibWDj7BcdvqyZR1yy4GUQOikhFWQRA'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: 401e32ea-dbf3-5b5e-950e-e7ccc600fa78
+    internal-label: UI Design
+  - id: a84ae583-df23-5233-92bc-9551edca26c7
+    internal-label: Licensable Assets
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 subfeature_v2:
   - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+    internal-label: Vector editing
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
   - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+    internal-label: Video editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 1212
+source-wordcount: '1212'
 ht-degree: 0%
-
 ---
-
 # エンタープライズ版クイックリファレンスガイドのCreative Cloud
 
 企業のクリエイターは、分散したチームとの共同作業、拡張性の高いプロセスの確立、企業のシステムやガイドラインへの準拠を行う必要があります。 これらのクイックリファレンスガイド(PDF)は、Creative Cloudの新機能の学習に役立ちます。
@@ -42,7 +56,7 @@ ht-degree: 0%
     <div>
    <a href="CreateEditandShareaWebPagewithSpark.pdf" target="_blank"><strong>Spark (PDF)</strong></a>でWebページを作成、編集、共有する
     </div>
-    <em>Adobe Sparkのシンプルで直感的なツールとAdobe [!DNL Stock]</em>の美しい画像を使用して、webページにインタラクティブでレスポンシブなライトボックス対応のフォトグリッドを作成します
+    <em>Adobe Sparkのシンプルで直感的なツールとAdobe [!DNL Stock]</em>の美しい画像を使用して、webページ用のインタラクティブでレスポンシブなライトボックス対応フォトグリッドを作成します
     <br>
   </td>
   <td>
@@ -375,7 +389,7 @@ ht-degree: 0%
     <div>
    <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf" target="_blank"><strong>Adobe[!DNL Stock]と[!DNL Dimension] (PDF)を使ってリアルな3Dモックアップを作成</strong></a>
     </div>
-    <em>Adobe [!DNL Stock]の3Dモデルと[!DNL Dimension]</em>のカスタムデカールを組み合わせて、デザインが実際のオブジェクトにどのように変換されるかを確認します
+    <em>Adobe [!DNL Stock]の3Dモデルと[!DNL Dimension]</em>のカスタムデカールを組み合わせて、デザインが実際のオブジェクトにどのように移動するかを確認します。
     <br>
   </td>
   <td>
@@ -385,7 +399,7 @@ ht-degree: 0%
     <div>
    <a href="SkiptheShootGettheShot.pdf" target="_blank"><strong>撮影をスキップする – 撮影を取得(PDF)</strong></a>
     </div>
-    <em>マテリアル、環境特性、照明、写真を使用して[!DNL Dimension]で3Dモデルをカスタマイズし、ブランド化して、あらゆるデザインプロジェクトでフォトリアリスティックな画像を作成します</em>
+    <em>マテリアル、環境特性、照明、写真撮影を使用して[!DNL Dimension]で3Dモデルをカスタマイズし、ブランド化して、あらゆるデザインプロジェクトでフォトリアリスティックな画像を作成します</em>
     <br>
   </td>
   <td>
@@ -412,7 +426,7 @@ ht-degree: 0%
     <div>
    <a href="CreateAnimationsinRealTimewithCharacterAnimator.pdf" target="_blank"><strong>Character Animator (PDF)を使ってリアルタイムでアニメーションを作成する</strong></a>
     </div>
-    <em>自分の顔を使って、Character Animatorのある表現力豊かなアニメーションを作りましょう</em>
+    <em>面を使用して、Character Animatorのある表現力豊かなアニメーションを作成してください</em>
     <br>
   </td>
  <td>
