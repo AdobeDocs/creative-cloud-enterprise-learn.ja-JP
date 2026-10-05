@@ -29,7 +29,7 @@ ht-degree: 0%
 
 マテリアル、環境特性、照明、写真撮影を使用して[!DNL Dimension]で3Dモデルをカスタマイズし、ブランドを設定して、あらゆるデザインプロジェクトでフォトリアリスティックな画像を作成できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410484?captions=jpn&hidetitle=true)
 
 PDFファイルアイコンをクリックして、このチュートリアルのクイックリファレンスガイドをダウンロードします。
 

@@ -35,4 +35,4 @@ Adobe IllustratorでAdobe Fireflyを利用したジェネレーティブリカ�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420872?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3442068?captions=jpn&quality=12&learn=on&hidetitle=true)

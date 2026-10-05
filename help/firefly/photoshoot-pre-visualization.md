@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Gen AIを使用して、写真撮影全体をプリビジュアライゼーションし、意欲的な環境に製品を配置することで、1枚のフレームを撮影する前に、クライアントの承認によって場所、設定、キャラクターを固定できるようにする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497050?captions=jpn&quality=12&learn=on&hidetitle=true)

@@ -35,4 +35,4 @@ Adobe Photoshopで、Adobe Fireflyを利用したジェネレーティブフィ�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420537?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448535?captions=jpn&quality=12&learn=on&hidetitle=true)

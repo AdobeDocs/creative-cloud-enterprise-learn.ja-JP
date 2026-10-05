@@ -32,4 +32,4 @@ ht-degree: 4%
 
 Adobe Fireflyを利用したAdobe ExpressのText to Imageを使用して、グローバルホテルのマーケティングキャンペーンからローカライズされたコンテンツを作成する方法について説明します。 このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/express/)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422426?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443585?captions=jpn&quality=12&learn=on&hidetitle=true)
