@@ -33,4 +33,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492621?quality=12&learn=on&hidetitle=true)
 
-[ホタルグラフの使用](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[ホタルグラフの使用](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

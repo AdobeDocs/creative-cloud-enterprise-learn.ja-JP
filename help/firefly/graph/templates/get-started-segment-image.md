@@ -41,4 +41,4 @@ ht-degree: 0%
 
 ![画像をセグメント化](../../assets/get-started-segment-image.png){align="center"}
 
-[ホタルグラフの使用](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[ホタルグラフの使用](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

@@ -64,6 +64,6 @@ ht-degree: 0%
 
 ## 次のステップ
 
-何かを構築する準備はできましたか？ [3に移動します。 手順を追ったウォークスルーのために最初のグラフ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)を作成します。
+何かを構築する準備はできましたか？ [3に移動します。 手順を追ったウォークスルーのために最初のグラフ](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)を作成します。
 
-[ホタルグラフの使用](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[ホタルグラフの使用](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

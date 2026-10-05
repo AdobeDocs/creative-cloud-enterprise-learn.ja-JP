@@ -38,7 +38,7 @@ NUL(Named User Licensing)を通じてAdobe製品のライセンスを取得す�
 
 ## ユーザー指定ライセンスについて
 
-[ユーザー指定ライセンス](https://helpx.adobe.com/enterprise/using/licensing.html)は、ソフトウェアをシリアル番号やデバイスの代わりに個人に割り当てることを可能にするソフトウェアライセンスモデルです。 NULは、IT管理者に高度なユーザーID管理機能とエンタープライズレベルのセキュリティを提供し、Adobe Admin Consoleを使用したアプリケーションの簡単なデプロイと管理を可能にします。
+[ユーザー指定ライセンス](https://helpx.adobe.com/jp/enterprise/using/licensing.html)は、ソフトウェアをシリアル番号やデバイスの代わりに個人に割り当てることを可能にするソフトウェアライセンスモデルです。 NULは、IT管理者に高度なユーザーID管理機能とエンタープライズレベルのセキュリティを提供し、Adobe Admin Consoleを使用したアプリケーションの簡単なデプロイと管理を可能にします。
 
 ## ユーザー指定ライセンスの利点：
 

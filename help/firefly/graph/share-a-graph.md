@@ -69,6 +69,6 @@ ht-degree: 0%
 
 ## 次のステップ
 
-テンプレートから開始しますか？ [5に移動します。 独自の概要を反映するようにテンプレート](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)をカスタマイズします。
+テンプレートから開始しますか？ [5に移動します。 独自の概要を反映するようにテンプレート](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)をカスタマイズします。
 
-[ホタルグラフの使用](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[ホタルグラフの使用](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

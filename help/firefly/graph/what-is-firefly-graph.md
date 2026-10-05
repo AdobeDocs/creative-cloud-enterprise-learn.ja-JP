@@ -54,6 +54,6 @@ ht-degree: 0%
 
 ## 次のステップ
 
-アイデアに問題がなければ、[2に移動します。 キーコンセプト： nodes, connections, and templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) – 実際にグラフを構築する際に使用する語彙を学ぶ
+アイデアに問題がなければ、[2に移動します。 キーコンセプト： nodes, connections, and templates](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) – 実際にグラフを構築する際に使用する語彙を学ぶ
 
-[ホタルグラフの使用](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[ホタルグラフの使用](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。

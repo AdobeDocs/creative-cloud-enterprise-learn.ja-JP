@@ -39,4 +39,4 @@ ht-degree: 3%
 4. **1つの変数を変更して再実行する**&#x200B;ことで、そのステップが何を制御しているかを正確に確認できます。
 5. **カスタマイズしたバージョンを独自の名前で保存します。**
 
-[ホタルグラフの使用](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[ホタルグラフの使用](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
