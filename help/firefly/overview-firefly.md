@@ -1,29 +1,34 @@
 ---
-title: Adobe [!DNL Firefly] の概要
+title: Adobe [!DNL Firefly]の概要
 description: Adobe [!DNL Firefly]の最新の状態を確認する
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-TQID: https://experienceleague.adobe.com/AU9Jo3DbpwkvZK1RfP3-0pD3aCCp0vBJ6o9L61pJdGI
+TQID: 'https://experienceleague.adobe.com/AU9Jo3DbpwkvZK1RfP3-0pD3aCCp0vBJ6o9L61pJdGI'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
 subfeature_v2:
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 667608382c7de46bf14136c4591c5d2384333129
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 1907
+source-wordcount: '1908'
 ht-degree: 0%
-
 ---
-
 # Adobe [!DNL Firefly]の概要
 
 Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミリーで、画像とテキスト効果の生成に重点を置いています。 Fireflyは、クリエイティブなワークフローを大幅に改善しながら、アイデア、作成、コミュニケーションを実現する新しい方法を提供します。
@@ -153,7 +158,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/overview-of-firefly" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -176,7 +181,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -199,7 +204,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを参照</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -222,7 +227,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -230,8 +235,8 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" title="商品の再利用可能なシーンの作成" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_124df1308bcacf789108a578565719a271ae5e4ac.png?width=400&format=webply&optimize=medium" alt="商品の再利用可能なシーンの作成"
+                    <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" title="商品の再利用可能なシーンを作成" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_124df1308bcacf789108a578565719a271ae5e4ac.png?width=400&format=webply&optimize=medium" alt="商品の再利用可能なシーンを作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -239,13 +244,13 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" target="_self" rel="referrer" title="商品の再利用可能なシーンの作成">商品の再利用可能なシーンの作成</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" target="_self" rel="referrer" title="商品の再利用可能なシーンを作成">商品の再利用可能なシーンの作成</a>
                     </p>
-                    <p class="is-size-6">ハンドバッグやアクセサリーなどの商品の再利用可能なシーンを作成する方法を説明します</p>
+                    <p class="is-size-6">ハンドバッグやアクセサリーなどの商品に再利用可能なシーンを作成する方法を説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -268,7 +273,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -291,7 +296,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/landing-page" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -314,7 +319,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-to-image" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -337,7 +342,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -360,7 +365,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-fill" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -383,7 +388,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-recolor" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -406,7 +411,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/examples" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを参照</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -429,7 +434,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -452,7 +457,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -475,7 +480,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -498,7 +503,7 @@ Fireflyは、Adobe製品のクリエイティブなAI生成モデルのファミ
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
-                
+                </a>
             </div>
         </div>
     </div>

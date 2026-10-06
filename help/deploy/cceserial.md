@@ -5,21 +5,26 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-TQID: https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY
+TQID: 'https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: f3adbe6f-7e4c-5fb5-874d-60c3e79c80a8
+    internal-label: Deploy
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 871
+source-wordcount: '871'
 ht-degree: 4%
-
 ---
-
 # エンタープライズ版およびAcrobat版のシリアル番号の有効期限に関するCreative Cloudについて
 
 従来、Adobeでは、エンタープライズタームライセンス契約(ETLA)のお客様に対して、アプリケーション（Creative Suite、エンタープライズ版Creative Cloud、Acrobat XI、Acrobat DCなど）にシリアル番号を発行していました。 これらのシリアル番号には有効期限があります。 有効期限を過ぎると、製品は動作しなくなります。シリアル番号の有効期限が切れる前に移行を計画することが重要です。 このページでは、エンドユーザーが引き続きAdobeのアプリケーションとサービスにアクセスできるようにするために必要な手順の概要を説明します。
@@ -42,7 +47,7 @@ ETLA契約に関連付けられたシリアル番号ライセンスは、[Adobe�
 
 ### 有効期限の確認
 
-[AdobeExpiryCheck](https://helpx.adobe.com/jp/enterprise/kb/volume-license-expiration-check.html)は、コンピューター上のAdobe製品の有効期限が既に切れているか、まもなく期限切れになるシリアル番号を使用しているかどうかをIT管理者が確認するためのコマンドラインユーティリティです。 このツールには、製品ライセンス識別子(LEID)、暗号化されたシリアル番号、有効期限などの情報が表示されます。 この[ページ](https://helpx.adobe.com/jp/enterprise/kb/volume-license-expiration-check.html)には、MacまたはWindowsコンピューターにツールをダウンロードして使用する手順が記載されています。
+[AdobeExpiryCheck](https://helpx.adobe.com/jp/enterprise/kb/volume-license-expiration-check.html)は、コンピューター上のAdobe製品の有効期限が既に切れているか、まもなく期限切れになるシリアル番号を使用しているかどうかをIT管理者が確認するためのコマンドラインユーティリティです。 製品ライセンス識別子(LEID)、暗号化シリアル番号、有効期限などが表示されます。 この[ページ](https://helpx.adobe.com/jp/enterprise/kb/volume-license-expiration-check.html)には、MacまたはWindowsコンピューターにツールをダウンロードして使用する手順が記載されています。
 
 ## シリアル番号の有効期限が切れる前と後のエンドユーザーのエクスペリエンスについて
 

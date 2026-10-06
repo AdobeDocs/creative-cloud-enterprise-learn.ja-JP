@@ -6,21 +6,26 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-TQID: https://experienceleague.adobe.com/NPmS-BMJjiAZnLUNwDLGufCEduFrXAS0-TAScXzGbL0
+TQID: 'https://experienceleague.adobe.com/NPmS-BMJjiAZnLUNwDLGufCEduFrXAS0-TAScXzGbL0'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 311
+source-wordcount: '311'
 ht-degree: 0%
-
 ---
-
 # Adobe 3DおよびVRチュートリアル
 
 高品質のモデル、マテリアル、照明を使用して、魅力的なコンテンツを3Dでより迅速に作成します。 [!DNL Dimension]を使用すると、ブランドの視覚エフェクト、イラスト、製品のモックアップ、パッケージのデザイン、その他のクリエイティブな作品を簡単に作成できます。 画像を選択して、チュートリアルを表示します。
@@ -34,7 +39,7 @@ ht-degree: 0%
     <div>
    <a href="substance-3d-stager.md"><strong>3Dデザインとレンダリング</strong></a>
     </div>
-    <em>コンテンツの読み込み、シーンの配置、マテリアルとテクスチャの適用、画像ベースの照明と物理的な照明の調整、異なる解像度でのカメラの保存、フォトリアリスティックな画像のレンダリング</em>
+    <em>コンテンツの読み込み、シーンの調整、マテリアルとテクスチャの適用、画像ベースの照明と物理的な照明の調整、異なる解像度でのカメラの保存、フォトリアリスティックな画像のレンダリング</em>
     <br>
   </td>
   <td>
@@ -76,7 +81,7 @@ ht-degree: 0%
     <div>
    <a href="mastering3dlighting.md"><strong>CGIで3Dライティングをマスターするためのヒントとテクニック</strong></a>
     </div>
-    <em>3Dライティングについて、およびコンピューターで生成されたシーンを完全に変化させたり、シーン内のオブジェクトの見え方を変化させるさまざまな光源条件を作成する方法について学習します</em>
+    <em>3Dライティングの概要と、コンピューターで生成されたシーンを完全に変化させたり、レンズの中でオブジェクトがどのように見えるかを変化させるさまざまな光源条件を作成する方法について説明します</em>
     <br>
   </td>
   <td>
@@ -96,7 +101,7 @@ ht-degree: 0%
     <div>
    <a href="3ddimensionstock.md"><strong>[!DNL Dimension]とAdobe [!DNL Stock]</strong></a>を使用して3Dモデルをカスタマイズし、ブランド化する
     </div>
-    <em>マテリアル、環境特性、照明、写真を使用して[!DNL Dimension]で3Dモデルをカスタマイズし、ブランド化して、あらゆるデザインプロジェクトでフォトリアリスティックな画像を作成します</em>
+    <em>マテリアル、環境特性、照明、写真撮影を使用して[!DNL Dimension]で3Dモデルをカスタマイズし、ブランド化して、あらゆるデザインプロジェクトでフォトリアリスティックな画像を作成します</em>
     <br>
   </td>
   <td>

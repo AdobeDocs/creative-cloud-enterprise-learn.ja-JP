@@ -1,24 +1,36 @@
 ---
-title: Fireflyグラフの概要
-description: このウェビナーでは、Fireflyの完全なビジュアルワークフローシステムであるGraphについて学習します。
+title: ホタルのグラフの概要
+description: このウェビナーでは、Fireflyの完全なビジュアルワークフローシステムグラフについて説明します
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-21970
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
-
 ---
+# ホタルのグラフの概要
 
-# Fireflyグラフの概要
-
-このウェビナーでは、チーム全体でワークフローを共有するのに役立つ、Fireflyの完全にビジュアルなワークフローシステムGraphについて説明します。 Graphを使用すると、誰でもワークフローを活用して、わずかな時間で高品質なアセットを作成できます。
+このウェビナーでは、チーム全体でワークフローを共有するのに役立つ、Fireflyの完全にビジュアルなワークフローシステムグラフについて説明します。 グラフを使用すると、誰でもわずかな時間でワークフローを活用し、高品質なアセットを作成できます。
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492623?captions=jpn&quality=12&learn=on&hidetitle=true)
 
-[Fireflyグラフの使い方](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
+[ホタルグラフの使用](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)に戻ります。
