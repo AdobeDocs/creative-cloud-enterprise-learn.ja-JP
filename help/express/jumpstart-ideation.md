@@ -33,6 +33,6 @@ ht-degree: 2%
 
 マーケティングキャンペーン用にクリエイティブコンテンツを開発する方法を説明します。 このワークフローでは、ブランドプロダクトマネージャーがAdobe Expressで新しいプロジェクトを開始し、チームがアイデア、イメージ、考えをドロップして、ブレインストーミングし、他の人と共有するためのページを作成します。 チームメンバーは、画像やアイデアをリアルタイムで同時に編集します。 各チームメンバーは、[CC Libraries](cc-libraries.md)にある既存のブランドアセットとテキストを組み合わせて使用し、アイデアを伝えます。 デザイナーは、Creative Cloudアプリでデザインされたプロトタイプをボードに追加し、新しいリビジョンを作成するときに自動的にリンクおよび更新されます。
 
-このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/express/)を使用します。
+このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/jp/express/)を使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446161?captions=jpn&quality=12&learn=on&hidetitle=true)

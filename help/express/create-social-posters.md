@@ -33,6 +33,6 @@ ht-degree: 4%
 ---
 # Fireflyを使用したソーシャルポスターの作成
 
-Adobe Expressーで、Adobe Fireflyを利用したText to Imageを使用して、ソーシャルメディアのプロモーションキャンペーンを作成する方法を説明します。 このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/express/)を使用します。
+Adobe Expressーで、Adobe Fireflyを利用したText to Imageを使用して、ソーシャルメディアのプロモーションキャンペーンを作成する方法を説明します。 このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/jp/express/)を使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430566?captions=jpn&quality=12&learn=on&hidetitle=true)
