@@ -33,6 +33,6 @@ ht-degree: 2%
 
 分散型フィールドマーケティングチームが、現地のマーケティングキャンペーン用に地域に合わせてコンテンツを簡単にカスタマイズする方法について説明します。 このワークフローでは、グローバルマーケティングチームがブランドアセットを作成し、コンテンツをAdobe Expressで[テンプレート](create-templates.md)として公開します。 フィールドマーケターは、Adobe Expressを使用してキャンペーンアセットにアクセスし、そのデザインを地域のニーズに合わせて調整します。 その後、他の地域のチームが、新しいチラシ、webバナー、その他のコンテンツ用のブランドテンプレートを使って新しいExpressプロジェクトを開始します。
 
-このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/express/)を使用します。
+このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/jp/express/)を使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433986?captions=jpn&quality=12&learn=on&hidetitle=true)

@@ -33,6 +33,6 @@ ht-degree: 3%
 
 イベントマーケティングチームがオンラインイベントの視聴者を引き付けるユニークなコンテンツを作成する方法について説明します。 このワークフローでは、B2Bマーケターは、ブランドキットとライブラリのテンプレートを使用して、Adobe Expressの新しいプロジェクトを開始します。 B2Bマーケターは、様々なソーシャルチャネルやwebチャネルのバリエーションを作成し、ソーシャルメディアやビデオホスティングプラットフォームでコンテンツを共有しています。
 
-このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/express/)を使用します。
+このチュートリアルでは、新しい[Adobe Express](https://www.adobe.com/jp/express/)を使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444980?captions=jpn&quality=12&learn=on&hidetitle=true)
