@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 91f579e542ea780ee55aaeb65eefd213f41ed1d7
+source-git-commit: 9737f2658a0d2570b9731f78d50fa7633855cf01
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '90'
 ht-degree: 0%
 ---
 # エンタープライズ版AIチュートリアルのCreative Cloud
 
-チュートリアルを検索して、アイデアを見つけ、コンテンツを作成し、Creative Cloud全体のクリエイティブワークフローを効率化しましょう。 これらのチュートリアルは、グラフィックDesigner、クリエイティブ/アートDirector、Photoshopアーティスト/レトアチャー、ビデオエディターなど、役割ごとにグループ化されています。
+Creative CloudのAIを使用して、アイデアを見つけ、コンテンツを作成し、クリエイティブワークフローを効率化するためのチュートリアルを紹介します。 これらのチュートリアルは、グラフィックDesigner、クリエイティブ/アートDirector、Photoshopアーティスト/レトアチャー、ビデオエディターのロールごとにグループ化されています。
 
 ## グラフィックDesigner
 
@@ -31,17 +31,17 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
