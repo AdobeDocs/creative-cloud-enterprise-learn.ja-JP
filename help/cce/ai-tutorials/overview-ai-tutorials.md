@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
+source-git-commit: 72601cd9612b12283c0bae7b4b21d030e8cf1d77
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 0%
 ---
 # エンタープライズ版AIチュートリアルのCreative Cloud
@@ -141,9 +141,14 @@ Creative CloudのAIを使用して、アイデアを見つけ、コンテンツ�
     <em>Premiereで拡張生成を使用する方法を学ぶ</em>
     <br>
   </td>
-  <td>
-    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="rough-cut.md">
+      <img alt="ラフカットにすばやく取り掛かる" src="../../assets/rough-cut.png" />
+   </a>
     <div>
+   <a href="rough-cut.m"><strong>すばやくラフカットに取り掛かる</strong></a>
+    </div>
+    <em>インタビューからラフカットを作成し、すべてのクリップをスクラブせずにPremiereで高速にBロールする方法を説明します</em>
     <br>
   </td>
   <td>
