@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: cf848c3ca49226d8264100a7c6143bff7b0cd38d
+source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '298'
 ht-degree: 0%
 ---
 # エンタープライズ版AIチュートリアルのCreative Cloud
@@ -105,8 +105,13 @@ Creative CloudのAIを使用して、アイデアを見つけ、コンテンツ�
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="build-presets.md">
+      <img alt="撮影全体で一貫したカラーを再現するためのプリセットの作成" src="../../assets/build-presets.png" />
+   </a>
     <div>
+   <a href="build-presets.md"><strong>撮影した写真で一定の色になるようにプリセットを作成する</strong></a>
+    </div>
+    <em>各画像を1枚ずつ編集せずに、写真全体の見た目に一貫性を持たせる方法を説明します</em>
     <br>
   </td>
   <td>
