@@ -9,7 +9,7 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 72601cd9612b12283c0bae7b4b21d030e8cf1d77
+source-git-commit: dac9b2dca8056ae4ef125af7d46624437f414114
 workflow-type: tm+mt
 source-wordcount: '976'
 ht-degree: 3%
@@ -20,16 +20,16 @@ ht-degree: 3%
 + [概要](overview.md)
 + Creative Cloud エンタープライズ版 {#cceoverview}
   + [概要](cce/overview-cce.md)
-  + {hide-from-toc}[AIチュートリアル] {#cceaitutorials}
-    + {hide-from-toc}[概要](cce/ai-tutorials/overview-ai-tutorials.md)
-    + {hide-from-toc}[平面のベクターアートを任意の角度に回転させます。再描画する必要はありません](cce/ai-tutorials/turn-flat-vector-art.md)
-    + {hide-from-toc}[数時間ではなく、数分でシームレスなベクターパターンを作成](cce/ai-tutorials/seamless-vector.md)
-    + {hide-from-toc}[昼食前の1回の簡単な説明から20個の指示](cce/ai-tutorials/one-brief.md)
-    + {hide-from-toc}[簡単な説明からストーリーボードまで：本番稼働前にビデオの指示を確認する](cce/ai-tutorials/brief-to-storyboard.md)
-    + {hide-from-toc}[高速でレタッチして元のピクセルを維持する](cce/ai-tutorials/retouch-faster.md)
-    + {hide-from-toc}[撮影した写真で一定の色になるようにプリセットを作成する](cce/ai-tutorials/build-presets.md)
-    + {hide-from-toc}[カットのギャップを埋める： Bロール、オーディオ、および終了が早すぎるクリップ](cce/ai-tutorials/fill-gaps.md)
-    + {hide-from-toc}[すばやくラフカットに取り掛かる](cce/ai-tutorials/rough-cut.md)
+  + AIチュートリアル {#cceaitutorials}
+    + [概要](cce/ai-tutorials/overview-ai-tutorials.md)
+    + [平面ベクターアートを再描画することなく、任意の角度に回転](cce/ai-tutorials/turn-flat-vector-art.md)
+    + [数時間ではなく数分でシームレスなベクターパターンを作成](cce/ai-tutorials/seamless-vector.md)
+    + [昼食前の短い時間から20個の指示](cce/ai-tutorials/one-brief.md)
+    + [概要からストーリーボードまで：本番稼働前にビデオの方向性を確認する](cce/ai-tutorials/brief-to-storyboard.md)
+    + [素早くレタッチして元のピクセルを維持](cce/ai-tutorials/retouch-faster.md)
+    + [撮影全体で一貫したカラーを再現するためのプリセットの作成](cce/ai-tutorials/build-presets.md)
+    + [カットのギャップを埋める：Bロール、オーディオ、終了が早すぎるクリップ](cce/ai-tutorials/fill-gaps.md)
+    + [ラフカットにすばやく取り掛かる](cce/ai-tutorials/rough-cut.md)
   + チュートリアル {#ccetutorials}
     + [コンテンツ作成者のAcrobat](cce/acrobat-content-creators.md)
     + [CC LibrariesによるCCワークフローの改善](cce/cc-workflows-cc-libraries.md)
@@ -120,8 +120,8 @@ ht-degree: 3%
 + [!DNL Adobe Firefly] {#fireflyoverview}
   + [概要](firefly/overview-firefly.md)
   + チュートリアル {#firefly-tutorials}
-    + [&#x200B; [!DNL Adobe Firefly]の概要](firefly/overview-of-firefly.md)
-    + [&#x200B; [!DNL Adobe Firefly]を見つける](firefly/discover.md)
+    + [ [!DNL Adobe Firefly]の概要](firefly/overview-of-firefly.md)
+    + [ [!DNL Adobe Firefly]を見つける](firefly/discover.md)
     + [クリエイティブなアイデアを加速](firefly/accelerate-ideas.md)
     + [商品の再利用可能なシーンを作成](firefly/reusable-scenes.md)
     + [カスタムモデルの作成](firefly/custom-model.md)
@@ -130,13 +130,13 @@ ht-degree: 3%
     + [テキストエフェクト](firefly/text-effects.md)
     + [ジェネレーティブフィル](firefly/gen-fill.md)
     + [生成的再配色](firefly/gen-recolor.md)
-    + [&#x200B; [!DNL Firefly]の使用例](firefly/examples.md)
+    + [ [!DNL Firefly]の使用例](firefly/examples.md)
     + [クリエイティブな効率化を実現](firefly/enable-creative-efficiency.md)
-    + [&#x200B; [!DNL Photoshop]のバナー広告のバリエーション](firefly/web-banner-ad.md)
+    + [ [!DNL Photoshop]のバナー広告のバリエーション](firefly/web-banner-ad.md)
     + [生成塗りつぶし [!DNL Photoshop]](firefly/generative-fill.md)
-    + [&#x200B; [!DNL Illustrator]での生成再配色](firefly/generative-recolor.md)
+    + [ [!DNL Illustrator]での生成再配色](firefly/generative-recolor.md)
   + Creative Productionチュートリアル {#firefly-creative-production}
-    + [&#x200B; [!DNL Adobe Firefly] クリエイティブプロダクションの概要](firefly/creative-production/overview-firefly-creative-production.md)
+    + [ [!DNL Adobe Firefly] クリエイティブプロダクションの概要](firefly/creative-production/overview-firefly-creative-production.md)
     + [背景の削除と置換](firefly/creative-production/background.md)
     + {hide-from-toc}[写真撮影前の視覚化](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[会議、マーカー、モックアップを使わずに製品のアイデアを探す](firefly/explore-product-ideas.md)
@@ -176,7 +176,7 @@ ht-degree: 3%
       + {hide-from-toc}[顔写真の生成](firefly/graph/templates/headshots-generation.md)
   + ウェビナー {#firefly-webinars}
     + [Adobe Fireflyを試す](firefly/webinar-experimenting.md)
-    + [思い切って考える：アイデアを印象的なビジュアルに一変させる](https://experienceleague.adobe.com/ja/on-demand-events/turn-ideas-into-striking-visuals)
+    + [思い切って考える：アイデアを印象的なビジュアルに一変させる](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [概要](stock/overview-stock.md)
   + チュートリアル {#stocktutorials}
@@ -210,7 +210,7 @@ ht-degree: 3%
     + [3Dデザインとレンダリング](3di/substance-3d-stager.md)
     + [CGIでの3Dライティングをマスターするためのヒントとテクニック](3di/mastering3dlighting.md)
     + [3Dレンダリングと合成を使用したフォトリアルなバーチャルフォトの作成](3di/photorealistic.md)
-    + [&#x200B; [!DNL Dimension] とAdobe [!DNL Stock]で3Dモデルをカスタマイズしてブランド化する](3di/3ddimensionstock.md)
+    + [ [!DNL Dimension] とAdobe [!DNL Stock]で3Dモデルをカスタマイズしてブランド化する](3di/3ddimensionstock.md)
 + Adobeビデオ {#videooverview}
   + [概要](dva/overview-dva.md)
   + チュートリアル {#videotutorials}
