@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: b787511cf017c97d40f0b9501ad126ff45fe69fd
+source-git-commit: b1cffc816ca06a24dce4b70f938c5ed0c8d36db0
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '193'
 ht-degree: 0%
 ---
 # エンタープライズ版AIチュートリアルのCreative Cloud
@@ -84,4 +84,37 @@ Creative CloudのAIを使用して、アイデアを見つけ、コンテンツ�
   </td>
 </tr>
 </table>
+
+## Photoshopアーティスト/レトアチャー
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="retouch-faster.md">
+      <img alt="素早くレタッチして元のピクセルを維持" src="../../assets/retouch.png" />
+   </a>
+    <div>
+   <a href="retouch-faster.md"><strong>高速でレタッチして元のピクセルを維持する</strong></a>
+    </div>
+    <em>元のピクセルを維持したまま、Photoshopで商品の写真に自然なシャドウを加える方法を説明します</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 
