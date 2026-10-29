@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
+source-git-commit: b787511cf017c97d40f0b9501ad126ff45fe69fd
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '155'
 ht-degree: 0%
 ---
 # エンタープライズ版AIチュートリアルのCreative Cloud
@@ -52,3 +52,36 @@ Creative CloudのAIを使用して、アイデアを見つけ、コンテンツ�
   </td>
 </tr>
 </table>
+
+## クリエイティブ/アートDirector
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="one-brief.md">
+      <img alt="昼食前の短い時間から20個の指示" src="../../assets/one-brief.png" />
+   </a>
+    <div>
+   <a href="one-brief.md"><strong>昼食前の1回の簡単な説明から20個の指示</strong></a>
+    </div>
+    <em>クリエイティブなタイトルを、強力な視覚的な方向性を持つ共有ボードに変換する方法を説明します</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
