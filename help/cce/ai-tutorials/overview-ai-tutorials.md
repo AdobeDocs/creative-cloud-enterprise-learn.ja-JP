@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: b1cffc816ca06a24dce4b70f938c5ed0c8d36db0
+source-git-commit: 63b6d4f6bba92207bff7cd9b981c9c10a8a3dbbf
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '234'
 ht-degree: 0%
 ---
 # エンタープライズ版AIチュートリアルのCreative Cloud
@@ -97,6 +97,38 @@ Creative CloudのAIを使用して、アイデアを見つけ、コンテンツ�
    <a href="retouch-faster.md"><strong>高速でレタッチして元のピクセルを維持する</strong></a>
     </div>
     <em>元のピクセルを維持したまま、Photoshopで商品の写真に自然なシャドウを加える方法を説明します</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## ビデオエディター
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="fill-gaps.md">
+      <img alt="カットのギャップを埋める：Bロール、オーディオ、終了が早すぎるクリップ" src="../../assets/fill-gaps.png" />
+   </a>
+    <div>
+   <a href="fill-gaps.md"><strong>カットのギャップを埋める： Bロール、オーディオ、および終了が早すぎるクリップ</strong></a>
+    </div>
+    <em>Premiereで拡張生成を使用する方法を学ぶ</em>
     <br>
   </td>
   <td>
