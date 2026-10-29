@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 9737f2658a0d2570b9731f78d50fa7633855cf01
+source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '120'
 ht-degree: 0%
 ---
 # エンタープライズ版AIチュートリアルのCreative Cloud
@@ -31,8 +31,13 @@ Creative CloudのAIを使用して、アイデアを見つけ、コンテンツ�
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="seamless-vector.md">
+      <img alt="数時間ではなく数分でシームレスなベクターパターンを作成" src="../../assets/seamless-vector.png" />
+   </a>
     <div>
+   <a href="seamless-vector.md"><strong>数時間ではなく、数分でシームレスなベクターパターンを作成</strong></a>
+    </div>
+    <em>繰り返しの端を手作業で確認することなく、Illustratorでシームレスなブランドパターンを構築する方法を説明します</em>
     <br>
   </td>
   <td>
