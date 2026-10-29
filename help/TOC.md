@@ -9,19 +9,20 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dec5f84efd42c91c97fc49e3043c09add3d78ed6
+source-git-commit: c6178a0e0fe5fd98319a3184530e7a1e62b51236
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '918'
 ht-degree: 3%
-
 ---
 
-
-# 大規模法人Tutorials向けCreative Cloud {#cce-learning-hub}
+# エンタープライズ版チュートリアルのCreative Cloud {#cce-learning-hub}
 
 + [概要](overview.md)
 + Creative Cloud エンタープライズ版 {#cceoverview}
   + [概要](cce/overview-cce.md)
+  + {hide-from-toc}[AIチュートリアル] {#cceaitutorials}
+    + {hide-from-toc}[概要](cce/ai-tutorials/overview-ai-tutorials.md)
+    + {hide-from-toc}[平面のベクターアートを任意の角度に回転させます。再描画する必要はありません](cce/ai-tutorials/turn-flat-vector-art.md)
   + チュートリアル {#ccetutorials}
     + [コンテンツ作成者のAcrobat](cce/acrobat-content-creators.md)
     + [CC LibrariesによるCCワークフローの改善](cce/cc-workflows-cc-libraries.md)
@@ -112,38 +113,38 @@ ht-degree: 3%
 + [!DNL Adobe Firefly] {#fireflyoverview}
   + [概要](firefly/overview-firefly.md)
   + チュートリアル {#firefly-tutorials}
-    + [&#x200B; [!DNL Adobe Firefly]の概要](firefly/overview-of-firefly.md)
-    + [&#x200B; [!DNL Adobe Firefly]を見つける](firefly/discover.md)
+    + [ [!DNL Adobe Firefly]の概要](firefly/overview-of-firefly.md)
+    + [ [!DNL Adobe Firefly]を見つける](firefly/discover.md)
     + [クリエイティブなアイデアを加速](firefly/accelerate-ideas.md)
-    + [商品の再利用可能なシーンの作成](firefly/reusable-scenes.md)
+    + [商品の再利用可能なシーンを作成](firefly/reusable-scenes.md)
     + [カスタムモデルの作成](firefly/custom-model.md)
     + [ランディングページ](firefly/landing-page.md)
     + [テキストを画像に](firefly/text-to-image.md)
     + [テキストエフェクト](firefly/text-effects.md)
     + [ジェネレーティブフィル](firefly/gen-fill.md)
     + [生成的再配色](firefly/gen-recolor.md)
-    + [&#x200B; [!DNL Firefly]の使用例](firefly/examples.md)
+    + [ [!DNL Firefly]の使用例](firefly/examples.md)
     + [クリエイティブな効率化を実現](firefly/enable-creative-efficiency.md)
-    + [&#x200B; [!DNL Photoshop]のバナー広告のバリエーション](firefly/web-banner-ad.md)
+    + [ [!DNL Photoshop]のバナー広告のバリエーション](firefly/web-banner-ad.md)
     + [生成塗りつぶし [!DNL Photoshop]](firefly/generative-fill.md)
-    + [&#x200B; [!DNL Illustrator]での生成再配色](firefly/generative-recolor.md)
+    + [ [!DNL Illustrator]での生成再配色](firefly/generative-recolor.md)
   + Creative Productionチュートリアル {#firefly-creative-production}
-    + [&#x200B; [!DNL Adobe Firefly] クリエイティブプロダクションの概要](firefly/creative-production/overview-firefly-creative-production.md)
+    + [ [!DNL Adobe Firefly] クリエイティブプロダクションの概要](firefly/creative-production/overview-firefly-creative-production.md)
     + [背景の削除と置換](firefly/creative-production/background.md)
     + {hide-from-toc}[写真撮影前の視覚化](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[会議、マーカー、モックアップを使わずに製品のアイデアを探す](firefly/explore-product-ideas.md)
     + {hide-from-toc}[1つの単語を共有されたクリエイティブなビジョンに変換](firefly/creative-vision.md)
     + {hide-from-toc}[カメラロールの前に整列](firefly/align-camera-roll.md)
-  + {hide-from-toc} Graphチュートリアル {#firefly-graph}
-    + {hide-from-toc}[Adobe Fireflyグラフの概要](firefly/graph/overview-firefly-graph.md)
-    + {hide-from-toc}[Fireflyグラフとは](firefly/graph/what-is-firefly-graph.md)
-    + {hide-from-toc}[Fireflyグラフのキーコンセプト](firefly/graph/key-concepts.md)
+  + {hide-from-toc}個のグラフチュートリアル {#firefly-graph}
+    + {hide-from-toc}[グラフの概要](firefly/graph/overview-firefly-graph.md)
+    + {hide-from-toc}[ホタルグラフとは](firefly/graph/what-is-firefly-graph.md)
+    + {hide-from-toc}[Firefly Graphのキーコンセプト](firefly/graph/key-concepts.md)
     + {hide-from-toc}[最初のグラフを作成する](firefly/graph/create-your-first-graph.md)
     + {hide-from-toc}[グラフを共有](firefly/graph/share-a-graph.md)
     + {hide-from-toc}[テンプレートライブラリ](firefly/graph/template-library.md)
     + {hide-from-toc}[テンプレートのカスタマイズ](firefly/graph/customize-template.md)
-    + {hide-from-toc}[Fireflyグラフウェビナーのご紹介](firefly/graph/introducing-graph.md)
-    + {hide-from-toc}個のグラフテンプレート {#graph-templates}
+    + {hide-from-toc}[ホタルグラフウェビナーのご紹介](firefly/graph/introducing-graph.md)
+    + {hide-from-toc} グラフテンプレート {#graph-templates}
       + {hide-from-toc}[はじめに – 画像を生成する](firefly/graph/templates/get-started-gen-image.md)
       + {hide-from-toc}[一貫した文字生成](firefly/graph/templates/character-gen.md)
       + {hide-from-toc}[スタイル抽出](firefly/graph/templates/style-extraction.md)
@@ -168,7 +169,7 @@ ht-degree: 3%
       + {hide-from-toc}[顔写真の生成](firefly/graph/templates/headshots-generation.md)
   + ウェビナー {#firefly-webinars}
     + [Adobe Fireflyを試す](firefly/webinar-experimenting.md)
-    + [思い切って考える：アイデアを印象的なビジュアルに一変させる](https://experienceleague.adobe.com/ja/on-demand-events/turn-ideas-into-striking-visuals)
+    + [思い切って考える：アイデアを印象的なビジュアルに一変させる](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [概要](stock/overview-stock.md)
   + チュートリアル {#stocktutorials}
@@ -202,12 +203,12 @@ ht-degree: 3%
     + [3Dデザインとレンダリング](3di/substance-3d-stager.md)
     + [CGIでの3Dライティングをマスターするためのヒントとテクニック](3di/mastering3dlighting.md)
     + [3Dレンダリングと合成を使用したフォトリアルなバーチャルフォトの作成](3di/photorealistic.md)
-    + [&#x200B; [!DNL Dimension] とAdobe [!DNL Stock]で3Dモデルをカスタマイズしてブランド化する](3di/3ddimensionstock.md)
+    + [ [!DNL Dimension] とAdobe [!DNL Stock]で3Dモデルをカスタマイズしてブランド化する](3di/3ddimensionstock.md)
 + Adobeビデオ {#videooverview}
   + [概要](dva/overview-dva.md)
   + チュートリアル {#videotutorials}
     + [プロフェッショナルなモーショングラフィックステンプレート](dva/motion-graphics-templates.md)
-    + [Frame.ioを使用したビデオレビュー](dva/video-review-frame-io.md)
+    + [フレーム.ioを使用したビデオレビュー](dva/video-review-frame-io.md)
   + クイックリファレンスガイド {#videorefguides}
     + [ビデオガイド](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
