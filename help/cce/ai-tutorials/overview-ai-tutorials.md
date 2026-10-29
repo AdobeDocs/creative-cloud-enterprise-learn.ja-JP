@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 63b6d4f6bba92207bff7cd9b981c9c10a8a3dbbf
+source-git-commit: cf848c3ca49226d8264100a7c6143bff7b0cd38d
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '266'
 ht-degree: 0%
 ---
 # エンタープライズ版AIチュートリアルのCreative Cloud
@@ -68,8 +68,13 @@ Creative CloudのAIを使用して、アイデアを見つけ、コンテンツ�
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="brief-to-storyboard.md">
+      <img alt="概要からストーリーボードまで：本番稼働前にビデオの方向性を確認する" src="../../assets/brief-to-storyboard.png" />
+   </a>
     <div>
+   <a href="brief-to-storyboard.md"><strong>簡単な説明からストーリーボードまで：本番稼働前にビデオの指示を確認する</strong></a>
+    </div>
+    <em>クリエイティブなタイトルを、強力な視覚的な方向性を持つ共有ボードに変換する方法を説明します</em>
     <br>
   </td>
   <td>
